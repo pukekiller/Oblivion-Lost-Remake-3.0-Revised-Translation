@@ -577,12 +577,12 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="tutor_radiat_jornl_now_name">
-		<text>Leaflet about radiation exposure (start here for your first session on 3/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>Leaflet about radiation exposure</text>
 	</string>
 
 
 	<string id="tutor_radiat_jornl_now_desc">
-		<text>Not all items found in the area are safe. Weapons, food, artifacts, objects, everything can be exposed to radioactive contamination.\nA thing like this, even in a backpack, can be very background. So be sure to carry a dosimeter or detector.\nWith its presence you can check if the object is infected. Just look it over in the backpack. If yes, it will beep.\nNow a little bit about radiation sickness.\nIt is possible to get radiation sickness by staying in areas of high contamination or by eating contaminated food. It is expressed as a permanent decline in health and stamina. On top of that, you get a yellowish haze in front of your eyes... The higher the contamination, the higher these negative effects.\nIt can only be fought by taking large quantities of anti-rads, vodka, and some scientists seem to cure this ailment.\nYou can keep an eye on the infection rate by getting checked out by scientists. They may have already made some sort of diagnostic device.\nStalker Toad, 05/21/2007.</text>
+		<text>Not all items found in the Zone of Alienation are safe. Weapons, food, artifacts, objects, everything can be exposed to radioactive contamination.\nAny individual object, even in a backpack, can absorb radiation if you enter an area that has heightened levels of background radiation. Be sure to carry a dosimeter or detector.\nWith a dosimeter, you can check if an object is contaminated. Just look it over in the backpack. If it's contaminated, the dosimeter will beep.\nNow, a little bit about radiation sickness.\nIt is possible to get radiation sickness by staying in areas with high levels of radioactive contamination, or by eating contaminated food. It'll manifest as a permanent decline in health and stamina. On top of that, your vision will get a yellowish haze. The worse the contamination, the higher the negative effects.\nIt can only be fought by taking large quantities of anti-rads, vodka, and some scientists seem to be able to cure this ailment.\nYou can keep an eye on the contamination rate by getting checked out by scientists. They may have already made some sort of diagnostic device.\nToad, 05/21/2007.</text>
 	</string>
 
 
@@ -594,7 +594,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="esc_dead_kolodetz_article_text">
-		<text>Messer, aren't you in the village area right now? There's a hobo from the Garbage was bringing me a package from the bar, but he disappeared somewhere in the neighborhood. Go and see what's in there, and if you find anything, bring it to me right away. We're out.</text>
+		<text>Messer, are you in the village right now? I need you to check out something for me: a hobo from the Garbage was bringing me a package from the Bar, but he disappeared somewhere around here. Look around and see if you can find him, or his package. If you find anything, bring it to me right away. (start here for your second session on 3/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
