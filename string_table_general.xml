@@ -232,12 +232,12 @@
 	</string>
 
 	<string id="pseudohuman_first_checkup_go_article_text">
-		<text>Discovered a strange mutant... It looks like a meter maid, only... more disfigured... Maybe we can find something interesting to do with this mutant. Something tells me this mutant isn't just a simple mindless goon, there's something else going on...</text>
+		<text>Discovered a strange mutant. It looks like a meter maid, only more disfigured. Maybe we can find something interesting to do with this mutant. Something tells me this mutant isn't just a simple mindless goon, there's something else going on.</text>
 	</string>
 
 
 	<string id="rat_katacombs_quest_article_text">
-		<text>We need to investigate the underground utilities beneath the Cordon. Before me, a group of stalkers had already disappeared there... You need to find some interesting thing for Toad from there and bring it to the Cordon.</text>
+		<text>We need to investigate the underground utilities beneath the Cordon. Before me, a group of stalkers had already disappeared there. You need to find some interesting thing for Toad from there and bring it to the Cordon.</text>
 	</string>
 
 
@@ -251,7 +251,7 @@
 
 
 	<string id="tips_jaba_bigcity">
-		<text>This is the road to the Big City... it's closed now, the radiation levels are too high. That's where that radio program was from... You don't want to go that way right now.</text>
+		<text>This is the road to the Big City. It's closed now, the radiation levels are too high. That's where that radio program was from. You don't want to go that way right now.</text>
 	</string>
 
 
@@ -262,19 +262,19 @@
 
 
 	<string id="radar_deac_datel_1_task_text">
-		<text>Everything seems ready for the trek north... The people from Duty should be waiting at Radar by now. My window of opportunity is from 9 p.m. to 11 p.m... I need to break into the lab and shut down the Woodpecker before time runs out. After that, in theory, the road to Pripyat will be open...</text>
+		<text>Everything seems ready for the trek north. The people from Duty should be waiting at Radar by now. My window of opportunity is from 9 PM to 11 PM.I need to break into the lab and shut down the Woodpecker before time runs out. After that, in theory, the road to Pripyat will be open.</text>
 	</string>
 
 
 	<string id="bar_dolg_propusk_taskt_text">
-		<text>Next assignment from Toad... You need to find some kind of artifact on the tower that is at the railroad bridge and bring it to him. I need to remember to use the detector... damn, the battery in it is almost drained...</text>
+		<text>Next assignment from Toad: you need to find some kind of artifact on the tower that is at the railroad bridge and bring it to him. I need to remember to use the detector... damn, the battery in it is almost drained.</text>
 	</string>
 
 
 
 
 	<string id="strelby_pms_taskt_text">
-		<text>Got the gun from Toad... it's in rough shape, but at least it's something. I have to go down the road, and then go to the underpass. There's a stalker waiting for me there, I think I'll need to take someone down with him... Or something...</text>
+		<text>Got the gun from Toad. It's in rough shape, but at least it's something. I have to go down the road, and then go to the underpass. There's a stalker waiting for me there, I think I'll need to take someone down with him, or something.</text>
 	</string>
 
 	<string id="doki_ploty_krisha_article_text">
@@ -282,7 +282,7 @@
 	</string>
 
 	<string id="komandir_kontr_article_text">
-		<text>This is serious business - I need need to rescue the commander that was leading a patrol and get him to safety. He's located at the factory where the SOS signal is coming from. I need to check my gear and first aid kits, and a grenade from Toad would be nice...</text>
+		<text>This is serious business - I need need to rescue the commander that was leading a patrol and get him to safety. He's located at the factory where the SOS signal is coming from. I need to check my gear and first aid kits, and a grenade from Toad would be nice.</text>
 	</string>
 
 	<string id="esc_find_glaz_zabiy_task_text">
@@ -291,19 +291,19 @@
 
 
 	<string id="esc_talk_dolg_garbage_task_text">
-		<text>Toad sent me a message that says a stalker going by the nickname 'Boar' knows something about Strelok... He's located at the northern checkpoint at the Garbage - the one manned by Duty. I need to talk to him, and then go back to Toad. Toad also mentioned something about an eye artifact that Boar has, he wants it for whatever reason.</text>
+		<text>Toad sent me a message that says a stalker going by the nickname 'Boar' knows something about Strelok. He's located at the northern checkpoint at the Garbage - the one manned by Duty. I need to talk to him, and then go back to Toad. Toad also mentioned something about an eye artifact that Boar has, he wants it for whatever reason.</text>
 	</string>
 
 
 
 	<string id="jababoxone_task_text">
-		<text>Damn, this sucks. Woke up in a strange place... that Toad is a very shady man. He wants me to work off what I owe him, fine. I need to pick up a crate from the bench in the merchant's bunker, and then take it to the roadblock. There's a crate containing something that Toad wants at the roadblock - the decoy crate should fool the grunts at the roadblock.</text>
+		<text>Damn, this sucks. Woke up in a strange place. That Toad is a very shady man. He wants me to work off what I owe him, fine. I need to pick up a crate from the bench in the merchant's bunker, and then take it to the roadblock. There's a crate containing something that Toad wants at the roadblock - the decoy crate should fool the grunts at the roadblock.</text>
 	</string>
 
 
 
 	<string id="esc_start_find_friend_task_text">
-		<text>This is my first serious, real outing. I need to be well prepared... It's probably not a good idea to go alone, either. I need to try and find someone at the Cordon who will agree to go to the Research Institute with me. It's worth talking to the locals, see if anyone will agree. Well, if not, I guess I take my own chances...</text>
+		<text>This is my first serious, real outing. I need to be well prepared. It's probably not a good idea to go alone, either. I need to try and find someone at the Cordon who will agree to go to the Research Institute with me. It's worth talking to the locals, see if anyone will agree. Well, if not, I guess I take my own chances.</text>
 	</string>
 
 
@@ -330,17 +330,17 @@
 	</string>
 
 	<string id="article_poymat_plot_gm_text">
-		<text>Professor gave me an assignment to catch a live Flesh specimen... how on earth am I going to do that? The hell he knows... It's probably gonna take a lot of running, Fleshes are fickle and cowardly creatures. According to these coordinates, there's a Flesh at one of the houses at Bright Beam.</text>
+		<text>Professor gave me an assignment to catch a live Flesh specimen. How on earth am I going to do this? The hell he knows. It's probably gonna take a lot of running, Fleshes are fickle and cowardly creatures. According to these coordinates, there's a Flesh at one of the houses at Bright Beam.</text>
 	</string>
 
 
 	<string id="boots_start_gruz_task_text">
-		<text>Professor said that a car with a load from the Big Land was driving to the mobile base. His radio communication with it was cut right at the entrance to the Exclusion Zone at the Cordon... I need to find the scientist and deliver the cargo to Professor. He didn't say anything about the cargo itself, but since his colleague was traveling by car, delivering the cargo on foot could be problematic...</text>
+		<text>Professor said that a car with a load from the Big Land was driving to the mobile base. His radio communication with it was cut right at the entrance to the Exclusion Zone at the Cordon. I need to find the scientist and deliver the cargo to Professor. He didn't say anything about the cargo itself, but since his colleague was traveling by car, delivering the cargo on foot could be problematic.</text>
 	</string>
 
 
 	<string id="yan_food_dat_task_text">
-		<text>The science bunker at Yantar is experiencing food supply problems. It's necessary to bring them food so I can continue to cooperate with them further. I think ten cans of food will be enough for them. It's worth talking to Toad, maybe he can sell large bulk orders of food...</text>
+		<text>The science bunker at Yantar is experiencing food supply problems. It's necessary to bring them food so I can continue to cooperate with them further. I think ten cans of food will be enough for them. It's worth talking to Toad, maybe he can sell large bulk orders of food.</text>
 	</string>
 
 
@@ -357,12 +357,12 @@
 
 
 	<string id="jghkkkjhhh">
-		<text>When I was born, the Zone already existed... It's true, the old people said that there was a time that the town they lived in was outside the Zone... But I don't remember that... There are legends that somewhere there is some Outer World or huge City... that's where the helicopters come from sometimes and the new stalkers come from... But something happened there a few years ago... Maybe the visiting stalkers know something more specific about this Outer World.</text>
+		<text>When I was born, the Zone already existed. It's true, the old people said that there was a time that the town they lived in was outside the Zone, but I don't remember that. There are legends that somewhere there is some 'Big Land' or huge city, that's where the helicopters come from sometimes and the new stalkers come from. But something happened there a few years ago. Maybe the visiting stalkers know something more specific about this 'Big Land.</text>
 	</string>
 
 
 	<string id="hfghfghgkkk">
-		<text>Strelok... he also came from the outside, they say he was an important figure in the outside world, but nobody really knows anything. There were even rumors that fanatics from the Sin Clan believed that something important depended on him... maybe he was thrice-born, too?</text>
+		<text>Strelok, he also came from the outside, they say he was an important figure in the outside world, but nobody really knows anything. There were even rumors that fanatics from the Sin Clan believed that something important depended on him. Maybe he was thrice-born, too?</text>
 	</string>
 
 
