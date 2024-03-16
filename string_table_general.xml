@@ -594,7 +594,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="esc_dead_kolodetz_article_text">
-		<text>Messer, are you in the village right now? I need you to check out something for me: a hobo from the Garbage was bringing me a package from the Bar, but he disappeared somewhere around here. Look around and see if you can find him, or his package. If you find anything, bring it to me right away. (start here for your second session on 3/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Messer, are you in the village right now? I need you to check out something for me: a hobo from the Garbage was bringing me a package from the Bar, but he disappeared somewhere around here. Look around and see if you can find him, or his package. If you find anything, bring it to me right away.</text>
 	</string>
 
 
@@ -605,7 +605,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="pda_hmir_rostok_dolina">
-		<text>Took the Mediator his container... He... Didn't want to give it back nicely. I had to... Do the wrong thing. I've dealt with it, but the container won't open... A lock with a code, man... We should... Back to our meeting place... We should have gotten the code to that thing before we took him down. If I can open it. I'll be cured.</text>
+		<text>I took Mediator's container. He didn't want to share it nicely. I had to... do the wrong thing. I've dealt with it, but the container won't open. It's locked, and only a certain code will open it. Man, I should go back to our meeting place. We should have gotten the code to that thing before we took him down. If I can open it. I'll be cured.</text>
 	</string>
 
 
@@ -613,10 +613,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="dpa_vlv_dv_name">
-		<text>Pocket personal computer. The owner of the PDA didn't bother deleting recent posts. One of the latest PDA messages from the owner of the Stalker place: ''He's moving North. Last seen at the Garbage. You follow him until he's not
-will make it to the center. Don't go to Pripyat, it's a dead end.
-subject. If he goes through town, come back -
-the military will finish him off themselves.</text>
+		<text>A PDA, or Personal Data Assistant, is a pocket-sized personal computer. The owner of this PDA didn't bother deleting their recent messages. One of the latest PDA messages is from the owner of an stalker hideout: 'He's moving North. He was last seen at the Garbage. You need to follow him and make sure he doesn't make it to the center of the Zone. Don't go to Pripyat, it's a dead end. If he goes to Pripyat, come back - the soldiers stationed there will finish him off.'</text>
 	</string>
 
 
@@ -627,13 +624,13 @@ the military will finish him off themselves.</text>
 	</string>
 
 	<string id="nine_pda_rasch_rashifrvn_article_desc">
-		<text>Subject has located passage 1 and 3, protruding into sector 28.\nTeams White, Green to Sector 26 for evacuation.\nGroups Red: in the area of the Dark Valley, in the laboratory sector the exit to the Cordon dungeons.\nGroups Blue: three samples of anomalous formations #24 were found on Cordon. In the area of the factory entrance, water tower, destroyed building in the village.\nTo all groups: The backup weapons stash is located on the Radar property, tag attached to the message. Use only when absolutely necessary.\nContact the major about the facility.</text>
+		<text>Subject has located passage 1 and 3, protruding into sector 28.\nTeams White, Green to Sector 26 for evacuation.\nGroups Red: go to the Dark Valley, and go to the laboratory sector there, and find the exit to the Cordon dungeons.\nGroups Blue reports that three samples of anomalous formations #24 were found at the Cordon. These formations were reported to be in the vicinity of the factory entrance, near the water tower, and near an destroyed building in the village.\nTo all groups: The backup weapons stash is located at the Radar, and information about it has been attached to this message. Use only when absolutely necessary.\nContact the major about the facility.</text>
 	</string>
 
 
 
 	<string id="voenstals">
-		<text>Military stalkers</text>
+		<text>Military stalkers (start here for first session on 3/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
