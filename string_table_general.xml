@@ -357,7 +357,7 @@
 
 
 	<string id="jghkkkjhhh">
-		<text>When I was born, the Zone already existed. It's true, the old people said that there was a time that the town they lived in was outside the Zone, but I don't remember that. There are legends that somewhere there is some 'Big Land' or huge city, that's where the helicopters come from sometimes and the new stalkers come from. But something happened there a few years ago. Maybe the visiting stalkers know something more specific about this 'Big Land.</text>
+		<text>When I was born, the Zone already existed. It's true, the old people said that there was a time that the town they lived in was outside the Zone, but I don't remember that. There are legends that somewhere there is some 'Big Land' or huge city, that's where the helicopters come from sometimes and the new stalkers come from. But something happened there a few years ago. Maybe the visiting stalkers know something more specific about this 'Big Land'.</text>
 	</string>
 
 
@@ -370,7 +370,7 @@
 
 
 	<string id="hgfjmasrte">
-		<text>Goplit knew something about him, we're from the same village... he always wanted to be a writer, he said he loved the fantasy genre. He's told me about heroes that always acted justly, and even if they were lonely, still defeated evil in the end... Goplit said something about the Journalist, the latter was looking for something, and Goplit bragged that he had found it... but whether he gave it to the Journalist or not, I don't know.</text>
+		<text>Goplit knew something about him, we're from the same village. He always wanted to be a writer, he said he loved the fantasy genre. He's told me about heroes that always acted justly, and even if they were lonely, still defeated evil in the end. Goplit said something about the Journalist, the latter was looking for something, and Goplit bragged that he had found it - but whether he gave it to the Journalist or not, I don't know.</text>
 	</string>
 
 
@@ -383,7 +383,7 @@
 	</string>
 
 <string id="kiillde_about_arpop_und">
-		<text>Hmmm... I'm a business man. You're looking for Strelok, aren't you? I have information about him. If you do a job for me first, I'll tell you what I know about him - pro quid pro. Also, you're right about the radiation. But, that fugitive we're looking for is hiding in the basements of the research institute... and there's no radiation there... I mean, in case you didn't know. The underground tunnels in the Garbage are connected to the MedPribor Research Institute underground, so if you go that way, you won't need the suit.. in theory. If you agree to do this, I'll give you information about the underground section of the MedPribor Institute.</text>
+		<text>Hmmm.. I'm a business man. You're looking for Strelok, aren't you? I have information about him. If you do a job for me first, I'll tell you what I know about him - pro quid pro. Also, you're right about the radiation. But, that fugitive we're looking for is hiding in the basements of the research institute - there's no radiation there... I mean, in case you didn't know. The underground tunnels in the Garbage are connected to the MedPribor Research Institute underground, so if you go that way, you won't need the suit.. in theory. If you agree to do this, I'll give you information about the underground section of the MedPribor Institute.</text>
 </string>
 
 
@@ -393,7 +393,7 @@
 
 
 <string id="dok_find_dezintegrator_article">
-		<text>Some scientist on the roof of Bar asked me if it's possible to find this artifact. He only gave me a photo of it without any description or relevant information...</text>
+		<text>Some scientist on the roof of Bar asked me if it's possible to find this artifact. He only gave me a photo of it without any description or relevant information.</text>
 </string>
 
 
@@ -408,7 +408,7 @@
 
 	<string id="pda_device_pda_majors_desc">
 		<text>Your PDA found a message for someone named Major:
-		R-138, there's a new order from our friends at command... An important one. There's a rumor that a Frankenstein stalker has been seen in the Zone. The Doctor put it together from other stalkers' body parts, literally. We can't get to the Doctor in the Swamps - the high psi activity there prevents us from reaching his home, but the Frankenstein stalker himself is still wandering around the Zone somewhere. Find him and bring him to the checkpoint. Alive, if possible. I already gave my soldiers the stalker's description. But you have a better chance of finding him. Send the number of the account - I'll pay in advance, if you agree.</text>
+		R-138, there's a new order from our friends at command. An important one. There's a rumor that a Frankenstein stalker has been seen in the Zone. The Doctor put it together from other stalkers' body parts, literally. We can't get to the Doctor in the Swamps - the high psi activity there prevents us from reaching his home, but the Frankenstein stalker himself is still wandering around the Zone somewhere. Find him and bring him to the checkpoint. Alive, if possible. I already gave my soldiers the stalker's description. But you have a better chance of finding him. Send the number of the account - I'll pay in advance, if you agree.</text>
 	</string>
 
 
@@ -429,7 +429,7 @@
 
 
 	<string id="plen_quest_now_kick_article_desc">
-		<text>... The major's got everyone on it to find him... killers...dark... The Doctor..., his masterful work... put together a few pieces... We can't let him get to the Major... you can't...</text>
+		<text>The major's using everyone he can to find him. Killers... dark... The Doctor, his masterful work... put together a few pieces... We can't let the Major find him... you can't.</text>
 	</string>
 
 
@@ -439,7 +439,7 @@
 
 
 	<string id="osved_poisk_dokumentov">
-		<text>I can help with that... Only the result won't be immediate... you'll have to make inquiries, who's been where, when, and so on... Yeah, one more thing. There are two options you can choose from.\nSo the first... if you give me two thousand roubles, I'll send you the approximate location of the document you're interested in a little while to your PDA.\nThe second option will cost you more: I'm the one who's pulling my strings  and getting you the document you need. All you have to do is come and get it from me. It will cost more... ten grand total. So, what do you need to find?</text>
+		<text>I can help with that, but the result won't be immediate. You'll have to make inquiries, asking who's been where, when.. and one more thing. There are two options you can choose from.\nSo the first... if you give me two thousand roubles, I'll send you the approximate location of the document you're interested in a little while to your PDA.\nThe second option will cost you more: I'm the one who's pulling my strings and getting you the document you need. All you have to do is come and get it from me. It will cost more ten grand total. So, what do you need to find?</text>
 	</string>
 
 
@@ -466,12 +466,12 @@
 	</string>
 
 	<string id="mertv_lead_ab_door_zakazz">
-		<text>The leader of one of the bandit groups in the Dark Valley has agreed to give the password to enter the lab. In exchange for this information, he wants an VSK-94 rifle, and five bottles of vodka. Or five jars of jelly... He also asked me to say hello to Informant at the Bar...</text>
+		<text>The leader of one of the bandit groups in the Dark Valley has agreed to give the password to enter the lab. In exchange for this information, he wants an VSK-94 rifle, and five bottles of vodka. If I can't get him five bottles of vodka, five jars will do. He also asked me to say hello to Informant at the Bar.</text>
 	</string>
 
 
 	<string id="ratlab_doki_jaba_desc">
-		<text>A large pile of papers with various records in it...\nIn order to make research work safer and more stable (after several unfortunate incidents), it was decided to administer a third kind of psi-influence to all laboratory workers, from cleaners to scientists. Everyone will be fitted with adaptable psi-blocks that will prevent anyone from disrupting operations, rioting, stealing data, and pogroms or escapes.\nMessage: ...there was a conflict between a group of scientists developing psychotropic weapons and the leaders of Project Cover-up. Scientists did not want to be exposed to the rays of the weapons they themselves were developing. Realizing that it's only a matter of time before they become victims the weapons they're working on, the scientists began to ponder the situation and came up with a plan to free themselves from danger.</text>
+		<text>A large pile of papers with various records in it.\nIn order to make research work safer and more stable (after several unfortunate incidents), it was decided to administer a third kind of psi-influence to all laboratory workers, from cleaners to scientists. Everyone will be fitted with adaptable psi-blocks that will prevent anyone from disrupting operations, rioting, stealing data, and pogroms or escapes.\nMessage: ...there was a conflict between a group of scientists developing psychotropic weapons and the leaders of Project Cover-up. Scientists did not want to be exposed to the rays of the weapons they themselves were developing. Realizing that it's only a matter of time before they become victims the weapons they're working on, the scientists began to ponder the situation and came up with a plan to free themselves from danger.</text>
 	</string>
 
 
@@ -503,9 +503,9 @@
 	<string id="doka_sterok_zametka_desc">
 		<text>The development of psychotronic weapons initiated in the USSR led to the creation of the 'OSOZNANIE' (or Common Consciousness) project in 2006, the laboratories of which are located in the Chernobyl Exclusion Zone.
 The idea of the project is to influence the information layer of Earth, the "noosphere", through which it is possible to influence any individual on the planet. A group of scientists, guided by presumably humane considerations, not excluding, however, parties with potentially malicious intentions working behind the scenes - starting developing machinery and began experiments that allows, in their opinion, to stop violence, war, crime and so on. This idealistic experiment lead to the deformation of the essence of the universe, the consequences of which lead to the birth of the Zone. Realizing the fact that something unintended is happening, but at the same time realizing that it is up to them to stop the consequences, the participants of the experiment block the passage to the Center of the Zone with psi-fields, and created a mythical Wish Granter, located under the sarcophagus of the Chernobyl Nuclear Power plant, which is actually a "Monolith" psi-installation, causing halluciogenic visions, in the form of the apparent realization of an individual's desires.
- Also, the group uses psionic energy to influence the leaders various post-Soviet states to prevent massive attacks with their armies, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus, they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc.).
+ Also, the group uses psionic energy to influence the leaders various post-Soviet states to prevent massive attacks with their armies, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus, they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc).
 People who have reached the center of the Zone and fallen under the influence of "Monolith", form either squads of zombie defenders, or wipe their memories and take them far away from the center of the Zone, or send the hardiest to eliminate undesirable people, both in the Zone and outside it. This procedure of total zombification or control is codenamed S.T.A.L.K.E.R., and operatives who are made using this method are designated as such with a tattoo.
-Strelok is one of these operatives. He realistically learned too much to be left alive, but any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate exposure to certain amounts of psionic energy has led me to the conclusion that he is still acting sensibly...</text>
+Strelok is one of these operatives. He realistically learned too much to be left alive, but any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate exposure to certain amounts of psionic energy has led me to the conclusion that he is still acting sensibly.</text>
 	</string>
 
 
@@ -539,7 +539,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="vorglaz_gig_talk1">
-		<text>When the commotion started, I accidentally got into some room, they didn't lock a damn thing in there, they must have been sure no one would get in... There's some sort of archive, I took as many folders as I could fit into my duffel bag. I don't know why, but they're prized in the Zone. The Watchdog wouldn't let us trade information... Maybe he was dealing it himself. I can't understand the content of these papers, but you can sell them for good money, which means I'll be able to eat...</text>
+		<text>When the commotion started, I accidentally got into some room, they didn't lock a damn thing in there, they must have been sure no one would get in. There's some sort of archive, I took as many folders as I could fit into my duffel bag. I don't know why, but they're prized in the Zone. The Watchdog wouldn't let us trade information. Maybe he was dealing it himself. I can't understand the content of these papers, but you can sell them for good money, which means I'll be able to eat.</text>
 	</string>
 
 
@@ -564,13 +564,13 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="barman_posr_talklong3">
-		<text>Maybe someone's trying to cover their tracks by using your name... I think Khmyr was hanging around the table where Sanya was standing... Where he is now, I don't know. He left when the trouble started. That's suspicious... I should talk to the Informant about this. Hubby was just talking to him.</text>
+		<text>Maybe someone's trying to cover their tracks by using your name. I think Khmyr was hanging around the table where Sanya was standing. Where he is now, I don't know. He left when the trouble started, which makes him suspicious. I should talk to the Informant about this. Hubby was just talking to him.</text>
 	</string>
 
 
 
 	<string id="barman_posr_talklong4">
-		<text>I've been there... Up north. Went through the Incinerator. I spent three days hiding from Monolith soldiers... in basements. Then back I went... and got caught in a blowout... I've been hit twice already... I'm all messed up... I've been told there's a clinic in the Big Land, where they treat this kind of thing, fixing your brain... Here I am.</text>
+		<text>I've been there, up north. I went through the Incinerator. I spent three days hiding from Monolith soldiers, in basements. Then back I went and got caught in a blowout. I've been hit by blowouts twice already, I'm all messed up. I've been told there's a clinic in the 'Big Land', where they treat this kind of thing, fixing your brain. Yet, here I am, I'm still alive.</text>
 	</string>
 
 
