@@ -630,12 +630,12 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="voenstals">
-		<text>Military stalkers (start here for first session on 3/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Military stalkers</text>
 	</string>
 
 
 	<string id="reload_pda_now_desc">
-		<text>Electricity supply data.\nData on the presence of a powerful source of electric power consumption directly behind the Chernobyl NPP.\nThe data has been corrupted.\nBackup code of the lower level of the energy center under Radar territory- Data corrupted </text>
+		<text>Electrical supply data.\nData about the presence of a powerful source of electric generator directly behind the Chernobyl Nuclear Power Plant.\nThe data has been corrupted.\nBackup code for the entrance to the lower level of the energy center located in the underground segment of the facility at Radar- Data corrupted </text>
 	</string>
 
 	<string id="reload_pda_now_name">
@@ -643,7 +643,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 	</string>
 
 	<string id="sl_x18_dream_name">
-		<text>Strange dream</text>
+		<text>Strange dream (start here for your second session on 3/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sl_x18_dream_text">
 		<text>I had a strange dream. The hulk of the Chernobyl plant in the semi-darkness. Everything looks peaceful. A lone man appears. I can see him from the back against the power plant. The wind is starting to blow. Suddenly a sea of rats starts scattering away from the power plant in different directions. A man standing with his back to me, shooting rats. Suddenly there's a shout: "Strelok!". The man flinches, freezes for a moment and slowly starts to turn towards me, but...the moment before I would have seen his face, I woke up...what does this dream mean? I don't know...But I think it's something I've seen before.</text>
