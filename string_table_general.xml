@@ -678,7 +678,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="ammo-ammo_psy_s">
-		<text>PsyCharge</text>
+		<text>PsiCharge</text>
 	</string>
 
 	<string id="enc_weapons1_ammo_ammo-gauss">
@@ -687,13 +687,13 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="enc_personal_card_desc">
-		<text>Personalized Access Card. Used by scientific groups.</text>
+		<text>Personalized Access Card. Often used by scientists and security personnel to control access to certain areas.</text>
 	</string>
 
 
 
 	<string id="grenade-grenade_rgd5_anom">
-		<text>Gravigranata RGD5</text>
+		<text>Gravi-enhanced RGD-5 (start here for your second session on 3/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="enc_weapons1_grenade-grenade_rgd5_anom">
