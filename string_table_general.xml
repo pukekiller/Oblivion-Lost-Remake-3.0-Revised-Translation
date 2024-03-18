@@ -693,21 +693,21 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="grenade-grenade_rgd5_anom">
-		<text>Gravi-enhanced RGD-5 (start here for your second session on 3/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Gravi-enhanced RGD-5</text>
 	</string>
 
 	<string id="enc_weapons1_grenade-grenade_rgd5_anom">
-		<text>Gravigranata RGD5. Increased damage radius, strongly throws off the bodies of enemies.</text>
+		<text>An RGD-5 grenade that has been enhanced with a Gravi artifact. It draws in enemies after it detonates, and then propels them away, making this grenade considerably more dangerous.</text>
 	</string>
 
 
 
 	<string id="grenade-grenade_f1_anom">
-		<text>Gravigranata F1</text>
+		<text>Gravi-enhanced F-1</text>
 	</string>
 
 	<string id="enc_weapons1_grenade-grenade_f1_anom">
-		<text>Gravigranata F1. Increased kill radius, attracts enemies during the explosion, bounces enemies' bodies back hard.</text>
+		<text>An F-1 grenade that has been enhanced with a Gravi artifact. It draws in enemies after it detonates, and then propels them away, making this grenade considerably more dangerous. (start here for your first session on 3/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
