@@ -646,7 +646,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 		<text>Strange dream</text>
 	</string>
 	<string id="sl_x18_dream_text">
-		<text>I had a strange dream. The hulk of the Chernobyl plant, shrouded in darkness. Everything looks peaceful. A lone man appears. I can see him from the back against the power plant. The wind is starting to blow. Suddenly, a sea of rats starts scattering away from the power plant in different directions. A man standing with his back to me, shooting rats. Suddenly there's a shout: "Strelok!". The man flinches, freezes for a moment and slowly starts to turn towards me, but I wake up the moment before I get to see his face What does this dream mean? I don't know, but I think it's something I've seen before.</text>
+		<text>I had a strange dream. The hulk of the Chernobyl plant, shrouded in darkness. Everything looks peaceful. A lone man appears. I can see him from the back against the power plant. The wind is starting to blow. Suddenly, a sea of rats starts scattering away from the power plant in different directions. A man standing with his back to me, shooting rats. Suddenly, the man in the dream shouts out "Strelok!". Then the man flinches, freezes for a moment and slowly starts to turn towards me, but I wake up the moment before I get to see his face What does this dream mean? I don't know, but I think it's something I've seen before.</text>
 	</string>
 
 	<string id="tip_use">
@@ -664,16 +664,16 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="pribor_paras_spory_name">
-		<text>Analyzer (start here for your first session on 3/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Analyzer</text>
 	</string>
 
 	<string id="pribor_paras_spory_desc">
-		<text>An air analyzer set up to analyze parasite spores. To activate, you must lay the device out near the source of the spore.</text>
+		<text>An air analyzer that's set up to analyze parasite spores. To activate this device, you must deploy it near a source of spores.</text>
 	</string>
 
 
 	<string id="tips_esc_trader_about_anomalies">
-		<text>Watch out! You're near the anomalies. Use bolts to define their boundaries.</text>
+		<text>Watch out! You're right next to the anomalies. Use your bolts to determine where they're located.</text>
 	</string>
 
 
@@ -682,7 +682,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 	</string>
 
 	<string id="enc_weapons1_ammo_ammo-gauss">
-		<text>Universal energy module for PSI weapons.</text>
+		<text>Universal energy module that's meant for psionic weapons.</text>
 	</string>
 
 
