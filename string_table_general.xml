@@ -687,7 +687,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="enc_personal_card_desc">
-		<text>Personalized Access Card. Often used by scientists and security personnel to control access to certain areas.</text>
+		<text>Personalized access card. Often used by scientists and security personnel to control access to certain areas.</text>
 	</string>
 
 
@@ -707,26 +707,26 @@ Strelok is one of these operatives. He realistically learned too much to be left
 	</string>
 
 	<string id="enc_weapons1_grenade-grenade_f1_anom">
-		<text>An F-1 grenade that has been enhanced with a Gravi artifact. It draws in enemies after it detonates, and then propels them away, making this grenade considerably more dangerous. (start here for your first session on 3/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>An F-1 grenade that has been enhanced with a Gravi artifact. It draws in enemies after it detonates, and then propels them away, making this grenade considerably more dangerous.</text>
 	</string>
 
 
 	<string id="wpn_knife_anomname">
-		<text>Gravity knife</text>
+		<text>Artifact-enhanced knife</text>
 	</string>
 
 	<string id="enc_weapons1_wpn_knife_anom">
-		<text>Strongly bounces the bodies of enemies, changing the trajectory of the flight.</text>
+		<text>When this knife stabs any anyone, or anything, it is repulsed away by the anomalous energy imbued in the knife.</text>
 	</string>
 
 
 
 	<string id="enc_personal_card_desc">
-		<text>Personalized Access Card. Used by scientific groups.</text>
+		<text>Personalized access card. Often used by scientists and security personnel to control access to certain areas.</text>
 	</string>
 
 	<string id="grenade-grenade_rgd5_anom">
-		<text>Gravigranata RGD5</text>
+		<text>Gravi-enhanced RGD-5 (start here for your second session on 3/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
