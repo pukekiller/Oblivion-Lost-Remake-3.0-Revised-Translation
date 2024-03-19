@@ -716,7 +716,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 	</string>
 
 	<string id="enc_weapons1_wpn_knife_anom">
-		<text>When this knife stabs any anyone, or anything, it is repulsed away by the anomalous energy imbued in the knife.</text>
+		<text>When this knife stabs any anyone, or anything, it's repulsed away by the anomalous energy imbued in the knife.</text>
 	</string>
 
 
@@ -733,16 +733,16 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 <string id="tip_use_take">
-		<text>Take it</text>
+		<text>Take</text>
 </string>
 
 
 <string id="tip_use_book">
-		<text>Book</text>
+		<text>Read book</text>
 </string>
 
 <string id="grafime_frpff">
-		<text>I remember everything! Give the Winds of Madness cyclicity chart to Messer. He has to go!</text>
+		<text>I remember everything! Give the Winds of Madness cyclicity chart to Messer. He has to go! (start here for your first session on 3/19/24 and don't forget to remove this reminder when you start</text>
 </string>
 
 
