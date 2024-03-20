@@ -764,7 +764,7 @@ Professor
 
 
 <string id="radbun_thats_okay">
-		<text>It's alright, come on in. We're just waiting for you...</text>
+		<text>It's alright, come on in. We're just waiting for you.</text>
 </string>
 
 <string id="scene_scientist">
@@ -772,7 +772,7 @@ Professor
 </string>
 
 <string id="tip_take">
-		<text>Take it (start here for your second session on 3/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Take (start here for your second session on 3/20/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="start_coded_article_name">
