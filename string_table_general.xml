@@ -747,14 +747,14 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 <string id="grafic_ciklichnosti_vetrov_doki_opis_name">
-		<text>Documents about "Winds of Madness", with some notes from Professor attached (Winds of Madness Cyclicity Chart) (start here for your first session on 3/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Documents about "Winds of Madness", with some notes from Professor attached (Winds of Madness Cyclicity Chart)</text>
 </string>
 
 
 <string id="grafic_ciklichnosti_vetrov_doki_opis">
-		<text>This file appears to have been attempted to be burned. Cover shows signs of sooting, page corners blackened. Those sheets with records of experiments conducted in the Zone were supplemented with the Professor's notes. On the back of some chart, a message to Messer is written in the Professor's handwriting.
+		<text>It seems that someone attempted to burn this file. There's soot on the cover, and various pages have burnt corners. There are also sheets with records of experiments conducted in the Zone with various notes from Professor attached. On the back of some chart, a message to Messer is written in the Professor's handwriting.
 \n
-"Messer, forgive me. I've devoted my whole life to science. I believed in progress and its good for humanity. I set great goals for myself, but now I see where my actions have led. I didn't want this. I am sorry you have to live in this world, but there is nothing I can do to make up for my mistakes. Go to the North - there you will find the answers to all your questions. Thanks to these papers, I was able to calculate the exact cooling time of the installation that keeps stalkers out of the Center. You can turn it off by sneaking in to the maintenance lab when it's not running at full capacity. The cooling phase begins at 9pm and lasts about two hours. But even at this time, the installation is still active, so you can't get close without psi protection.
+"Messer, forgive me. I've devoted my whole life to science. I believed in progress and its good for humanity. I set great goals for myself, but now I see where my actions have led. I didn't want this. I am sorry you have to live in this world, but there is nothing I can do to make up for my mistakes. Go to the North - there you will find the answers to all your questions. Thanks to these papers, I was able to calculate the exact amount of time it takes for the installation that keeps stalkers out of the center of the Zone to cool down. You can turn off the installation by sneaking in to the maintenance lab when it's not running at full capacity. The cooling phase begins at 9 PM and lasts about two hours. But even at this time, the installation is still active, so you can't get close without psi protection.
 \n
 I hope I was able to help you in some way. Please don't blame me for what I did. But now I can't rest easy seeing the "marvelous new" world I had a hand in. Go North, Messer. You need to go."
 \n
@@ -772,7 +772,7 @@ Professor
 </string>
 
 <string id="tip_take">
-		<text>Take it</text>
+		<text>Take it (start here for your second session on 3/20/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="start_coded_article_name">
