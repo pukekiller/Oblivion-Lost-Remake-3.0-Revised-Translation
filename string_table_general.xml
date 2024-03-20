@@ -772,7 +772,7 @@ Professor
 </string>
 
 <string id="tip_take">
-		<text>Take (start here for your second session on 3/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Take</text>
 </string>
 
 <string id="start_coded_article_name">
@@ -780,7 +780,7 @@ Professor
 </string>
 
 <string id="start_coded_article_desc">
-		<text>[Huge amount of information not readily available. It is a mishmash of code that, until then, perhaps someone will be able to decipher...]</text>
+		<text>[A huge amount of information is not readily available. It appears to be a mishmash of code that's impossible to understand until someone deciphers it.]</text>
 </string>
 
 <string id="on_lab_swithc_dok_1">
@@ -788,15 +788,15 @@ Professor
 </string>
 
 <string id="on_lab_swithc_dok_2">
-		<text>Shut down life support system 2.</text>
+		<text>Shut down life support system #2</text>
 </string>
 
 <string id="on_lab_swithc_dok_3">
-		<text>Shut down life support system three.</text>
+		<text>Shut down life support system #3</text>
 </string>
 
 <string id="on_lab_swithc_dok_4">
-		<text>Shut down life support system four.</text>
+		<text>Shut down life support system #4 (start here for your first session on 3/20/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="oned_lab_swithc_dok_1">
