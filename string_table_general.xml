@@ -812,11 +812,11 @@ Professor
 </string>
 
 <string id="oned_lab_swithc_dok_4">
-		<text>Life support system #4 is offline (start here for your second session on 3/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Life support system #4 is offline</text>
 </string>
 
 <string id="on_lab_swithc_dok_fin">
-		<text>Disconnect the power supply to the plant</text>
+		<text>Disconnect the power supplied by the power plant</text>
 </string>
 
 <string id="oned_lab_swithc_dok_fin">
@@ -828,7 +828,7 @@ Professor
 </string>
 
 <string id="tip_use_greh_save">
-		<text>Open the safe</text>
+		<text>Open the safe (start here for your first session on 3/21/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="oned_lab_swithc_dol_hall">
