@@ -796,23 +796,23 @@ Professor
 </string>
 
 <string id="on_lab_swithc_dok_4">
-		<text>Shut down life support system #4 (start here for your first session on 3/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Shut down life support system #4</text>
 </string>
 
 <string id="oned_lab_swithc_dok_1">
-		<text>Life support system one is offline</text>
+		<text>Life support system #1 is offline</text>
 </string>
 
 <string id="oned_lab_swithc_dok_2">
-		<text>Life support system two is offline</text>
+		<text>Life support system #2 is offline</text>
 </string>
 
 <string id="oned_lab_swithc_dok_3">
-		<text>Life support system three is down</text>
+		<text>Life support system #3 is offline</text>
 </string>
 
 <string id="oned_lab_swithc_dok_4">
-		<text>Life support system four is offline</text>
+		<text>Life support system #4 is offline (start here for your second session on 3/21/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="on_lab_swithc_dok_fin">
