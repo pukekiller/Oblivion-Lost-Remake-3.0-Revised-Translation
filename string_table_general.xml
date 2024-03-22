@@ -836,11 +836,11 @@ Professor
 </string>
 
 <string id="st_attach_silencer_to_1">
-		<text>attach the silencer to the pistol</text>
+		<text>attach silencer to pistol</text>
 </string>
 
 <string id="st_attach_silencer_to_2">
-		<text>attach the silencer to the rifle</text>
+		<text>attach silencer to rifle</text>
 </string>
 
 <string id="vetri_bezumia_doki_name">
@@ -2768,12 +2768,12 @@ Big Land? Then where do stalkers come from, and where is this broadcast coming f
 
 
     <string id="st_attach_gl_to_2">
-		<text>attach grenade launcher</text>
+		<text>attach grenade launcher to rifle</text>
 	</string>
 
 
    <string id="st_attach_scope_to_2">
-		<text>attach scope</text>
+		<text>attach scope to rifle</text>
 	</string>
 
       <string id="kb_car_open_door">
