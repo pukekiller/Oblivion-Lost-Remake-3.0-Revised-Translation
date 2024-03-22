@@ -752,7 +752,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 <string id="grafic_ciklichnosti_vetrov_doki_opis">
-		<text>It seems that someone attempted to burn this file. There's soot on the cover, and various pages have burnt corners. There are also sheets with records of experiments conducted in the Zone with various notes from Professor attached. On the back of some chart, a message to Messer is written in the Professor's handwriting.
+		<text>It seems that someone attempted to burn this file. There's soot on the cover, and various pages have burnt corners. There are also sheets detailing records of experiments conducted in the Zone with various notes from Professor attached. On the back of some chart, a message to Messer is written in the Professor's handwriting.
 \n
 "Messer, forgive me. I've devoted my whole life to science. I believed in progress and its good for humanity. I set great goals for myself, but now I see where my actions have led. I didn't want this. I am sorry you have to live in this world, but there is nothing I can do to make up for my mistakes. Go to the North - there you will find the answers to all your questions. Thanks to these papers, I was able to calculate the exact amount of time it takes for the installation that keeps stalkers out of the center of the Zone to cool down. You can turn off the installation by sneaking in to the maintenance lab when it's not running at full capacity. The cooling phase begins at 9 PM and lasts about two hours. But even at this time, the installation is still active, so you can't get close without psi protection.
 \n
@@ -844,14 +844,13 @@ Professor
 </string>
 
 <string id="vetri_bezumia_doki_name">
-		<text>'Winds of Madness' Document (start here for your second session on 3/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>'Winds of Madness' Document</text>
 </string>
 
 <string id="vetri_bezumia_doki_opis">
-		<text>
-This file appears to have been attempted to be burned. Cover shows signs of sooting, page corners blackened. The folder contains ten sheets of notes on experiments being conducted in the Zone. If Sin's leader locked it in the safe, there was a reason. Also in the folder is a draft of a letter whose recipient is V.M. Chubko.
+		<text>It seems that someone attempted to burn this file. There's soot on the cover, and various pages have burnt corners. There are also sheets detailing records of experiments conducted in the Zone. If Sin's leader locked this file in a safe, there was a reason. Also in the folder is a draft of a letter whose recipient is V.M. Chubko. It says:
 \n
-"Just got back from testing the Kaymanov rig. Not only were the drugs not distributed to everyone, but the biological material is walking around the building unguarded. There's a clear lack of safety in plain sight. Installing it is no good at all. Total cost of equipment and cooling system. I'm already studying their blueprints (don't ask me how I got them, you won't believe me anyway). I'll send them to you with the letter so you can see for yourself. This installation requires a nuclear power plant nearby, so you can forget about any mobility. And if its lockup overheats, the whole rig will get out of control and start messing with everyone's brains indiscriminately. Want to normally secure the Center Lab from foreign elements, use ours.
+"Just got back from testing the Kaymanov rig. Not only were the drugs not distributed to everyone, but the biological material is walking around the building unguarded. There's a clear lack of safety in plain sight. Installing it is no good at all. Also, I've been tallying up the total cost and needs of the equipment and cooling system. I'm already studying their blueprints (don't ask me how I got them, you won't believe me anyway). I'll send them to you with the letter so you can see for yourself. This installation requires a nuclear power plant nearby, so you can forget about any mobility. And if its lockup overheats, the whole rig will get out of control and start messing with everyone's brains indiscriminately. If you want to normally secure the Center Lab from foreign elements, use ours.
 \n
 However, the choice is yours. If you want to have a problematic transmitter at your side, have it, Vladimir Mikhailovich. But I'm not responsible for the consequences. Next time I will send a formal complaint to the Panel for consideration."
 \n
@@ -860,11 +859,11 @@ Prikhodko P.S.
 </string>
 
 <string id="tip_take_art">
-		<text>Get the artifact</text>
+		<text>Take the artifact</text>
 </string>
 
 <string id="off_swamp_rubilnik1">
-		<text>The swamp installation is disabled</text>
+		<text>The swamp installation is disabled (start here for your first session on 3/22/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="off_swamp_rubilnik">
