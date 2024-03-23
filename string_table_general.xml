@@ -887,7 +887,7 @@ Prikhodko P.S.
 
 
 <string id="enc_equipment_planshet">
-		<text>A tablet with a hand-drawn map of the area.</text>
+		<text>A tablet with a hand-drawn map of the Zone.</text>
 </string>
 <string id="planshet_name">
 		<text>Hand-drawn map of the Zone (start here for your second session on 3/23/24 and don't forget to remove this reminder when you start)</text>
@@ -901,11 +901,11 @@ Prikhodko P.S.
 	</string>
 
 	<string id="simple_anomsinfo_article_text">
-		<text>Anomalies are small areas of the Zone in which the physical laws familiar to humans have been seriously altered. Anomalies produce artifacts - various kinds of items with unique properties that stalkers hunt for. Anomalies, along with mutants, are a key feature that distinguishes the Zone from the rest of the surface of planet Earth. Features:\n- spawn artifacts when monsters die in them\n- can be deactivated when spawning an artifact\n- can be deactivated by some equipment\n- deactivated anomalies are reactivated after emission of anomalies.</text>
+		<text>Anomalies are small areas of the Zone in which the laws of physics that are familiar to everyone no longer apply. Anomalies produce artifacts - various kinds of items with unique properties that stalkers hunt for. Anomalies, along with mutants, are a key feature that distinguishes the Zone from the rest of the surface of planet Earth. Features:\n- spawn artifacts when monsters die in them\n- can be deactivated when spawning an artifact\n- can be deactivated by some equipment\n- deactivated anomalies are reactivated after emission of anomalies.</text>
 	</string>
 
 	<string id="simple_artsinfo_article_tx">
-		<text>Basic information about artifacts</text>
+		<text>Basic information about artifacts (start here for your first session on 3/23/24 and don't forget to remove this reminder when you start</text>
 	</string>
 
 	<string id="simple_artsinfo_article_text">
