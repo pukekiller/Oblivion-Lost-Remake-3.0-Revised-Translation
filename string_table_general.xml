@@ -863,7 +863,7 @@ Prikhodko P.S.
 </string>
 
 <string id="off_swamp_rubilnik1">
-		<text>The swamp installation is disabled (start here for your first session on 3/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>The swamp installation is disabled</text>
 </string>
 
 <string id="off_swamp_rubilnik">
@@ -872,12 +872,12 @@ Prikhodko P.S.
 
 
 <string id="on_lab_swithc_dol">
-		<text>Turn on the emergency lighting of the complex</text>
+		<text>Turn on the complex's emergency lighting</text>
 </string>
 
 
 <string id="oned_lab_swithc_dol">
-		<text>The emergency lighting of the complex is on</text>
+		<text>The complex's emergency lighting is on</text>
 </string>
 
 
@@ -887,10 +887,10 @@ Prikhodko P.S.
 
 
 <string id="enc_equipment_planshet">
-		<text>A tablet with a hand drawn map of the area.</text>
+		<text>A tablet with a hand-drawn map of the area.</text>
 </string>
 <string id="planshet_name">
-		<text>Manual zone map</text>
+		<text>Hand-drawn map (start here for your second session on 3/23/24 and don't forget to remove this reminder when you start)</text>
 </string>
 <string id="planshet_short_name">
 		<text>Tablet</text>
