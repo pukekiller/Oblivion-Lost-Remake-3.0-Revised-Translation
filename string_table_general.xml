@@ -890,7 +890,7 @@ Prikhodko P.S.
 		<text>A tablet with a hand-drawn map of the Zone.</text>
 </string>
 <string id="planshet_name">
-		<text>Hand-drawn map of the Zone (start here for your second session on 3/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hand-drawn map of the Zone</text>
 </string>
 <string id="planshet_short_name">
 		<text>Tablet with map</text>
@@ -905,11 +905,11 @@ Prikhodko P.S.
 	</string>
 
 	<string id="simple_artsinfo_article_tx">
-		<text>Basic information about artifacts (start here for your first session on 3/23/24 and don't forget to remove this reminder when you start</text>
+		<text>Basic information about artifacts</text>
 	</string>
 
 	<string id="simple_artsinfo_article_text">
-		<text>Features:\n- to get full known properties you need a description of the sample in PDA\n- may have different price and weight depending on the sample\n- may change properties after a blowout\n- lose their properties when used\n- fully discharged artifact loses its properties</text>
+		<text>Features:\n- to get all of the information about the properties of an artifact, you need a information about the relevant artifact downloaded to your PDA\n- certain artifacts may have different prices and weight, depending on the sample\n- the properties of an artifact may change after a blowout\n- artifacts lose their properties when used\n- a fully discharged artifact loses its properties</text>
 	</string>
 
 	<string id="simple_mutantsinfo_article_tx">
@@ -917,7 +917,7 @@ Prikhodko P.S.
 	</string>
 
 	<string id="simple_mutantsinfo_article_text">
-		<text>Features:\n- some individuals are afraid of fire and psi sources\n- some individuals such as rats and crows are edible (they can also be specially cooked on a campfire)\n- some individuals have certain tissue samples that may be of interest to traders and scientists (need mutant information in PDA)</text>
+		<text>Features:\n- some mutants are afraid of fire and psionic energy\n- some non-mutated animals, such as rats and crows are edible (they can also be specially cooked on a campfire)\n- some mutants have certain tissue samples that may be of interest to traders and scientists (you'll need relevant information about what kind of sample to collect downloaded to your PDA)(start here for your second session on 3/24/24 and don't forget to remove this reminder when you start</text>
 	</string>
 
 
