@@ -940,7 +940,7 @@ Prikhodko P.S.
 
 
 <string id="quest_table_main_text">
-		<text>Bulletin board (start here for your second session on 3/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Bulletin board</text>
 </string>
 
 
@@ -950,7 +950,7 @@ Prikhodko P.S.
 
 
 <string id="car_info_desc1">
-		<text>Start it up - Z. Controls: WASD. Shifting gears - LCtrl,LShift.</text>
+		<text>Starting/turning off the engine - Z. Controls: WASD. Shifting gears - LCtrl, LShift.</text>
 </string>
 
 
@@ -962,7 +962,7 @@ Prikhodko P.S.
 
 
 <string id="car_info_desc3">
-		<text>You need gasoline, battery.</text>
+		<text>You need some gasoline and an battery. (start here for your first session on 3/25/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 
