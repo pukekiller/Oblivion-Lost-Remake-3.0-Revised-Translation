@@ -1062,11 +1062,11 @@ Roadblock
 </string>
 
 <string id="greh_leader_key_desc">
-		<text>The key to Sin's safe. (start here for your second session on 3/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>The key to Sin's safe.</text>
 </string>
 
 <string id="goplit_pda_dolina_name">
-		<text>Goplit's PDA</text>
+		<text>Goplit's PDA (start here for your second session on 3/28/24 and don't forget to remove this reminder when you start)</text>
 </string>
 <string id="enc_goplit_pda_dolina">
 		<text>The personal PDA of a stalker nicknamed Goplit. Access is password-protected. Maybe one of the scientists can crack it.</text>
