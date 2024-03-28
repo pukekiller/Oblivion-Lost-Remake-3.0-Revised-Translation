@@ -1066,13 +1066,13 @@ Roadblock
 </string>
 
 <string id="goplit_pda_dolina_name">
-		<text>Goplit's PDA (start here for your second session on 3/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Goplit's PDA</text>
 </string>
 <string id="enc_goplit_pda_dolina">
-		<text>The personal PDA of a stalker nicknamed Goplit. Access is password-protected. Maybe one of the scientists can crack it.</text>
+		<text>The personal PDA of a stalker nicknamed Goplit. Its password-protected, so you can't access its contents. Maybe one of the scientists can crack it.</text>
 </string>
 <string id="enc_goplit_pda_dolina_hacked">
-		<text>...I didn't have time to do a write-up the day before yesterday. I came across the Journalist in the swamp nearby. I had to carry him back to his nest and help him to his feet. The Zuda I was saving for Toad had to be wasted. It's alright, it's not a pity about the Journalist. He said he was running away from someone, but when asked who exactly was chasing him, he preferred to keep silent. Bid him farewell today - he's scooted off somewhere up north. Where exactly and why - I don't know, but apparently he is going to meet his informants there. Before he left, he asked me if I had visited the archives of the local research institute. He was interested in some papers related to the delivery of equipment to the laboratory on Radar's territory. I'll be in the neighborhood to check it out. In case I find anything, I'll tell the Journalist when I meet him.</text>
+		<text>I didn't have time to do a write-up the day before yesterday. I came across Journalist in the swamp nearby. I had to carry him back to his nest and help him get back up on his feet. The Zuda I was saving for Toad had to be wasted. It's alright, it was worth using it to save Journalist. He said he was running away from someone, but when I asked who exactly was chasing him, he preferred to keep silent. Bid him farewell today - he's scooted off somewhere up north. Where exactly and why - I don't know, but apparently he is going to meet his informants there. Before he left, he asked me if I had visited the archives of the local research institute. He was interested in some papers related to the delivery of equipment to the laboratory at Radar. I'll be in the neighborhood to check it out. In case I find anything, I'll tell Journalist when I meet him.</text>
 </string>
 
 <string id="tip_use_spat_hata">
@@ -1080,7 +1080,7 @@ Roadblock
 </string>
 
 <string id="enc_rat_food_coocked">
-		<text>Fire-cooked rat. Much more nutritious than raw. Plus, the heat treatment killed all viruses and parasites.</text>
+		<text>A rat that's been cooked with fire. Its much more nutritious than a uncooked rat, and the heat from the fire has sterilized it, making it safe to eat. (start here for your first session on 3/28/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="enc_crow_food_coocked">
