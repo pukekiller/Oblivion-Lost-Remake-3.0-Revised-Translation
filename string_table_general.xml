@@ -1080,15 +1080,15 @@ Roadblock
 </string>
 
 <string id="enc_rat_food_coocked">
-		<text>A rat that's been cooked with fire. Its much more nutritious than a uncooked rat, and the heat from the fire has sterilized it, making it safe to eat. (start here for your first session on 3/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>A rat that's been cooked with fire. Its much more nutritious than a uncooked rat, and the heat from the fire has sterilized it, making it safe to eat.</text>
 </string>
 
 <string id="enc_crow_food_coocked">
-		<text>Fire-cooked crow. Much more nutritious than raw. Plus, the heat treatment killed all viruses and parasites.</text>
+		<text>A crow that's been cooked with fire. Its much more nutritious than a uncooked crow, and the heat from the fire has sterilized it, making it safe to eat.</text>
 </string>
 
 <string id="korobok_spichek_desc">
-		<text>A box of matches. You can use it to start a fire. A campfire can be used to keep warm at night or in the rain, cook some food, and scare off hostile monsters.</text>
+		<text>A box of matches. You can use these to start a fire. A campfire can be used to keep warm at night or in the rain, cook food, and scare off hostile monsters. (start here for your second session on 3/29/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="gen_dnev_doki_opis">
