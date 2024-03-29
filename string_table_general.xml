@@ -1088,13 +1088,12 @@ Roadblock
 </string>
 
 <string id="korobok_spichek_desc">
-		<text>A box of matches. You can use these to start a fire. A campfire can be used to keep warm at night or in the rain, cook food, and scare off hostile monsters. (start here for your second session on 3/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>A box of matches. You can use these to start a fire. A campfire can be used to keep warm at night or in the rain, cook food, and scare off hostile monsters.</text>
 </string>
 
 <string id="gen_dnev_doki_opis">
 		<text>...the Common Consciousness experiments were a success. The linkage of the five prisoners yielded positive results. "Common Consciousness" or 
-"C-consciousness" had slightly less power than five times human intelligence. "C-consciousness" awakened, showing frantic neuron activity and almost five times (compared to the human brain) the speed of information processing. The criminals' previously erased memory was being filled in again...[no data]...the precautions were insufficient. The researchers were not prepared for this kind of eventuality. Contact with one of the group's sedated bodies 
-"C-consciousness," two technicians and a nurse on the maintenance staff came under control. Next, the entire research block where the experiment was being conducted came under control with incredible speed. Instantly reacting, the experiment managers completely isolated the entire unit from the outside world. Deadly gas was pumped through the ventilation shafts. 28 controlled bodies were thrashing around in convulsions while C-consciousness tried unsuccessfully to find an escape route. It was calculating escape options, scanning the bodies memory. They began to perish, but C-consciousness had already discovered one-way windows through which a group of scientists were observing the effects of the experiment. With the help of strong telepathic influence, the group was brought under control and the C-consciousness could hold nothing back anymore. The staff of the underground complex was taken under control, the power of C-consciousness increased manifold. About 500 people are connected to the C-consciousness...</text>
+"C-consciousness" had slightly mental power than five times human intelligence. "C-consciousness" awakened, showing frantic neuron activity and almost five times (compared to the human brain) the speed of information processing. The criminals' previously erased memory was being filled in again...[no data]...the precautions were insufficient. The researchers were not prepared for this kind of eventuality. Unintended contact with one of the group's sedated bodies part of the "C-consciousness" project was made; two technicians and a nurse on the maintenance staff came under control of the five minds linked to C-consciousness. Next, the entire research block where the experiment was being conducted came under control with incredible speed. Reacting quickly, the experiment managers completely isolated the entire unit from the outside world. Deadly gas was pumped through the ventilation shafts. 28 controlled bodies were thrashing around in convulsions while C-consciousness tried unsuccessfully to find an escape route. It was calculating escape options, scanning the bodies memory. They began to perish, but C-consciousness had already discovered one-way windows through which a group of scientists were observing the effects of the experiment. With the help of strong telepathic influence, the group was brought under control and the C-consciousness was held back by nothing. The staff of the underground complex was taken under control, the power of C-consciousness increased manifold. About 500 people are connected to C-consciousness..</text>
 </string>
 
 <string id="gen_dnev_doki_name">
@@ -1106,11 +1105,11 @@ Roadblock
 </string>
 
 <string id="enc_psy_stabilizator">
-		<text>Relieve the effects of various kinds of psi radiation. It surpasses other benzodiazepine and abenzodiazepine tranquilizers by the strength of tranquilizing and anxiolytic (anti-anxiety) action; it also has a pronounced anticonvulsant, myorelaxant (muscle relaxant) and sedative effect.</text>
+		<text>This drug relieves the effects of various kinds of psionic radiation. It surpasses other benzodiazepine and abenzodiazepine tranquilizers in terms of how strong it is; it has a very strong anxiolytic (anti-anxiety) and tranquilizing effect; it also has a pronounced anticonvulsant, myorelaxant (muscle relaxant) and sedative effect.</text>
 </string>
 
 <string id="psy_stabilizator_name">
-		<text>Psi stabilizers NEURO-A</text>
+		<text>NEURO-A psionic stabilizer (start here for your first session on 3/29/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="enc_anti_beshenstvo_dog_caps">
