@@ -1109,15 +1109,15 @@ Roadblock
 </string>
 
 <string id="psy_stabilizator_name">
-		<text>NEURO-A psionic stabilizer (start here for your first session on 3/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>NEURO-A psionic stabilizer</text>
 </string>
 
 <string id="enc_anti_beshenstvo_dog_caps">
-		<text>Help cure the effects of a bite from an infected dog.</text>
+		<text>A pill blister pack with a single dose of Chloroquine in it. Chloroquine gives protection against rabies. Most dogs in the Zone are infected with rabies, and will spread it if they attack anyone.</text>
 </string>
 
 <string id="anti_beshenstvo_dog_caps_name">
-		<text>Rabies pills</text>
+		<text>Chloroquine</text>
 </string>
 
 <string id="onn_rat_avar_rub_on">
@@ -1129,7 +1129,7 @@ Roadblock
 </string>
 
 <string id="enc_exo_acum_ob">
-		<text>Servo power cell for the exoskeleton. To work, it is necessary to hang from the belt of the costume.</text>
+		<text>This servo power cell is meant for exoskeletons. In order to supply an exoskeleton with power, you must attach this power cell to your belt. (start here for your second session on 3/30/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="stalker_outfit_description_outfit_stalker_golmar">
