@@ -1133,7 +1133,7 @@ Roadblock
 </string>
 
 <string id="stalker_outfit_description_outfit_stalker_golmar">
-		<text>This suit was made by the stalker who gives by the name 'Golmar'. It has various particles from artifacts embedded in its fabric, giving it useful anomalous properties. Pieces from an gravity artifact have been sewn into this suit's flaps, allowing its user to hover slightly above the ground, increasing height its user can jump, and potentially softening the impact from long falls. This suit also increases its user's carrying capacity by an additional 20 kilograms. (start here for your second session on 3/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>This suit was made by the stalker who gives by the name 'Golmar'. It has various particles from artifacts embedded in its fabric, giving it useful anomalous properties. Pieces from an gravity artifact have been sewn into this suit's flaps, allowing its user to hover slightly above the ground, increasing height its user can jump, and potentially softening the impact from long falls. This suit also increases its user's carrying capacity by an additional 20 kilograms.</text>
 </string>
 
 <string id="stalker_outfit_name_outfit_stalker_golmar">
@@ -1157,11 +1157,11 @@ Roadblock
 </string>
 
 <string id="golmar_combez_article_text">
-		<text>The repairman in Bar offers to exchange the unique stalker suit named Golmar for the following items:\nKiller suit\nScientific suit EX-04\nP90 submachine gun\nFive bottles of vodka.\nOr ten thousand rubles.</text>
+		<text>The repairman at the Bar will exchange a suit that belonged to a stalker named Golmar for the following items:\nKiller suit\nEX-04 Scientific suit\nP90 submachine gun\nFive bottles of vodka.\nTen thousand rubles.</text>
 </string>
 
 <string id="golmar_combez_article_tx">
-		<text>Golmar's suit.</text>
+		<text>Golmar's suit. (start here for your first session on 3/31/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="mg_zombie_dnevnik_dead_opis">
