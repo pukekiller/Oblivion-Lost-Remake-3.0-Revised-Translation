@@ -1180,7 +1180,7 @@ Roadblock
 </string>
 
 <string id="mg_door_closed_rub">
-		<text>Door's locked, looks like an electronic lock. A little give but it won't open. Looks like there were zombies in here.</text>
+		<text>This door is locked, and it looks like its held shut an electronic lock. It'll move a little, but it won't open. It also looks like there were zombies in here.</text>
 </string>
 
 <string id="pribor_primanka_name">
