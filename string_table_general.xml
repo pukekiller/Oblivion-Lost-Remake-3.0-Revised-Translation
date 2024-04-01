@@ -291,7 +291,7 @@
 
 
 	<string id="esc_talk_dolg_garbage_task_text">
-		<text>Toad sent me a message that says a stalker going by the nickname 'Boar' knows something about Strelok. He's located at the northern checkpoint at the Garbage - the one manned by Duty. I need to talk to him, and then go back to Toad. Toad also mentioned something about an eye artifact that Boar has, he wants it for whatever reason.</text>
+		<text>Toad sent me a message that says a stalker going by the nickname 'Boar' knows something about Gunslinger. He's located at the northern checkpoint at the Garbage - the one manned by Duty. I need to talk to him, and then go back to Toad. Toad also mentioned something about an eye artifact that Boar has, he wants it for whatever reason.</text>
 	</string>
 
 
@@ -935,7 +935,7 @@ Prikhodko P.S.
 
 
 <string id="enc_zombied_pda_dezintegr">
-		<text>The PDA battery is almost dead. I think this is the last note I'm going to make. I don't know how long I've exactly been here, but I think it's possible to get out, because you can hear sounds from the other side. It's like being behind a wall. There's a lot of people walking around. I've been yelling, but no one seems to have heard me yet. I think I'm gonna make it out. I heard the one from the death truck slipping me something, he's the reason I'm here. It's okay, when I get out of here, I'll tell everyone what he is. And the General.. they thought I don't know. The main thing is to get out before I run out of food and water. I'll tell everyone. Strelok said, s...</text>
+		<text>The PDA battery is almost dead. I think this is the last note I'm going to make. I don't know how long I've exactly been here, but I think it's possible to get out, because you can hear sounds from the other side. It's like being behind a wall. There's a lot of people walking around. I've been yelling, but no one seems to have heard me yet. I think I'm gonna make it out. I heard the one from the death truck slipping me something, he's the reason I'm here. It's okay, when I get out of here, I'll tell everyone what he is. And the General.. they thought I don't know. The main thing is to get out before I run out of food and water. I'll tell everyone. Gunslinger said, s...</text>
 </string>
 
 
@@ -1282,7 +1282,7 @@ I blowout it into the void so it won't get in the way..."</text>
 </string>
 
 <string id="jurnalist_ab_monolit_sk">
-		<text> There is no Monolith. Doesn't exist and never has existed, Strelok. And you're the one who told me that
+		<text> There is no Monolith. Doesn't exist and never has existed, Gunslinger. And you're the one who told me that
 when we were on the outskirts of Radar. Obviously, the Monolith is just another psychotropic facility that was built as a last layer of defense. Defense from who and from what, you ask? From stalkers, of course. But who organized the defense is already
 a mystery. You knew it, but you didn't have time to tell me. What is true about the rumors
 of wish fulfillment, it's very hard to say. Someone may have gotten
@@ -1294,12 +1294,12 @@ I don't know what went wrong then. Maybe the Monolith isn't the last line of def
 there's another one and we didn't know about it? You know, uh. I believe there is another set up.
 There, behind the power plant. But where exactly is a mystery. It's also a mystery where the location from where
 the installation can be deactivated. In the meantime, I'm gonna try to get in touch with someone I know.
-I trust him completely to help me figure this out. You, Strelok, can
+I trust him completely to help me figure this out. You, Gunslinger, can
 to try to get into the Center of the Zone again. If I hear anything, I'll contact you.</text>
 </string>
 
 <string id="jurnalist_ab_chsto_privelo_v_zonu_sk">
-		<text>You should know, Strelok, how many times I've told you this... I worked in a settlement in the CEZ before the Second Disaster happened.
+		<text>You should know, Gunslinger, how many times I've told you this... I worked in a settlement in the CEZ before the Second Disaster happened.
 I worked for a newspaper. I was typing something for someone--
 then, uh. I can't remember now what and to whom exactly - the Zone erased almost all my memories of the Big Land. I remember some yellow press where some of the
 articles were personally sponsored by the mayor. And then it started, the first warning bells.
@@ -1496,7 +1496,7 @@ Vadim Mikhailovich Chubko\nPencil marking - The fifth part of the control code i
 
 
 <string id="jornal_7_desc">
-		<text>Documents from Pripyat. They should have been covered in a thick layer of dust the whole time they'd been here, but someone had leafed through them and made notes with a pencil not too long ago. The last entry was a short time ago, "Strelok, I'll be in Freedom group territory. Find me in one of the houses on the outskirts of town. I'll be waiting. Glad you're back. Hurry up. Journalist." This entry was on top of an old notebook whose owner had previously used it as a personal diary:\
+		<text>Documents from Pripyat. They should have been covered in a thick layer of dust the whole time they'd been here, but someone had leafed through them and made notes with a pencil not too long ago. The last entry was a short time ago, "Gunslinger, I'll be in Freedom group territory. Find me in one of the houses on the outskirts of town. I'll be waiting. Glad you're back. Hurry up. Journalist." This entry was on top of an old notebook whose owner had previously used it as a personal diary:\
 
 "Strange place they chose for the installations. The soil is completely unusable and terribly radioactive. We had to wear spacesuits, which are usually worn by Chernobyl personnel, to avoid grabbing a large dose. Even now, sitting in the break room, I don't want to take the food offered here. It's a good thing no one's gonna bother you here. Vadim Mikhailovich gave a full tour of the Central laboratory. Described the working principle of the plant and its objectives. The sheer scale of it is truly mesmerizing, and my emitter is no match for it. I was particularly struck by its surface generators. We were not allowed to get close to them - the background radiation near them is just off the scale. It's scary to think what the future holds for those who are setting these generators to work now. Or their descendants. Vadim Mikhailovich demonstrated the operation of the plant. For this purpose, ten laboratory employees, including Vadim Mikhailovich himself, had to be involved. From the observation post we watched what was happening. Vadim Mikhailovich kept bragging that he would catch God by the beard. This time he didn't just grab it, he ripped it out by the root."
 \n
@@ -1602,7 +1602,7 @@ P.S. 2. The "tops" are still trying to hush up the story of that march of the "b
 
 <string id="bar_barman_kamaz_doki_opis">
 		<text>A checkered notebook found in the glove compartment of a truck. Its previous owner ripped out the first pages for some reason, so it is impossible to find out when exactly he started keeping the diary. Judging by the earliest surviving date, he was engaged in transportation of equipment and personnel even before the second disaster. Among the invoices and equipment lists are the coordinates of some laboratories that exchanged information and biological materials among themselves. The last entry was two years ago: 
-Military stalkers have been opening fire on every car since the Death Trucks showed up. That sucks. Picked up some stalker at their base, got caught when those freaks noticed him. Lucky - I still can't figure out how I heard it. Introduced himself as Strelok. I thought I'd take him to the scientists' camp, where he'd be back on his feet in no time, but he didn't trust the scientists, as it turned out. He said, "Take me to the doctor."</text>
+Military stalkers have been opening fire on every car since the Death Trucks showed up. That sucks. Picked up some stalker at their base, got caught when those freaks noticed him. Lucky - I still can't figure out how I heard it. Introduced himself as Gunslinger. I thought I'd take him to the scientists' camp, where he'd be back on his feet in no time, but he didn't trust the scientists, as it turned out. He said, "Take me to the doctor."</text>
 	</string>
 
 <string id="st_hand_torch">
@@ -1775,13 +1775,13 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="bar_journalist_dnevnik_name">
-		<text>Memo to Strelok.</text>
+		<text>Memo to Gunslinger.</text>
 	</string>
 
 
 <string id="bar_journalist_dnevnik_opis">
 		<text>You saved my hide again. What's the second time? I've lost count, frankly. Okay, now for the main point. I'm never coming back to this house again. Information has surfaced that the military has exits to this city. Which means that now I will definitely not be left alone after our joint "business" in the Valley. Rumor has it that some merchants are doing business with the army, which means it's not safe for me to be in the city. We'll have to leave the shelter and move north. I'd advise you to move somewhere away from the suburbs, too. But knowing you and your appetite for trouble, I realize that my advice will pass your ears.
-Those documents we got in the Valley give some insight into the situation around the international research center in the Zone. Until recently, this center did exist, but what has become of it now is unknown. Perhaps it still exists today. We need to find him, Strelok. Unfortunately, I don't have any more information about this center. The eggheads from Yantar couldn't say anything - they blamed it all on signatures on non-disclosure and release of state secrets. 
+Those documents we got in the Valley give some insight into the situation around the international research center in the Zone. Until recently, this center did exist, but what has become of it now is unknown. Perhaps it still exists today. We need to find him, Gunslinger. Unfortunately, I don't have any more information about this center. The eggheads from Yantar couldn't say anything - they blamed it all on signatures on non-disclosure and release of state secrets. 
 By the way, if you get a chance, I suggest you drop in on an old acquaintance in the Swamps. He asked me to tell you that he got the medicine you asked for from the scientists. Be careful out there. Stalkers in the bar say that after the extreme emission there psi radiation is prohibitive. Take the other trail.	Take care of yourself, for the Zone's sake.
 	Journalist</text>
 	</string>
@@ -3091,12 +3091,12 @@ Big Land? Then where do stalkers come from, and where is this broadcast coming f
 
 
         <string id="dnevnik_strelka_name">
-		<text>Strelok's diary</text>
+		<text>Gunslinger's diary</text>
 	</string>
 
 
         <string id="dnevnik_strelka_opis">
-		<text>Diary of a legendary stalker nicknamed Strelok. Judging by the appearance of the diary and the entries, the owner of the diary has been keeping it for a very long time. There are records of attempts to break through to the center of the Zone, some diagrams, maps, notes.
+		<text>Diary of a legendary stalker nicknamed Gunslinger. Judging by the appearance of the diary and the entries, the owner of the diary has been keeping it for a very long time. There are records of attempts to break through to the center of the Zone, some diagrams, maps, notes.
 Footage of a hike to the center of the Zone:
 Recording #1. 
 So the road is scouted, the plan is made, the supplies are gathered, the guns look shiny. Thanks to the Doctor for helping with medicine and provisions, which we've been short on lately. Hopefully all of this isn't in vain and we find a clue as to what's going on there. It is said that man has it in him that everything that is unknown to him makes him both curious and afraid at the same time. But I feel something else, a third something, like, a call.\nThe main thing is not to forget the main code - 667. That's the most important thing...</text>
@@ -4315,7 +4315,7 @@ April 26, 2008. 13-40</text>
 		<text>Six-barrel machine gun with electrically driven barrel rotation. As a hand weapon, it can only be used with a hydraulic exoskeleton. Inside the Zone, it is extremely rare due to the inconvenience of using it in the field. The army uses to defend the perimeter against swarms of mutants.</text>
 	</string>
 	<string id="wpn_groza_old_desc">
-		<text>The complex consists of a 9x39mm assault rifle and a 40mm underbarrel grenade launcher. The automatic system operates by expulsion of powder gases from the barrel channel, locking the barrel by turning the bolt. The rifle is based on bullpup layout, and one of the most significant disadvantages of this layout has been solved - displacement of the center of mass of the weapon and location of the extractor close to Strelok's face, which leads to the fact that the weapon intended for use by right-handed shooters cannot be used by left-handed shooters, because hot fired cartridges fly into their faces. The first drawback was eliminated by the underbarrel grenade launcher, and a special channel was made for the shell casings, through which the casings were carried forward and discharged outside on the right side near the pistol grip. Later, a similar cartridge case pattern was used in the Belgian FN F2000 rifle. The closed receiver also protects the receiver from dirt, which has a positive effect on reliability.</text>
+		<text>The complex consists of a 9x39mm assault rifle and a 40mm underbarrel grenade launcher. The automatic system operates by expulsion of powder gases from the barrel channel, locking the barrel by turning the bolt. The rifle is based on bullpup layout, and one of the most significant disadvantages of this layout has been solved - displacement of the center of mass of the weapon and location of the extractor close to Gunslinger's face, which leads to the fact that the weapon intended for use by right-handed shooters cannot be used by left-handed shooters, because hot fired cartridges fly into their faces. The first drawback was eliminated by the underbarrel grenade launcher, and a special channel was made for the shell casings, through which the casings were carried forward and discharged outside on the right side near the pistol grip. Later, a similar cartridge case pattern was used in the Belgian FN F2000 rifle. The closed receiver also protects the receiver from dirt, which has a positive effect on reliability.</text>
 	</string>
 	<string id="wpn-groza_short">
 		<text>Thunderstorm</text>
@@ -4362,7 +4362,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="weapon_addon_scope_m">
-        <text>PSO-1 Strelok telescopic sight.</text>
+        <text>Gunslinger's PSO-1 telescopic sight</text>
     </string> 
 
     <string id="weapon_addon_scope_susat_m">
@@ -5644,7 +5644,7 @@ Locals brought the dead body of a strange animal covered with red hair to the ch
 		<text>Documentation: Brain Link</text>
 	</string>
 	<string id="doc_4way_link_desc">
-		<text>...The 4 in charge lie in a state of induced coma, and if I'm not mistaken, they control everything that happens in the zone...\nNote: Strelok knew the code to enter the lab... maybe it's still in the stash on Roztec...</text>
+		<text>...The 4 in charge lie in a state of induced coma, and if I'm not mistaken, they control everything that happens in the zone...\nNote: Gunslinger knew the code to enter the lab... maybe it's still in the stash on Roztec...</text>
 	</string>
 
 
@@ -5785,7 +5785,7 @@ Locals brought the dead body of a strange animal covered with red hair to the ch
 		<text>A flash disk is a handy device for carrying information.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
-		<text>Mini PDA Strelok</text>
+		<text>Gunslinger's mini PDA</text>
 	</string>
 	<string id="item_pda_deserter_desc">
 		<text>Pocket personal computer. An indispensable device in the Zone.</text>
