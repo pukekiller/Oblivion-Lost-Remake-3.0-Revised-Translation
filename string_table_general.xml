@@ -1161,26 +1161,26 @@ Roadblock
 </string>
 
 <string id="golmar_combez_article_tx">
-		<text>Golmar's suit. (start here for your first session on 3/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Golmar's suit.</text>
 </string>
 
 <string id="mg_zombie_dnevnik_dead_opis">
-		<text>Diary of a Dead Stalker. Some of the pages are blurred due to cadaverous decomposition, but some are readable.\n02.04.2012 
-	...agreed to an expedition into the city. Maybe even highlight their science suit. In the meantime, I'll go like this, it's not a bad jacket. Oh, yeah, I remember, there's a locked room behind a closet in the ruins. When I'm in town, I should go in there. It's a little hard to move the closet, though.\n03.04.2012 
-	Got to Freedom Base. It was just Chrome and a couple of his security guys. He said that the zombies before the blowout in the city are beastly, and it's better to hide somewhere an hour or two before the start. Well, I'll keep that in mind.\n02.04.2012, 23.40
-	Found that damn apartment the Professor said. Yeah, looks like one of them used to be here. A couple of units left. Anyway, I've changed the battery, and now I'm going to sleep here. Just as the door on the switch is still working.\n03.04.2012, 03.14.
-	Woke up to a knock on the door. Through the gap I spotted three zombies. They're breaking. Hopefully they'll be gone by morning at least.\n03.04.2012, 08.45.
-	They don't want to leave. They can smell it. Fucking hell, I'll try to get through.\n03.04.2012, 12.31.
-	Yeah, it's been a pretty bad day. One rotten one bit the jacket. The wound is covered in white foam. It sucks.\n03.04.2012, 16.05
+		<text>Diary of a Dead Stalker. Some of the pages are blurred due pages getting smuged with purge caused by cadaverous decomposition, but some of them are still readable.\n02.04.2012 
+	...agreed to an expedition into the city. Maybe even borrow their science suit. In the meantime, I'll go like this, it's not a bad jacket. Oh, yeah, I remember, there's a locked room behind a closet in the ruins. When I'm in town, I should go in there. It's a little hard to get to that closet, though.\n03.04.2012 
+	Got to Freedom Base. It was just Chrome and a couple of his security guys. He said that the zombies before the blowout in the city are beastly, and it's better to hide somewhere an hour or two before the blowout starts. Well, I'll keep that in mind.\n02.04.2012, 23.40
+	Found that damn apartment Professor was talking about. Yeah, it looks like one of them used to be here. I've only got a few spare batteries left. Anyway, I've changed up my PDA, and now I'm going to sleep here. Thankfully, the switch at the door is still working.\n03.04.2012, 03.14.
+	Woke up to a knock on the door. Through the gap I spotted three zombies. They're trying to break in. Hopefully they'll be gone by morning at least.\n03.04.2012, 08.45.
+	They don't want to leave. They can smell me. Fucking hell, I'll try to get through.\n03.04.2012, 12.31.
+	Yeah, it's been a pretty bad day. One of those rotten zombies bit through my jacket. The wound is covered in white foam. This sucks.\n03.04.2012, 16.05
 	PDA's dead. Huh, I was gonna buy a spare battery from the Barkeep...\n03.04.2012, 20.15
 	It's getting dark. Just this red light, and howling zombies. The wound hurts. Covered in sores. Why did I come here?\n04.04.2012, 03.55.
 	The door won't budge at all. And they're just standing there, waiting.\n04.04.2012, 5.45.
-	passed a couple of stalkers did not see shouted shooting head\n	mapvyoshypych..yvf..fy.
+	A couple of stalkers passed me by, they didn't see me shouting for help.\nmapvyoshypych..yvf..fy.
 </text>
 </string>
 
 <string id="mg_door_closed_rub">
-		<text>This door is locked, and it looks like its held shut an electronic lock. It'll move a little, but it won't open. It also looks like there were zombies in here.</text>
+		<text>This door is locked, and it looks like its held shut an electronic lock. It'll move a little, but it won't open. It also looks like there were zombies in here. (start here for your second session on 4/1/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="pribor_primanka_name">
