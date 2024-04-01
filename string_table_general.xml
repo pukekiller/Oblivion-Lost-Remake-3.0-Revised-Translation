@@ -151,10 +151,10 @@
 
 
 	<string id="agr_perepat_tainik_article_name">
-		<text>The find in Strelok's stash</text>
+		<text>The find in Gunslinger's stash</text>
 	</string>
 	<string id="agr_perepat_tainik_article_text">
-		<text>Looks like we managed to find Strelok's stash, but it looks like there's nothing of value here... Found some book - it had a note in it that said where an PDA was stashed behind the main scientific complex of the MedPribor Research Institute in the basement. We should try to find it.</text>
+		<text>Looks like we managed to find Gunslinger's stash, but it looks like there's nothing of value here... Found some book - it had a note in it that said where an PDA was stashed behind the main scientific complex of the MedPribor Research Institute in the basement. We should try to find it.</text>
 	</string>
 
 
@@ -362,7 +362,7 @@
 
 
 	<string id="hfghfghgkkk">
-		<text>Strelok, he also came from the outside, they say he was an important figure in the outside world, but nobody really knows anything. There were even rumors that fanatics from the Sin Clan believed that something important depended on him. Maybe he was thrice-born, too?</text>
+		<text>Gunslinger, he also came from the outside, they say he was an important figure in the outside world, but nobody really knows anything. There were even rumors that fanatics from the Sin Clan believed that something important depended on him. Maybe he was thrice-born, too?</text>
 	</string>
 
 
@@ -383,7 +383,7 @@
 	</string>
 
 <string id="kiillde_about_arpop_und">
-		<text>Hmmm.. I'm a business man. You're looking for Strelok, aren't you? I have information about him. If you do a job for me first, I'll tell you what I know about him - pro quid pro. Also, you're right about the radiation. But, that fugitive we're looking for is hiding in the basements of the research institute - there's no radiation there... I mean, in case you didn't know. The underground tunnels in the Garbage are connected to the MedPribor Research Institute underground, so if you go that way, you won't need the suit.. in theory. If you agree to do this, I'll give you information about the underground section of the MedPribor Institute.</text>
+		<text>Hmmm.. I'm a business man. You're looking for Gunslinger, aren't you? I have information about him. If you do a job for me first, I'll tell you what I know about him - pro quid pro. Also, you're right about the radiation. But, that fugitive we're looking for is hiding in the basements of the research institute - there's no radiation there... I mean, in case you didn't know. The underground tunnels in the Garbage are connected to the MedPribor Research Institute underground, so if you go that way, you won't need the suit.. in theory. If you agree to do this, I'll give you information about the underground section of the MedPribor Institute.</text>
 </string>
 
 
@@ -505,7 +505,7 @@
 The idea of the project is to influence the information layer of Earth, the "noosphere", through which it is possible to influence any individual on the planet. A group of scientists, guided by presumably humane considerations, not excluding, however, parties with potentially malicious intentions working behind the scenes - starting developing machinery and began experiments that allows, in their opinion, to stop violence, war, crime and so on. This idealistic experiment lead to the deformation of the essence of the universe, the consequences of which lead to the birth of the Zone. Realizing the fact that something unintended is happening, but at the same time realizing that it is up to them to stop the consequences, the participants of the experiment block the passage to the Center of the Zone with psi-fields, and created a mythical Wish Granter, located under the sarcophagus of the Chernobyl Nuclear Power plant, which is actually a "Monolith" psi-installation, causing halluciogenic visions, in the form of the apparent realization of an individual's desires.
  Also, the group uses psionic energy to influence the leaders various post-Soviet states to prevent massive attacks with their armies, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus, they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc).
 People who have reached the center of the Zone and fallen under the influence of "Monolith", form either squads of zombie defenders, or wipe their memories and take them far away from the center of the Zone, or send the hardiest to eliminate undesirable people, both in the Zone and outside it. This procedure of total zombification or control is codenamed S.T.A.L.K.E.R., and operatives who are made using this method are designated as such with a tattoo.
-Strelok is one of these operatives. He realistically learned too much to be left alive, but any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate exposure to certain amounts of psionic energy has led me to the conclusion that he is still acting sensibly.</text>
+Gunslinger is one of these operatives. He realistically learned too much to be left alive, but any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate exposure to certain amounts of psionic energy has led me to the conclusion that he is still acting sensibly.</text>
 	</string>
 
 
@@ -646,7 +646,7 @@ Strelok is one of these operatives. He realistically learned too much to be left
 		<text>Strange dream</text>
 	</string>
 	<string id="sl_x18_dream_text">
-		<text>I had a strange dream. The hulk of the Chernobyl plant, shrouded in darkness. Everything looks peaceful. A lone man appears. I can see him from the back against the power plant. The wind is starting to blow. Suddenly, a sea of rats starts scattering away from the power plant in different directions. A man standing with his back to me, shooting rats. Suddenly, the man in the dream shouts out "Strelok!". Then the man flinches, freezes for a moment and slowly starts to turn towards me, but I wake up the moment before I get to see his face What does this dream mean? I don't know, but I think it's something I've seen before.</text>
+		<text>I had a strange dream. The hulk of the Chernobyl plant, shrouded in darkness. Everything looks peaceful. A lone man appears. I can see him from the back against the power plant. The wind is starting to blow. Suddenly, a sea of rats starts scattering away from the power plant in different directions. A man standing with his back to me, shooting rats. Suddenly, the man in the dream shouts out "Gunslinger!". Then the man flinches, freezes for a moment and slowly starts to turn towards me, but I wake up the moment before I get to see his face What does this dream mean? I don't know, but I think it's something I've seen before.</text>
 	</string>
 
 	<string id="tip_use">
