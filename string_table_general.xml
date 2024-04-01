@@ -726,7 +726,7 @@ Gunslinger is one of these operatives. He realistically learned too much to be l
 	</string>
 
 	<string id="grenade-grenade_rgd5_anom">
-		<text>Gravi-enhanced RGD-5 (start here for your second session on 3/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Gravi-enhanced RGD-5</text>
 	</string>
 
 
@@ -1006,7 +1006,7 @@ Roadblock
 </string>
 
 <string id="jurn_doki_last_zapiska_desc">
-		<text>Beneath the ground lies the bodies of the Common Consciousness project group. They're all in a near-coma state. There's a certain body in the underground lab that controls all of the other ones. It carries out their will, controls external processes, and provides their bodies with everything they need. It is the representative of the Common Consciousness project, children were "harvested" by Common Consciousness to prepare a more powerful replacement. (start here for your second session on 3/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Beneath the ground lies the bodies of the Common Consciousness project group. They're all in a near-coma state. There's a certain body in the underground lab that controls all of the other ones. It carries out their will, controls external processes, and provides their bodies with everything they need. It is the representative of the Common Consciousness project, children were "harvested" by Common Consciousness to prepare a more powerful replacement.</text>
 </string>
 
 <string id="journalist_is_you">
@@ -1180,7 +1180,7 @@ Roadblock
 </string>
 
 <string id="mg_door_closed_rub">
-		<text>This door is locked, and it looks like its held shut an electronic lock. It'll move a little, but it won't open. It also looks like there were zombies in here. (start here for your second session on 4/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>This door is locked, and it looks like its held shut an electronic lock. It'll move a little, but it won't open. It also looks like there were zombies in here. (start here for your first session on 4/1/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="pribor_primanka_name">
