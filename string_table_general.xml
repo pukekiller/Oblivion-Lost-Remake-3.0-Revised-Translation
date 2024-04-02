@@ -1196,7 +1196,7 @@ Roadblock
 </string>
 
 <string id="psy_shapka_mg">
-		<text>Brain simulator (start here for your second session on 4/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Brain simulator</text>
 </string>
 
 <string id="horok_ammo_zink_desc">
@@ -1208,7 +1208,7 @@ Roadblock
 </string>
 
 <string id="horok_rukzak_arts_desc">
-		<text>A heavy backpack, presumably filled with artifacts. An orange glow runs through the fabric.</text>
+		<text>A heavy backpack, presumably filled with artifacts. An orange glow can be seen glowing through the fabric.</text>
 </string>
 
 
@@ -1221,7 +1221,7 @@ Roadblock
 </string>
 
 <string id="gar_train_doki_name">
-		<text>Diary of a Dead Stalker</text>
+		<text>Diary of a Dead Stalker (start here for your first session on 4/2/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="gar_train_doki_opis">
@@ -1250,7 +1250,7 @@ I blowout it into the void so it won't get in the way..."</text>
 </string>
 
 <string id="dc_psy_offfffff_article_tx">
-		<text>Radiation in the Shining Path</text>
+		<text>Radiation at Shining Path</text>
 </string>
 
 <string id="dc_psy_offfffff_article_text">
