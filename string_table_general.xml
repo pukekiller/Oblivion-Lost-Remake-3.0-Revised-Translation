@@ -1221,16 +1221,15 @@ Roadblock
 </string>
 
 <string id="gar_train_doki_name">
-		<text>Diary of a Dead Stalker (start here for your first session on 4/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Diary of a Dead Stalker</text>
 </string>
 
 <string id="gar_train_doki_opis">
-		<text>An old shabby diary found in the cab of a rusty radioactive diesel locomotive, which, by some unknown coincidence, turned out to be very far from the railroad. The decayed remains of what appeared to be the author of the diary were still found in the cabin. Judging from the records, he was trying to hide from the horrors of the Zone inside.\n"... There are still voices swirling around in my cranium. They don't want to come out. Asking to look out the window to see what's left. There's nothing there. Nothing. But I muffle them, because I'd go crazy if I looked out. It's empty. No color and no space. And who will survive when they see the void? No one. There's nothing there. There is only the room within me, and I within which is the room. There's nothing on the other side. Nothing at all. Sometimes I hear something creaking or growling on the other side. It's all a voice, a voice out of me. There's nothing out there. I crawl around the room so that God forbid I see a void. My body aches. The head, too. The geiger counter kept screaming. 
-I blowout it into the void so it won't get in the way..."</text>
+		<text>An old shabby diary that was found in the cab of a rusty and radioactive diesel locomotive, which, by some unknown coincidence, turned out to be very far from the railroad. The decayed remains of what appeared to be the author of the diary was found in the cabin. Judging from the records, he was trying to hide from the horrors of the Zone by hiding in the cabin.\n"... There are still voices swirling around in my head. They don't want to come out. They ask me to look out the window so they can see what's left. There's nothing there. Nothing. But I silence them, because I'd go crazy if I looked outside. It's empty. No color and no space. And who will survive when they see the void? No one. There's nothing there. There is only the room within me, and I within which is the room. There's nothing on the other side. Nothing at all. Sometimes I hear something creaking or growling on the other side. It's all a voice, a voice out of me. There's nothing out there. I crawl around the room so that God forbid I see the void. My body aches. The head, too. My geiger counter keeps crackling. I threw it into the void so it won't get in the way."</text>
 </string>
 
 <string id="yantar_mozg_doki_name">
-		<text>Documentation of the installation at Lake Yantar</text>
+		<text>Documentation about the installation at Lake Yantar (start here for your second session on 4/3/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="yantar_mozg_doki_opis">
