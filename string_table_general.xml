@@ -1237,11 +1237,11 @@ Roadblock
 </string>
 
 <string id="agro_pda_pilot_name">
-		<text>Pilot's PDA (start here for your first session on 4/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Pilot's PDA</text>
 </string>
 
 <string id="enc_equipment_agro_pda_pilot">
-		<text>PDA found near the MedPribor Institute by a military helicopter. Apparently, the handheld personal computer originally belonged to a pilot. The helicopter surveyed Cordon, the Garbage, Dark Valley and the vicinity of the Research Institute before hitting the anomaly and making an emergency landing. Many large sites in the south of the Zone are noted on the PDA. This data has not fallen into the hands of Perimeter Command and is unlikely to ever fall into the hands of Perimeter Command, so we can not be afraid of their further advancement deep into the Zone. You can try to transfer the marks made by the pilot to your PDA yourself - this information will certainly not be superfluous.</text>
+		<text>This PDA was found near the MedPribor Institute, laying on the ground next to an abandoned military helicopter. Apparently, the this PDA originally belonged to a pilot. The helicopter surveyed Cordon, the Garbage, Dark Valley and the vicinity of the Research Institute before hitting the anomaly and making an emergency landing. Many large sites in the south of the Zone are noted on the PDA. This data has not fallen into the hands of Perimeter Command and is unlikely to ever fall into the hands of Perimeter Command, so don't worry about the military advancing deeper into the Zone. You can try to transfer the data detailing the important locations noticed and cataloged by the pilot to your PDA yourself - this information will certainly not be superfluous.</text>
 </string>
 
 <string id="tip_use_drink">
@@ -1249,7 +1249,7 @@ Roadblock
 </string>
 
 <string id="dc_psy_offfffff_article_tx">
-		<text>Radiation at Shining Path</text>
+		<text>Radiation at Shining Path (start here for your second session on 4/4/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="dc_psy_offfffff_article_text">
