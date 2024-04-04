@@ -1249,7 +1249,7 @@ Roadblock
 </string>
 
 <string id="dc_psy_offfffff_article_tx">
-		<text>Radiation at Shining Path (start here for your second session on 4/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Radiation at Shining Path</text>
 </string>
 
 <string id="dc_psy_offfffff_article_text">
@@ -1265,7 +1265,7 @@ Roadblock
 </string>
 
 <string id="enc_weapons1_wpn-vintorez_wpn_vintorez_gravi">
-		<text>A screwcutter with strong gravitational properties. Experimental design.</text>
+		<text>A VSS Vintorez that's been modified with a Gravi artifact, improving its ballistic performance. This weapon is an experimental prototype.</text>
 </string>
 
 <string id="car_accum_name">
@@ -1273,11 +1273,11 @@ Roadblock
 </string>
 
 <string id="enc_car_accum">
-		<text>The battery required to start the vehicle's engine.</text>
+		<text>The battery is required to start a vehicle's engine, supplying needed electricity various components.</text>
 </string>
 
 <string id="zakazy_scientific">
-		<text>Orders from scientific groups</text>
+		<text>Orders from scientific groups (start here for your first session on 4/4/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="jurnalist_ab_monolit_sk">
