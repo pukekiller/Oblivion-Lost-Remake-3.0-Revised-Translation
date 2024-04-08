@@ -1321,28 +1321,28 @@ Roadblock
 </string>
 
 <string id="find_af_night_star2">
-		<text>Artifact Specialist Group Order #2 (start here for your second session 4/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Artifact Specialist Group Order #2</text>
 </string>
 
 <string id="dok_mag_2sht">
-		<text>Scientists from the group that researches Magnet Group artifacts require two such artifacts for further study.</text>
+		<text>Scientists from a group that specializes in researching magnetic artifacts require two magnetic artifacts for futher study.</text>
 </string>
 
 
 
 
 <string id="find_af_night_star3">
-		<text>Magnet Science Group Order #3</text>
+		<text>Artifact Specialist Group Order #3</text>
 </string>
 
 <string id="dok_mag_3sht">
-		<text>Scientists from the group that is investigating the Magnet Group artifacts need two of these artifacts, plus the Electric Ball artifact, for further research.</text>
+		<text>Scientists from a group that specializes in researching magnetic artifacts require two magnetic artifacts for futher study, plus an Electric Ball artifact.</text>
 </string>
 
 
 
 <string id="find_af_night_star4">
-		<text>Magnet Science Group Order #4</text>
+		<text>Artifact Specialist Group Order #4 (start here for your first session on 4/8/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="dok_mag_4sht">
