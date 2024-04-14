@@ -1407,7 +1407,7 @@ Pencil marking - The third part of the control code is "82".
 		<text>These papers were found at Silent Hills, and they seem to be copies. The originals may have been destroyed long ago. Beneath the cover are electroencephalogram readings with notes made in black marker. Next to the results of the graphical record is a trip report to a research facility on one of the islets in Lake Yantar.
 	No irregularities were observed during the demonstration of the operation of the ZX-08 biological unit with a unique (to date) sample of artificially grown biomass (sample Y-1M). The research department took every precaution in activating the facility: the attendees were given level one safety spacesuits and medical supplies with ampoules of psi-blocker drugs (in case if the demonstration got out of hand). The 1269-bis subjects were exposed to surface psionic radiation. Any attempts to impede our control were blocked on a mental level. Fields with multidirectional acceleration vectors (gravity concentrates) were tested on the same subjects. The results of the experiment are recorded on tape. A copy of the tape could not be obtained, so it's currently archived at the research complex. Among other things, recordings of previous experiments and demonstrations are also there.
 \n
-Pencil marking - The fourth part of the control code is "27". (start here for your second session on 4/12/24 and don't forget to remove this reminder when you start)
+Pencil marking - The fourth part of the control code is "27".
 </text>
 </string>
 
@@ -1443,30 +1443,30 @@ Pencil marking - The fifth part of the control code is "88".
 
 
 <string id="dolina_prelaba_doki_opis">
-		<text>Extract from the minutes of the 42nd meeting of managers of the Kiev branch of the laboratory ¹15 from 09.09.96\nPresent: 
+		<text>This extract is from the 42nd meeting of managers of the Kiev branch of the laboratory No. 15, dated September 9th, 1996\nPresent: 
 
 Director of the Research Laboratories Network - S.K. Frankevich.
 Head of Kiev branch of laboratory No. 15 - I.L. Karteevich.
-Deputy Head of Kiev Branch of Laboratory No.15 - Ah.G. Lavrikov.
+Deputy Head of Kiev Branch of Laboratory No. 15 - Ah.G. Lavrikov.
 
-Decided: to recognize the further performance of the Kiev branch of the laboratory ¹ 15 incapable. Grounds: lack of funding, partial leakage of information on the laboratory's developments, threat to the existence of other secret facilities, distrust of the staff.
+Decided: to recognize the further performance of the Kiev branch of the laboratory No. 15 as incapable. Grounds: lack of funding, partial leakage of information on the laboratory's developments, threat to the existence of other secret facilities, distrust of the staff.
 
 Next Steps:
 - Laboratory personnel shall immediately make copies of laboratory reports. Destroy the original classified documents;
 - to transfer all available documents to Prof. Chubko K.P;
-- all personnel, starting from the head of the Kiev branch and ending with laboratory technicians and cleaners, to undergo procedure B, in order to further preserve the secrecy of developments. Perform the procedure at low power (~100 Jigowatts);
+- all personnel, starting from the head of the Kiev branch and ending with laboratory technicians and cleaners, must undergo procedure B, in order to further preserve the secrecy of developments. Perform the procedure at low power (~100 Gigawatts);
 - in the event that any of the personnel resists, action must be taken;
-- monitor the mental state of staff for 3 months after the B procedure;
-- on the results of procedure B to Prof. Chubko K.P.
+- monitor the mental state of staff for 3 months after procedure B;
+- reports the results of procedure B to Prof. Chubko K.P.
 
-Secretary of the meeting
+Secretary of the meeting,
 
 Lavrentiev Ah.L.
 </text>
 	</string>
 
 <string id="radar_kompleks_doki_name">
-		<text>Correspondence</text>
+		<text>Correspondence (start here for your second session on 4/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
