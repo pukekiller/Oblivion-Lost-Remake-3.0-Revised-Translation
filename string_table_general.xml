@@ -1491,11 +1491,11 @@ P.S. 2. The "higher-ups" are still trying to hush up the story of that march of 
 
 
 <string id="mg_monolitovec_doki_opis">
-		<text>We are very far away from HIS black blinding radiance. His call is heard, but, in truth, His voice isn't as strong in the North, in HIS domain. We're holed up in some basement. We try to go outside as little as possible. The brothers say that in this city one should never go out into the main square because the arrows of the infidels dot the roofs of the city. Someday the mighty fist of the Monolith will reach here as well, bringing us triumphant victory. In the meantime, all we have to do is bring in reinforcements. The second group should be here soon, which will at least increase our presence in this sector a bit. About five minutes ago, Big Brother had warned me that it would soon be necessary to descend into the city's sewers, from where we could strike at the heretics in the Cooptorg building. But before that, we'll have to deal with the man-eating rats that infest the sewer. (start here for your first session on 4/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>We are very far away from HIS black blinding radiance. His call is heard, but, in truth, His voice isn't as strong in the North, in HIS domain. We're holed up in some basement. We try to go outside as little as possible. The brothers say that in this city one should never go out into the main square because the arrows of the infidels dot the roofs of the city. Someday the mighty fist of the Monolith will reach here as well, bringing us triumphant victory. In the meantime, all we have to do is bring in reinforcements. The second group should be here soon, which will at least increase our presence in this sector a bit. About five minutes ago, Big Brother had warned me that it would soon be necessary to descend into the city's sewers, from where we could strike at the heretics in the Cooptorg building. But before that, we'll have to deal with the man-eating rats that infest the sewer.</text>
 	</string>
 
 <string id="gar_postroika_dnevnik_opis">
-		<text>A spring-loaded notebook found on the corpse of a stalker in the Garbage. Only the first third of the notebook was scribbled, the rest of the sheets were left untouched. Judging by the abrupt ending of the entries, death caught up with the stalker as he was making his last journal entry.\nThe ferret is a cattle dog. You can't trust him, I'll tell the Barkeep that when I get to the bar. Said everything was quiet at the Garbage, just kilometers of iron and anomalies. No shit. The brothers are still on their way to get stomped. I had to share my loot. They left me with a bare ass. How am I supposed to go to MedPribor now? I'm gonna kill myself if I don't get the papers. I guess I'll have to go to the bar first to get a gun, and then...</text>
+		<text>A spiral-bound notebook found on the corpse of a stalker in the Garbage. Only the first third of the notebook was has any writing in it, the rest of the sheets were left untouched. Judging by the abrupt ending of the last entry, death caught up with the stalker as he was writing something. The last page says:\nFerret is a liar. You can't trust him, I'll tell the Barkeep that when I get to the bar. He said everything peaceful and quiet at the Garbage, just kilometers of iron and anomalies. Nope, there were bandits there, and they took everything I had. I've got nothing now except the clothes on my back. How am I supposed to go to Agroprom now? I'm gonna kill myself if I don't get the papers. I guess I'll have to go to the bar first to get a gun, and then...</text>
 	</string>
 
 
@@ -1504,7 +1504,7 @@ P.S. 2. The "higher-ups" are still trying to hush up the story of that march of 
 	</string>
 
 <string id="st_power_fists">
-		<text>Power knuckles</text>
+		<text>Power fists (start here for your second session on 4/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
