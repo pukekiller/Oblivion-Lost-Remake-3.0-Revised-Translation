@@ -1574,23 +1574,23 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 
 
 <string id="esc_dead_kolodetz_article_tx">
-		<text>Missing courier (start here for your second session on 4/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Missing courier</text>
 	</string>
 
 
 
 <string id="radbun_razradnil_nado">
-		<text>I think you need a surge protector to get through.</text>
+		<text>I think you need a protective device to get through here.</text>
 	</string>
 
 
 <string id="tips_jaba_no_go_lvl12">
-		<text>Toad: Don't go there now. This place is dead, the level of PSI activity is off the charts. I warned you, stalker.</text>
+		<text>Toad: Don't go there now. This place is dead, the level of psionic activity is off the charts. Consider yourself warned, stalker.</text>
 	</string>
 
 
 <string id="cod_on_podz_rostka_tx">
-		<text>Remembered a code...</text>
+		<text>I remembered a code... (start here for your first session on 4/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="cod_on_podz_rostka_text">
