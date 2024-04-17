@@ -1590,16 +1590,16 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 
 
 <string id="cod_on_podz_rostka_tx">
-		<text>I remembered a code... (start here for your first session on 4/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>I remembered a code...</text>
 	</string>
 
 <string id="cod_on_podz_rostka_text">
-		<text>Remembered some code... 3781... Seems to be in some kind of tunnels... Rostok?</text>
+		<text>I remembered a code. It's 3781, and it seems to be for some door that's located underground. I think it might be in the tunnels under.. Rostok?</text>
 	</string>
 
 
 <string id="feskul">
-		<text>What? We don't do that. Where did you get this information? Although, maybe whoever told you that meant the camp on the marshes. There's quite often a helicopter with equipment there. It's not working right now, though, because of the high psi radiation.</text>
+		<text>What? We don't do that. Where did you get this information? Although, maybe whoever told you that meant the camp on the marshes. There's quite often a helicopter with equipment there. It's not working right now, though, because of the high psi radiation. (start here for your first session on 4/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="doc2dolinaapp_desc">
