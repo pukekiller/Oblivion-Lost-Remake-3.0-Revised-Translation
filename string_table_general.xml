@@ -1599,11 +1599,11 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 
 
 <string id="feskul">
-		<text>What? We don't do that. Where did you get this information? Although, maybe whoever told you that meant the camp on the marshes. There's quite often a helicopter with equipment there. It's not working right now, though, because of the high psi radiation. (start here for your first session on 4/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>What? We don't do that. Where did you get this information? Although, maybe whoever told you that meant the camp on the marshes. There's a helicopter with equipment there quite often. It's not working right now though, because of the high psionic radiation.</text>
 	</string>
 
 <string id="doc2dolinaapp_desc">
-		<text>According to the directive of the Central Committee of the CPSU, the territories within the unconditional mandatory resettlement zone (hereinafter referred to as the CRZ) within a radius of ten kilometers from the site of the accident, as well as a number of infrastructure facilities and dual-use cities (Jupiter plant, Chernobyl-2, Chernobyl Nuclear Power Plant named after M.V. Lomonosov, Chernobyl Nuclear Power Plant, and the Chernobyl Nuclear Power Plant), were to be resettled within a radius of ten kilometers from the site of the accident. Lenin, Yantar complex) together with all documentation are transferred under the management of the governmental organization MOST (Ministry of Defense and Secret Technologies). The primary goals of the above facilities at the beginning of 1987: to conduct projects "Sky-2", "Cover", development of means of psychotropic defense and attack, genetic research, tests in the field of vortex flows and electromagnetic anomalies in various areas of the world and development of new types of energy. A decision was made to conduct the first test launch of the RD-100 special-purpose unit (aka "Russian Woodpecker", Zagorizontnaya Radar Power plant "Duga") under conditions of increased radiation environment.</text>
+		<text>According to the directive of the Central Committee of the CPSU, the territories within the unconditional mandatory resettlement zone (hereinafter referred to as the Chernobyl Exclusion Zone) within a radius of ten kilometers from the site of the accident, as well as a number of infrastructure facilities and dual-use cities (Jupiter plant, Chernobyl-2, Chernobyl Nuclear Power Plant named after M.V. Lomonosov, Chernobyl Nuclear Power Plant, and the Chernobyl Nuclear Power Plant), were to be resettled within a radius of ten kilometers from the site of the accident. Lenin, Yantar complex) together with all documentation are transferred under the management of the governmental organization MOST (Ministry of Defense and Secret Technologies). The primary goals of the above facilities has been this since the beginning of 1987: to conduct projects "Sky-2", "Cover", development of means of psychotropic defense and attack, genetic research, experiments in the field of vortex flows and electromagnetic anomalies in various areas of the world and development of new types of energy. A decision was made to conduct the first test launch of the RD-100 special-purpose unit (aka "Russian Woodpecker", Zagorizontnaya Radar Power plant "Duga") under the conditions of increased background radiation in the environment.</text>
 	</string>
 
 
@@ -1613,7 +1613,7 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="empty_butilka_arg_zam_name">
-		<text>Flask</text>
+		<text>Flask (start here for your second session 4/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
