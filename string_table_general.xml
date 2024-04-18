@@ -1613,26 +1613,26 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="empty_butilka_arg_zam_name">
-		<text>Flask (start here for your second session 4/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Flask</text>
 	</string>
 
 
 
 <string id="empty_butilka_arg_zam_desc">
-		<text>You can get some kind of liquid in here.</text>
+		<text>A flask. Useful for storing or transportating liquid.</text>
 	</string>
 
 
 <string id="ametist_bazag_fin">
-		<text>Wow! A local legend, here in my workshop! Oh, well. I'm Amethyst. I'm in the gun and gear repair business. You know it's not so good here, that's why I decided to join the environmentalists. And I've always hated going to landfills and cemeteries... So you need something fixed?</text>
+		<text>Wow! A local legend, here in my workshop! Oh, well.. I'm Amethyst. I'm in the gun and gear repair business. You know, it's miserable here - that's why I decided to join the environmentalists. And I've always hated going to landfills and cemeteries... So, do you need something fixed?</text>
 	</string>
 
 <string id="arg_jaba_voda_boloto_opis">
-		<text>Water sample from the swamp at the MedPribor Research Institute.</text>
+		<text>Water sample from the swamp at the Agroprom Research Institute.</text>
 	</string>
 
 <string id="arg_jaba_voda_boloto_name">
-		<text>Water from the swamp</text>
+		<text>Water from the swamp (start here for your first session on 4/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="arg_trader_about_zamery_article_tx">
