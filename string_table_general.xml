@@ -1632,17 +1632,17 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="arg_jaba_voda_boloto_name">
-		<text>Water from the swamp (start here for your first session on 4/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Water from the swamp</text>
 	</string>
 
 <string id="arg_trader_about_zamery_article_tx">
-		<text>Water sample from the NII swamp</text>
+		<text>Water sample from the swamp at the Agroprom Research Institute</text>
 	</string>
 
 
 
 <string id="arg_trader_about_zamery_article_text">
-		<text>Toad ordered a water sample from the swamp at the MedPribor Research Institute. He said there must be a suitable container in the factory.</text>
+		<text>Toad wants a water sample from the swamp at the Agroprom Research Institute. He said that there's a suitable liquid container for it somewhere in the factory.</text>
 	</string>
 
 <string id="digger_detector_article_tx">
@@ -1652,11 +1652,11 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 
 
 <string id="digger_detector_article_text">
-		<text>Digger needs an anomaly detector. Charged. He said there's one stashed on the roof of the factory somewhere. He said something about some stalker with an eye patch. Sounds like bullshit... though.</text>
+		<text>Digger needs an anomaly detector - preferably one that's charged. He said there's one stashed on the roof of the factory somewhere. He also said something about some stalker with an eye patch that hangs around there. Sounds like bullshit to me.</text>
 	</string>
 
 <string id="af_banka_s_holodcom">
-		<text>Stud</text>
+		<text>Stud (start here for your second session on 4/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
