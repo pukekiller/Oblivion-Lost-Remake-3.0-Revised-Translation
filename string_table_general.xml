@@ -1672,14 +1672,14 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 
 
 <string id="dolina_barman_house_doki_name">
-		<text>Observations on changes in the hierarchy of recessive traits (start here for your first session on 4/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Observations on changes in the hierarchy of recessive traits</text>
 	</string>
 
 
 
 <string id="dolina_barman_house_doki_opis">
-		<text>Vadim Mikhailovich, we continue to conduct tests as normal. We are waiting for you at our farm to admire the results of recent tests. We are already testing breeds with introduced "wild" genes. In the attachments to this letter, you can take a look at photos of some of the specimens: you can already clearly see the changes in the musculoskeletal system and the physiology of the sensory system. I also recommend looking at the results of experiments to transplant the pituitary gland of the African "hyena" into our wolves. Amazing, isn't it? By the way, yesterday I. G. Uralov suggested that we should already proceed to transplantation of human pituitary gland, but I had to give up this adventure. I'm sorry, I don't have a qualified Preobrazhensky here yet. Where experienced staff are on a different level of our sixth lab. And the human pituitary gland, Vadim Mikhailovich, is no joke! However, I refused to refuse, but I will not say that this idea will go into a drawer for a long time. In the future, we plan to move on to much more serious experiments.
-	It is very unfortunate that the unit you have allocated does not allow for a full range of long term concentrated gravity treatments. It just doesn't have enough power. Get it right: other departments get 20% more energy. Even Makarov's department consumes more, even though he has only three lab technicians on staff and they only do accounting. If you would be so kind, Vadim Mikhailovich, increase the lab's power supply. Tell your people at the plant to get the new fourth reactor up and running within a month. Believe me, it will speed up the work process.
+		<text>Vadim Mikhailovich, we continue to conduct tests as normal. We are waiting for you at our farm to admire the results of recent tests. We are already testing breeds with introduced "wild" genes. In the attachments to this letter, you can take a look at photos of some of the specimens: you can already clearly see the changes in the musculoskeletal system and the physiology of the sensory system. I also recommend looking at the results of experiments to transplant the pituitary gland of the African "hyena" into our wolves. Amazing, isn't it? By the way, yesterday - I. G. Uralov suggested that we should already proceed to transplantation of human pituitary gland, but I had to give up this venture. I'm sorry, I don't have a qualified Preobrazhensky here yet. Our experienced staff are on a different level of our sixth lab. And the human pituitary gland, Vadim Mikhailovich, is no joke! However, I refused to refuse, but I will not say that this idea will be forgotten for a long time. In the future, we plan to move on to much more serious experiments.
+	It's very unfortunate that the unit you have allocated does not allow for a full range of long term concentrated gravity treatments. It just doesn't have enough power. Get it right: other departments get 20% more energy. Even Makarov's department consumes more, even though he has only three lab technicians on staff and they only do accounting. If you would be so kind, Vadim Mikhailovich, increase the lab's power allocation. Tell your people at the plant to get the new fourth reactor up and running within a month. Believe me, it will speed up the work process.
 	Head of the Department of Biological Breeding and Eugenics, L. P. Romaniuk
 	15.04.1986
 </text>
@@ -1690,7 +1690,7 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="name_black_gravi_recipies">
-		<text>Black Gravy</text>
+		<text>Black Gravi (start here for your second session on 4/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
