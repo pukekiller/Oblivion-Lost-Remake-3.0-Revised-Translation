@@ -1739,11 +1739,11 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 
 
 <string id="gar_doc_thousand_dead_name">
-		<text>Part of the plans and maps of one of the lost detachments of the military expedition (start here for your first session on 4/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Part of the plans and maps of one of the lost detachments of the military expedition</text>
 	</string>
 
 <string id="esc_zavod_plot_doki_opis">
-		<text>The state commission found no violations during its inspection of the science facilities. The Commission concluded to issue a permit for extension of research works on the territory of the Chernobyl Exclusion Zone not later than 02.06.1998. Currently, the scientific research institute "MedPribor" (see Annex ** for a breakdown of activities) is developing equipment for complex devices used in radiation oncology. From the technical data, it appears that the device will be in high demand for patients with "tumor cordis, casus inoperabilis". The main advantages of the new equipment: increased safety measures for both the patient and the treating physician during the procedure, record speed of one irradiation procedure. In this regard, we ask to withdraw the research documents from the Central Archive and transfer them to the file cabinet of the Research Institute "MedPribor" to optimize the reporting work. </text>
+		<text>The state commission found no violations during its inspection of the science facilities. The Commission concluded to issue a permit for extension of research works on the territory of the Chernobyl Exclusion Zone no later than 02.06.1998. Currently, the Agroprom scientific research institute Agroprom (see Annex ** for a breakdown of activities) is developing equipment for complex devices used in radiation oncology. From the technical data, it appears that the device will be in high demand for patients with "tumor cordis, casus inoperabilis". The main advantages of the new equipment: increased safety measures for both the patient and the treating physician during the procedure, and the record speed of its irradiation procedure. In this regard, we ask to withdraw the research documents from the Central Archive and transfer them to the file cabinet of the Agroprom Research Institute to optimize the reporting work.</text>
 	</string>
 
 
@@ -1757,7 +1757,7 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 
 
 <string id="battery_change_headlamp_short_name">
-		<text>Battery</text>
+		<text>Battery (start here for your second session on 4/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="gazeta_otrivok_1_name">
