@@ -1766,15 +1766,13 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 
 
 <string id="gazeta_otrivok_1_opis">
-		<text>... The first reports of missing children from the village, which is close to the perimeter of the Chernobyl Exclusion Zone, were received by the Ivankivka District Department of the Ministry of Internal Affairs only the next morning. Neither the distribution of orientations nor the help of volunteers yielded promising results. It was decided by the rescue team coordinators to triple the search area. 
-	"In case the missing children are not found within three weeks, the search will have to be called off," the leader of a group of volunteers in Sector A8 warns us.
-
-\nLaw enforcement officials have suggested that children may have traveled to the CEZ, but cordon commanders say that no persons under the age of majority have been recorded in the vicinity of the thirty-kilometer perimeter. In response to the lead coordinator's request for permission to search for the children on the territory of the CEZ, the perimeter command refused, citing the territory's closed military regime.
+		<text>... The first reports of missing children from the village, which is close to the perimeter of the Chernobyl Exclusion Zone, were received by the Ivankivka District Department of the Ministry of Internal Affairs only the next morning. Neither the distribution of orientations nor the help of volunteers yielded promising results. It was decided by the rescue team coordinators to triple the radius of the search area. 
+	"In case the missing children are not found within three weeks, the search will have to be called off," the leader of a group of volunteers in Sector A8 warns us.\n\nLaw enforcement officials have suggested that children may have traveled to the Chernobyl Exclusion Zone, but military cordon commanders say that no persons under the age of majority have been recorded in the vicinity of the thirty-kilometer perimeter. In response to the lead coordinator's request for permission to search for the children on the territory of the Chernobyl Exclusion Zone, the perimeter commander refused, citing the territory's closed military regime.
 	Photos, first and last names can be seen on the last page. The editorial board of the newspaper "Echo of Chernobyl" according to the rescue group is offering a cash reward for any information on the whereabouts of the missing children that will help the search.</text>
 	</string>
 
 <string id="ecolog_kogo_tam_door12">
-		<text>You've been to the factory before, right? They say it's notorious among stalkers, and that anyone who climbs into the attic will have bad luck. At the Garbage, a guy with an eyepatch even said that a legendary stalker once got betrayed and died there.</text>
+		<text>You've been to the factory before, right? They say it's notorious among stalkers, and that anyone who climbs into the attic will have bad luck. At the Garbage, a guy with an eyepatch even said that a legendary stalker once got betrayed and died there. (start here for your first session on 4/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="ecolog_kogo_tam_door122">
