@@ -1772,20 +1772,20 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 	</string>
 
 <string id="ecolog_kogo_tam_door12">
-		<text>You've been to the factory before, right? They say it's notorious among stalkers, and that anyone who climbs into the attic will have bad luck. At the Garbage, a guy with an eyepatch even said that a legendary stalker once got betrayed and died there. (start here for your first session on 4/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>You've been to the factory before, right? They say it's notorious among stalkers, and that anyone who climbs into the attic will have bad luck. At the Garbage, a guy with an eyepatch even said that a legendary stalker once got betrayed and died there.</text>
 	</string>
 
 <string id="ecolog_kogo_tam_door122">
-		<text>Yeah, well, yeah. It's up to you in the big picture... but I need a simple anomaly detector. I heard there's one hidden in the attic of the factory. Unless, of course, it's already been stolen. If you get it, I'll give you a new 9x18. It's up to you, kid, to go there or not to go there.</text>
+		<text>Yeah, well.. yeah. In the grand scheme of things, it's up to you, but I need a simple anomaly detector. I heard there's one hidden in the attic of the factory.. unless, of course, it's already been stolen. If you get it, I'll give you a new 9x18 pistol. It's up to you, kid, if you want to do this or not.</text>
 	</string>
 
 <string id="ecolog_kogo_tam_door">
-		<text>The door! Close the door. This isn't a passageway.</text>
+		<text>The door! Close the door, this isn't a passageway.</text>
 	</string>
 
 
 <string id="barman_hey_slez_ska">
-		<text>What are you, drunk? Get down from there!</text>
+		<text>What are you, drunk? Get down from there! (start here for your second session on 4/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
