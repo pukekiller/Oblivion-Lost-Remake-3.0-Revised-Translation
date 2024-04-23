@@ -1785,7 +1785,7 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 
 
 <string id="barman_hey_slez_ska">
-		<text>What are you, drunk? Get down from there! (start here for your second session on 4/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>What are you, drunk? Get down from there!</text>
 	</string>
 
 
@@ -1794,19 +1794,10 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 	</string>
 
 <string id="city_fake_dnevnik_opis">
-		<text>To the Head of Kiev Branch of Laboratory No. 15, Karteevich I. L.\
-Ivan Lvovich, after conferring with the rest of the group, we have unanimously approved
-an offer to give you a sample of the anomalous body, as you requested. The body itself
-is dangerously close to the infamous Helena cap, due to the
-than it is difficult to study it on site. What we've been able to discover about
-the nature of the crystal is described below. We send you a sample container. Labeling
-container: "Monolith 2."\n*** \n
-Found in the bowels of Unit 4, a body of anomalous nature has no
-no analogs with officially (and unofficially) known to modern science alloys.
-Psi radiation levels range from ~1200 to ~1500 Jigowatts, which is dangerous
-for the life of anyone who comes within ten meters of it. In addition to that,
-we discovered a peculiarity in the behavior of the crystal: the creation of organic and
-of inorganic substances from literally nothing... </text>
+		<text>To the Head of Kiev Branch of Laboratory No. 15, Karteevich I. L.\n
+Ivan Lvovich, after conferring with the rest of the group, we have unanimously approved an offer to give you a sample of the anomalous body, as you requested. The body itself is dangerously close to the infamous Helena cap, due to the difficulty of studying it on site. What we've been able to discover about the nature of the crystal is described below. We send you a sample container. The container has a label that says: "Monolith 2."\n*** \n
+The crystal was found in the bowels of Unit 4 - it's a body of anomalous nature that has no analogs with officially (and unofficially) known to modern science alloys. The pisonic radiation levels it emits range from ~1200 to ~1500 Gigawatts, which is incredibly dangerous for the life of anyone who comes within ten meters of it. In addition to that, we discovered a peculiarity in the behavior of the crystal: the creation of organic and
+of inorganic substances from literally nothing. (start here for your first session on 4/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="ros_bloodsuk_name">
