@@ -1849,20 +1849,20 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="af-esc_vishka">
-		<text>An unknown artifact (start here for your first session on 4/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>An unknown artifact</text>
 	</string>
 
 <string id="enc_zone_artifact_esc_vishka">
-		<text>Unknown anomalous formation. It floats a bit in the air, while being quite heavy.</text>
+		<text>This object is an unknown anomalous artifact. It floats a bit in the air, and it also feels quite heavy.</text>
 	</string>
 
 <string id="tips_esc_sos_newbie">
-		<text>SOS: Come in! Somebody help me, I'm out here in the woods behind the muck!</text>
+		<text>SOS: Come in! Somebody help me, I'm out here in the woods behind the swamp!</text>
 	</string>
 
 
 <string id="yan_sah_spam_0">
-		<text>Professor: No reception, stalker. All questions to our assistant in the annex next to the bunker.</text>
+		<text>Professor: I can't directly talk with you, stalker. All questions must be directed to our assistant in the annex next to the bunker.</text>
 	</string>
 
 
@@ -1876,7 +1876,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="agr_olr_1_pogo_koluchki_article_tx">
-		<text>Wounded Goplit</text>
+		<text>Wounded Goplit (start here for your second session on 4/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="agr_olr_1_pogo_koluchki_article_text">
