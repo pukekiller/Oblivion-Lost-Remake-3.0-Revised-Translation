@@ -1880,7 +1880,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="agr_olr_1_pogo_koluchki_article_text">
-		<text>Hoplite, a stalker, a newcomer to the Cordon, got into trouble. He seems to have been here for a while and may be able to share some information. In order to bring him to his senses, I should give him 2 black thorn artifacts or 5 regular thorn artifacts. I think that should be enough. (start here for your first session on 4/25/24 and don't forget to remove this reminder whne you start)</text>
+		<text>Hoplite, a stalker, a newcomer to the Cordon, got into trouble. He seems to have been here for a while and may be able to share some information. In order to bring him to his senses, I should give him 2 black thorn artifacts or 5 regular thorn artifacts. I think that should be enough.</text>
 	</string>
 
 <string id="onn_bun_etaj2">
@@ -1892,7 +1892,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="radbun_svet_nado">
-		<text>Shit. Clearly not worth sticking around for too long... and where are all these scientists?</text>
+		<text>Shit. It's clearly not worth sticking around here for long... and where are all these scientists?</text>
 	</string>
 
 
@@ -1902,7 +1902,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="battery_change_short_name">
-		<text>Battery</text>
+		<text>Battery (start here for your second session on 4/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="enc_equipment_battery_change">
