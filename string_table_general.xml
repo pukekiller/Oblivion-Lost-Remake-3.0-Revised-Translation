@@ -1902,22 +1902,22 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="battery_change_short_name">
-		<text>Battery (start here for your second session on 4/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Battery </text>
 	</string>
 
 <string id="enc_equipment_battery_change">
-		<text>Removable rechargeable battery for PDAs. You can use it to find out the current charge of your portable computer.</text>
+		<text>A removeable battery for PDAs that can be recharged. You can use it to increase your PDAs power charge, and to find out what the current charge of your PDA is.</text>
 	</string>
 
 
 <string id="yan_oborud_quest_desc">
-		<text>A heavy crate of equipment for the scientists' camp at Lake Yantar.</text>
+		<text>A heavy crate of equipment that's meant for the scientists' camp at Lake Yantar.</text>
 	</string>
 
 
 
 <string id="yan_oborud_quest_name">
-		<text>Equipment box</text>
+		<text>Equipment crate (start here for your first session on 4/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="fil_saf_papka_name">
