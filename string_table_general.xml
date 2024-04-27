@@ -1937,13 +1937,13 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="pomosnik_propizdel_article_tx">
-		<text>Silver pendant (start here for your second session on 4/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Silver pendant</text>
 	</string>
 
 
 
 <string id="pomosnik_propizdel_article_text">
-		<text>The scientist at the science complex on Yantar refuses to let me into the Professor's bunker because of some personal problem. His wife disappeared in a lab under the Dark Valley. Clearly he wants the pendant that he said he gave her... Do I go looking for that pendant, or do I send that asshole back there?</text>
+		<text>The scientist at the science complex on Yantar refuses to let me into the Professor's bunker because of some personal problem. His wife disappeared in a lab under the Dark Valley. He clearly he wants the pendant that he said he gave her? Do I go looking for that pendant, or do I send that asshole back there?</text>
 	</string>
 
 
@@ -1962,7 +1962,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="skaner_skazal_arty_article_tx">
-		<text>Toad's missing courier</text>
+		<text>Toad's missing courier (start here for your first session on 4/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
