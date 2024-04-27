@@ -1917,18 +1917,16 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="yan_oborud_quest_name">
-		<text>Equipment crate (start here for your first session on 4/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Equipment crate</text>
 	</string>
 
 <string id="fil_saf_papka_name">
-		<text>Saffiano folder</text>
+		<text>Saffiano-covered folder</text>
 	</string>
 
 
 <string id="fil_saf_papka_opis">
-		<text>A saffiano-covered file, the owner was obviously a high-ranking man. Inside data on special equipment deliveries to the XZ-09 laboratory. Probably worth a pretty penny. Reports on the observation of the results of experiments 1) Implementation of the psycho-emotional correction unit in the settlement of employees of the Atomic Power plant was successful. Increases in productivity, efficiency and stamina have been observed among Chernobyl Power plant employees. Psychotherapists have noted a decrease in emotional intensity. It is true that the contingent complains of a sharp decline in general commutative manifestations. The version with the consequences of exposure to ionizing radiation is considered official.
-2) Surveillance report on the contingent of long-term residents of the territories with radiation background that does not always coincide with the established norms. Unscheduled gene mutations were seen among the test subjects. Suddenly, previously recessive traits became dominant, which affected production level performance. The observation of new daughter specimens was decided to be handed over to the reserve group. Observation of maternal specimens is ongoing.
-</text>
+		<text>A saffiano-covered folder - its owner was obviously a high-ranking man. Inside the folder is documentating containing data about special equipment deliveries to the XZ-09 laboratory. The information inside (and the folder itself) is probably worth a pretty penny. It also contains reports on the observation of the results of experiments: 1) Implementation of the psycho-emotional correction unit in the settlement of employees of the Atomic Power plant was successful. Increases in productivity, efficiency and stamina have been observed among Chernobyl Nuclear Power Plant employees. Psychotherapists have noted a decrease in emotional intensity. It's true that the contingent complains of a sharp decline in general commutative manifestations. There's also an official report with data detailing with the consequences of the inhabitants' exposure to heightened levels ionizing radiation caused by the accident that happened in 1986.\n2) There's also an surveillance report on the contingent of long-term residents of the Chernobyl Exclusion Zone, detailing that their exposure to heightened levels of background radiation does not always coincide with the established norms. Unscheduled gene mutations were seen among the test subjects. Suddenly, previously recessive traits became dominant, which affected production level performance. The observation of new daughter specimens was decided to be handed over to the reserve group. Observation of maternal specimens is ongoing.</text>
 </string>
 
 <string id="tips_monolit_ahtung_military">
@@ -1938,7 +1936,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="pomosnik_propizdel_article_tx">
-		<text>Silver pendant</text>
+		<text>Silver pendant (start here for your second session on 4/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
