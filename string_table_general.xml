@@ -1962,12 +1962,12 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="skaner_skazal_arty_article_tx">
-		<text>Toad's missing courier (start here for your first session on 4/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Toad's missing courier</text>
 	</string>
 
 
 <string id="skaner_skazal_arty_article_text">
-		<text>Toad: Lost contact with one of my couriers near an abandoned village. I don't know where he disappeared to. Do me a favor and find him.</text>
+		<text>Toad: I lost contact with one of my couriers near an abandoned village. I don't know where he disappeared to. Do me a favor and find him.</text>
 	</string>
 
 
@@ -1980,7 +1980,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="why_bacausewolfs">
-		<text>Yeah, well, what did you think? We have explosives, I think. We've been planting some land mines here. But I can see you have an interest in the house. Okay, here's the deal. Can you get me an artifact called a disintegrator, preferably a whole one. And one Zuda, I hear it's good for your health. If you bring the good stuff, I'll assign you our bomb squad to do it. Well, if you're tight on artifacts, fine, I'll take 10 grand from you and deal.</text>
+		<text>Yeah, what did you think? We've got explosives, I think. We've been mining the area. But I can see you got an interest in this place. Here's the deal. You get me an artifact called a Disintegrator, preferably a whole one. And some Zuda. I hear it's good for your health. If you bring me the goods, I'll assign you our bomb squad, he'll do everything... And if you're short on artifacts, fine, I'll take 10,000 from you and you're on your way.</text>
 	</string>
 
 
