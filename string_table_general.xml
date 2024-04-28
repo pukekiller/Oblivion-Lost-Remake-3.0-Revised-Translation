@@ -1757,7 +1757,7 @@ Objective: to break through to the epicenter of the Zone and destroy the cause o
 
 
 <string id="battery_change_headlamp_short_name">
-		<text>Battery (start here for your second session on 4/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Battery</text>
 	</string>
 
 <string id="gazeta_otrivok_1_name">
@@ -2005,7 +2005,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="empty_butilka_desc">
-		<text>An empty jar of special glass into which the substance of the Studen anomaly can be typed.</text>
+		<text>An empty jar that's made out of special, highly resistance and durable glass. You can store the substance the Studen anomaly is made out of in it.</text>
 	</string>
 
 
@@ -2021,7 +2021,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="vedmak_zaidi_basem_artcl_text">
-		<text>On the approach to the bar came a message from Witcher asking for a meeting...</text>
+		<text>On my way to the bar, Witcher sent me a message, asking to meet with me.</text>
 	</string>
 
 
@@ -2029,7 +2029,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="naity_doki_zablika_article_tx">
-		<text>The Zyablikov brothers</text>
+		<text>The Zyablikov brothers (start here for your first session on 4/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
