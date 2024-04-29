@@ -2052,7 +2052,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="enc_equipment_antirad_medpribor">
-		<text>An experimental sample of an anti-radiation drug that's designed to protect the human body from various types of radiation contamination. Its effectiveness - and how long it works - usually no more than a few minutes at best, depends on the drug's expiration date.\nServes as a treatment for radiation sickness.</text>
+		<text>An experimental sample of an anti-radiation drug that's designed to protect the human body from various types of radioactive contamination. Its effectiveness - and how long it works - usually no more than a few minutes at best, depends on the drug's expiration date.\nServes as a treatment for radiation sickness.</text>
 	</string>
 
 
