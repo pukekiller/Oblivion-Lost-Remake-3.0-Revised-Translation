@@ -2087,7 +2087,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="pda_btn_encyclopedia_ssss">
-		<text>^Encyclopedia^ (start here for your first session on 4/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>^Encyclopedia^</text>
 	</string>
 
 
@@ -2096,19 +2096,19 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="af_dummy_dummy_q1_desc">
-		<text>It's a strange kind of artifact Pee Wee. It's stuck to the backpack wall. It gives off a faint greenish glow.</text>
+		<text>This specific artifact, known as the 'Pee Wee', is a very strange one. It sticks itself to the wall of your backpack, and gives off a faint greenish glow.</text>
 	</string>
 
 
 
 <string id="Conserva_short">
-		<text>Conserve</text>
+		<text>Tourist's Delight</text>
 	</string>
 
 
 
 <string id="shiiiiiiit_1">
-		<text>Not much, believe me. You know, the device is a rare thing. Not every soldier is eager to share it. So..., works in autonomous mode, the charge is enough for... for quite some time. If you need another one, come on over. Just don't forget the money.</text>
+		<text>Not much, believe me. You know, this device is a rare thing in the Zone. Not every soldier is eager to share it. Anyway, it works in autonomous mode, its battery charge is enough for... quite some time. If you need another one, come on over. Just don't forget the money.</text>
 	</string>
 
 
@@ -2118,7 +2118,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="digger_combez_atc_agr_tx">
-		<text>Digger's Note.</text>
+		<text>Digger's Note (start here for your second session on 4/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
