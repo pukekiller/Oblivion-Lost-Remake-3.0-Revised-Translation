@@ -2118,13 +2118,13 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="digger_combez_atc_agr_tx">
-		<text>Digger's Note (start here for your second session on 4/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Digger's Note</text>
 	</string>
 
 
 
 <string id="digger_combez_atc_agr_text">
-		<text>Decided to raid the NRI with our local landmark from the truck of death... and why not? He even got me a gravity gun to go with it. It's good stuff. The main thing is not to forget where I left the spare scientist from the last raid, or it's a research institute... okay. I hid it in the cab of the locomotive, I think I'll remember it as soon as I see it... the main thing is that no one stole it when I came...</text>
+		<text>Decided to raid the Agroprom Research Institute with our local attraction from the death truck... and why not? He even got me a gravity gun to go with it. It's good stuff. I don't forget where I left my backup science outfit from the last raid. I hid it in the cab of the locomotive, I think I'll remember it when I see it. The main thing is that nobody steals it by the time I get there.</text>
 	</string>
 
 
@@ -2134,14 +2134,14 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="trader_road_nin_donk_now">
-		<text>Toad: I don't recommend going there, it's a scary place. I can't believe how loud it's buzzing. Although sometimes some gangsters came from there, local kids, they hung out here, over the bridge.</text>
+		<text>Toad: I don't recommend going there, it's a scary place. It's so loud, it's really loud. Although sometimes bandits come from there - local bandits that tend to hang out near the bridge.</text>
 	</string>
 
 
 
 
 <string id="svamp_mechenyy_article_tx">
-		<text>Another marked one</text>
+		<text>Another marked one... (start here for your first session on 4/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
