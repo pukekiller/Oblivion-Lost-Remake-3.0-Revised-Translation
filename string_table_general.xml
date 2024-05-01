@@ -2124,7 +2124,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="digger_combez_atc_agr_text">
-		<text>Decided to raid the Agroprom Research Institute with our local attraction from the death truck... and why not? He even got me a gravity gun to go with it. It's good stuff. I don't forget where I left my backup science outfit from the last raid. I hid it in the cab of the locomotive, I think I'll remember it when I see it. The main thing is that nobody steals it by the time I get there.</text>
+		<text>I decided to raid the Agroprom Research Institute with our local attraction from the death truck... and why not? He even got me a gravity gun to go with it. It's good stuff. I don't forget where I left my backup science outfit from the last raid. I hid it in the cab of the locomotive, I think I'll remember it when I see it. The main thing is that nobody steals it by the time I get there.</text>
 	</string>
 
 
@@ -2141,24 +2141,24 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="svamp_mechenyy_article_tx">
-		<text>Another marked one... (start here for your first session on 4/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Another marked one...</text>
 	</string>
 
 
 <string id="svamp_mechenyy_article_text">
-		<text>Toad said a stalker from the death truck came by looking for me. I need to find him in the swamp, he's obviously in one of the huts. Maybe he remembers something and can clarify things.</text>
+		<text>Toad said that a stalker from the death truck came by looking for me. I need to find him in the swamp - he's obviously in one of the huts. Maybe he remembers something and can clarify things.</text>
 	</string>
 
 
 
 
 <string id="pda_dead_off_shit_tx">
-		<text>PDA charge</text>
+		<text>PDA charge note</text>
 	</string>
 
 
 <string id="pda_dead_off_shit_text">
-		<text>You have to remember to keep your pda charged... especially in raids.</text>
+		<text>You have to remember to keep your PDA charged, especially during raids. (start here for your second session on 5/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
