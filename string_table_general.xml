@@ -2158,25 +2158,25 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="pda_dead_off_shit_text">
-		<text>You have to remember to keep your PDA charged, especially during raids. (start here for your second session on 5/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>You have to remember to keep your PDA charged, especially during raids.</text>
 	</string>
 
 
 
 <string id="dolg_barter_shit_tx">
-		<text>Bartering at the Duty Guy</text>
+		<text>Dutier's barter</text>
 	</string>
 
 
 <string id="dolg_barter_shit_text">
-		<text>Stalker Duty in the bar offers to exchange ammunition, and other things, such as gasoline for vodka... You can find him at their base at night, or in its vicinity, and negotiate a barter... However, it's unclear how this may yet end...</text>
+		<text>A Duty stalker in the bar offers to exchange ammunition, and other things, such as gasoline for vodka. At night he can be found at their base, or in its general vicinity - if he's there, he'll agree to barter. However, it is not clear how it may end up.</text>
 	</string>
 
 
 
 
 <string id="mg_leader_ab_bolt">
-		<text>Don't forget the bolts, buddy...</text>
+		<text>Don't forget the bolts, buddy. (start here for your first session on 5/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
