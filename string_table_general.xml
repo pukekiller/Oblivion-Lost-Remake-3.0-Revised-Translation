@@ -2197,7 +2197,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="jaba_arts_go_text">
-		<text>I need a weak gravity-based artifact... and a medium one, or  a regular one too. Maybe you've seen one of these before. If you bring it in, I'll take it at a higher price. And if you get both of them, I'll give you a little extra for yourself. (start here for your second session on 5/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>I need a weak gravity-based artifact... and a medium one, or  a regular one too. Maybe you've seen one of these before. If you bring it in, I'll take it at a higher price. And if you get both of them, I'll give you a little extra for yourself.</text>
 	</string>
 
 
@@ -2205,7 +2205,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="enc_equipment_detector_siniy">
-		<text>A detector for measuring anomalous activity. To make measurements it is necessary to take the device in your hands and activate it near the source of anomalous energy.</text>
+		<text>A detector that's meant for measuring anomalous activity. In order to make measurements with it, you need to use it with your hands and activate it near a source of anomalous energy.</text>
 	</string>
 
 
@@ -2216,18 +2216,18 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="water">
-		<text>Water</text>
+		<text>Water bottle</text>
 	</string>
 
 
 <string id="enc_equipment_food_water">
-		<text>Drinking water, helps quench thirst. Produced clearly out of the zone.</text>
+		<text>A plastic bottle filled with cool and refreshing drinking water, great for quenching thirst. These are normally imported into the Zone by traders who buy them in bulk.</text>
 	</string>
 
 
 
 <string id="dont_open_deads_here">
-		<text>It says "bodies here</text>
+		<text>Writing: the bodies are here (start here for your first session on 5/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
