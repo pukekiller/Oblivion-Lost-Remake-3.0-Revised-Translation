@@ -2227,7 +2227,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="dont_open_deads_here">
-		<text>Writing: the bodies are here (start here for your first session on 5/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Writing: the bodies are here</text>
 	</string>
 
 
@@ -2263,11 +2263,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="monobar1">
-		<text>I'm going to tell you a story I tell everyone. It's the legend of the Monolith, quite
-that may have caused the Zone. In 2006, the Zone exploded, there were
-measures were taken and the population in the district was evacuated, the Zone was cordoned off by army units. No one's
-knew what was going on, panic all around, the Zone was growing, the field labs were powerless. Heap
-people died inside. Everyone is afraid of radiation that could cover half of Europe.</text>
+		<text>I'm going to tell you a story I tell everyone. It's a legend about the Monolith, quite possibly the cause of the Zone. In 2006, the Zone exploded, measures were taken and the population in the area was evacuated, the Zone was cordoned off by army units. No one knew what was going on, panic all around, the Zone was growing, field labs were powerless. A lot of people died inside. Everyone is afraid of radiation that could cover half of Europe. (start here for your second session on 5/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
