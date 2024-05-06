@@ -2304,19 +2304,19 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="gar_zov_mon_text">
-		<text>Everything happened suddenly My partner died right before my eyes in fraction of a second, he literally burned out from the inside... what was that? And this call.. something was calling me.. I'll need to tell Toad about this when I'm at his bunker. (start here for your first session on 5/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>Everything happened suddenly My partner died right before my eyes in fraction of a second, he literally burned out from the inside... what was that? And this call.. something was calling me.. I'll need to tell Toad about this when I'm at his bunker.</text>
 	</string>
 
 
 
 <string id="gar_zov_mon_tx">
-		<text>A strange call</text>
+		<text>Strange call</text>
 	</string>
 
 
 
 <string id="doki_agro_dyatel_opis">
-		<text>A small pile of papers with some drawings and calculations. -the impact zone of the plant in the city area is approximately several tens of kilometers, depending on the power supplied... - The mobile versions of units 2 and 3 are currently inactive, unit 3 is still in the scientist camp as far as I know.  </text>
+		<text>A small pile of papers with some drawings and calculations. There's a few things of note in these papers: - "the impact zone of the unit in the city area is approximately several dozen kilometers, depending on the power delivered..." - "mobile versions of units 2 and 3 are currently inactive, unit 3 is still in the science camp as far as I know." (start here for your second session on 5/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
