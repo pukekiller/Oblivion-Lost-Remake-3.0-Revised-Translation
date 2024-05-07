@@ -2341,23 +2341,23 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="bar_generator_tip">
-		<text>Refuel the generator (a can of gasoline is required) (start here for your second session on 5/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Refuel the generator (a can of gasoline is required)</text>
 	</string>
 
 
 <string id="tips_jaba_ahtung_yantar">
-		<text>Toad: Stalker! You're near the Yantar crossing now. Don't go in there now unless you want your brains to turn into mush.</text>
+		<text>Toad: Stalker! You're near the passage to Yantar now. Don't go there now if you don't want your brains to fry.</text>
 	</string>
 
 
 <string id="tips_barman_ahtung_military">
-		<text>Stalker! You're near the Silent Hills crossing now. Don't go in there now unless you want your brains to turn into mush. Keep this in mind.</text>
+		<text>Bartender: Stalker! You're near the passage to the Quiet Hills. Don't go there now, unless you want your brains to fry. Keep this in mind.</text>
 	</string>
 
 
 
 <string id="tips_barman_ahtung_yantar">
-		<text>Stalker! You're near the Yantar crossing now. Don't go in there now unless you want your brains to turn into mush.</text>
+		<text>Bartender: Stalker!  You are now near the passage to Yantar.  Don't even think about going there now if you don't want your brains to get fried. (start here for your first session on 5/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
