@@ -2331,31 +2331,17 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="milradio_article_tx">
-		<text>Strange radio broadcast (start here for your first session on 5/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>Strange radio broadcast</text>
 	</string>
 
 
 <string id="milradio_article_text">
-		<text>Heard a broadcast on an ancient radio. Probably from
-the Big Land, which is sometimes mentioned by other stalkers. I don't know if they were telling the truth on the air or lying;
-if it was an old tape or a live feed, but I can't
-believe what I'm hearing.
-...no real basis for a serious worries.
-...temporary measures...
-... decisive actions...
-...drastic changes...
-...it's certainly too early to talk about accomplishments
-biological minimum...
-It feels like that the Big Land
-is as messed up as the Zone... if not worse. You have to wonder if God exists.
-Earth, really? I've probably been there. In my
-past. What if I wasn't? Maybe there's no
-Big Land? Then where do stalkers come from, and where is this broadcast coming from?</text>
+		<text>Heard a broadcast on an ancient radio. It's most likely from the Big Land that the other stalkers sometimes mention. I don't know if the broadcast was true or false; an old recording or a live broadcast, but I can't believe what I heard. \n\n...no real cause for serious concern. \n\n...temporary measures... \n\n...drastic changes...\n\n ... \n\n...decisive steps... \n\n...radical changes... \n\n...it's certainly too early to talk about achieving the biological minimum... \n\nIt feels like the Big Land is in the same mess as the Zone, if not worse. You can't help but wonder if Big Land really exists. I've probably been there, in my past. But what if it doesn't? Maybe there is no Big Land. Then where do the stalkers come from, and where does this broadcast come from?</text>
 	</string>
 
 
 <string id="bar_generator_tip">
-		<text>Refuel the generator (a can of gasoline is required).</text>
+		<text>Refuel the generator (a can of gasoline is required) (start here for your second session on 5/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
