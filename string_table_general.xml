@@ -2389,20 +2389,20 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="neizvestnyy_voyaka">
-		<text>Unknown soldier (start here for your first session on 5/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Unknown soldier</text>
 	</string>
 
 
 
 
 <string id="device_pda_last_day">
-		<text>PDA stalker group Last Day. Last entry -...the world is heading for the end of the world... the Zone's territory will soon expand many times over. Several countries will find themselves in the Zone, whose populations will not have time to evacuate... data error...we track down zombified stalkers, study psi radiation, develop theories about psychotropic weapons and how they work. It is necessary to send agents, as the target is extremely difficult to reach, even though they can penetrate outside the zone.</text>
+		<text>This PDA belongs to a stalker who was part of "Final Day" faction. The last entry is in it reads: "?... the world is heading towards the end of the world... soon the territory of the Zone will increase many times over. There will be several countries in the Zone whose populations will not have time to evacuate... ?data error?... we are tracking down zombified stalkers, studying psionic-  radiation, developing theories about psychotropic weapons and how they work.  It is necessary to send ?agents?, since the target is extremely difficult to access, even despite the possibility of their penetration beyond the territory outside the Zone."</text>
 	</string>
 
 
 
 <string id="bolezn_behenstvo_art_tx">
-		<text>Diseases: Rabies</text>
+		<text>Diseases: Rabies (start here for your second session on 5/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="bolezn_behenstvo_art_text">
