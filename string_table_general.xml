@@ -2402,18 +2402,18 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="bolezn_behenstvo_art_tx">
-		<text>Diseases: Rabies (start here for your second session on 5/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Diseases: Rabies</text>
 	</string>
 
 <string id="bolezn_behenstvo_art_text">
-		<text>Caught rabies from a dog bite. You're lucky you had a chance to heal. You have to be careful with dogs from now on, it turns out these things are not as harmless as you might think at first glance. I bet most of them are infected with this virus... and the virus is insidious. The symptoms occur spontaneously and not immediately.</text>
+		<text>I caught rabies from a dog bite. I was lucky that I had the opportunity to recover. From now on I'll need to be more careful with dogs; it turns out that these creatures are not as harmless as you might think at first glance. I bet that most of them are infected with rabies - and it's insidious.  Symptoms appear spontaneously and not immediately.</text>
 	</string>
 
 
 
 
 <string id="mg_zaidivdom_hello">
-		<text>Stalker, get in the house. I need help.</text>
+		<text>Stalker, come into the house. I need help. (start here for your first session on 5/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
