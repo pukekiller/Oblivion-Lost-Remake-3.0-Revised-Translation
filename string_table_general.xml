@@ -2413,7 +2413,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="mg_zaidivdom_hello">
-		<text>Stalker, come into the house. I need help. (start here for your first session on 5/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker, come into the house. I need help.</text>
 	</string>
 
 
@@ -2421,13 +2421,13 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="jellomg_1">
-		<text>Don't shoot. I won't hurt you unless you want me to.</text>
+		<text>Don't shoot. I won't harm you.. unless if you want that, of course.</text>
 	</string>
 
 
 
 <string id="jellomg_2">
-		<text>You're not human. How can you talk?</text>
+		<text>What the... you're not human. How can you talk? (start here for your second session on 5/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
