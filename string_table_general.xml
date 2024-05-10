@@ -2427,13 +2427,13 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="jellomg_2">
-		<text>What the... you're not human. How can you talk? (start here for your second session on 5/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>What the... you're not human. How can you talk?</text>
 	</string>
 
 
 
 <string id="jellomg_3">
-		<text>There was when what... talk... it's no problem... stalker, you wouldn't happen to have anything to eat, would you?</text>
+		<text>There was a time when... to say... it's not a problem... stalker, do you happen to have anything to eat?</text>
 	</string>
 
 
@@ -2462,7 +2462,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="Medkit_scientific_sh">
-		<text>Health-18</text>
+		<text>Health-18 (start here for your first session on 5/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
