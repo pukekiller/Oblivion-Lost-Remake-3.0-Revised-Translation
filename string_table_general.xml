@@ -2462,7 +2462,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="Medkit_scientific_sh">
-		<text>Health-18 (start here for your first session on 5/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Health-18</text>
 	</string>
 
 
@@ -2472,7 +2472,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="stalker_outfit_description_m671">
-		<text>A stalker's jumpsuit completely worn out and turned to dust.</text>
+		<text>This stalker suit is completely ruined. It'll keep you warm, but it'll provide almost zero protection against anything else. (start here for your second session on 5/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
