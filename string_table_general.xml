@@ -2472,17 +2472,17 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="stalker_outfit_description_m671">
-		<text>This stalker suit is completely ruined. It'll keep you warm, but it'll provide almost zero protection against anything else. (start here for your second session on 5/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>This stalker suit is completely ruined. It'll keep you warm, but it'll provide almost zero protection against anything else.</text>
 	</string>
 
 
 <string id="st_outfit_spawn_poltera_article_tx">
-		<text>A suit for a partner</text>
+		<text>Partner's suit</text>
 	</string>
 
 
 <string id="st_outfit_spawn_poltera_article_text">
-		<text>Found a man to go to the NRI together. We need to get a costume for him though, otherwise he won't go. Toad said he had one, but in return he asked to deal with a certain mutant in the village beyond the bridge. Well, what else is left?</text>
+		<text>I found a man that'll go with me to Agroprom. I need to get a decent suit for him though, otherwise he won't go. Toad said he had one, but in return for it - he asked me to deal with a certain mutant in the village beyond the bridge. I hope this is worth the effort. (start here for your first session on 5/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
