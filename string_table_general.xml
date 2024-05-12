@@ -2482,7 +2482,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="st_outfit_spawn_poltera_article_text">
-		<text>I found a man that'll go with me to Agroprom. I need to get a decent suit for him though, otherwise he won't go. Toad said he had one, but in return for it - he asked me to deal with a certain mutant in the village beyond the bridge. I hope this is worth the effort. (start here for your first session on 5/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>I found a man that'll go with me to Agroprom. I need to get a decent suit for him though, otherwise he won't go. Toad said he had one, but in return for it - he asked me to deal with a certain mutant in the village beyond the bridge. I hope this is worth the effort.</text>
 	</string>
 
 
@@ -2493,7 +2493,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="esc_spawn_poltera_masinistadart_text">
-		<text>Toad promises a new scientific suit suitable for trips to research institutes and especially radiation-contaminated zones. We need to check out a railroad embankment with a fallen train lying next to it.</text>
+		<text>Toad promised a new scientific suit for me if I do him a favor. It'll be suitable for trips to research institutes and areas heavily contaminated with radiation. I need to check the railroad embankment, next to which there is a derailed train. (start here for your second session on 5/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
