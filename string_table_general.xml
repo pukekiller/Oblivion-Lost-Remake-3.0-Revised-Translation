@@ -2493,7 +2493,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="esc_spawn_poltera_masinistadart_text">
-		<text>Toad promised a new scientific suit for me if I do him a favor. It'll be suitable for trips to research institutes and areas heavily contaminated with radiation. I need to check the railroad embankment, next to which there is a derailed train. (start here for your second session on 5/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>Toad promised a new scientific suit for me if I do him a favor. It'll be suitable for trips to research institutes and areas heavily contaminated with radiation. I need to check the railroad embankment, next to which there is a derailed train.</text>
 	</string>
 
 
@@ -2502,7 +2502,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="bocjonok_start_article_text">
-		<text>I got my hazmat suit, Toad noticed it right away. Asked me to get something just as phoned in from the house that's as phoned in as a reactor. The suit is supposed to protect against radiation, but you need to check the condition first. If there is a lot of wear, you should not climb inside it.</text>
+		<text>I got my protective suit, and Toad wanted to take advantage of that fact right away. He asked me to get something that's very dangerous from the house that's producing a lot of radiation like a reactor. The suit I got is supposed to protect against radiation, but I have to check its condition first. If there's a lot of wear and tear, I shouldn't go in there. (start here for your first session on 5/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
