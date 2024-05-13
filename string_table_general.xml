@@ -2514,7 +2514,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="dead_case_go_osved_article_text">
-		<text>I found a strange case at the tower. There were corpses near it - nothing but bones. I think I ran into the the remains of some scientific expedition or something. Toad showed interest, but I decided to keep the case... for now. He told me to talk to a certain Snitch at the Bar, I think I'll share my discovery with him. (start here for your second session on 5/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>I found a strange case at the tower. There were corpses near it - nothing but bones. I think I ran into the the remains of some scientific expedition or something. Toad showed interest, but I decided to keep the case... for now. He told me to talk to a certain Snitch at the Bar, I think I'll share my discovery with him.</text>
 	</string>
 
 
@@ -2525,11 +2525,11 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="glaz_atric_tx">
-		<text>Insert eye</text>
+		<text>False eye</text>
 	</string>
 
 <string id="glaz_atric_text">
-		<text>I met a stalker named Phil at the Garbage. Asked me to get him his false eye. He says that it's with a stalker at the Duty checkpoint on the northern part of the dump.</text>
+		<text>I met a stalker named Phil at the Garbage. He asked me to get him his false eye. He says that it's with a stalker at the Duty checkpoint that's at the northern part of the Garbage. (start here for your first session on 5/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
