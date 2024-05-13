@@ -2502,19 +2502,19 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="bocjonok_start_article_text">
-		<text>I got my protective suit, and Toad wanted to take advantage of that fact right away. He asked me to get something that's very dangerous from the house that's producing a lot of radiation like a reactor. The suit I got is supposed to protect against radiation, but I have to check its condition first. If there's a lot of wear and tear, I shouldn't go in there. (start here for your first session on 5/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>I got my protective suit, and Toad wanted to take advantage of that fact right away. He asked me to get something that's very dangerous from the house that's producing a lot of radiation like a reactor. The suit I got is supposed to protect against radiation, but I have to check its condition first. If there's a lot of wear and tear, I shouldn't go in there.</text>
 	</string>
 
 
 
 <string id="dead_case_go_osved_article_tx">
-		<text>It's a strange case</text>
+		<text>Strange case</text>
 	</string>
 
 
 
 <string id="dead_case_go_osved_article_text">
-		<text>Found a strange case on the tower... there are dead bodies nearby, practically bones already. Probably some kind of scientific expedition or something. Toad showed interest, but I decided to keep him...for now. Said to talk to a certain Informant at the bar.</text>
+		<text>I found a strange case at the tower. There were corpses near it - nothing but bones. I think I ran into the the remains of some scientific expedition or something. Toad showed interest, but I decided to keep the case... for now. He told me to talk to a certain Snitch at the Bar, I think I'll share my discovery with him. (start here for your second session on 5/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
