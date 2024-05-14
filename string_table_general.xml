@@ -2529,17 +2529,17 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="glaz_atric_text">
-		<text>I met a stalker named Phil at the Garbage. He asked me to get him his false eye. He says that it's with a stalker at the Duty checkpoint that's at the northern part of the Garbage. (start here for your first session on 5/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>I met a stalker named Phil at the Garbage. He asked me to get him his false eye. He says that it's with a stalker at the Duty checkpoint that's at the northern part of the Garbage.</text>
 	</string>
 
 
 <string id="find_aka_novic">
-		<text>Kalashnikov for the beginner</text>
+		<text>The novice's Kalashnikov</text>
 	</string>
 
 
 <string id="find_aka_novic_text">
-		<text>The strange rookie at the rock asks to take his AK74 by force from the bandits. That's a nice weapon. Maybe I should keep it, send it out, or-- or--</text>
+		<text>A strange newcomer that's near cliff asked to help him take back his AK-74 that was stolen from him by a bunch of bandits. Not a bad weapon. I could get it and return it to its owner - or keep it for myself. (start here for your second session on 5/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
