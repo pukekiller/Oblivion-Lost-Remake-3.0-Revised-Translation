@@ -2539,14 +2539,14 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="find_aka_novic_text">
-		<text>A strange newcomer that's near cliff asked to help him take back his AK-74 that was stolen from him by a bunch of bandits. Not a bad weapon. I could get it and return it to its owner - or keep it for myself. (start here for your second session on 5/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>A strange newcomer that's near cliff asked to help him take back his AK-74 that was stolen from him by a bunch of bandits. Not a bad weapon. I could get it and return it to its owner - or keep it for myself.</text>
 	</string>
 
 
 
 
 <string id="psy_blocerator_desc">
-		<text>A psi-damage shielding device for the Dark Valley. Doesn't save you from exposure to strong radiation. Used by military stalkers as well as veteran stalkers.</text>
+		<text>A device that protects its wearer from the effects of psionic radiation. It'll protect you against low to moderate levels of psionic radiation, but it's useless against high levels of psionic radiation. These are normally used by military stalkers and veteran stalkers. (start here for your first session on 5/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="psy_blocerator">
