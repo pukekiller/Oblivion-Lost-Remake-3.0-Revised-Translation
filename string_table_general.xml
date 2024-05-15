@@ -2554,7 +2554,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 <string id="item_razradnik_name">
-		<text>Discharger</text>
+		<text>Anomaly discharger</text>
 	</string>
 
 
@@ -2564,12 +2564,12 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="esc_dead_bochonok_desc">
-		<text>A barrel that was found in the radioactive house. The inscription on its side reads: "Hazardous materials". (start here for your second session on 5/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>A barrel that was found in the radioactive house. The inscription on its side reads: "Hazardous materials".</text>
 	</string>
 
 
 <string id="item_razradnik_desc">
-		<text>Anomaly Discharger. Temporarily neutralizes anomalous activity and radiation within a radius of about 10 meters from the activation site. To activate, you must activate the device near the anomaly.</text>
+		<text>This device discharges anomalies. When it interacts with an anomaly, it temporarily neutralizes its anomalous activity and radiation within a radius of approximately 10 meters around the device. To use it, you need to activate the device next to the anomaly. (start here for your first session on 5/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
