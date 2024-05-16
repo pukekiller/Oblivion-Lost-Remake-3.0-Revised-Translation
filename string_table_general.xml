@@ -2569,7 +2569,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="item_razradnik_desc">
-		<text>This device discharges anomalies. When it interacts with an anomaly, it temporarily neutralizes its anomalous activity and radiation within a radius of approximately 10 meters around the device. To use it, you need to activate the device next to the anomaly. (start here for your first session on 5/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>This device discharges anomalies. When it interacts with an anomaly, it temporarily neutralizes its anomalous activity and radiation within a radius of approximately 10 meters around the device. To use it, you need to activate the device next to the anomaly.</text>
 	</string>
 
 
@@ -2580,7 +2580,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
     <string id="enc_weapons1_wpn-pistol_future">
-		<text>A paralyzer pistol developed presumably in the northern part of the exclusion zone.\nAffects humans and mutants, causing a sense of panic in the enemy.</text>
+		<text>A stun gun, presumably developed in the northern part of the Chernobyl Exclusion Zone.\nAIt affects people and mutants by  causing a feeling of intense panic, causing any would-be attacker to flee or stumble. (start here for your second session on 5/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
