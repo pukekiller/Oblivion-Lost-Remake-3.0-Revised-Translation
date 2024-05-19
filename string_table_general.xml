@@ -2614,17 +2614,17 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
    <string id="tips_arg_trader_about_zamery">
-		<text>Messer, you're in the swamp area, aren't you? Got a little errand for you. The scientists at the science camp at Yantar ordered me to get water samples from there. If you're around, do them a favor. There's probably some vials in the abandoned labs somewhere, so you can use those to collect the water samples. Be careful when you go to Yantar, there's so much psionic radiation, you'll burn your brains out if you're careless. Anyway, get some samples, and then when you're near my bunker, drop them off. That's it. (start here for your second session on 5/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Messer, you're in the swamp area, aren't you? Got a little errand for you. The scientists at the science camp at Yantar ordered me to get water samples from there. If you're around, do them a favor. There's probably some vials in the abandoned labs somewhere, so you can use those to collect the water samples. Be careful when you go to Yantar, there's so much psionic radiation, you'll burn your brains out if you're careless. Anyway, get some samples, and then when you're near my bunker, drop them off. That's it.</text>
 	</string>
 
 
     <string id="device_pda_slizen_reg_desc">
-		<text>PDA of a stalker of the Black Slime faction. Merchants can offer a good price for it.</text>
+		<text>This PDA belonged to a stalker that was part of the Black Slugs group. Merchants offer a good price for it.</text>
 	</string>
 
 
     <string id="device_pda_slizen_desc">
-		<text>PDA of the leader of the Black Slimes. The access code record for the underground complex is access code 4578.</text>
+		<text>This PDA belonged to the leader of the Black Slugs group. Inside it is an entry about the access code to the underground complex - the code being 4578. (start here for your first session on 5/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
