@@ -2629,7 +2629,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
     <string id="tip_use_lestniza">
-		<text>get out</text>
+		<text>Get out</text>
 	</string>
 
 
@@ -2653,7 +2653,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="st_move_to_slot6">
-		<text>Put on suit</text>
+		<text>Put on outfit</text>
 	</string>
 
 
