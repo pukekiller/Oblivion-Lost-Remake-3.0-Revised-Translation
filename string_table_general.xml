@@ -2624,7 +2624,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
     <string id="device_pda_slizen_desc">
-		<text>This PDA belonged to the leader of the Black Slugs group. Inside it is an entry about the access code to the underground complex - the code being 4578. (start here for your first session on 5/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>This PDA belonged to the leader of the Black Slugs group. Inside it is an entry about the access code to the underground complex - the code being 4578.</text>
 	</string>
 
 
@@ -2653,32 +2653,32 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="st_move_to_slot6">
-		<text>Put on a suit</text>
+		<text>Put on suit</text>
 	</string>
 
 
         <string id="st_move_to_slot5">
-		<text>Slot five.</text>
+		<text>Slot five</text>
 	</string>
 
 
         <string id="st_move_to_slot4">
-		<text>In slot four.</text>
+		<text>Slot four</text>
 	</string>
 
 
         <string id="st_move_to_slot3">
-		<text>In the third slot</text>
+		<text>Slot three</text>
 	</string>
 
 
        <string id="st_move_to_slot2">
-		<text>In the second slot</text>
+		<text>Slot two</text>
 	</string>
 
 
        <string id="st_move_to_slot1">
-		<text>In the first slot.</text>
+		<text>Slot one (start here for your second session on 5/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
