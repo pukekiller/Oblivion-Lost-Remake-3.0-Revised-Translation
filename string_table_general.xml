@@ -2678,7 +2678,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="st_move_to_slot1">
-		<text>Slot one (start here for your second session on 5/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Slot one</text>
 	</string>
 
 
@@ -2695,11 +2695,11 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="tip_use_verstak">
-		<text>Use a workbench</text>
+		<text>Use workbench</text>
 	</string>
 
        <string id="rpk_empty_now">
-		<text>No ammunition</text>
+		<text>No ammo (start here for your first session on 5/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
