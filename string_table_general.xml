@@ -2699,17 +2699,17 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
        <string id="rpk_empty_now">
-		<text>No ammo (start here for your first session on 5/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>No ammo</text>
 	</string>
 
 
        <string id="barmen_wtf_valinah">
-		<text>There will be no talking now... Come back in the morning.</text>
+		<text>I'd rather keep things quiet for now. Come back in the morning.</text>
 	</string>
 
 
        <string id="barmen_wtf_uyoneed">
-		<text>Hey, stalker, what do you need?</text>
+		<text>Hello stalker, what do you need? (start here for your second session on 5/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
