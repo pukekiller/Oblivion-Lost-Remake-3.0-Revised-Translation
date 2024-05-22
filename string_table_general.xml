@@ -2709,7 +2709,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="barmen_wtf_uyoneed">
-		<text>Hello stalker, what do you need? (start here for your second session on 5/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hello stalker, what do you need?</text>
 	</string>
 
 
@@ -2720,18 +2720,18 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
        <string id="pizdui_na_krisu">
-		<text>Great, head to the bunker site. (start here for your first session on 5/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Great, head to the bunker site.</text>
 	</string>
 
 
 
         <string id="diplomat_code_viska_name_desc">
-		<text>An old shabby briefcase with a code lock. Closed. Looks like we can't open it with improvised means. There's something inside.</text>
+		<text>An old shabby briefcase with a combination lock that's closed. It looks like it won't be possible to open it with improvised means, judging by how secure it is. It's safe to assume that there's something important inside this briefcase.</text>
 	</string>
 
 
         <string id="diplomat_code_viska_name">
-		<text>Closed briefcase</text>
+		<text>Locked briefcase (start here for your second session on 5/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
