@@ -2731,7 +2731,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="diplomat_code_viska_name">
-		<text>Locked briefcase (start here for your second session on 5/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Locked briefcase</text>
 	</string>
 
 
@@ -2743,23 +2743,23 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 	<string id="OLR_3_start_here_1111111">
-		<text>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! FRA 30 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
+		<text>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! OLR 3.0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</text>
 	</string>
 
 
 
 	<string id="car_task_moskv_tx">
-		<text>Bought Moskvich</text>
+		<text>Purchased Moskvich</text>
 	</string>
 
 
 	<string id="car_task_lada_tx">
-		<text>The Lada I bought</text>
+		<text>Purchased Lada</text>
 	</string>
 
 
 	<string id="car_task_zapor_tx">
-		<text>Bought a Zaporozhets</text>
+		<text>Purchased Zaporozhets (start here for your first session on 5/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
