@@ -2777,13 +2777,13 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
 	<string id="vhem_delo_ska">
-		<text>Hello, what's the problem? (start here for your second session on 5/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hello, what's the problem?</text>
 	</string>
 
 
 
 	<string id="def_trade_1_1">
-		<text>You want to trade?</text>
+		<text>Do you want to trade?</text>
 	</string>
 	
 	<string id="def_trade_1_2">
@@ -2819,7 +2819,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 	
 	<string id="def_by_1_1">
-		<text>So long!</text>
+		<text>So long! (start here for your first session on 5/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 
