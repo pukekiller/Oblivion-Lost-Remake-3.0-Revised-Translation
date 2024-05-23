@@ -2759,7 +2759,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 	<string id="car_task_zapor_tx">
-		<text>Purchased Zaporozhets (start here for your first session on 5/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Purchased Zaporozhets</text>
 	</string>
 
 
@@ -2773,11 +2773,11 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 	<string id="zaebalsukableat">
-		<text>Hello! We've got a little problem with an expedition that went missing in the Silent Hills. The signal with them was lost in the area around the base. Could you check that place out?</text>
+		<text>Hello! We've got a little problem with an expedition that went missing in the Silent Hills. Their signal was lost in the area around the base there. Could you check that place out and see if anything happened to them?</text>
 	</string>
 
 	<string id="vhem_delo_ska">
-		<text>Hello, what's the problem?</text>
+		<text>Hello, what's the problem? (start here for your second session on 5/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
