@@ -2819,19 +2819,19 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 	
 	<string id="def_by_1_1">
-		<text>So long! (start here for your first session on 5/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>So long!</text>
 	</string>
 	
 
 
 
         <string id="zone_artifact_dezin_desc">
-		<text>Transmutation requires the artifact Strong Needles and Double Void.</text>
+		<text>For this specific transmutation you need: the Strong Needles and Double Dummy artifacts.</text>
 	</string>
 
 
         <string id="name_zone_artifact_dezin">
-		<text>Disintegrator</text>
+		<text>Disintegrator (start here for your second session on 5/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
