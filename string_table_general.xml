@@ -2826,23 +2826,23 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="zone_artifact_dezin_desc">
-		<text>For this specific transmutation you need: the Strong Needles and Double Dummy artifacts.</text>
+		<text>For this specific transmutation you need: Strong Needles and Double Dummy artifacts.</text>
 	</string>
 
 
         <string id="name_zone_artifact_dezin">
-		<text>Disintegrator (start here for your second session on 5/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Disintegrator</text>
 	</string>
 
 
         <string id="zone_artifact_af_electra_moonlight_glassbeads_spring_desc">
-		<text>Transmutation requires: artifact Knot and Stinging cotton candy.</text>
+		<text>For this specific transmutation you need: Knot and Burning Cotton artifacts.</text>
 	</string>
 
 
 
         <string id="name_zone_artifact_af_electra_moonlight">
-		<text>Electric ball</text>
+		<text>Electra (start here for your first session on 5/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
