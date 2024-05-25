@@ -2842,19 +2842,19 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="name_zone_artifact_af_electra_moonlight">
-		<text>Electra (start here for your first session on 5/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Electra</text>
 	</string>
 
 
 
         <string id="zone_artifact_af_dummy_glassbeads_spring_desc">
-		<text>The artifact Radioactive Bolt and Rusty Hair are required for transmutation.</text>
+		<text>For this specific transmutation you need: Radioactive Bolt and Rusty Hair artifacts.</text>
 	</string>
 
 
 
         <string id="name_zone_artifact_af_dummy_glassbeads">
-		<text>Dead head</text>
+		<text>Dead Head (start here for your second session on 5/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
