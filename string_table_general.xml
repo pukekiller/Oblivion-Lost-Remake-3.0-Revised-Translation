@@ -2865,19 +2865,19 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="name_zone_artifact_af_dummy_spring">
-		<text>Washcloth (start here for your second session on 5/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Washcloth</text>
 	</string>
 
 
 
         <string id="name_zone_artifact_af_soul">
-		<text>Black drops</text>
+		<text>Black Drops</text>
 	</string>
 
 
 
         <string id="zone_artifact_af_soul_desc">
-		<text>Transmutation requires: artifact Bagel and Zuda.</text>
+		<text>For this specific transmutation you need: Bagel and Zuda artifacts. (start here for your second session on 5/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
