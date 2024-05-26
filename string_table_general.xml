@@ -2877,13 +2877,13 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="zone_artifact_af_soul_desc">
-		<text>For this specific transmutation you need: Bagel and Zuda artifacts. (start here for your second session on 5/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>For this specific transmutation you need: Bagel and Zuda artifacts.</text>
 	</string>
 
 
 
         <string id="recip_0">
-		<text>I have an artifact transmuter, I'm interested in recipes for it.</text>
+		<text>I have a transmuter for artifacts, I'm interested in recipes for it. (start here for your first session on 5/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
