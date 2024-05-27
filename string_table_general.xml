@@ -2883,19 +2883,19 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="recip_0">
-		<text>I have a transmuter for artifacts, I'm interested in recipes for it. (start here for your first session on 5/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>I have a transmuter for artifacts, I'm interested in recipes for it.</text>
 	</string>
 
 
 
         <string id="recip_1">
-		<text>Okay, I can sell you the descriptions for the transmutation. The price of the question - 1000 rubles. You'll have the description in your PDA.</text>
+		<text>Okay, I can sell you recipes for transmutation. Each one will you cost you 1000 roubles. I'll upload the ones you've bought to your PDA.</text>
 	</string>
 
 
 
         <string id="Recepies_olr">
-		<text>Transmutation Recipes</text>
+		<text>Transmutation Recipes (start here for your second session on 5/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
