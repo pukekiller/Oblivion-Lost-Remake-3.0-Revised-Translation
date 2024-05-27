@@ -2895,12 +2895,12 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="Recepies_olr">
-		<text>Transmutation Recipes (start here for your second session on 5/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Transmutation Recipes</text>
 	</string>
 
 
         <string id="name_rec_ribk">
-		<text>A strong gravitational artifact</text>
+		<text>Strong gravitational artifact (start here for your first session on 5/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
