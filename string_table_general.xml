@@ -2900,12 +2900,12 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="name_rec_ribk">
-		<text>Strong gravitational artifact (start here for your first session on 5/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Strong gravitational artifact</text>
 	</string>
 
 
         <string id="recept_ribka">
-		<text>Transmutation requires: artifact Weak Gravity and Gravity.</text>
+		<text>For this specific transmutation you need: Weak Gravitational and Gravitational artifacts. (start here for your second session on 5/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
