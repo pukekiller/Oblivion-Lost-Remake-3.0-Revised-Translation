@@ -2911,17 +2911,17 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="atifact_merger_desc">
-		<text>This is an experimental artifact crossbreeding device. Developer by scientists at the Lake Yantar laboratory, this device allows the creation of various artifacts - provided that you have the needed recipe for the artifact that you want to create. (start here for your first session on 5/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>This is an experimental artifact crossbreeding device. Developer by scientists at the Lake Yantar laboratory, this device allows the creation of various artifacts - provided that you have the needed recipe for the artifact that you want to create.</text>
 	</string>
 
 
 
         <string id="kanistra_benz_desc">
-		<text>A canister of gasoline for refueling cars. The volume is 15 liters.</text>
+		<text>A canister filled with gasoline, meant for refueling cars and trucks. It holds a total amount of 15 liters.</text>
 	</string>
 
         <string id="kanistra_benz_name">
-		<text>Gasoline reserve</text>
+		<text>Gasoline canister (start here for your second session on 5/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
