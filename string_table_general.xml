@@ -2921,12 +2921,12 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
         <string id="kanistra_benz_name">
-		<text>Gasoline canister (start here for your second session on 5/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Gasoline canister</text>
 	</string>
 
 
         <string id="mil_uchenis_za_nami">
-		<text>Scientists hostage: Someone's here! Are we behind us? Hey! Stalker! You're from the Professor?!</text>
+		<text>Hostage scientist: Someone has come! Is it finally over? Hey, stalker! Are you from the Professor?! (start here for your first session on 5/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
