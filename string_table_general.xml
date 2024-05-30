@@ -2937,7 +2937,7 @@ Anomalous zones:\n1.	Radiation hotspots
 	</string>
 
         <string id="doki_dla_ch_name">
-		<text>Unknown document (start here for your second session on 5/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Unknown document</text>
 	</string>
 
 
@@ -2948,7 +2948,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="qulon_name_desc">
-		<text>Silver pendant. The Elder gave it to me as a reward for my help.</text>
+		<text>A silver pendant. The Elder gave it to me as a reward for my help.</text>
 	</string>
 
 
@@ -2959,7 +2959,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="dnevnik_strelka_name">
-		<text>Gunslinger's diary</text>
+		<text>Gunslinger's diary (start here for your first session on 5/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
