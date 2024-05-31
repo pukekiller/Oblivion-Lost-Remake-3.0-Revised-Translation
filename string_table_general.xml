@@ -2964,7 +2964,7 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="dnevnik_strelka_opis">
-		<text>Diary of a legendary stalker nicknamed Gunslinger. Judging by the worn appearance of the diary, and the fact that there's many entries in it, the owner of this diary has been keeping it for a long time. There are records of attempts to break through to the center of the Zone, some schemes, maps, notes. One journal entry documents a trip to the center of the Zone:\n\nRecord #1\n"So, the road is scouted, the plan has been made, supplies have been collected, and all of my guns have been cleaned. Thanks to the Doctor, he helped us with medicine and provisions, as we've had a bad time with that lately. I hope it's not all for nothing and we find a clue to what's going on down there. They say that man is wired to be curious and fearful of everything he doesn't know at the same time. But I sense something else, a third thing, something, like a-- a call. \nThe important thing is not to forget the main code, 667. That's the most important thing." (start here for your second session on 5/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Diary of a legendary stalker nicknamed Gunslinger. Judging by the worn appearance of the diary, and the fact that there's many entries in it, the owner of this diary has been keeping it for a long time. There are records of attempts to break through to the center of the Zone, some schemes, maps, notes. One journal entry documents a trip to the center of the Zone:\n\nRecord #1\n"So, the road is scouted, the plan has been made, supplies have been collected, and all of my guns have been cleaned. Thanks to the Doctor, he helped us with medicine and provisions, as we've had a bad time with that lately. I hope it's not all for nothing and we find a clue to what's going on down there. They say that man is wired to be curious and fearful of everything he doesn't know at the same time. But I sense something else, a third thing, something, like a-- a call. \nThe important thing is not to forget the main code, 667. That's the most important thing."</text>
 	</string>
 
 
@@ -2972,14 +2972,14 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="jabin_holodilnik_desc">
-		<text>A container of medical supplies for the Doctor. Pretty heavy.</text>
+		<text>A container filled with medical supplies that's meant for the Doctor. It's quite heavy.</text>
 	</string>
 
 
 
 
         <string id="jabin_holodilnik_name">
-		<text>A container for the Doctor</text>
+		<text>Medical supplies for Doctor (start here for your first session on 5/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
