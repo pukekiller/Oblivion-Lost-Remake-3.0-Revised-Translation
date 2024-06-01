@@ -2979,14 +2979,14 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="jabin_holodilnik_name">
-		<text>Medical supplies for Doctor (start here for your first session on 5/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Medical supplies for Doctor</text>
 	</string>
 
 
 
 
         <string id="na_bolotah_toze_izluchenie">
-		<text>This is the Professor from Lake Yantar speaking. In case you haven't heard, the edge of the swamp is under the influence of strong psi radiation. Our workers were doing tests here and what happened to them we do not know. The door of the house where the switch is located is coded as we know, the code is in the possession of another swamp mobile group that left the area due to the Phantasm's psi-influence. Maybe they'll come back and you can find out the code...</text>
+		<text>This is the Professor from Lake Yantar speaking. In case you haven't heard, there are intense concentrations of psionic radiation at the edge of the swamp. Our workers were doing tests there they just.. disappeared - I don't know what happened to them. The door of the house where the switch is located is coded as we know, and the code is in the possession of another group that was working near the swamp; they left the area due to the Phantasm's strong psionic influence. Maybe they'll come back and one of them will tell you the code. (start here for your second session on 5/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
