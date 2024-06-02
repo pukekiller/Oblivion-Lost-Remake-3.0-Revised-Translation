@@ -3019,18 +3019,18 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="zenado_0">
-		<text>Hello. (start here for your second session on 6/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hello.</text>
 	</string>
 
         <string id="zenado_1">
-		<text>What do you want?! Get outta here!</text>
+		<text>What do you want?! Get out of here!</text>
 	</string>
 
 
 
 
         <string id="olr_zablikov_doki_name">
-		<text>Order #3467</text>
+		<text>Order No. 3467 (start here for your first session on 6/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
