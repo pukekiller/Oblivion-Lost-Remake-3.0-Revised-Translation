@@ -3002,24 +3002,24 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
         <string id="rostok_znakomoe_mesto">
-		<text>This place seems familiar. (start here for your first session on 6/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>This place seems familiar.</text>
 	</string>
 
 
         <string id="st_boloto_sos_greh_lider">
-		<text>Message: Sin Leader: hmm, there he is... You didn't get far. Finish him, stalker. He's already dead!</text>
+		<text>Message - Sin Leader: Hmm, there he is.. He didn't get far. Finish him, stalker. He's already dead!</text>
 	</string>
 
 
         <string id="st_boloto_sos">
-		<text>SOS: Somebody help! I'm in the house, in the swamp...</text>
+		<text>SOS: Somebody help! I'm in the house at the swamp!</text>
 	</string>
 
 
 
 
         <string id="zenado_0">
-		<text>Hello.</text>
+		<text>Hello. (start here for your second session on 6/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
         <string id="zenado_1">
