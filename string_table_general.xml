@@ -3046,17 +3046,17 @@ Signed: Nikolaev O.D.
 
 
         <string id="looks_like_arhiv_rostok">
-		<text>Looks like the plant's human resources department, or some kind of archive. (start here for your second session on 6/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Looks like the plant's human resources department, or some kind of archive.</text>
 	</string>
 
 
         <string id="enc_weapons1_grenade-zara">
-		<text>Serves as a psychophysical influence, through distracting and overwhelming light and sound effects. Used in hostage rescue and crowd control operations.</text>
+		<text>The Zarya-2 is a flashbang grenade, using blinding light and overwhelming noise to disorientate enemies. These are normally used in hostage rescue or crowd control operations.</text>
 	</string>
 
 
         <string id="grenade-zara">
-		<text>Zarya-2</text>
+		<text>Zarya-2 (start here for your first session on 6/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
