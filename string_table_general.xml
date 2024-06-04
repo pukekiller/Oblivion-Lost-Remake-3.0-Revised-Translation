@@ -3056,26 +3056,26 @@ Signed: Nikolaev O.D.
 
 
         <string id="grenade-zara">
-		<text>Zarya-2 (start here for your first session on 6/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Zarya-2</text>
 	</string>
 
 
 
         <string id="grav_shot_wpn_desc_ammo_posi">
-		<text>Bolt box</text>
+		<text>5x25mm bolts</text>
 	</string>
 
 
 
         <string id="grav_shot_wpn_desc_ammo">
-		<text>A regular set of 5x25mm bolts. Might come in handy in the household.</text>
+		<text>A bunch of regular of 5x25mm bolts. These are normally used bought for various DIY repair projects from hardware stores, but in the Zone - these are used by the Gravity Shotgun.</text>
 	</string>
 
 
 
 
         <string id="grav_shot_wpn_desc">
-		<text>Gravity Shotgun</text>
+		<text>Gravity Shotgun (start here for your second session on 6/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
