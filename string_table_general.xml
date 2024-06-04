@@ -3075,13 +3075,13 @@ Signed: Nikolaev O.D.
 
 
         <string id="grav_shot_wpn_desc">
-		<text>Gravity Shotgun (start here for your second session on 6/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Gravity Shotgun</text>
 	</string>
 
 
 
         <string id="grav_shot_wpn">
-		<text>An anomalous weapon that harnesses the energy of gravitational artifacts. Can be charged with a wide variety of metal junk not exceeding certain dimensions.</text>
+		<text>An anomalous weapon that harnesses the energy of gravitational artifacts, pieced together from various pieces of scrap metal. This weapon uses bolts for ammo, and the high velocity this weapon propels them at makes them incredibly lethal. (start here for your first session on 6/4/24/ and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
