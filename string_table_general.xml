@@ -3137,13 +3137,13 @@ April 26, 2008. 13-40</text>
 
 
         <string id="pribor_zamery">
-		<text>Anomaly mapping device (start here for your second session on 6/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Anomaly mapping device</text>
 	</string>
 
 
 
         <string id="enc_equipment_pribor_zamery">
-		<text>A device that measures anomalous activity. To measure, you must approach the anomalous area, hold the device in your hands, and activate the device.</text>
+		<text>A device that measures and catalogs anomalous formations, along with documenting their locations accurately on satellite maps. To use this device, you must approach the anomaly, hold the device in your hands, and activate the device. (start here for your first session on 6/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
