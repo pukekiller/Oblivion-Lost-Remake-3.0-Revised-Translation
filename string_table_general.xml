@@ -3143,14 +3143,14 @@ April 26, 2008. 13-40</text>
 
 
         <string id="enc_equipment_pribor_zamery">
-		<text>A device that measures and catalogs anomalous formations, along with documenting their locations accurately on satellite maps. To use this device, you must approach the anomaly, hold the device in your hands, and activate the device. (start here for your first session on 6/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>A device that measures and catalogs anomalous formations, along with documenting their locations accurately on satellite maps. To use this device, you must approach the anomaly, hold the device in your hands, and activate the device.</text>
 	</string>
 
 
 
 
         <string id="enc_weapons1_wpn-ghsa">
-		<text>The GSh-18 is a Russian pistol developed in the late 1990s at the Tula Instrument Design Bureau. It was named after the first letters of the surnames of the designers under whose supervision it was designed (Vasily Gryazev and Arkady Shipunov) and the number "18", meaning the capacity of the magazine.\nAmmunition:\nbasic 9x19mm Parabellum,\nenhanced 9x19mm PBP.</text>
+		<text>The GSh-18 is a Russian pistol developed in the late 1990s at the Tula Instrument Design Bureau. Its name comes from the initials of the surnames of the two designers who worked on it - Vasiliy P. Gryazev and Arkadiy G. Shipunov - and the '18' in its name comes from how many rounds its magazine holds.\nAmmunition:\nbasic 9x19mm Parabellum,\nenhanced 9x19mm PBP.</text>
 	</string>
 
 
