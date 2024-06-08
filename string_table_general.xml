@@ -3155,16 +3155,16 @@ April 26, 2008. 13-40</text>
 
 
         <string id="dead_crow_food">
-		<text>Dead crow (start here for your second session on 6/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Dead crow</text>
 	</string>
 
         <string id="enc_crow_food">
-		<text>Crow carcass. Quite edible, but quite highly radioactive. You can cook it over a campfire.</text>
+		<text>The dead corpse of a crow. You can eat this, but crows in the Zone are highly radioactive, so eating them is a gambit. You can cook this over a campfire.</text>
 	</string>
 
 
         <string id="deads">
-		<text>Dead people</text>
+		<text>Dead people (start here for your first session on 6/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
