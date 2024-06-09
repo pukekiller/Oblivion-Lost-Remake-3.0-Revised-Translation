@@ -3169,12 +3169,12 @@ April 26, 2008. 13-40</text>
 
 
         <string id="laba_opis">
-		<text>Documents from an abandoned laboratory. They mention experiments carried out in the complex - one specific document that stands out has details related to experiments that lead to the creation of the Burer. There are also monthly reports on the work of scientific departments, lists of all scientific workers, project budgets, instructions for carrying out standard procedures, and so on. There is also talk about transferring the results of experiments to another complex. Judging by the coordinates, it's located somewhere at Yantar. (start here for your second session on 6/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Documents from an abandoned laboratory. They mention experiments carried out in the complex - one specific document that stands out has details related to experiments that lead to the creation of the Burer. There are also monthly reports on the work of scientific departments, lists of all scientific workers, project budgets, instructions for carrying out standard procedures, and so on. There is also talk about transferring the results of experiments to another complex. Judging by the coordinates, it's located somewhere at Yantar.</text>
 	</string>
 
 
         <string id="osveschenie_doma">
-		<text>Digital lighting control. Control codes: 1 - on, 2 - off.</text>
+		<text>Digital lighting control. Control codes: 1 - on, 2 - off. (start here for your first session on 6/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
