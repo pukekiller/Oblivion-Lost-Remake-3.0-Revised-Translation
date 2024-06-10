@@ -3174,12 +3174,12 @@ April 26, 2008. 13-40</text>
 
 
         <string id="osveschenie_doma">
-		<text>Digital lighting control. Control codes: 1 - on, 2 - off. (start here for your first session on 6/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Digital lighting control. Control codes: 1 - on, 2 - off.</text>
 	</string>
 
 
         <string id="tip_pnut_door">
-		<text>Blocked. You can try to knock it out.</text>
+		<text>There's a blockage here. You can try to remove it. (start here for your second session on 6/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
