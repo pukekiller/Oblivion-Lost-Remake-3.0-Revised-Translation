@@ -3179,12 +3179,12 @@ April 26, 2008. 13-40</text>
 
 
         <string id="tip_pnut_door">
-		<text>There's a blockage here. You can try to remove it. (start here for your second session on 6/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>There's a blockage here. You can try to remove it.</text>
 	</string>
 
 
         <string id="det_art_super">
-		<text>SUPER artifact detector</text>
+		<text>SUPER Artifact Detector (start here for your first session on 6/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="det_art_super_info">
 		<text>SUPER Series Artifact Detector. This detector is the latest development of local scientists. Thanks to nanotechnology, the sensitivity of the detector has been increased to 1.5 kilometers. The presence of artifacts is indicated by markers on the terrain map. In addition to their locations, the detector recognizes artifact types, making it the best of all the detector series.</text>
