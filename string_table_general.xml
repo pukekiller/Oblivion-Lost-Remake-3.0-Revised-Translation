@@ -3199,7 +3199,7 @@ April 26, 2008. 13-40</text>
 		<text>INDY Artifact Detector</text>
 	</string>
 	<string id="det_art_indy_info">
-		<text>A INDY-series artifact detector. This device is the first artifact detectors developed by scientists in the Zone. Its ineffective and outdated if compared to newer detectors because of its short detection radius, which is only 40 meters, and the fact that it only indicates the presence of artifacts with only an audiable beep that increases in intensity when its user gets closer to artifact it has detected. Despite this, this device was revolutionary when it was first introduced years ago, making artifact hunting much easier for stalkers. (start here for your first session on 6/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>A INDY-series artifact detector. This device was the first artifact detector developed by scientists in the Zone. Its ineffective and outdated if compared to newer detectors because of its short detection radius, which is only 40 meters, and the fact that it only indicates the presence of artifacts with only an audiable beep that increases in intensity when its user gets closer to artifact it has detected. Despite this, this device was revolutionary when it was first introduced years ago, making artifact hunting much easier for stalkers. (start here for your first session on 6/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
