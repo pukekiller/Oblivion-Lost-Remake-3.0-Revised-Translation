@@ -3190,13 +3190,13 @@ April 26, 2008. 13-40</text>
 		<text>A SUPER-series artifact detector. This detector is the one of the latest detectors developed by scientists working in the Zone. Thanks to advancements in nanotechnology, this device's scanning radius has been increased to 1.5 kilometers. This devices designates artifacts when they're detected by giving them markers and putting them on a relevant satellite map so that the user can figure their specific location. This detector also recognizes artifact types, using an artifact encyclopedia stored in the device's memory storage as a reference to check against, making this device the best artifact detector you can get.</text>
 	</string>
 	<string id="det_art_pro">
-		<text>PRO Artifact Detector (start here for your first session on 6/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>PRO Artifact Detector</text>
 	</string>
 	<string id="det_art_pro_info">
-		<text>PRO Series Artifact Detector. This is an improved version of the INDY artifact detector, having been upgraded by local scientists. Added a terrain map with marker output on its surface. The range has been increased to 70 meters. Due to its reasonable price and improved performance, its use is considered to be the most preferred.</text>
+		<text>A PRO-series artifact detector. This detector is an improved version of the INDY-series artifact detector, developed by scientists working in the Zone looking to improve on the artifact detection device they've developed. This arifact detector works by displaying a satellite map of the local area its user is in and tagging any detected artifacts with markers on the map, giving a precise estimation of their location. Additionally, the PRO-series artifact detector has had its scanning radius increased to 70 meters. Due to its reasonable price and improved performance, this detector is one of the most popular among stalkers in the Zone.</text>
 	</string>
 	<string id="det_art_indy">
-		<text>INDY artifact detector</text>
+		<text>INDY Artifact Detector (start here for your second session on 6/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="det_art_indy_info">
 		<text>INDY Series Artifact Detector. This is the first artifact detector developed by local artisans. The device is ineffective because its range does not exceed 40 meters, and the presence of an artifact is recognized only by an audible signal. But in its time, more than one and a half thousand artifacts have been found with this device.</text>
