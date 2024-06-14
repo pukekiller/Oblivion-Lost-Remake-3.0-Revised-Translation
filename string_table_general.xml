@@ -3228,17 +3228,17 @@ April 26, 2008. 13-40</text>
 </string>
 
 <string id="device_torch_bad">
-	<text>Malfunctioning flashlight (start here for your first session on 6/13/24 and don't forget to remove this reminder when you start)</text>
+	<text>Malfunctioning flashlight</text>
 </string>
 
 
 
 <string id="off_ust">
-	<text>Disconnect power to the PSI unit.</text>
+	<text>Turn off the power to the PSI installation.</text>
 </string>
 
 <string id="off_cheno">
-	<text>Power to the PSI unit is turned off.</text>
+	<text>The PSI installation's power is turned off. (start here for your second session on 6/14/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 <string id="enc_equipment_devic_device-pda2_ucheny">
