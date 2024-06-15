@@ -3242,18 +3242,18 @@ April 26, 2008. 13-40</text>
 </string>
 
 <string id="enc_equipment_devic_device-pda2_ucheny">
-	<text>The data in this PDA has been corrupted, but the audio journal entry in it is mostly intact: "Damn, I think my leg is broken.. this really hurts. Apparently the emitter is holed up in the basement, creating a blockage of psionic radiation. Unless we can get to the emitter's control panel and turn it off, there's no way down!. Shit... The door code is 8620. Good thing the Professor told me, just in case!" (start here for your first session on 6/14/24 and don't forget to remove this reminder when you start)</text>
+	<text>The data in this PDA has been corrupted, but the audio journal entry in it is mostly intact: "Damn, I think my leg is broken.. it really hurts. Apparently the emitter is holed up in the basement, creating a blockage of psionic radiation. Unless we can get to the emitter's control panel and turn it off, there's no way down!. Shit... The door code is 8620. Good thing the Professor told me, just in case!"</text>
 </string>
 
 
 <string id="enc_equipment_devic_device-pda1_ucheny">
-	<text>The basic data is encrypted, but there is information about the lab. A group of scientists from Lake Yantar moved out to search for equipment. Personal note: as we know the staff left the lab disorganized and chaotic, a lot of very interesting and useful research equipment, ranging from simple dosimeters and dynamometers to experimental weapons and equipment remained there. We'll probably find technical documentation, reports, maybe personal diaries of specialists. All of this should give at least a little insight into what was going on there. Who knows, maybe the information found there will help us bring about another scientific and technological revolution? You should look for documents on the first and second levels of the complex, and equipment in the storage rooms. Note from the Professor: Be extremely vigilant and cautious as test specimens number 1 and 2, as well as the Alpha psionic specimen have disappeared. Maybe they're still in the lab.</text>
+	<text>The basic data in this PDA is encrypted, but you've managed to access a few documents concerning information about the lab. One document has details about a group of scientists who went to one of the labs at Lake Yantar to search for equipment. It states: "As we know, the staff left the lab in a disorganized and chaotic fashion - there's a lot of very interesting and useful research equipment, ranging from simple dosimeters and dynamometers to experimental weapons and equipment remained there. We'll probably find technical documentation, reports, maybe personal diaries of specialists. All of this should give at least a little insight into what was going on there. Who knows, maybe the information found there will help us bring about another scientific and technological revolution?" This means that you should look for documents on the first and second levels of the complex, and equipment in the storage rooms. There's also a note from the Professor that says: "Be extremely vigilant and cautious as test specimens number 1 and 2, as well as the Alpha psionic specimen have disappeared. Maybe they're still in the lab."</text>
 </string>
 
 
 
 <string id="art_box_special">
-	<text>Artifact container (R2)</text>
+	<text>Artifact container (R2) (start here for your second session on 6/15/24 and don't forget to remove this reminder when you start)</text>
 </string>
 <string id="art_box_special_s">
 	<text>Artifact container (R2)</text>
