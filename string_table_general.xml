@@ -3253,10 +3253,10 @@ April 26, 2008. 13-40</text>
 
 
 <string id="art_box_special">
-	<text>Artifact container (R2) (start here for your second session on 6/15/24 and don't forget to remove this reminder when you start)</text>
+	<text>Artifact Container (R2)</text>
 </string>
 <string id="art_box_special_s">
-	<text>Artifact container (R2)</text>
+	<text>Artifact Container (R2)</text>
 </string>
  <string id="art_box_1special">
 	<text>Capsule (R1)</text>
@@ -3265,10 +3265,10 @@ April 26, 2008. 13-40</text>
 	<text>Capsule (R1)</text>
 </string>
  <string id="art_box_8special">
-	<text>Artifact container (R3)</text>
+	<text>Artifact Container (R3)</text>
 </string>
 <string id="art_box_8special_s">
-	<text>Artifact container (R3)</text>
+	<text>Artifact Container (R3) (start here for your first session on 6/15/24 and don't forget to remove this reminder when you start)</text>
 </string>
 <string id="enc_arc_art_box_basic">
 	<text>A medium-sized scientific artifact container. Designed for hand carrying medium hazard artifacts. Despite the small size, quite provides the necessary protection from the average anomalous and radioactive radiation. It is made of special heavy-duty plastic, coated on top with a layer of the latest metal alloy obtained in a laboratory at Lake Yantar. Highly sought after by professional artifact miners.</text>
