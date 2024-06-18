@@ -3277,7 +3277,7 @@ April 26, 2008. 13-40</text>
 	<text>A medium-sized scientific container, designed for carrying more common and less dangerous artifacts. Despite its small size, it provides adequate protection against the radiation that most artifacts emit - but since this container is a more budget-orientated one, it provides zero protection against the anomalous effects more dangerous artifacts have. It's made of special heavy-duty plastic, and its outermost layer is coated with a special metal alloy developed at the mobile lab at Lake Yantar that has the same positive properties of lead - but better. These artifact containers are highly sought after by professional artifact hunters.</text>
 </string>
 <string id="enc_arc_art_1box_basic">
-	<text>A medium-sized scientific container, designed for carrying highly dangerous artifacts. Despite its small size, it provides adequate protection against the intense anomalous energy or radiation that the most dangerous artifacts emit. It's made of special heavy-duty plastic, and its outermost layer is coated with a special metal alloy developed at the mobile lab at Lake Yantar that has the same positive properties of lead - but better. These artifact containers are highly sought after by professional artifact hunters. (start here for your second session on 6/17/24 and don't forget to remove this reminder when you start)</text>
+	<text>A medium-sized scientific container, designed for carrying highly dangerous artifacts. Despite its small size, it provides adequate protection against the intense anomalous energy or radiation that the most dangerous artifacts emit. It's made of special heavy-duty plastic, and its outermost layer is coated with a special metal alloy developed at the mobile lab at Lake Yantar that has the same positive properties of lead - but better. These artifact containers are highly sought after by professional artifact hunters.</text>
 </string>
  <string id="enc_arc_art_box_basic_1">
 	<text>A special scientific container for artifacts. This container contains one artifact.</text>
@@ -3304,7 +3304,7 @@ April 26, 2008. 13-40</text>
 	<text>A special scientific container for artifacts. This container contains eight artifacts.</text>
 </string>
 <string id="enc_arc_art_box_basic_9">
-	<text>A special scientific container for artifacts.</text>
+	<text>A special scientific container for artifacts. (start here for your second session on 6/18/24 and don't forget to remove this reminder when you start)</text>
 </string>
 <string id="enc_arc_art_box_basic_10">
 	<text>A special scientific container for artifacts.</text>
