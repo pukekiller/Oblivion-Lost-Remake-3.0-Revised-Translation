@@ -3327,12 +3327,12 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="dolg_base_marker">
-		<text>Duty base (start here for your second session on 6/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Duty base</text>
 	</string>  
 
 
 <string id="enc_dead_rat">
-		<text>Dead rat. Can be consumed. You can cook it over a campfire.</text>
+		<text>The dead corpse of a rat. You can eat this, but rats in the Zone are highly radioactive, so eating them is risky. You can cook this over a campfire.</text>
 	</string>
 
 <string id="dead_rat">
@@ -3348,7 +3348,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="tre_ruck">
-		<text>Backpack</text>
+		<text>Backpack (start here for your first session on 6/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
