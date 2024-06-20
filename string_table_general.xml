@@ -3348,12 +3348,12 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="tre_ruck">
-		<text>Backpack (start here for your first session on 6/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack</text>
 	</string>
 
 
 <string id="enc_tre_ruck">
-		<text>The backpack from the stalker suit. You can make your own stash in a secluded place.</text>
+		<text>This backpack normally comes with the most common and popular stalker suit. You can take it off and use it to make a secret stash in a secluded place. (start here for your second session on 6/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="enc_weapons1_wpn-rpk74">
