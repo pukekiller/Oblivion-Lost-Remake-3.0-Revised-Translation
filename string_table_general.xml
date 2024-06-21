@@ -3081,7 +3081,7 @@ Signed: Nikolaev O.D.
 
 
         <string id="grav_shot_wpn">
-		<text>An anomalous weapon that harnesses the energy of gravitational artifacts, pieced together from various pieces of scrap metal. This weapon uses bolts for ammo, and the high velocity this weapon propels them at makes them incredibly lethal.</text>
+		<text>An anomalous weapon that harnesses the energy of gravitational artifacts, pieced together from various pieces of scrap metal. This weapon uses bolts for ammo, and the high velocity this weapon propels them at makes them incredibly lethal.\n \n Ammunition:\n 5x25mm bolts.</text>
 	</string>
 
 
