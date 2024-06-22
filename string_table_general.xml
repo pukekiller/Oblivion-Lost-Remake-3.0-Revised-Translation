@@ -3381,11 +3381,11 @@ April 26, 2008. 13-40</text>
 
 
 <string id="enc_equipment_4r34devic_device-pda1">
-		<text>Oh, what a friendly stalker! You know, Journalist was also kind and helped me. I recall that one time I was at his place.. he told me a story that stuck with me.. oh, I'm getting sidetracked. Anyway, behind the power plant there are various installations that caused that big Emission that hit me years ago. Journalist also mentioned that he's scouring the local neighborhood for important documents that might give hom some clues. He said he wanted to find out what has happened in the Zone. (start here for your second session on 6/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Oh, what a friendly stalker! You know, Journalist was also kind and helped me. I recall that one time I was at his place.. he told me a story that stuck with me.. oh, I'm getting sidetracked. Anyway, behind the power plant there are various installations that caused that big Emission that hit me years ago. Journalist also mentioned that he's scouring the local neighborhood for important documents that might give hom some clues. He said he wanted to find out what has happened in the Zone.</text>
 	</string>
 
 <string id="enc_eq234uipment_devic_device-pda1">
-		<text>That's it, you don't know anything else?</text>
+		<text>That's all you remember about Journalist? You don't know anything else? (start here for your first session on 6/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="enc_equipment_devic_de444vice-pda1">
