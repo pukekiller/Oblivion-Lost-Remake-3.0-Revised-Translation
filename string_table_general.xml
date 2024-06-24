@@ -3399,12 +3399,12 @@ April 26, 2008. 13-40</text>
 
 
 <string id="mg_zobmie_hello">
-		<text>Hey, stalker, come here! I'm in the house on the hill. (start here for your second session on 6/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hey, stalker, come here! I'm in the house on the hill.</text>
 	</string>
 
 
 <string id="dolg_spam_sms">
-		<text>Stalker, you are in the territory of the Duty faction. Don't you dare shoot here!</text>
+		<text>Stalker, you are in Duty territory. Don't you dare shoot or cause trouble here. (start here for your first session on 6/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="jaba_hello_sms">
