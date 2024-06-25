@@ -3404,11 +3404,11 @@ April 26, 2008. 13-40</text>
 
 
 <string id="dolg_spam_sms">
-		<text>Stalker, you're in Duty territory. Don't you dare shoot or cause trouble here. (start here for your first session on 6/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker, you're in Duty territory. Don't you dare shoot or cause trouble here.</text>
 	</string>
 
 <string id="jaba_hello_sms">
-		<text>Messer, I'm up in the hills. Come into my bunker. Toad.</text>
+		<text>Toad: Messer, I've relocated to a bunker in the hills. Come visit me if you can. (start here for your second session on 6/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="warfare">
