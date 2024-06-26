@@ -3412,7 +3412,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="warfare">
-		<text>We're thinking of doing a raid at Silent Hills. These dark ones are obviously up to something, so we need to do a little recon. The village to the west of the Hills will give us good cover. There's one problem though - there's a controller there. It must be destroyed. (start here for your first session on 6/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>We're thinking of doing a raid at Silent Hills. These dark ones are obviously up to something, so we need to do a little recon. The village to the west of the Hills will give us good cover. There's one problem though - there's a controller there. It must be destroyed.</text>
 	</string>
 
 <string id="lvl16_generators_level_changer">
@@ -3420,11 +3420,11 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="lvl14_stancia_level_changer_0001">
-		<text>To Generators</text>
+		<text>To the Generators</text>
 	</string>
 
 <string id="lvl14_stancia_level_changer_0001">
-		<text>To Generators</text>
+		<text>To the Generators</text>
 	</string>
 
 <string id="lvl14_stancia_level_changer_0000">
@@ -3452,12 +3452,12 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="lvl11_deadcity_level_changer_0001">
-		<text>To the Silent Hills</text>
+		<text>To Silent Hills</text>
 	</string>
 
 
 <string id="lvl10_radar_level_changer">
-		<text>To the Silent Hills</text>
+		<text>To Silent Hills</text>
 	</string>
 
 <string id="lvl10_radar_level_changer_0000">
@@ -3469,7 +3469,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="lvl9_military_level_changer">
-		<text>To Radar</text>
+		<text>To Radar (start here for your second session on 6/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="lvl9_military_level_changer_0000">
