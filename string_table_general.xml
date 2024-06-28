@@ -3585,15 +3585,15 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="lvl1_escape_level_changer">
-		<text>To the Garbage (start here for your first session on 6/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>To the Garbage</text>
 	</string>
 
 <string id="esc_kv_atr_1">
-		<text>We need to pick up Toad's box.</text>
+		<text>I need to pick up Toad's box.</text>
 	</string>
 
 <string id="neutral">
-		<text>Stalker</text>
+		<text>Stalker (start here for your second session on 6/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
