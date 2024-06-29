@@ -3598,12 +3598,12 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="caes_barman">
-		<text>Stalker, it's Toad. I can't believe you've made it to nuclear power plant at Chernobyl. If you do decide to sneak inside in order to get to the Monolith, listen... The entrance to the reactor is behind the plant, on the north side. There's a pair of double gates. I hope you know what you're doing. (start here for your first session on 6/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker, it's Toad. I can't believe you've made it to nuclear power plant at Chernobyl. If you do decide to sneak inside in order to get to the Monolith, listen... The entrance to the reactor is behind the plant, on the north side. There's a pair of double gates. I hope you know what you're doing.</text>
 	</string>
 
 
 	<string id="chaes_barman">
-		<text>Stalker, it's Toad. I can't believe you're there at the power plant. If you do decide to sneak inside to the Monolith, listen up. The entrance is behind the power plant, on the north side. Double gates. I hope you know what you're doing!</text>
+		<text>Stalker, it's Toad. I can't believe you've made it to nuclear power plant at Chernobyl. If you do decide to sneak inside in order to get to the Monolith, listen... The entrance to the reactor is behind the plant, on the north side. There's a pair of double gates. I hope you know what you're doing! (start here for your second session on 6/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
