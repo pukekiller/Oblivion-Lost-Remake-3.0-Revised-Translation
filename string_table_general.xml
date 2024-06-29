@@ -3603,7 +3603,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="chaes_barman">
-		<text>Stalker, it's Toad. I can't believe you've made it to nuclear power plant at Chernobyl. If you do decide to sneak inside in order to get to the Monolith, listen... The entrance to the reactor is behind the plant, on the north side. There's a pair of double gates. I hope you know what you're doing! (start here for your second session on 6/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker, it's Toad. I can't believe you've made it to nuclear power plant at Chernobyl. If you do decide to sneak inside in order to get to the Monolith, listen... The entrance to the reactor is behind the plant, on the north side. There's a pair of double gates. I hope you know what you're doing!</text>
 	</string>
 
 
@@ -3617,7 +3617,7 @@ April 26, 2008. 13-40</text>
 		<text>Hello, Messer!</text>
 	</string>
 	<string id="final_olr_1">
-		<text>What? Who are you?</text>
+		<text>What? Who are you? (start here for your first session on 6/29/24 and don't forget to remove this reminder when you start)</text>
  
 	</string>
 	<string id="final_olr_2">
