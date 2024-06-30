@@ -3632,7 +3632,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="lastday">
-		<text>Last Day (start here for your second session on 6/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Last Day</text>
 	</string>
 
 	<string id="iskateli">
@@ -3641,7 +3641,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="sin">
-		<text>Sin</text>
+		<text>Sin (start here for your first session on 6/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="hui_pizda">
