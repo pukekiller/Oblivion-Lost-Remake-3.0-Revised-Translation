@@ -3641,16 +3641,16 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="sin">
-		<text>Sin (start here for your first session on 6/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Sin</text>
 	</string>
 
 	<string id="hui_pizda">
-		<text>You mean the scientist from Yantar? Yeah, he lived here. He went missing under unclear circumstances, recently. Our guys wanted to check out the apartment, but the door was jammed. One of our guys tried a few times on the wires from the neighbor's house, but he kept falling off. Doesn't want to anymore... And it looks like the window's boarded up. I think we're gonna have to break the door down. Or blow things up.</text>
+		<text>You mean the scientist from Yantar? Yeah, he lived here. He disappeared under mysterious circumstances recently. Our guys wanted to check out the apartment, but the door is jammed. One of our guys tried to get to the apartment by walking on top of the electrical wires that lead to it a few times, but he kept falling off. He doesn't want to try again anymore... dnd it looks like the window's boarded up. I think we're going to have to break the door down, or blow things up.</text>
 	</string>
 
 
 	<string id="aaj_golova">
-		<text>Hey, stalker!</text>
+		<text>Hey, stalker! (start here for your second session on 7/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="gen_find_exit_lab_d_name">
