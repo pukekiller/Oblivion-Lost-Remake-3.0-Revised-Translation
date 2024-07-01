@@ -3650,11 +3650,11 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="aaj_golova">
-		<text>Hey, stalker! (start here for your second session on 7/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hey, stalker!</text>
 	</string>
 
 	<string id="gen_find_exit_lab_d_name">
-		<text>Find the entrance to the Lab.</text>
+		<text>Find the entrance to the laboratory. (start here for your first session on 7/1/24 and don't forget to remove this reminder when you start</text>
 	</string>
 	<string id="gen_find_exit_lab_d_text">
 		<text>Somewhere in the Generators' territory is the main laboratory. We need to find the entrance to this lab.</text>
