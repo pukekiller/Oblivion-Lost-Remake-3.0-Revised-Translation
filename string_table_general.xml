@@ -3665,7 +3665,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
         <string id="off_dyatel_otkl">
-		<text>The Woodpecker-1 installation is offline. (start here for your second session on 7/2/24 and don't forget to remove this reminder when you start)</text> 
+		<text>The Woodpecker-1 installation is offline.</text> 
 	</string>
 
 
@@ -3674,7 +3674,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
         <string id="off_yan1">
-		<text>The installation is disabled.</text> 
+		<text>The installation is disabled. (start here for your first session on 7/2/24 and don't forget to remove this reminder when you start)</text> 
 	</string>
 
 
