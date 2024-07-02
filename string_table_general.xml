@@ -3654,10 +3654,10 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="gen_find_exit_lab_d_name">
-		<text>Find the entrance to the laboratory. (start here for your first session on 7/1/24 and don't forget to remove this reminder when you start</text>
+		<text>Find the entrance to the laboratory.</text>
 	</string>
 	<string id="gen_find_exit_lab_d_text">
-		<text>Somewhere in the Generators' territory is the main laboratory. We need to find the entrance to this lab.</text>
+		<text>The entrance to the main laboratory is located somewhere in the general vicinity of the Generators. You need to find the entrance to it.</text>
 	</string>
 
 	<string id="off_dyatel1">
@@ -3665,7 +3665,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
         <string id="off_dyatel_otkl">
-		<text>The Woodpecker-1 unit is offline.</text> 
+		<text>The Woodpecker-1 unit is offline. (start here for your second session on 7/2/24 and don't forget to remove this reminder when you start)</text> 
 	</string>
 
 
