@@ -3679,14 +3679,14 @@ April 26, 2008. 13-40</text>
 
 
         <string id="yan_sah_spam">
-		<text>Messer! My equipment indicates are that you are very close to the installation. Be careful! (start here for your second session on 7/3/24 and don't forget to remove this reminder when you start)</text> 
+		<text>Messer! My equipment indicates are that you are very close to the installation. Be careful!</text> 
 	</string>
 
 
 
 
         <string id="sin_hello_sms">
-		<text>Unknown Stalker: This area is closed to solo stalkers. But if you're here on business, come to our base.</text> 
+		<text>Unknown Stalker: This area is closed to loners, but if you're here on business, come to our base.</text> 
 	</string>
 
 
@@ -3698,7 +3698,7 @@ April 26, 2008. 13-40</text>
 		<text>Duty</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Freedom</text>
+		<text>Freedom (start here for your first session on 7/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Opponent</text>
