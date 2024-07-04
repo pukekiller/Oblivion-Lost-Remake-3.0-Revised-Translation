@@ -3698,13 +3698,13 @@ April 26, 2008. 13-40</text>
 		<text>Duty</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Freedom (start here for your first session on 7/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Freedom</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Opponent</text>
 	</string>
 	<string id="bad">
-		<text>badly</text>
+		<text>bad</text>
 	</string>
 	<string id="bandit">
 		<text>Bandit</text>
@@ -3722,10 +3722,10 @@ April 26, 2008. 13-40</text>
 		<text>Unknown</text>
 	</string>
 	<string id="enemy">
-		<text>enemy</text>
+		<text>enemy (start here for your second session on 7/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="excellent">
-		<text>perfectly</text>
+		<text>excellent</text>
 	</string>
 	<string id="exo_outfit_name_m1">
 		<text>Exoskeleton PNB-4UZ</text>
