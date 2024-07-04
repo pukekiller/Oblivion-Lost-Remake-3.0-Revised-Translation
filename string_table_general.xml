@@ -3728,13 +3728,13 @@ April 26, 2008. 13-40</text>
 		<text>excellent</text>
 	</string>
 	<string id="exo_outfit_name_m1">
-		<text>Exoskeleton PNB-4UZ</text>
+		<text>PNB-4UZ Exoskeleton</text>
 	</string>
 	<string id="experienced">
 		<text>experienced</text>
 	</string>
 	<string id="Found_PDA">
-		<text>Electronic media</text>
+		<text>Found PDA</text>
 	</string>
 	<string id="freedom">
 		<text>Freedom</text>
@@ -3758,7 +3758,7 @@ April 26, 2008. 13-40</text>
 		<text>Garbage</text>
 	</string>
 	<string id="lvl3_agroprom">
-		<text>Agroprom</text>
+		<text>Agroprom Research Institute</text>
 	</string>
 	<string id="lvl4_darkdolina">
 		<text>Dark Valley (start here for your first session on 7/4/24 and don't forget to remove this reminder when you start)</text>
