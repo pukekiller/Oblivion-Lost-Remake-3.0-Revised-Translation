@@ -3722,7 +3722,7 @@ April 26, 2008. 13-40</text>
 		<text>Unknown</text>
 	</string>
 	<string id="enemy">
-		<text>enemy (start here for your second session on 7/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>enemy</text>
 	</string>
 	<string id="excellent">
 		<text>excellent</text>
@@ -3743,7 +3743,7 @@ April 26, 2008. 13-40</text>
 		<text>friend</text>
 	</string>
 	<string id="good">
-		<text>well</text>
+		<text>good</text>
 	</string>
 	<string id="indifferent">
 		<text>neutral</text>
@@ -3758,10 +3758,10 @@ April 26, 2008. 13-40</text>
 		<text>Garbage</text>
 	</string>
 	<string id="lvl3_agroprom">
-		<text>MedPribor Research Institute</text>
+		<text>Agroprom</text>
 	</string>
 	<string id="lvl4_darkdolina">
-		<text>Dark Valley</text>
+		<text>Dark Valley (start here for your first session on 7/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="lvl5_bar">
 		<text>Stalker Bar</text>
