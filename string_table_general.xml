@@ -3785,16 +3785,16 @@ April 26, 2008. 13-40</text>
 		<text>Lab 9</text>
 	</string>
 	<string id="lvl13_prip">
-		<text>Pripyat (start here for your second session on 7/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>Pripyat</text>
 	</string>
 	<string id="lvl14_stancia">
-		<text>CHERNOBYL NPP</text>
+		<text>Chernobyl Nuclear Power Plant</text>
 	</string>
 	<string id="lvl8_swamp">
 		<text>Swamps</text>
 	</string>
 	<string id="lvl16_generators">
-		<text>Generators</text>
+		<text>Generators (start here for your first session on 7/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="lvl17_warlab">
 		<text>Military laboratory</text>
