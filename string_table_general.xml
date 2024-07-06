@@ -3815,22 +3815,22 @@ April 26, 2008. 13-40</text>
 		<text>corpse</text>
 	</string>
 	<string id="novice">
-		<text>rookie (start here for your second session on 7/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>rookie</text>
 	</string>
 	<string id="st_no_active_task">
 		<text>No active task</text>
 	</string>
 	<string id="st_time_till_surge">
-		<text>Emission Timer</text>
+		<text>Time until blowout</text>
 	</string>
 	<string id="stalker">
-		<text>Loners</text>
+		<text>Loner</text>
 	</string>
 	<string id="terrible">
-		<text>terribly</text>
+		<text>terrible</text>
 	</string>
 	<string id="trader">
-		<text>Merchant</text>
+		<text>Trader</text>
 	</string>
 	<string id="ui_st_community">
 		<text>group</text>
@@ -3845,7 +3845,7 @@ April 26, 2008. 13-40</text>
 		<text>attitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>reputation</text>
+		<text>reputation (start first for your second session on 7/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="very_bad">
 		<text>very badly</text>
