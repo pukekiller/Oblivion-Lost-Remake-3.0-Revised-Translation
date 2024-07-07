@@ -3845,10 +3845,10 @@ April 26, 2008. 13-40</text>
 		<text>attitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>reputation (start first for your second session on 7/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>reputation</text>
 	</string>
 	<string id="very_bad">
-		<text>very badly</text>
+		<text>very bad</text>
 	</string>
 	<string id="very_good">
 		<text>very good</text>
@@ -3857,7 +3857,7 @@ April 26, 2008. 13-40</text>
 		<text>veteran</text>
 	</string>
 	<string id="zombied">
-		<text>zombies</text>
+		<text>zombie</text>
 	</string>
 	<string id="Btn_Cancel">
 		<text>Cancel</text>
@@ -3869,7 +3869,7 @@ April 26, 2008. 13-40</text>
 		<text>OK</text>
 	</string>
 	<string id="Btn_Yes">
-		<text>Yes</text>
+		<text>Yes (start second for your second session on 7/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="global_map">
 		<text>Map of the Zone</text>
