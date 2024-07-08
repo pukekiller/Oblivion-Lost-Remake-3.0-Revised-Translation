@@ -3893,13 +3893,13 @@ April 26, 2008. 13-40</text>
 		<text>Backpack</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Search($$ACTION_USE$$).</text>
+		<text>Search the stash ($$ACTION_USE$$).</text>
 	</string>
 	<string id="inventory_item_use">
 		<text>Pick up the item ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
-		<text>Updates</text>
+		<text>Game updates</text>
 	</string>
 	<string id="ui_mm_alternative">
 		<text>Alternative</text>
