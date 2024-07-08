@@ -3890,13 +3890,13 @@ April 26, 2008. 13-40</text>
 		<text>The NPC doesn't have enough money.</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Backpack (start here for your first session on 7/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack</text>
 	</string>
 	<string id="st_search_treasure">
 		<text>Search($$ACTION_USE$$).</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Pick up an item ($$ACTION_USE$$)</text>
+		<text>Pick up the item ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
 		<text>Updates</text>
@@ -3914,7 +3914,7 @@ April 26, 2008. 13-40</text>
 		<text>Hunger</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Energy</text>
+		<text>Energy (start here for your second session on 7/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ui_inv_bleeding">
 		<text>Bleeding</text>
