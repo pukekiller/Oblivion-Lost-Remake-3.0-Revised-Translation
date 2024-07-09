@@ -3929,7 +3929,7 @@ April 26, 2008. 13-40</text>
 		<text>Voting is not available on this server.</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>There are no active votes right now. (start here for your first session on 7/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>There are no active votes right now.</text>
 	</string>
 	<string id="st_mp_ready">
 		<text>ready</text>
@@ -3950,7 +3950,7 @@ April 26, 2008. 13-40</text>
 		<text>Radioactive zone</text>
 	</string>
         <string id="sky">
-		<text>Clear Sky</text>
+		<text>Clear Sky (start here for your second session on 7/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <string id="Antirad">
