@@ -3950,7 +3950,7 @@ April 26, 2008. 13-40</text>
 		<text>Radioactive area</text>
 	</string>
         <string id="sky">
-		<text>Clear Sky (start here for your second session on 7/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Clear Sky</text>
 	</string>
 
 <string id="Antirad">
@@ -3972,7 +3972,7 @@ April 26, 2008. 13-40</text>
 		<text>Binoculars</text>
 	</string>
 	<string id="Bread">
-		<text>Bread</text>
+		<text>Bread (start here for your first session on 7/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_killers_documents_desc">
 		<text>A polyethylene file of documents.</text>
