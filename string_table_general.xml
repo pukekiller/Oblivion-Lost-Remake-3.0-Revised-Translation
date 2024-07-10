@@ -3993,13 +3993,13 @@ April 26, 2008. 13-40</text>
 		<text>Flashlight (start here for your second session on 7/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
-		<text>A hazmat suit. Weight - 18 kg. Features: protects the body from Blizzard, Stinging Fluff, most anomalousities and mechanical damage. The chest and back are protected by integrated biometallic plates. Equipped with a sealed metal-plastic helmet and two oxygen tanks. Warning: with prolonged use it becomes unusable - damaged and torn.</text>
+		<text>Protective suit. Weight: 18kg. Details: Protects the body from Jelly, Burnt Fuzz, most anomalies and physical damage. The torso and back are protected by built-in bio-metallic plates. The suit is equipped with an airtight, reinforced plastic helmet and two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-light">
-		<text>A hazmat suit. Weight - 8 kg. Features: protects the body from the effects of weak anomalies and mechanical damage. Equipped with an oxygen mask. Warning: with prolonged use it becomes unusable - damaged and torn.</text>
+		<text>Protective suit. Weight: 8 kg. Details: Protects the body from weak anomalies and physical damage. Equipped with an oxygen mask. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-medium">
-		<text>A hazmat suit. Weight - 12 kg. Features: protects the body from Stun, Stinging Fluff, many anomalousities and mechanical damage. Equipped with a pressurized helmet and oxygen tank. Warning: with prolonged use it becomes unusable - damaged and torn.</text>
+		<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
 		<text>Orange colored protective spacesuit with a sealed helmet. Weight - 11 kg. Features: protects the body from fire, acids, gases, exposure to a variety of anomalies, Stinging Fluff and mechanical damage. Equipped with two oxygen tanks. Warning: with prolonged use it becomes unusable - damaged and torn.</text>
