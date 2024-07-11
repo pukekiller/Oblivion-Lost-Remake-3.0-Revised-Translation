@@ -3990,7 +3990,7 @@ April 26, 2008. 13-40</text>
 		<text>PDA</text>
 	</string>
 	<string id="device-torch">
-		<text>Flashlight (start here for your second session on 7/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Flashlight</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
 		<text>Protective suit. Weight: 18kg. Details: Protects the body from Jelly, Burnt Fuzz, most anomalies and physical damage. The torso and back are protected by built-in bio-metallic plates. The suit is equipped with an airtight, reinforced plastic helmet and two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
@@ -4002,7 +4002,7 @@ April 26, 2008. 13-40</text>
 		<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>Orange colored protective spacesuit with a sealed helmet. Weight - 11 kg. Features: protects the body from fire, acids, gases, exposure to a variety of anomalies, Stinging Fluff and mechanical damage. Equipped with two oxygen tanks. Warning: with prolonged use it becomes unusable - damaged and torn.</text>
+		<text>An "EXP-4" scientific protective suit with an airtight red helmet. Weighs 11 kg. It protects the body from fire, acid gases, a variety of anomalies (including "Burnt Fuzz"), and mechanical damage. Equipped with two oxygen cylinders. Warning: with continuous use it will become damaged and torn. (start here for your second session on 7/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
 		<text>Army portable binoculars.</text>
