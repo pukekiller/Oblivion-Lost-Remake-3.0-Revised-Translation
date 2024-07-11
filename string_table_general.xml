@@ -4002,10 +4002,10 @@ April 26, 2008. 13-40</text>
 		<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>An "EXP-4" scientific protective suit with an airtight red helmet. Weighs 11 kg. It protects the body from fire, acid gases, a variety of anomalies (including "Burnt Fuzz"), and mechanical damage. Equipped with two oxygen cylinders. Warning: with continuous use it will become damaged and torn. (start here for your second session on 7/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>An "EXP-4" scientific protective suit with an airtight red helmet. Weighs 11 kg. It protects the body from fire, acid gases, a variety of anomalies (including "Burnt Fuzz"), and mechanical damage. Equipped with two oxygen cylinders. Warning: with continuous use it will become damaged and torn.</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
-		<text>Army portable binoculars.</text>
+		<text>Army binoculars with adjustable (up to 7.5 diopters) magnification. (start here for your first session on 7/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_devic_detect1">
 		<text>The device, which detects anomalous fields and disturbances, emits clicks and turns on a red light when a positive reaction occurs.\n- does not detect all anomalies\n- works unstably, there are failures\n- if you have this device, you can scan items in your backpack for radiation.</text>
