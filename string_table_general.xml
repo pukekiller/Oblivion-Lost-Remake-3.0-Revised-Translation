@@ -4014,10 +4014,10 @@ April 26, 2008. 13-40</text>
 		<text>A device that detects the presence of anomalous formations. The distance to the anomaly is indicated by the how frequently the light emits. To ensure reliability, readings should be done when stationary.\nMaxinum number of anomalies that can be detected and registered simultaneously - 3.\nDetection radius - 10 meters.</text>
 	</string>
 	<string id="enc_equipment_devic_detect3">
-		<text>A device that detects the presence of anomalous formations, along with hot pockets of radiation. The distance to the anomaly is indicated by the how frequently the light emits. To ensure reliability, readings should be done when stationary.\nMaxinum number of anomalies that can be detected and registered simultaneously - 4.\nDetection radius - 15 meters. (start here for your second session on 7/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>A device that detects the presence of anomalous formations, along with hot pockets of radiation. The distance to the anomaly is indicated by the how frequently the light emits. To ensure reliability, readings should be done when stationary.\nMaxinum number of anomalies that can be detected and registered simultaneously - 4.\nDetection radius - 15 meters.</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
-		<text>A pocket personal computer is an indispensable device in the Zone.</text>
+		<text>A PDA is an indispensable device in the Zone for any stalker, useful for things such as cataloging data or maintaining a journal. (start here for your first session on 7/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
 		<text>A flashlight with a fairly powerful bulb. Quite useful in low-light conditions.</text>
