@@ -4020,10 +4020,10 @@ April 26, 2008. 13-40</text>
 		<text>A PDA is an indispensable device in the Zone for any stalker, useful for things such as cataloging data or maintaining a journal.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
-		<text>A flashlight that has a fairly powerful bulb. Quite useful at nighttime or in areas with little or no lighting. (start here for your first session on 7/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>A flashlight that has a fairly powerful bulb. Quite useful at nighttime or in areas with little or no lighting.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1_m1">
-		<text>A flashlight with a fairly powerful bulb. Thanks to the improved transformer, the battery charging time is reduced.</text>
+		<text>A flashlight that has a fairly powerful bulb. Quite useful at nighttime or in areas with little or no lighting. The voltage regulator in this flashlight has been replaced with a better one, so it takes considerably less time to recharge its battery. (start here for your first session on 7/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_energydrink">
 		<text>Medical capsules. A dosage form of medication to treat minor wounds.</text>
