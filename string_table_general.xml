@@ -4038,10 +4038,10 @@ April 26, 2008. 13-40</text>
 		<text>For better or worse, this sausage - a mix of chicken and a soy substitute - is often a stalker's breakfast, lunch and dinner in one. Can be stored for a long time due to high preservative content.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Vodka made by GSC. Goes down easy and considerably lowers the effects of radiation. Should be enjoyed in moderation.\nLoss of coordination.\nSlightly relieves the effects of radiation sickness.\nQuenches thirst. (start here for your first session on 7/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Vodka made by GSC. Goes down easy and considerably lowers the effects of radiation. Should be enjoyed in moderation.\nLoss of coordination.\nSlightly relieves the effects of radiation sickness.\nQuenches thirst.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
-		<text>Anti-radiation drugs reduce the effects of radiation on the body.\nThere are minor side effects with use.\nPossible loss of coordination.\nA little treatment for radiation sickness.</text>
+		<text>Perfectly filters out radionuclides from the body and reduces the impact of absorbed radiation. There's also a supplied bar of hematogen in a separate packet.\nPossible loss of coordination.\Provides treatment for radiation sickness. (start here for your second session on 7/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
 		<text>Dressing material. Helps stop the bleeding.</text>
