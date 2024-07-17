@@ -4041,10 +4041,10 @@ April 26, 2008. 13-40</text>
 		<text>Vodka made by GSC. Goes down easy and considerably lowers the effects of radiation. Should be enjoyed in moderation.\nLoss of coordination.\nSlightly relieves the effects of radiation sickness.\nQuenches thirst.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
-		<text>Perfectly filters out radionuclides from the body and reduces the impact of absorbed radiation. There's also a supplied bar of hematogen in a separate packet.\nPossible loss of coordination.\Provides treatment for radiation sickness. (start here for your second session on 7/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Perfectly filters out radionuclides from the body and reduces the impact of absorbed radiation. There's also a supplied bar of hematogen in a separate packet.\nPossible loss of coordination.\Provides treatment for radiation sickness.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Dressing material. Helps stop the bleeding.</text>
+		<text>The IPP-1 is a bandage pack for individual use. It consists of sterile bandage sealed in a waterproof package. This pack is meant for first aid treatment of bullet wounds and any kind of bleeding. No side effects. (start here for your first session on 7/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
 		<text>Universal Medical Kit. Allows you to treat injuries of varying degrees of complexity (wounds, burns, poisoning, etc.).</text>
