@@ -4044,10 +4044,10 @@ April 26, 2008. 13-40</text>
 		<text>Perfectly filters out radionuclides from the body and reduces the impact of absorbed radiation. There's also a supplied bar of hematogen in a separate packet.\nPossible loss of coordination.\Provides treatment for radiation sickness.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>The IPP-1 is a bandage pack for individual use. It consists of sterile bandage sealed in a waterproof package. This pack is meant for first aid treatment of bullet wounds and any kind of bleeding. No side effects. (start here for your first session on 7/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>The IPP-1 is a bandage pack for individual use. It consists of sterile bandage sealed in a waterproof package. This pack is meant for first aid treatment of bullet wounds and any kind of bleeding. No side effects.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>Universal Medical Kit. Allows you to treat injuries of varying degrees of complexity (wounds, burns, poisoning, etc.).</text>
+		<text>An all-purpose medkit. Used to treat injuries of various types and severities - wounds, burns, poisonings, etc.(start here for your second session on 7/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
 		<text>A specialized medical kit for dealing with physical injuries and bleeding. It includes components to speed up blood clotting, painkillers, antibiotics and immune stimulants - Anti-rad 1pc, Medical Capsule 1pc, Bandage 1pc.</text>
