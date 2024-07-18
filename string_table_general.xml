@@ -4047,7 +4047,7 @@ April 26, 2008. 13-40</text>
 		<text>A normal elastic bandage used to stop bleeding and prevent infection of wounds. For regular bleeding, carefully apply the bandage to the wound. For arterial bleeding, urgently tie the bandage around the affected area.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>An all-purpose medkit. Used to treat injuries of various types and severities - wounds, burns, poisonings, etc.(start here for your second session on 7/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>A general purpose single-use medical kit. Handy for treating various injuries - wounds, bruises, regular and chemical burns and various types of poisoning. In demand among stalkers. (start here for your second session on 7/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
 		<text>A specialized medical kit for dealing with physical injuries and bleeding. It includes components to speed up blood clotting, painkillers, antibiotics and immune stimulants - Anti-rad 1pc, Medical Capsule 1pc, Bandage 1pc.</text>
