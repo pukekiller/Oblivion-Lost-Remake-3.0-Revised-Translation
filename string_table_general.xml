@@ -4047,19 +4047,19 @@ April 26, 2008. 13-40</text>
 		<text>A normal elastic bandage used to stop bleeding and prevent infection of wounds. For regular bleeding, carefully apply the bandage to the wound. For arterial bleeding, urgently tie the bandage around the affected area.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>A general purpose single-use medical kit. Handy for treating various injuries - wounds, bruises, regular and chemical burns and various types of poisoning. In demand among stalkers. (start here for your second session on 7/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>A general purpose single-use medical kit. Handy for treating various injuries - wounds, bruises, regular and chemical burns and various types of poisoning. In demand among stalkers.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>A specialized medical kit for dealing with physical injuries and bleeding. It includes components to speed up blood clotting, painkillers, antibiotics and immune stimulants - Anti-rad 1pc, Medical Capsule 1pc, Bandage 1pc.</text>
+		<text>A specialized medical kit for dealing with physical injuries and bleeding. Packed full of blood coagulants, painkillers, antibiotics and immunostimulants.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>A medical kit designed specifically for working in the Zone. The composition of the kit is selected both to combat wounds and to eliminate radionuclides from the body. Prevents the development of radiation sickness and also reduces the dose of accumulated radiation.</text>
+		<text>A medical kit designed specifically for use in the Zone. The kit contains products for handling wounds, as well as preventing the development of radiation poisoning and reducing accumulated radiation in the body. Contains Vikasolum, Batilolum and Naphazoline, unlike other medkits.</text>
 	</string>
 	<string id="energy_drink_name">
-		<text>Medical capsules</text>
+		<text>Vicodin</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Medical capsules</text>
+		<text>Vicodin (start here for your first session on 7/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Equipment">
 		<text>Equipment and food</text>
