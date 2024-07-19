@@ -4059,28 +4059,28 @@ April 26, 2008. 13-40</text>
 		<text>Vicodin</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Vicodin (start here for your first session on 7/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Vicodin</text>
 	</string>
 	<string id="Equipment">
 		<text>Equipment and food</text>
 	</string>
 	<string id="Food">
-		<text>Foodstuffs</text>
+		<text>Food</text>
 	</string>
 	<string id="Kolbasa">
 		<text>Sausage</text>
 	</string>
 	<string id="Medi">
-		<text>Medicines</text>
+		<text>Medicine</text>
 	</string>
 	<string id="Medkit">
-		<text>Medical kit</text>
+		<text>Medkit</text>
 	</string>
 	<string id="Medkit_army">
-		<text>Medical kit</text>
+		<text>Army medkit</text>
 	</string>
 	<string id="Medkit_scientific">
-		<text>Medical kit</text>
+		<text>Scientific medkit	(start here for your second session on 7/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Sci2">
 		<text>Scientific EXP-4</text>
