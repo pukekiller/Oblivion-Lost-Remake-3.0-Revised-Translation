@@ -4089,10 +4089,10 @@ April 26, 2008. 13-40</text>
 		<text>Vodka</text>
 	</string>
 	<string id="st_detector">
-		<text>Anomaly detector (start here for your first session on 7/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Anomaly detector</text>
 	</string>
 	<string id="st_detector2">
-		<text>Anomaly Detector (DA-2)</text>
+		<text>DA-2 anomaly detector (start here for your second session on 7/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="st_detector3">
 		<text>Universal anomaly detector (UDA-14a)</text>
