@@ -4104,13 +4104,13 @@ April 26, 2008. 13-40</text>
 		<text>Smoke grenade</text>
 	</string>
 	<string id="guitar">
-		<text>Guitar (start here for your second session on 7/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Guitar</text>
 	</string>
 	<string id="enc_equipment_item_guitar">
-		<text>A regular six-string guitar. Stalkers like to belt out a tune while sitting around a campfire.</text>
+		<text>A regular six-string guitar. Stalkers enjoy playing a tune while sitting around a campfire.</text>
 	</string>
 	<string id="harmonica">
-		<text>harmonica</text>
+		<text>Harmonica (start here for your first session on 7/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_item_harmonica">
 		<text>A regular harmonica. The simplest musical instrument in the Zone.</text>
