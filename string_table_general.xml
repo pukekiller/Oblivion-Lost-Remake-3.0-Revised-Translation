@@ -4095,16 +4095,16 @@ April 26, 2008. 13-40</text>
 		<text>DA-2 anomaly detector</text>
 	</string>
 	<string id="st_detector3">
-		<text>UDA-14a universal anomaly detector (start here for your first session on 7/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>UDA-14a universal anomaly detector</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Designed to detect anomalous zones, as well as centers of radioactive contamination.</text>
+		<text>This detector is designed to detect anomalous formations, as well as hot spots of radioactive contamination.</text>
 	</string>
 	<string id="st_grenade_gd5">
 		<text>Smoke grenade</text>
 	</string>
 	<string id="guitar">
-		<text>Guitar</text>
+		<text>Guitar (start here for your second session on 7/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_equipment_item_guitar">
 		<text>A regular six-string guitar. Stalkers like to belt out a tune while sitting around a campfire.</text>
