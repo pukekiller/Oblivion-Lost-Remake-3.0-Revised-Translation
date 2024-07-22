@@ -4110,10 +4110,10 @@ April 26, 2008. 13-40</text>
 		<text>A regular six-string guitar. Stalkers enjoy playing a tune while sitting around a campfire.</text>
 	</string>
 	<string id="harmonica">
-		<text>Harmonica (start here for your first session on 7/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Harmonica</text>
 	</string>
 	<string id="enc_equipment_item_harmonica">
-		<text>A regular harmonica. The simplest musical instrument in the Zone.</text>
+		<text>A regular harmonica, the simplest musical instrument in the Zone.</text>
 	</string>
 	<string id="Dimanit">
 		<text>Dynamite</text>
@@ -4122,7 +4122,7 @@ April 26, 2008. 13-40</text>
 		<text>Explosive</text>
 	</string>
 	<string id="hand_radio">
-		<text>Walkie-talkie</text>
+		<text>Walkie-talkie (start here for your second session on 7/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
