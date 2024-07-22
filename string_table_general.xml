@@ -4122,12 +4122,12 @@ April 26, 2008. 13-40</text>
 		<text>Explosive</text>
 	</string>
 	<string id="hand_radio">
-		<text>Walkie-talkie (start here for your second session on 7/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Walkie-talkie</text>
 	</string>
 
 
 	<string id="enc_weapons1_hand_torch_super">
-		<text>Handheld flashlight with increased brightness and illumination range.</text>
+		<text>A handheld flashlight that has increased brightness and illumination range. (start here for your first session on 7/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
