@@ -4132,13 +4132,13 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_weapons1_wpn-gauss_sgs">
-		<text>A super-precise weapon, put together by gunsmiths living in the Zone. This weapon uses energy from an embedded artifact to help propel rounds at incredibly high velocities. Despite how lethal this weapon is, it has almost no recoil. This specific specimen is one of the first prototypes of the Gauss rifle.\nAmmunition - Gauss rounds. (start here for your second session on 7/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>A super-precise weapon, put together by gunsmiths living in the Zone. This weapon uses energy from an embedded artifact to help propel rounds at incredibly high velocities. Despite how lethal this weapon is, it has almost no recoil. This specific specimen is one of the first prototypes of the Gauss rifle.\nAmmunition - Gauss rounds.</text>
 	</string>
 
 
 
 	<string id="enc_weapons1_ammo_ammo_plasma">
-		<text>Energy containers with ready-made killstreaks in the magazine for the gauss-gsg5 rifle.</text>
+		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. Manufactured using high-tech equipment. (start here for your first session on 7/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-tiss">
