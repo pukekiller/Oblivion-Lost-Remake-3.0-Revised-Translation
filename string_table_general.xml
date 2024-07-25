@@ -4138,7 +4138,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_weapons1_ammo_ammo_plasma">
-		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. Manufactured using high-tech equipment. (start here for your first session on 7/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. Manufactured using high-tech equipment.</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-tiss">
@@ -4154,7 +4154,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="wpn_vsk94_desc">
-		<text>The VSK-94 (Voyskoy Sniper Complex) is a Russian sniper rifle based on the small-sized 9A-91 assault rifle developed by the Tula Instrument Design Bureau in 1994 for silent and flameless sniper fire.</text>
+		<text>The VSK-94 (Voyskovoy Snayperskiy Kompleks, or Military Sniper Complex) is a Russian sniper rifle based on the compact 9A-91 assault rifle, developed by the Tula Instrument Design Bureau in 1994, serving as a suppressed designated marksman rifle. (start here for your second session on 7/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="ammo-7.62x54-_anom7h14">
