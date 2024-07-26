@@ -4158,17 +4158,17 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="ammo-7.62x54-_anom7h14">
-		<text>Anomalous 7H14 round (start here for your first session on 7/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Anomalous 7H14 round</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-anom">
-		<text>A 7.62x54 caliber gravipatron, with elements of the artifact gravi.</text>
+		<text>An anomalous 7.62x54mmR round that's had a piece of the Gravi artifact embedded in it, improving its ballistic performance. (start here for your second session on 7/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="binocular-name">
 		<text>Binoculars</text>
 	</string>
 	<string id="wpn-bizon">
-		<text>Bison</text>
+		<text>Bizon</text>
 	</string>
 	<string id="enc_weapons1_wpn-bizon">
 		<text>The PP-19 Bison submachine gun was designed in the early 1990s at the Izhevsk Machine Building Plant to arm the Ministry of Internal Affairs with a modern small-size automatic small arms weapon to replace the AKS-74U.\n- 9x18mm, 9x18mm BMP\n- effective range 100m\n- magazine capacity 64 cartridges </text>
