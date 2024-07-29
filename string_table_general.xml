@@ -4189,13 +4189,13 @@ April 26, 2008. 13-40</text>
 		<text>A underbarrel grenade launcher for the AKS-74P prototype.</text>
 	</string>
 	<string id="oka74protoo">
-		<text>This weapon is a prototype of the AKS-74P assault rifle. It's often found in military stalkers. The Kalashnikov 5.45mm assault rifle, developed and designed in 1974, is a 5.45mm caliber assault rifle designed in 1970 by Soviet designer Mikhail T. Kalashnikov and adopted by the Red Army in 1974. It's a further development of the AKM, being a more refined design. (start here for your second session on 7/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>This weapon is a prototype of the AKS-74P assault rifle. It's often found in military stalkers. The Kalashnikov 5.45mm assault rifle, developed and designed in 1974, is a 5.45mm caliber assault rifle designed in 1970 by Soviet designer Mikhail T. Kalashnikov and adopted by the Red Army in 1974. It's a further development of the AKM, being a more refined design.</text>
 	</string>
 	<string id="enc_weapons1_wpn-akm74">
-		<text>Kalashnikov assault rifle of 5.45 mm caliber, developed in 1970 by designer M.T. Kalashnikov and adopted by the USSR Armed Forces in 1974. It is a further development of the AKM. The development of the AK-74 is related to the transition to the new low-pulse 5.45 mm cartridge.</text>
+		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP. (start here for your first session on 7/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-igla">
-		<text>MANPADS Igla</text>
+		<text>Igla MANPADS</text>
 	</string>
 	<string id="wpn-igla_desc">
 		<text>The third-generation MANPADS Igla successfully operates in conditions of natural (background) and artificial interference (false thermal targets), to this day remaining one of the best complexes in its class.\n\nUsage:\nTurn on the power supply.\nWithin 5 seconds, the missile is placed on alert - the homing head cools to operating temperature and the target tracking coordinator gyroscope unwinds.\nAim the launcher at the target. When a target appears in the field of view of the GSN, the thermal radiation flux hits the coordinator. If the flow rate is greater than the coordinator's minimum sensitivity, an audible alarm sounds. The target is captured and the launch lock is released.\nWhen a beep is heard, the missile is launched. The power supply remains operational for about 40 seconds after being turned on. If no launch has been made within this time, the missile is unsuitable for further use. Target acquisition is impossible when the angle between the target and the Sun is less than 20 degrees.\n\nAmmunition:\nGuided Missile Needle.</text>
