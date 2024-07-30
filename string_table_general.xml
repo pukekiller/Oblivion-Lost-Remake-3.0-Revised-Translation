@@ -4192,7 +4192,7 @@ April 26, 2008. 13-40</text>
 		<text>This weapon is a prototype of the AKS-74P assault rifle. It's often found in military stalkers. The Kalashnikov 5.45mm assault rifle, developed and designed in 1974, is a 5.45mm caliber assault rifle designed in 1970 by Soviet designer Mikhail T. Kalashnikov and adopted by the Red Army in 1974. It's a further development of the AKM, being a more refined design.</text>
 	</string>
 	<string id="enc_weapons1_wpn-akm74">
-		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP. (start here for your first session on 7/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP.</text>
 	</string>
 	<string id="wpn-igla">
 		<text>Igla MANPADS</text>
@@ -4201,10 +4201,10 @@ April 26, 2008. 13-40</text>
 		<text>The Igla is a third-generation MANPADS. It works both in the conditions of natural (background) heat and artificial interference (spoofing countermeasures). To this day, it remains one of the best systems in its class. \n \n Usage:\n Activate the ground power supply.\n 5 seconds will proceed until the missile is prepared for combat, which consists of cooling down the homing head to working temperature and rotating the tracking system gyroscope.\n Aim the launcher at the target. When the target appears in the field of view of the homing head, a stream of thermal radiation enters the coordinator. If the flow is greater than the minimum sensitivity of the coordinator, a sound signal plays. The target is locked on, and the launch tube is opened.\n When the sound signal plays, the missile is launched. The power supply maintains operation for about 40 seconds after being turned on. If no missile is launched during this time period, the missile is rendered unusable. Locking onto a target at an angle less than 20 degrees between the target and the sun is impossible.\n \n Ammunition:\n Igla heat-seeking rocket.</text>
 	</string>
 	<string id="ammo-igla">
-		<text>UR Needle in the launch tube</text>
+		<text>Igla missile</text>
 	</string>
 	<string id="ammo-igla_s">
-		<text>SD Needle</text>
+		<text>Igla missile (start here for your first session on 7/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-igla_desc">
 		<text>Guided missile Igla in the launch tube. The missile is equipped with a dual-channel infra-red sounder, which provides high noise immunity of the missile against natural and artificial thermal interference. The fuze ensures detonation of the warhead both on direct hit and when flying in close proximity to the target. To increase effectiveness, the residual propellant of the missile is detonated along with the warhead. </text>
