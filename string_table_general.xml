@@ -4204,10 +4204,10 @@ April 26, 2008. 13-40</text>
 		<text>Igla missile</text>
 	</string>
 	<string id="ammo-igla_s">
-		<text>Igla missile (start here for your first session on 7/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Igla missile</text>
 	</string>
 	<string id="ammo-igla_desc">
-		<text>Guided missile Igla in the launch tube. The missile is equipped with a dual-channel infra-red sounder, which provides high noise immunity of the missile against natural and artificial thermal interference. The fuze ensures detonation of the warhead both on direct hit and when flying in close proximity to the target. To increase effectiveness, the residual propellant of the missile is detonated along with the warhead. </text>
+		<text>A heat-seeking missile that's used by the Igla MANPADS. The missile uses a two-channel infrared GOS system, which allows for the heak-seeking system to differentiate between natural and artificial thermal noise. When the rocket impacts something, or is in close proximity to a target, the detonation fuse will go off. To improve fuel efficiency, the rocket itself uses a two-stage ignition system so it can maintain flight for extended periods of time. (start here for your second session on 7/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
     <string id="enc_weapons1_wpn-ak74u_anom">
