@@ -4215,7 +4215,7 @@ April 26, 2008. 13-40</text>
     </string>    
 
     <string id="enc_weapons1_wpn-gauss_m">
-        <text>A gauss rifle that comes with a enlarged detachable magazine, having a larger capacity of rounds.\n \n Ammunition:\n Gauss rounds. (start here for your second session on 8/1/24 and don't forget to remove this reminder when you start)</text>
+        <text>A gauss rifle that comes with a enlarged detachable magazine, having a larger capacity of rounds.\n \n Ammunition:\n Gauss rounds.</text>
     </string>
 
     <string id="enc_weapons1_wpn-knife_m1">
@@ -4223,7 +4223,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_equipment_devic_device-torch1_m2">
-        <text>Halogen flashlight. Experimental sample, malfunctions may occur.</text>
+        <text>A halogen light. This is an experimental prototype, so it's possible it'll malfunction. (start here for your first session on 8/1/24 and don't forget to remove this reminder when you start)</text>
     </string> 
 
     <string id="weapon_addon_scope_m">
