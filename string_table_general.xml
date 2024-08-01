@@ -4211,15 +4211,15 @@ April 26, 2008. 13-40</text>
 	</string>
 
     <string id="enc_weapons1_wpn-ak74u_anom">
-        <text>Rumor has it that this gun was found in a pile of rust in the Garbage, right in the middle of where a gravity anomaly had been for three months. Surprisingly, the gun itself is in good condition. Despite how heavily it was used, there's no noticeable wear and tear.\n \nFeatures: Because of its unique interaction with the Zone, this gun is much more inferior to conventional Kalashnikov's in terms of accuracy and damage, but its more easy and mobile to use.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP. (start here for your first session on 7/31/24 and don't forget to remove this reminder when you start)</text>
+        <text>Rumor has it that this gun was found in a pile of rust in the Garbage, right in the middle of where a gravity anomaly had been for three months. Surprisingly, the gun itself is in good condition. Despite how heavily it was used, there's no noticeable wear and tear.\n \nFeatures: Because of its unique interaction with the Zone, this gun is much more inferior to conventional Kalashnikov's in terms of accuracy and damage, but its more easy and mobile to use.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP</text>
     </string>    
 
     <string id="enc_weapons1_wpn-gauss_m">
-        <text>A sample Gauss rifle with an enlarged magazine.</text>
+        <text>A gauss rifle that comes with a enlarged detachable magazine, having a larger capacity of rounds.\n \n Ammunition:\n Gauss rounds. (start here for your second session on 8/1/24 and don't forget to remove this reminder when you start)</text>
     </string>
 
     <string id="enc_weapons1_wpn-knife_m1">
-        <text>The personal knife of a stalker nicknamed Crowbar. The handle is rubbed, however the knife fits perfectly in the hand.</text>
+        <text>The personal knife from a stalker named 'Scrap'. The handle is badly worn, but if you hold it, you'll notice that it fits perfectly in your hand.</text>
     </string> 
 
     <string id="enc_equipment_devic_device-torch1_m2">
