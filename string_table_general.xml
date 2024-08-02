@@ -4223,7 +4223,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_equipment_devic_device-torch1_m2">
-        <text>A halogen light. This is an experimental prototype, so it's possible it'll malfunction. (start here for your first session on 8/1/24 and don't forget to remove this reminder when you start)</text>
+        <text>A halogen light. This is an experimental prototype, so it's possible it'll malfunction.</text>
     </string> 
 
     <string id="weapon_addon_scope_m">
@@ -4231,7 +4231,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="weapon_addon_scope_susat_m">
-        <text>Diamond scope.</text>
+        <text>SUSAT scope (start here for your second session on 8/2/24 and don't forget to remove this reminder when you start)</text>
     </string>     
 
     <string id="enc_weapons1_wpn-svu_m1">
