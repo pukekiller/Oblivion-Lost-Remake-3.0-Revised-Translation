@@ -4231,11 +4231,11 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="weapon_addon_scope_susat_m">
-        <text>SUSAT scope (start here for your second session on 8/2/24 and don't forget to remove this reminder when you start)</text>
+        <text>SUSAT scope</text>
     </string>     
 
     <string id="enc_weapons1_wpn-svu_m1">
-        <text>Features: by modifying the bolt it was possible to increase the speed of the IED, unfortunately the accuracy suffered.\nThe Dragunov rifle is a more modern version of the Dragunov bullpup rifle, which is very convenient for traveling in the Zone, and is a compact version of the powerful automatic sniper rifle. It's hard to get. Unless you take it from a military stalker in combat. The magazine capacity is 10 rounds. The basic ammunition is 7.62X54 7h1 , the armor-piercing ammunition is 7.62X54 ar, the sniper ammunition with improved characteristics is 7.62X54 7h14.</text>
+        <text>A SVU bullpup sniper rifle that has been modified to have a greater rate of fire, at the expense of poorer accuracy.\n \n Ammunition:\n standard 7.62x54mmR 7N1,\n armor-piercing 7.62x54mmR BP ,\n sniper 7.62x54mmR 7N14. (start here for your first session on 8/2/24 and don't forget to remove this reminder when you start)</text>
     </string> 
 
     <string id="enc_weapons1_wpn-g36_m">
