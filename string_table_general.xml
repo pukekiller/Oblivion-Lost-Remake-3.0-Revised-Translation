@@ -4243,7 +4243,7 @@ April 26, 2008. 13-40</text>
     </string>   
 
     <string id="enc_weapons1_wpn-vintorez_m1_new">
-        <text>A unique piece with improved optics.\nFeatures: Gift inscribed screwcutter. In addition to the lettering, adjustments have been made to improve the accuracy of the gun.\nSniper-Specialty Rifle. Designed for silent and flameless sniper shooting. The rifle has an integrated silencer. A very "respected" gun in the Zone. From 400 meters, it pierces any body armor that a real person can wear without assistance. At the same time, it can be done almost silently. The weapon of the seasoned stalker and veteran. The magazine capacity is 20 rounds. The base ammunition is 9x39 PAB-9, 9x39 AP armor-piercing round, and 9x39 SP5 sniper round.</text>
+        <text>This Vintorez has a dedication to honor the memory of a deceased stalker written on the side. In addition to the inscription, various adjustments were made to the weapon, which result in superior accuracy, but poorer reliability.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5. (start here for your first session on 8/3/24 and don't forget to remove this reminder when you start)</text>
     </string> 
 
     <string id="enc_weapons1_wpn-beretta_m1">
