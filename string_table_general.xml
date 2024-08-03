@@ -4235,11 +4235,11 @@ April 26, 2008. 13-40</text>
     </string>     
 
     <string id="enc_weapons1_wpn-svu_m1">
-        <text>A SVU bullpup sniper rifle that has been modified to have a greater rate of fire, at the expense of poorer accuracy.\n \n Ammunition:\n standard 7.62x54mmR 7N1,\n armor-piercing 7.62x54mmR BP ,\n sniper 7.62x54mmR 7N14. (start here for your first session on 8/2/24 and don't forget to remove this reminder when you start)</text>
+        <text>A SVU bullpup sniper rifle that has been modified to have a greater rate of fire, at the expense of poorer accuracy.\n \n Ammunition:\n standard 7.62x54mmR 7N1,\n armor-piercing 7.62x54mmR BP ,\n sniper 7.62x54mmR 7N14.</text>
     </string> 
 
     <string id="enc_weapons1_wpn-g36_m">
-        <text>Features: The barrel is sprayed with powder derived from a graviartefact.\nThe G36 assault rifle is a first-class example of modern German weaponry - it is lightweight, reliable and easy to handle. The magazine capacity is 30 rounds. The base ammunition is 5.56X45 SS109 , 5.56X45 AR armor-piercing round. The ammunition for the underbarrel is M209 grenades. A veteran's or master's weapon.</text>
+        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenades.</text>
     </string>   
 
     <string id="enc_weapons1_wpn-vintorez_m1_new">
