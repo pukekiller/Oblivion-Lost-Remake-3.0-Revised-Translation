@@ -4239,19 +4239,19 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_weapons1_wpn-g36_m">
-        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenades.</text>
+        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenades</text>
     </string>   
 
     <string id="enc_weapons1_wpn-vintorez_m1_new">
-        <text>This Vintorez has a dedication to honor the memory of a deceased stalker written on the side. In addition to the inscription, various adjustments were made to the weapon, which result in superior accuracy, but poorer reliability.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5. (start here for your first session on 8/3/24 and don't forget to remove this reminder when you start)</text>
+        <text>This Vintorez has a dedication to honor the memory of a deceased stalker written on the side. In addition to the inscription, various adjustments were made to the weapon, which result in superior accuracy, but poorer reliability.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
     </string> 
 
     <string id="enc_weapons1_wpn-beretta_m1">
-        <text>Good reliability.\nFeatures: a modified version of the popular pistol. Created in the scientists' bunker specifically for expedition self-defense.\nThe Beretta is in service with the U.S. Armed Forces, many other paramilitary and law enforcement organizations, and police forces, both in the U.S. and in other countries. 9mm caliber. The magazine capacity is 15 rounds. Base ammunition is 9x19 FMJ, performance-enhanced ammunition is 9x19 PBP.</text>
+        <text>This Beretta has been modified by gunsmiths who work for scientists in the Zone. It has better reliability, making it a popular choice with scientists who need a handgun that is easy to use and can withstand the Zone's conditions.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s</text>
     </string>  
 
 	<string id="Ammo">
-		<text>Ammunition</text>
+		<text>Ammunition (start here for your second session on 8/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
 		<text>11.43x23 FMJ</text>
