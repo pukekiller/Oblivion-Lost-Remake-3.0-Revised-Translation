@@ -3268,7 +3268,7 @@ April 26, 2008. 13-40</text>
 	<text>Artifact Container (R3)</text>
 </string>
 <string id="art_box_8special_s">
-	<text>Artifact Container (R3) (start here for your first session on 6/15/24 and don't forget to remove this reminder when you start)</text>
+	<text>Artifact Container (R3)</text>
 </string>
 <string id="enc_arc_art_box_basic">
 	<text>A medium-sized scientific container, designed for carrying moderately dangerous artifacts. Despite its small size, it provides adequate protection from the anomalous energy and radiation that most artifacts have in the Zone. It's made of special heavy-duty plastic, and its outermost layer is coated with a special metal alloy developed at the mobile lab at Lake Yantar that has the same positive properties of lead - but better. These artifact containers are highly sought after by professional artifact hunters.</text>
@@ -4251,13 +4251,13 @@ April 26, 2008. 13-40</text>
     </string>  
 
 	<string id="Ammo">
-		<text>Ammunition (start here for your second session on 8/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Ammunition</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
-		<text>11.43x23 FMJ</text>
+		<text>.45 ACP rounds</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
-		<text>11.43x23 FMJ</text>
+		<text>.45 ACP (start here for your first session on 8/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-11.43x23-hydro">
 		<text>11.43x23 hydro</text>
