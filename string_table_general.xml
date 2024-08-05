@@ -4257,13 +4257,13 @@ April 26, 2008. 13-40</text>
 		<text>.45 ACP rounds</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
-		<text>.45 ACP (start here for your first session on 8/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>.45 ACP</text>
 	</string>
 	<string id="ammo-11.43x23-hydro">
-		<text>11.43x23 hydro</text>
+		<text>.45 ACP Hydra-Shock rounds</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
-		<text>11.43x23 hydro</text>
+		<text>.45 ACP Hydra-Shock (start here for your second session on 8/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-12x70-buck">
 		<text>12x70 buck</text>
