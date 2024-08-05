@@ -4263,13 +4263,13 @@ April 26, 2008. 13-40</text>
 		<text>.45 ACP Hydra-Shock rounds</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
-		<text>.45 ACP Hydra-Shock (start here for your second session on 8/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>.45 ACP Hydra-Shock</text>
 	</string>
 	<string id="ammo-12x70-buck">
-		<text>12x70 buck</text>
+		<text>12x70mm Buckshot rounds</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 buck</text>
+		<text>12x70mm Buckshot</text>
 	</string>
 	<string id="ammo-12x76-dart">
 		<text>12x76 dart</text>
