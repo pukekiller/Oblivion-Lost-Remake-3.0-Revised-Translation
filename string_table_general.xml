@@ -4281,13 +4281,13 @@ April 26, 2008. 13-40</text>
 		<text>12x76mm Slug rounds</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76mm Slug (start here for your first session on 8/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>12x76mm Slug</text>
 	</string>
 	<string id="ammo-5.45x39-ap">
-		<text>5.45x39 AP</text>
+		<text>5.45x39mm AP rounds</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5.45 APS</text>
+		<text>5.45x39mm AP (start here for your second session on 8/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
 		<text>5,45x39 FJM</text>
