@@ -4287,13 +4287,13 @@ April 26, 2008. 13-40</text>
 		<text>5.45x39mm AP rounds</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5.45x39mm AP (start here for your second session on 8/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>5.45x39mm AP</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
-		<text>5,45x39 FJM</text>
+		<text>5.45x39mm FMJ rounds</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
-		<text>5.45x39</text>
+		<text>5.45x39mm FMJ (start here for your first session on 8/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-5.56x45-ap">
 		<text>5.56x45mm AP</text>
