@@ -4142,7 +4142,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-tiss">
-		<text>The OTs-12 Tiss is a Russian assault rifle, based on the AKS-74U and developed by the Central Design and Research Bureau of Sporting and Hunting Arms at Tula. The OTs-12's key difference is that it's chambered for the subsonic 9x39mm round, which means that the OTs-12 a different barrel,  use of special subsonic 9x39mm cartridges (SP-5 and SP-6), which entailed changes in the barrel, gas system, bolt, and magazine. The sights and recoil compensator have also been modified.</text>
+		<text>The OTs-12 Tiss is a Russian assault rifle, based on the AKS-74U and developed by the Central Design and Research Bureau of Sporting and Hunting Arms at Tula. The OTs-12's key difference is that it's chambered for the subsonic 9x39mm round, which entailed changes in the barrel, gas system, bolt, and magazine. The sights and recoil compensator have also been modified.</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-bm16short">
@@ -4293,13 +4293,13 @@ April 26, 2008. 13-40</text>
 		<text>5.45x39mm FMJ rounds</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
-		<text>5.45x39mm FMJ (start here for your first session on 8/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>5.45x39mm FMJ</text>
 	</string>
 	<string id="ammo-5.56x45-ap">
-		<text>5.56x45mm AP</text>
+		<text>5.56x45mm AP rounds</text>
 	</string>
 	<string id="ammo-5.56x45-ap_s">
-		<text>5.56x45 AP</text>
+		<text>5.56x45mm AP (start here for your first session on 8/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
 		<text>5.56x45mm SS109</text>
