@@ -4305,13 +4305,13 @@ April 26, 2008. 13-40</text>
 		<text>5.56x45mm SS109 rounds</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
-		<text>5.56x45mm SS109 (start here for your first session on 8/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>5.56x45mm SS109</text>
 	</string>
 	<string id="ammo-7.62x54-7h1">
-		<text>7.62x54 mm 7H1</text>
+		<text>7.62x54mm 7N1 rounds</text>
 	</string>
 	<string id="ammo-7.62x54-7h1_s">
-		<text>7.62x54 7h1</text>
+		<text>7.62x54mm 7N1 (start here for your second session on 8/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-7.62x54-7h14">
 		<text>7.62x54R 7N14</text>
