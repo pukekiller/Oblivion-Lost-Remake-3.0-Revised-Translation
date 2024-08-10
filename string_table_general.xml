@@ -4171,7 +4171,7 @@ April 26, 2008. 13-40</text>
 		<text>PP-19 Bizon</text>
 	</string>
 	<string id="enc_weapons1_wpn-bizon">
-		<text>The PP-19 Bizon SMG was designed in the early 1990s at the Izhevsk Machine Building Plant. The Ministry of Internal Affairs needed a new, modern SMG to arm its operatives with to replace or supplement the AKS-74U, and the Bizon was the end result of their request for a new SMG. The PP-19 has proven itself to be a reliable design, using a modified variation of the system Mikhail T. Kalashnikov developed for his AK rifle. \n- 9x18mm, 9x18mm BMP\n- effective range 100m\n- magazine capacity: 64 cartridges </text>
+		<text>The PP-19 Bizon SMG was designed in the early 1990s at the Izhevsk Machine Building Plant. The Ministry of Internal Affairs needed a new, modern SMG to arm its operatives with to replace or supplement the AKS-74U, and the Bizon was the end result of their request for a new SMG. The PP-19 has proven itself to be a reliable design, using a modified variation of the system Mikhail T. Kalashnikov developed for his AK rifle. \n- 9x18mm, 9x18mm BMP\n- effective range 100m\n- magazine capacity: 64 cartridges</text>
 	</string>
 	<string id="wpn-m_134">
 		<text>M-134</text>
@@ -4323,19 +4323,19 @@ April 26, 2008. 13-40</text>
 		<text>7.62x54mmR BP rounds</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
-		<text>7.62x54mmR BP (start here for your second session on 8/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>7.62x54mmR BP</text>
 	</string>
 	<string id="ammo-9x18-fmj">
-		<text>9x18 mm.</text>
+		<text>9x18mm FMJ rounds</text>
 	</string>
 	<string id="ammo-9x18-fmj_s">
-		<text>9x18</text>
+		<text>9x18mm FMJ</text>
 	</string>
 	<string id="ammo-9x18-pmm">
-		<text>9x18 mm PMM</text>
+		<text>9x18mm +P+ rounds</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
-		<text>9x18 PMM</text>
+		<text>9x18mm +P+ (start here for your first session on 8/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x18-pbp">
 		<text>9x18 mm PBP</text>
