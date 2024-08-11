@@ -4335,13 +4335,13 @@ April 26, 2008. 13-40</text>
 		<text>9x18mm +P+ rounds</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
-		<text>9x18mm +P+ (start here for your first session on 8/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x18mm +P+</text>
 	</string>
 	<string id="ammo-9x18-pbp">
-		<text>9x18 mm PBP</text>
+		<text>9x18mm PBP rounds</text>
 	</string>
 	<string id="ammo-9x18-pbp_s">
-		<text>9x18 PBP</text>
+		<text>9x18mm PBP (start here for your first session on 8/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x19-fmj">
 		<text>9x19 mm.</text>
