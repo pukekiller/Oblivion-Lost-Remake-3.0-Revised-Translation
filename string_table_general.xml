@@ -4341,13 +4341,13 @@ April 26, 2008. 13-40</text>
 		<text>9x18mm PBP rounds</text>
 	</string>
 	<string id="ammo-9x18-pbp_s">
-		<text>9x18mm PBP (start here for your first session on 8/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x18mm PBP</text>
 	</string>
 	<string id="ammo-9x19-fmj">
-		<text>9x19 mm.</text>
+		<text>9x19mm FMJ rounds</text>
 	</string>
 	<string id="ammo-9x19-fmj_s">
-		<text>9x19 Par.</text>
+		<text>9x19mm FMJ rounds (start here for your first session on 8/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x19-pbp">
 		<text>9x19mm PBP cartridges</text>
