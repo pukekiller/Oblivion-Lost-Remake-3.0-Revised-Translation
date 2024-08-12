@@ -4186,13 +4186,13 @@ April 26, 2008. 13-40</text>
 		<text>OTs-14 Groza Prototype</text>
 	</string>
 	<string id="oka74protoo_podstvol">
-		<text>A underbarrel grenade launcher for the AKS-74P prototype.</text>
+		<text>A underbarrel grenade launcher for the AKS-74 prototype.</text>
 	</string>
 	<string id="oka74protoo">
-		<text>This weapon is a prototype of the AKS-74P assault rifle. It's often found in military stalkers. The Kalashnikov 5.45mm assault rifle, developed and designed in 1974, is a 5.45mm caliber assault rifle designed in 1970 by Soviet designer Mikhail T. Kalashnikov and adopted by the Red Army in 1974. It's a further development of the AKM, being a more refined design.</text>
+		<text>This weapon is a prototype of the AKS-74 assault rifle. It's often found used by military stalkers. The Kalashnikov 5.45mm assault rifle, developed and designed in 1974, is a 5.45x39mm caliber assault rifle designed in 1970 by Soviet designer Mikhail T. Kalashnikov and adopted by the Red Army in 1974. It's a further development of the AKM, being a more refined design.\n Ammunition:\n5.45x35mm FMJ,\n5.45x39mm AP</text>
 	</string>
 	<string id="enc_weapons1_wpn-akm74">
-		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP.</text>
+		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n Ammunition:\n5.45x35mm FMJ,\n5.45x39mm AP</text>
 	</string>
 	<string id="wpn-igla">
 		<text>Igla MANPADS</text>
@@ -4353,13 +4353,13 @@ April 26, 2008. 13-40</text>
 		<text>9x19mm JHP rounds</text>
 	</string>
 	<string id="ammo-9x19-pbp_s">
-		<text>9x19mm JHP (start here for your first session on 8/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x19mm JHP</text>
 	</string>
 	<string id="ammo-9x39-ap">
-		<text>9x39mm SP-6</text>
+		<text>9x39mm SP-6 rounds</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
-		<text>9x39 SP-6</text>
+		<text>9x39mm SP-6 (start here for your first session on 8/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x39-pab9">
 		<text>9x39mm PAB-9</text>
