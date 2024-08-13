@@ -4198,7 +4198,7 @@ April 26, 2008. 13-40</text>
 		<text>Igla MANPADS</text>
 	</string>
 	<string id="wpn-igla_desc">
-		<text>The Igla is a third-generation MANPADS. It works both in the conditions of natural (background) heat and artificial interference (spoofing countermeasures). To this day, it remains one of the best systems in its class. \n \n Usage:\n Activate the ground power supply.\n 5 seconds will proceed until the missile is prepared for combat, which consists of cooling down the homing head to working temperature and rotating the tracking system gyroscope.\n Aim the launcher at the target. When the target appears in the field of view of the homing head, a stream of thermal radiation enters the coordinator. If the flow is greater than the minimum sensitivity of the coordinator, a sound signal plays. The target is locked on, and the launch tube is opened.\n When the sound signal plays, the missile is launched. The power supply maintains operation for about 40 seconds after being turned on. If no missile is launched during this time period, the missile is rendered unusable. Locking onto a target at an angle less than 20 degrees between the target and the sun is impossible.\n \n Ammunition:\n Igla heat-seeking rocket.</text>
+		<text>The Igla is a third-generation MANPADS. It works both in the conditions of natural (background) heat and artificial interference (spoofing countermeasures). To this day, it remains one of the best systems in its class. \n \n Usage:\n Activate the ground power supply.\n 5 seconds will proceed until the missile is prepared for combat, which consists of cooling down the homing head to working temperature and rotating the tracking system gyroscope.\n Aim the launcher at the target. When the target appears in the field of view of the homing head, a stream of thermal radiation enters the coordinator. If the flow is greater than the minimum sensitivity of the coordinator, a sound signal plays. The target is locked on, and the launch tube is opened.\n When the sound signal plays, the missile is launched. The power supply maintains operation for about 40 seconds after being turned on. If no missile is launched during this time period, the missile is rendered unusable. Locking onto a target at an angle less than 20 degrees between the target and the sun is impossible.\n \n Ammunition:\nIgla missile</text>
 	</string>
 	<string id="ammo-igla">
 		<text>Igla missile</text>
@@ -4359,13 +4359,13 @@ April 26, 2008. 13-40</text>
 		<text>9x39mm SP-6 rounds</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
-		<text>9x39mm SP-6 (start here for your first session on 8/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x39mm SP-6</text>
 	</string>
 	<string id="ammo-9x39-pab9">
-		<text>9x39mm PAB-9</text>
+		<text>9x39mm PAB-9 rounds</text>
 	</string>
 	<string id="ammo-9x39-pab9_s">
-		<text>9x39 PAB9</text>
+		<text>9x39mm PAB-9 (start here for your second session on 8/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x39-sp5">
 		<text>9x39mm SP-5</text>
