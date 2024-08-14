@@ -4389,13 +4389,13 @@ April 26, 2008. 13-40</text>
 		<text>OG-7V rocket</text>
 	</string>
 	<string id="ammo-og-7b_s">
-		<text>OG-7V (start here for your second session on 8/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>OG-7V</text>
 	</string>
 	<string id="ammo-vog-25">
-		<text>VOG-25</text>
+		<text>VOG-25 grenade</text>
 	</string>
 	<string id="ammo-vog-25_s">
-		<text>VOG-25</text>
+		<text>VOG-25 (start here for your first session on 8/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-vog-25p">
 		<text>VOG-25P</text>
