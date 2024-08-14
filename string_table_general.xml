@@ -4377,19 +4377,19 @@ April 26, 2008. 13-40</text>
 		<text>Gauss rounds</text>
 	</string>
 	<string id="ammo-gauss_s">
-		<text>Gauss rounds (start here for your first session on 8/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>Gauss rounds</text>
 	</string>
 	<string id="ammo-m209">
-		<text>M203</text>
+		<text>M203 grenade</text>
 	</string>
 	<string id="ammo-m209_s">
 		<text>M203</text>
 	</string>
 	<string id="ammo-og-7b">
-		<text>OG-7B</text>
+		<text>OG-7V rocket</text>
 	</string>
 	<string id="ammo-og-7b_s">
-		<text>OG-7B</text>
+		<text>OG-7V (start here for your second session on 8/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-vog-25">
 		<text>VOG-25</text>
