@@ -3357,7 +3357,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="enc_weapons1_wpn-rpk74">
-		<text>The RPK-74 was introduced in 1974 together with the AK-74 assault rifle and chambered for the then-new 5.45x39mm intermediate cartridge. It was derived from the AK-74 rifle, with modifications that mirror those made to the AKM to create the RPK. It was intended to replace the PK machine gun, but it never fully did so.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP</text>
+		<text>The RPK-74 was introduced in 1974 together with the AK-74 assault rifle and chambered for the then-new 5.45x39mm intermediate cartridge. It was derived from the AK-74 rifle, with modifications that mirror those made to the AKM to create the RPK. It was intended to replace the PK machine gun, but it never fully did so.\n\nAmmunition:\n5.45x35mm FMJ,\n5.45x39mm AP</text>
 	</string>
 
 
@@ -4401,10 +4401,10 @@ April 26, 2008. 13-40</text>
 		<text>VOG-25R grenade</text>
 	</string>
 	<string id="ammo-vog-25p_s">
-		<text>VOG-25R (start here for your second session on 8/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>VOG-25R</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
-		<text>The base cartridge for Colt M1911, Sig-Sauer P220, USP Compact, and Desert Eagle pistols. Simple core, jacketed bullet.</text>
+		<text>The .45 caliber full metal jacket round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle has enjoyed popularity for more than a hundred years thanks to its heavy bullet and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power. (start here for your first session on 8/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
 		<text>It's called HydroShock. An enhanced performance cartridge for the Colt M1911, Sig-Sauer P220, USP Compact, and Desert Eagle pistols. An expansive bullet with good stopping power.</text>
