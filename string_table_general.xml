@@ -4395,13 +4395,13 @@ April 26, 2008. 13-40</text>
 		<text>VOG-25 grenade</text>
 	</string>
 	<string id="ammo-vog-25_s">
-		<text>VOG-25 (start here for your first session on 8/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>VOG-25</text>
 	</string>
 	<string id="ammo-vog-25p">
-		<text>VOG-25P</text>
+		<text>VOG-25R grenade</text>
 	</string>
 	<string id="ammo-vog-25p_s">
-		<text>VOG-25P</text>
+		<text>VOG-25R (start here for your second session on 8/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
 		<text>The base cartridge for Colt M1911, Sig-Sauer P220, USP Compact, and Desert Eagle pistols. Simple core, jacketed bullet.</text>
