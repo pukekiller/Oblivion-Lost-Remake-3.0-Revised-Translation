@@ -4407,10 +4407,10 @@ April 26, 2008. 13-40</text>
 		<text>The .45 ACP caliber full metal jacket round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle has enjoyed popularity for more than a hundred years thanks to its heavy bullet and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
-		<text>This unusual .45 ACP caliber round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle, is comprised of a jacketed soft point bullet with an expanding hollow and a steel core. It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides. (start here for your second session on 8/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>This unusual .45 ACP caliber round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle, is comprised of a jacketed soft point bullet with an expanding hollow and a steel core. It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>A regular 12-gauge cartridge loaded with 6mm shot. At close ranges, it has tremendous killing power. Designed for shotguns TOZ-34, BM-16, Mossberg 88, SPAS-12, Protecta, Striker. Most effective at ranges up to 30 meters.</text>
+		<text>Standard 12-gauge round filled with 6mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons - specifically the TOZ-34, the TOZ-66, the Maverick 88, the SPAS-12, and the Striker.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
 		<text>Pointed bullet that stabilizes in flight, which has a positive effect on accuracy. For shotguns TOZ-34, BM-16, Mossberg 88, SPAS-12, Protecta, Striker. Increased range and armor-piercing power - effective at ranges up to 150 meters.</text>
