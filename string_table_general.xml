@@ -4410,7 +4410,7 @@ April 26, 2008. 13-40</text>
 		<text>This unusual .45 ACP caliber round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle, is comprised of a jacketed soft point bullet with an expanding hollow and a steel core. It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>Standard 12-gauge round filled with 6mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons - specifically the TOZ-34, the TOZ-66, the Maverick 88, the SPAS-12, and the Striker.</text>
+		<text>Standard 12-gauge round filled with 6mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons - specifically the TOZ-34, the TOZ-66, the Maverick 88, the SPAS-12, and the Striker. (start here for your first session on 8/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
 		<text>Pointed bullet that stabilizes in flight, which has a positive effect on accuracy. For shotguns TOZ-34, BM-16, Mossberg 88, SPAS-12, Protecta, Striker. Increased range and armor-piercing power - effective at ranges up to 150 meters.</text>
