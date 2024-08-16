@@ -4404,10 +4404,10 @@ April 26, 2008. 13-40</text>
 		<text>VOG-25R</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
-		<text>The .45 caliber full metal jacket round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle has enjoyed popularity for more than a hundred years thanks to its heavy bullet and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power. (start here for your first session on 8/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>The .45 ACP caliber full metal jacket round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle has enjoyed popularity for more than a hundred years thanks to its heavy bullet and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
-		<text>It's called HydroShock. An enhanced performance cartridge for the Colt M1911, Sig-Sauer P220, USP Compact, and Desert Eagle pistols. An expansive bullet with good stopping power.</text>
+		<text>This unusual .45 ACP caliber round, used by the Colt M1911, Sig-Sauer P220, USP Compact, and the Desert Eagle, is comprised of a jacketed soft point bullet with an expanding hollow and a steel core. It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides. (start here for your second session on 8/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
 		<text>A regular 12-gauge cartridge loaded with 6mm shot. At close ranges, it has tremendous killing power. Designed for shotguns TOZ-34, BM-16, Mossberg 88, SPAS-12, Protecta, Striker. Most effective at ranges up to 30 meters.</text>
