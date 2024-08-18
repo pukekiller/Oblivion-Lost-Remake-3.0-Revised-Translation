@@ -4247,7 +4247,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_weapons1_wpn-beretta_m1">
-        <text>This Beretta has been modified by gunsmiths who work for scientists in the Zone. It has better reliability, making it a popular choice with scientists who need a handgun that is easy to use and can withstand the Zone's conditions.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s</text>
+        <text>This Beretta has been modified by gunsmiths who work for scientists in the Zone. It has better reliability, making it a popular choice with scientists who need a handgun that is easy to use and can withstand the Zone's conditions.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
     </string>  
 
 	<string id="Ammo">
@@ -4419,10 +4419,10 @@ April 26, 2008. 13-40</text>
 		<text>This heavy 12-gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor. It's used by 12-gauge shotguns - the TOZ-34, the TOZ-66, the Maverick 88, the SPAS-12, and the Striker. Its maximum effective range is around 100 meters.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
-		<text>This cartridge is a 5.45x39 caliber armor-piercing round for automatic rifles of Warsaw Pact countries, and in the Zone it's used by the AK-74, the RPK-74, the AKS-74U, and the AKS-74 prototype. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor. (start here for your second session on 8/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>This cartridge is a 5.45x39 caliber armor-piercing round for automatic rifles of Warsaw Pact countries, and in the Zone it's used by the AK-74, the RPK-74, the AKS-74U, and the AKS-74 prototype. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
-		<text>Standard cartridge for AKS-74, AKS-74U assault rifles. Simple core, jacketed bullet.</text>
+		<text>This cartridge is a 5.45x39 caliber improved piercing round for automatic rifles of Warsaw Pact countries, and in the Zone it's used by the AK-74, the RPK-74, the AKS-74U, and the AKS-74 prototype. It provides better accuracy than the 7.62x39mm caliber rounds thanks to its reduced recoil and a 100 meter increase in range. (start here for your first session on 8/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
 		<text>Armor-piercing bullet cartridge for L85, LR-300, Sig-550, G36, FN-2000 assault rifles.</text>
