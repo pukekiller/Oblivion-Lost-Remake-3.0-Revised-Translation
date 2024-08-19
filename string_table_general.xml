@@ -4425,10 +4425,10 @@ April 26, 2008. 13-40</text>
 		<text>This cartridge is a 5.45x39 caliber improved piercing round for automatic rifles of Warsaw Pact countries, and in the Zone it's used by the AK-74, the RPK-74, the AKS-74U, and the AKS-74 prototype. It provides better accuracy than the 7.62x39mm caliber rounds thanks to its reduced recoil and a 100 meter increase in range.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
-		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 index, widely used by Western security agencies and special services. In the Zone, this round is used by the for the L85A1, the LR-300, the SG-550, the G36, the FN-2000, and the M134. Effective against body armor. (start here for your second session on 8/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 index, widely used by Western security agencies and special services. In the Zone, this round is used by the for the L85A1, the LR-300, the SG-550, the G36, the FN-2000, and the M134. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
-		<text>Standard NATO cartridge, commonly known by the Belgian SS109 index. Used in L85, LR-300, Sig-550, G36, FN-2000 assault rifles.</text>
+		<text>A standard issue NATO 5.56x45mm caliber round specially designed for accurate automatic fire, known under its SS109 index. Provides good ballistic characteristics, having been designed on the basis of a hunting round. In the Zone, this round is used by the for the L85A1, the LR-300, the SG-550, the G36, the FN-2000, and the M134. (start here for your first session on 8/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
 		<text>A low-cost modification of the sniper cartridge for SVD, SVU-AS and PKM sniper rifles.</text>
