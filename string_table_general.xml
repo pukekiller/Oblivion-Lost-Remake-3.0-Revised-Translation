@@ -4437,13 +4437,13 @@ April 26, 2008. 13-40</text>
 		<text>This cartridge is a more specialized 7.62x.54mmR caliber high precision armor-piercing sniper round. In the Zone, this round is used by the SVD and the SVU sniper rifles, along with the PKM light machine gun.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
-		<text>This 7.62x54mmR caliber round has an armor-piercing bullet, making it effective at taking out armored targets from a distance. In the Zone, this round is used by the SVD and the SVU sniper rifles, along with the PKM light machine gun. (start here for your second session on 8/21/24 and don't forget to remove this reminder when you start</text>
+		<text>This 7.62x54mmR caliber round has an armor-piercing bullet, making it effective at taking out armored targets from a distance. In the Zone, this round is used by the SVD and the SVU sniper rifles, along with the PKM light machine gun.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
 		<text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS. Provides good stopping power but is ineffective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
-		<text>Cartridge with improved ballistic characteristics for PM, PB, Fort-12, APS pistols. Due to the higher muzzle velocity of the bullet, it is much more effective than a conventional cartridge. More pronounced armor-piercing effect.</text>
+		<text>This round contains a bullet with enhanced stopping power, while its European +P+ designation indicates "overpressure ammunition" with a 30% increase in muzzle velocity. While somewhat more effective against body armor, it's still fairly underwhelming against armored targets. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS.  (start here for your first session on 8/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pbp">
 		<text>A cartridge with improved characteristics for PM, PB, Fort-12, APS pistols. Powerful cartridge with expansive bullet and armor-piercing core.</text>
