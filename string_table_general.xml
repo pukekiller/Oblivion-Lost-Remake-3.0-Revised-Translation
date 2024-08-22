@@ -4446,10 +4446,10 @@ April 26, 2008. 13-40</text>
 		<text>This round contains a bullet with enhanced stopping power, while its European +P+ designation indicates "overpressure ammunition" with a 30% increase in muzzle velocity. While somewhat more effective against body armor, it's still fairly underwhelming against armored targets. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pbp">
-		<text>A round with a jacketed soft point bullet that deforms slightly on impact instead of expanding, giving it a limited armor piercing effect. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS. (start here for your second session on 8/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>A round with a jacketed soft point bullet that deforms slightly on impact instead of expanding, giving it a limited armor piercing effect. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
-		<text>Basic cartridge for HPSA, Walther P-99, Beretta92FS, GSh-18 pistols. A jacketed bullet. Weak armor-piercing effect.</text>
+		<text>This basic 9x19mm caliber round with a jacketed bullet has good characteristics while being simple to produce. The round is popular due to the fact that international conventions prohibit the use of expanding ammunition in combat. Ineffective against body armor. In the Zone, this round is used by the Browning HP, the Walther P99, the Beretta 92FS, and the GSh-18. (start here for your first session on 8/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
 		<text>Improved performance cartridge for HPSA, Walther P-99, Beretta92FS, GSh-18 pistols. Powerful cartridge with expansive bullet and armor-piercing core.</text>
