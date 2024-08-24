@@ -4455,10 +4455,10 @@ April 26, 2008. 13-40</text>
 		<text>This 9x19mm caliber round has a jacketed hollow point bullet with an expanding, hollow interior. This provides high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armor due to its low penetration potential. In the Zone, this round is used by the Browning HP, the Walther P99, the Beretta 92FS, and the GSh-18.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor. In the Zone, this round is used by the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. (start here for your first session on 8/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
-		<text>Cartridge for Groza, Val and special Vintorez sniper rifle. A later and cheaper to manufacture modification of the armor-piercing cartridge. It has subsonic flight speed, but due to the special bullet design it penetrates most body armor at ranges up to 300 meters.</text>
+		<text>The PAB-9 is a subsonic sniper round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. In the Zone, this round is used by the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. (start here for your first session on 8/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
 		<text>Sniper cartridge for Groza, Val and special Vintorez sniper rifles. It has subsonic flight speed, but due to the heavy bullet of special design it penetrates most body armor at ranges up to 400 meters.</text>
