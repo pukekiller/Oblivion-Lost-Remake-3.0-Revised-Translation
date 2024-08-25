@@ -4464,10 +4464,10 @@ April 26, 2008. 13-40</text>
 		<text>A sniper round for the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. It has a subsonic bullet which, due to its heavy weight and specialized design - can penetrate most bulletproof vests at a range of up to 400 meters.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-gauss">
-		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and meant for the Gauss-GSG5 rifle. (start here for your second session on 8/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and meant for the Gauss-GSG5 rifle.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-m209">
-		<text>Grenade for M203 underbarrel grenade launcher. Used in LR-300, G36, Sig-550, L85 assault rifles and for integrated grenade launcher in FN-2000.</text>
+		<text>The M209 is a 40 mm grenade for the M203 underbarrel grenade launcher. It has a 5 meter kill zone, and it's also used by the integrated underbarrel grenade launcher that's used by the FN-2000. (start here for your first session on 8/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
 		<text>Fuzed fragmentation grenade for RPG-7B. Equally effective against both manpower and lightly armored vehicles.</text>
