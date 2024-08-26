@@ -4386,10 +4386,10 @@ April 26, 2008. 13-40</text>
 		<text>M209</text>
 	</string>
 	<string id="ammo-og-7b">
-		<text>OG-7V warhead</text>
+		<text>PG-7VL warhead</text>
 	</string>
 	<string id="ammo-og-7b_s">
-		<text>OG-7V</text>
+		<text>PG-7VL</text>
 	</string>
 	<string id="ammo-vog-25">
 		<text>VOG-25 grenade</text>
@@ -4467,10 +4467,10 @@ April 26, 2008. 13-40</text>
 		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and meant for the Gauss-GSG5 rifle.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-m209">
-		<text>The M209 is a 40 mm grenade for the M203 underbarrel grenade launcher. It has a 5 meter kill zone, and it's also used by the integrated underbarrel grenade launcher that's used by the FN-2000. (start here for your first session on 8/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>The M209 is a 40 mm grenade for the M203 underbarrel grenade launcher. It has a 5 meter kill zone, and it's also used by the integrated underbarrel grenade launcher that's used by the FN-2000.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>Fuzed fragmentation grenade for RPG-7B. Equally effective against both manpower and lightly armored vehicles.</text>
+		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7. It's devastating against mutants, stalkers, troops, and lightly armored vehicles. (start here for your second session on 8/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
 		<text>Standard grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher.</text>
