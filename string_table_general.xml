@@ -4470,10 +4470,10 @@ April 26, 2008. 13-40</text>
 		<text>The M209 is a 40 mm grenade for the M203 underbarrel grenade launcher. It has a 5 meter kill zone, and it's also used by the integrated underbarrel grenade launcher that's used by the FN-2000.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7. It's devastating against mutants, stalkers, troops, and lightly armored vehicles. (start here for your second session on 8/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7. It's devastating against mutants, stalkers, troops, and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>Standard grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher.</text>
+		<text>Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher. (start here for your first session on 8/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
 		<text>Grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher. Before detonation, the grenade jumps up to a height of about a meter, which increases its impact effect.</text>
