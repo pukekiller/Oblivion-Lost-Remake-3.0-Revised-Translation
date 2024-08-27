@@ -4473,13 +4473,13 @@ April 26, 2008. 13-40</text>
 		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7. It's devastating against mutants, stalkers, troops, and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher. (start here for your first session on 8/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
 		<text>Grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher. Before detonation, the grenade jumps up to a height of about a meter, which increases its impact effect.</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
-		<text>A hand-held defensive grenade with a large fragmentation radius. Throwing is recommended only from shelter.</text>
+		<text>A defensive hand grenade, with fragments capable of piercing medium-level body armor. The grenade has an effective range of 7 meters. Stalkers get F1 grenades from trading with the military bureaucrats, who write them off as having been used for fighting mutants. (start here for your second session on 8/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
 		<text>Hand-held smoke grenade. Designed for the installation of a smoke cover. Time of action is 10 seconds.</text>
