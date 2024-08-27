@@ -4479,10 +4479,10 @@ April 26, 2008. 13-40</text>
 		<text>Grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher. Before detonation, the grenade jumps up to a height of about a meter, which increases its impact effect.</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
-		<text>A defensive hand grenade, with fragments capable of piercing medium-level body armor. The grenade has an effective range of 7 meters. Stalkers get F1 grenades from trading with the military bureaucrats, who write them off as having been used for fighting mutants. (start here for your second session on 8/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>A defensive hand grenade, with fragments capable of piercing medium-level body armor. The grenade has an effective range of 7 meters. Stalkers get F1 grenades from trading with the military bureaucrats, who write them off as having been used for fighting mutants.</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
-		<text>Hand-held smoke grenade. Designed for the installation of a smoke cover. Time of action is 10 seconds.</text>
+		<text>A smoke grenade. These are used to put up smoke screens, which serves as an effective means of visual cover. Once the grenade is thrown it takes around 10 seconds for the smoke screen to expand. (start here for your first session on 8/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
 		<text>Offensive hand grenade. The fragmentation damage radius is small.</text>
