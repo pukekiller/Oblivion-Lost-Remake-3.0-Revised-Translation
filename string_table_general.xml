@@ -4482,10 +4482,10 @@ April 26, 2008. 13-40</text>
 		<text>A defensive hand grenade, with fragments capable of piercing medium-level body armor. The grenade has an effective range of 7 meters. Stalkers get F1 grenades from trading with the military bureaucrats, who write them off as having been used for fighting mutants.</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
-		<text>A smoke grenade. These are used to put up smoke screens, which serves as an effective means of visual cover. Once the grenade is thrown it takes around 10 seconds for the smoke screen to expand. (start here for your first session on 8/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>A smoke grenade. These are used to put up smoke screens, which serves as an effective means of visual cover. Once the grenade is thrown it takes around 10 seconds for the smoke screen to expand.</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
-		<text>Offensive hand grenade. The fragmentation damage radius is small.</text>
+		<text>An offensive hand grenade with a small effective range of 5 meters. These are often used by stalkers to "smoke out" mutants due to its relatively low cost. (start here for your second session on 8/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
 		<text>AKM variant with metal buttstock folding down under the forend. The stock mounting system has been changed compared to the AKS. The buttstock is raised to bring the point of rest closer to the firing line. The modification is designed specifically for paratroopers.</text>
