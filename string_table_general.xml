@@ -4431,13 +4431,13 @@ April 26, 2008. 13-40</text>
 		<text>A standard issue NATO 5.56x45mm caliber round specially designed for accurate automatic fire, known under its SS109 index. Provides good ballistic characteristics, having been designed on the basis of a hunting round. In the Zone, this round is used by the for the L85A1, the LR-300, the SG-550, the G36, the FN-2000, and the M134.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
-		<text>This cartridge is a 7.62x54mmR caliber sniper round with a steel penetrator that was specially designed for the SVD sniper rifle, and it can also be used by the SVU sniper rifle and the PKM light machine gun. Unlike the machine gun round, the 7N1 provides tight groupings and excellent penetration.</text>
+		<text>This cartridge is a 7.62x54mmR caliber sniper round with a steel penetrator that was specially designed for the SVD sniper rifle, and it can also be used by the SVU sniper rifle, the PKM light machine gun, and 7.62x39mm AK rifles that have been rechambered to accept this cartridge. Unlike the machine gun round, the 7N1 provides tight groupings and excellent penetration.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
-		<text>This cartridge is a more specialized 7.62x.54mmR caliber high precision armor-piercing sniper round. In the Zone, this round is used by the SVD and the SVU sniper rifles, along with the PKM light machine gun.</text>
+		<text>This cartridge is a more specialized 7.62x.54mmR caliber high precision armor-piercing sniper round. In the Zone, this round is used by the SVD and the SVU sniper rifles, the PKM light machine gun, and 7.62x39mm AK rifles that have been rechambered to accept this cartridge.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
-		<text>This 7.62x54mmR caliber round has an armor-piercing bullet, making it effective at taking out armored targets from a distance. In the Zone, this round is used by the SVD and the SVU sniper rifles, along with the PKM light machine gun.</text>
+		<text>This 7.62x54mmR caliber round has an armor-piercing bullet, making it effective at taking out armored targets from a distance. In the Zone, this round is used by the SVD and the SVU sniper rifles, the PKM light machine gun, and 7.62x39mm AK rifles that have been rechambered to accept this cartridge.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
 		<text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. In the Zone, this round is used by the Makarov PM, the PB, the Fort-12, and the Stechkin APS. Provides good stopping power but is ineffective against body armor.</text>
@@ -4455,7 +4455,7 @@ April 26, 2008. 13-40</text>
 		<text>This 9x19mm caliber round has a jacketed hollow point bullet with an expanding, hollow interior. This provides high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armor due to its low penetration potential. In the Zone, this round is used by the Browning HP, the Walther P99, the Beretta 92FS, and the GSh-18.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor.</text>
+		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor. In the Zone, this round is used by the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
 		<text>The PAB-9 is a subsonic sniper round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. In the Zone, this round is used by the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94.</text>
@@ -4485,10 +4485,10 @@ April 26, 2008. 13-40</text>
 		<text>A smoke grenade. These are used to put up smoke screens, which serves as an effective means of visual cover. Once the grenade is thrown it takes around 10 seconds for the smoke screen to expand.</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
-		<text>An offensive hand grenade with a small effective range of 5 meters. These are often used by stalkers to "smoke out" mutants due to its relatively low cost. (start here for your second session on 8/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>An offensive hand grenade with a small effective range of 5 meters. These are often used by stalkers to "smoke out" mutants due to its relatively low cost.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
-		<text>AKM variant with metal buttstock folding down under the forend. The stock mounting system has been changed compared to the AKS. The buttstock is raised to bring the point of rest closer to the firing line. The modification is designed specifically for paratroopers.</text>
+		<text>The AKMS is an variant of the AKM that has folding metal buttstock, making it lighter and smaller. The way the buttstock attaches to the rifle has also been revised if compared to the AKS, being more refined in design. The buttstock has also been raised to change the point of rest, making it easy to zero in on targets. The AKMS, like the original AKS rifle, was designed to give Soviet paratroopers a lighter AK rifle. Most, if not all 7.62x36mm AK rifles in the Zone have been rechambered by gunsmiths living in the Zone to accept the 7.62x54mmR cartridge, making the weapon more deadly.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP (start here for your first session on 8/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
 		<text>An assault rifle equipped with a modified telescopic sight for sniper fire. The body-mounted optics have a higher magnification than standard sights.</text>
