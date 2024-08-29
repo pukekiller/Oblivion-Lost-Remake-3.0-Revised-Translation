@@ -4464,13 +4464,13 @@ April 26, 2008. 13-40</text>
 		<text>A sniper round for the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. It has a subsonic bullet which, due to its heavy weight and specialized design - it can penetrate most bulletproof vests at a range of up to 400 meters.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-gauss">
-		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and meant for the Gauss-GSG5 rifle.</text>
+		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and are meant for the Gauss-GSG5 rifle.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-m209">
 		<text>The M209 is a 40 mm grenade for the M203 underbarrel grenade launcher. It has a 5 meter kill zone, and it's also used by the integrated underbarrel grenade launcher that's used by the FN-2000.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7. It's devastating against mutants, stalkers, troops, and lightly armored vehicles.</text>
+		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7V. It's devastating against mutants, stalkers, troops, and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
 		<text>Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher.</text>
@@ -4494,10 +4494,10 @@ April 26, 2008. 13-40</text>
 		<text>Machine gun supplied with a modified optic sight for carrying out sniper fire. The optics embedded into the body of the weapon has a higher resolution than the standard model.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m2">
-		<text>This assault rifle is equipped with an integrated underbarrel grenade launcher, making this weapon even more versatile. (start here for your first session on 8/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>This assault rifle is equipped with an integrated underbarrel grenade launcher, making this weapon even more versatile.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>Under-barrel grenade launcher for assault rifles used in Warsaw Pact countries.\nAmmunition - VOG-25\ngrenade and VOG-25P grenade.</text>
+		<text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle.\n\nAmmunition:\nVOG-25 grenade\nVOG-25R grenade (start here for your first session on 8/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
 		<text>Underbarrel grenade launcher for NATO rifles.\nAmmunition - M203 grenades.</text>
