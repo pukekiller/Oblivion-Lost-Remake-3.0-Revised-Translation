@@ -4461,7 +4461,7 @@ April 26, 2008. 13-40</text>
 		<text>The PAB-9 is a subsonic sniper round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. In the Zone, this round is used by the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
-		<text>A sniper round for the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. It has a subsonic bullet which, due to its heavy weight and specialized design - can penetrate most bulletproof vests at a range of up to 400 meters.</text>
+		<text>A sniper round for the VSS Vintorez, the AS Val, the OTs-14 Groza (and its prototype), and the VSK-94. It has a subsonic bullet which, due to its heavy weight and specialized design - it can penetrate most bulletproof vests at a range of up to 400 meters.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-gauss">
 		<text>These gauss rifle magazines consist of both rounds and a battery using a capsulated fragment of an energy artifact as a power source. They are manufactured using high-tech equipment and meant for the Gauss-GSG5 rifle.</text>
@@ -4488,13 +4488,13 @@ April 26, 2008. 13-40</text>
 		<text>An offensive hand grenade with a small effective range of 5 meters. These are often used by stalkers to "smoke out" mutants due to its relatively low cost.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
-		<text>The AKMS is an variant of the AKM that has folding metal buttstock, making it lighter and smaller. The way the buttstock attaches to the rifle has also been revised if compared to the AKS, being more refined in design. The buttstock has also been raised to change the point of rest, making it easy to zero in on targets. The AKMS, like the original AKS rifle, was designed to give Soviet paratroopers a lighter AK rifle. Most, if not all 7.62x36mm AK rifles in the Zone have been rechambered by gunsmiths living in the Zone to accept the 7.62x54mmR cartridge, making the weapon more deadly.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP (start here for your first session on 8/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>The AKMS is an variant of the AKM that has folding metal buttstock, making it lighter and smaller. The way the buttstock attaches to the rifle has also been revised if compared to the AKS, being more refined in design. The buttstock has also been raised to change the point of rest, making it easy to zero in on targets. The AKMS, like the original AKS rifle, was designed to give Soviet paratroopers a lighter AK rifle. Most, if not all 7.62x36mm AK rifles in the Zone have been rechambered by gunsmiths living in the Zone to accept the 7.62x54mmR cartridge, making the weapon more deadly.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
-		<text>An assault rifle equipped with a modified telescopic sight for sniper fire. The body-mounted optics have a higher magnification than standard sights.</text>
+		<text>Machine gun supplied with a modified optic sight for carrying out sniper fire. The optics embedded into the body of the weapon has a higher resolution than the standard model.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m2">
-		<text>This assault rifle is equipped with an integrated underbarrel grenade launcher, making this model an even more versatile weapon.</text>
+		<text>This assault rifle is equipped with an integrated underbarrel grenade launcher, making this weapon even more versatile. (start here for your first session on 8/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
 		<text>Under-barrel grenade launcher for assault rifles used in Warsaw Pact countries.\nAmmunition - VOG-25\ngrenade and VOG-25P grenade.</text>
