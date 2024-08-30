@@ -4473,7 +4473,7 @@ April 26, 2008. 13-40</text>
 		<text>The PG-7VL is a high explosive, tandem charge warhead grenade that's for the RPG-7V. It's devastating against mutants, stalkers, troops, and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher.</text>
+		<text>The VOG-25 is a fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has an effective radius of five meters. The VOG-25 grenade is also used by the OTs-14 Groza's underbarrel grenade launcher (along with its prototype), and RG-6 revolving grenade launcher.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
 		<text>Grenade for GP-25 Kostyor underbarrel grenade launcher, Groza integrated underbarrel grenade launcher and RG-6 revolver grenade launcher. Before detonation, the grenade jumps up to a height of about a meter, which increases its impact effect.</text>
@@ -4497,10 +4497,10 @@ April 26, 2008. 13-40</text>
 		<text>This assault rifle is equipped with an integrated underbarrel grenade launcher, making this weapon even more versatile.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle.\n\nAmmunition:\nVOG-25 grenade\nVOG-25R grenade (start here for your first session on 8/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle.\n\nAmmunition:\nVOG-25 grenade\nVOG-25R grenade</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
-		<text>Underbarrel grenade launcher for NATO rifles.\nAmmunition - M203 grenades.</text>
+		<text>A modified M203 grenade launcher that has been shortened by three inches, attached to weapons by means of a Picatinny rail. Thanks to a changed mount, this grenade launcher is widely used around the world.\n\nAmmunition:\nM209 grenade (start here for your second session on 8/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope">
 		<text>Widely used Soviet-made telescopic sight. The standard dovetail mount of the Warsaw Pact countries is used for mounting on the weapon.</text>
