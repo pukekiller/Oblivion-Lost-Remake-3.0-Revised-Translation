@@ -4503,10 +4503,10 @@ April 26, 2008. 13-40</text>
 		<text>A modified M203 grenade launcher that has been shortened by three inches, attached to weapons by means of a Picatinny rail. Thanks to a changed mount, this grenade launcher is widely used around the world.\n\nAmmunition:\nM209 grenade</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope">
-		<text>The PSO-1 is a very common Soviet-made optical scope. It attaches to weapons by means of a Dovetail mount, which is standard for weapons used by former Warsaw Pact countries. (start here for your first session on 8/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>The PSO-1 is a very common Soviet-made optical scope. It attaches to weapons by means of a Dovetail mount, which is standard for weapons used by former Warsaw Pact countries.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>Optical 4x scope manufactured in NATO countries. Mounted on a standard NATO mount - the so-called Picatinny bar.</text>
+		<text>A 4x fixed zoom scope produced primarily in Western countries. It attaches to weapons by means of the NATO-standardized Picatinny rail. Often used for accurate fire from small arms at medium to long range. (start here for your second session on 8/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
 		<text>An effective silencer, assembled in the Zone by some skilled craftsmen. It comes with a set of adapters for any caliber weapon.</text>
