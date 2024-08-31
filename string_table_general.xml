@@ -4506,10 +4506,10 @@ April 26, 2008. 13-40</text>
 		<text>The PSO-1 is a very common Soviet-made optical scope. It attaches to weapons by means of a Dovetail mount, which is standard for weapons used by former Warsaw Pact countries.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>A 4x fixed zoom scope produced primarily in Western countries. It attaches to weapons by means of the NATO-standardized Picatinny rail. Often used for accurate fire from small arms at medium to long range. (start here for your second session on 8/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>A 4x fixed zoom scope produced primarily in Western countries. It attaches to weapons by means of the NATO-standardized Picatinny rail. Often used for accurate fire from small arms at medium to long range.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
-		<text>An effective silencer, assembled in the Zone by some skilled craftsmen. It comes with a set of adapters for any caliber weapon.</text>
+		<text>An effective silencer which can be modified on the go as required. The body of the silencer around the barrel contains a roll of fine brass mesh, while the front comprises a set of metal diaphragms with holes for the bullet to pass through. The set includes adaptors and sealants for most weapons. Normally used to thin out enemy ranks without drawing attention. (start here for your first session on 8/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74">
 		<text>A 1974 model folding assault rifle chambered for 5.45x39mm cartridge. It is a simple and reliable weapon, although the cheapness of production has somewhat affected the usability and accuracy of combat. In the Zone, it is the primary weapon of military stalkers and many loners.\nAmmunition:\nconventional 5.45x39mm,\narmor-piercing 5.45x39mm BP.</text>
