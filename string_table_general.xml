@@ -4239,7 +4239,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_weapons1_wpn-g36_m">
-        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenades</text>
+        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n\n Ammunition:\n 5.56x45mm SS109,\n5.56x45mm AP.\n\nGrenade launcher ammunition:\nM209 grenade</text>
     </string>   
 
     <string id="enc_weapons1_wpn-vintorez_m1_new">
@@ -4509,10 +4509,10 @@ April 26, 2008. 13-40</text>
 		<text>A 4x fixed zoom scope produced primarily in Western countries. It attaches to weapons by means of the NATO-standardized Picatinny rail. Often used for accurate fire from small arms at medium to long range.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
-		<text>An effective silencer which can be modified on the go as required. The body of the silencer around the barrel contains a roll of fine brass mesh, while the front comprises a set of metal diaphragms with holes for the bullet to pass through. The set includes adaptors and sealants for most weapons. Normally used to thin out enemy ranks without drawing attention. (start here for your first session on 8/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>An effective silencer which can be modified on the go as required. The body of the silencer around the barrel contains a roll of fine brass mesh, while the front comprises a set of metal diaphragms with holes for the bullet to pass through. The set includes adaptors and sealants for most weapons. Normally used to thin out enemy ranks without drawing attention.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74">
-		<text>A 1974 model folding assault rifle chambered for 5.45x39mm cartridge. It is a simple and reliable weapon, although the cheapness of production has somewhat affected the usability and accuracy of combat. In the Zone, it is the primary weapon of military stalkers and many loners.\nAmmunition:\nconventional 5.45x39mm,\narmor-piercing 5.45x39mm BP.</text>
+		<text>This weapon, designed in 1974, signaled the adoption of small caliber and low impulse rounds by Warsaw Pact countries. A descendant of the most popular assault rifle in the world, the AKS-74 has an even bigger muzzle brake, resulting in a reduction of what was already manageable recoil. This facilitates better accuracy and groupings, especially when fired in fast single shots or bursts. As before, the rifle is very simple and reliable.\nAmmunition:\n5.45x39mm FMJ,\n5.45x39mm BP (start here for your second session on 9/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74_m1">
 		<text>Modified bolt mechanism increases the rate of fire.</text>
