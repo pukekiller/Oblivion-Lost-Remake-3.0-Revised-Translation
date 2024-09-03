@@ -3371,7 +3371,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="enc_weapons1_wpn-striker">
-		<text>A semi-automatic shotgun of South African origin, originally designed for hunting big game in the African safari. It's compact and convenient, but it does have the major flaw of spewing hot gas in its user's face whenever the weapon fires. Regardless, it has found its way into the hands of firearm enthusiasts in the Zone.\n \n Ammunition:\n 12x70 shot,\n 12x76mm slug,\n 12x76mm dart.</text>
+		<text>A semi-automatic shotgun of South African origin, originally designed for hunting big game in the African safari. It's compact and convenient, but it does have the major flaw of spewing hot gas in its user's face whenever the weapon fires. Regardless, it has found its way into the hands of firearm enthusiasts in the Zone.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 
 <string id="dolg_spam_sms_garbage">
@@ -4521,10 +4521,10 @@ April 26, 2008. 13-40</text>
 		<text>Despite being similar to submachineguns in size, weight and tactical purpose, this weapon is classified as an assault rifle due to the fact that its internal mechanism is identical to that of the AK-74. The weapon is notable for its mobility in close quarters and high armor-penetration capacity, while its drawbacks are its short effective range, despite the relatively long bullet range, a tendency to overheat and high ricochet propensity.\nAmmunition:\n5.45x39mm FMJ,\n5.45x39mm BP</text>
 	</string>
 	<string id="enc_weapons1_wpn-beretta">
-		<text>Beretta pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. It's in service with many armies and law enforcement organizations across the world. The Beretta pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Berettas found in the Zone are usually dated, probably from retired stock.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP (start here for your first session on 9/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Beretta pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. It's in service with many armies and law enforcement organizations across the world. The Beretta pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Berettas found in the Zone are usually dated, probably from retired stock.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>This shotgun is one of the most common weapons for beginners.\nAmmunition:\n12x70 buckshot,\n12x76 javelin,\n12x76 dart.</text>
+		<text>The TOZ-66 is a side-by-side shotgun, originally designed for hunting animals, but it's also lethally effective at putting down hostile stalkers or soldiers. It has good accuracy for close to medium ranges. The TOZ-66 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart (start here for your second session on 9/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
 		<text>Classic automatic Colt, which has passed with honor all the armed conflicts of the XX century and confidently entered the new century. The low magazine capacity is compensated to a certain extent by the use of a powerful cartridge.\nAmmunition:\nregular 11.43x23 FMJ,\nenhanced 11.43x23 "HydroShock".</text>
