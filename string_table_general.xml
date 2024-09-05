@@ -4239,7 +4239,7 @@ April 26, 2008. 13-40</text>
     </string> 
 
     <string id="enc_weapons1_wpn-g36_m">
-        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n\n Ammunition:\n 5.56x45mm SS109,\n5.56x45mm AP.\n\nGrenade launcher ammunition:\nM209 grenade</text>
+        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP\n\nGrenade launcher ammunition:\nM209 grenade</text>
     </string>   
 
     <string id="enc_weapons1_wpn-vintorez_m1_new">
@@ -4536,11 +4536,11 @@ April 26, 2008. 13-40</text>
 		<text>This futuristic-looking weapon with a bullpup layout is actually a mass produced modular system, comprising a rifle grenade complex with a computerized fire control system and a 40-mm grenade launcher. Despite its bulky appearance, the weapon is highly ergonomic, easy to use and benefits from good reliability.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP,\nM209 grenade</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort">
-		<text>A Ukranian-made pistol predominantly used by law enforcement organizations. Compared to the Makarov PM, the Fort-12 has better higher accuracy, better ergonomics and has a larger magazine. These pistols make it into the Zone in large numbers thanks to the sale of defective weapons, which suffer from technical flaws in early design models. Despite this, the pistol is in demand among stalkers thanks to its good combat characteristics.\n\nAmmunition:\n9x18mm FMJ,\n9x18mm +P+,\n9x18mm PBP (start here for your second session on 9/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>A Ukranian-made pistol predominantly used by law enforcement organizations. Compared to the Makarov PM, the Fort-12 has better higher accuracy, better ergonomics and has a larger magazine. These pistols make it into the Zone in large numbers thanks to the sale of defective weapons, which suffer from technical flaws in early design models. Despite this, the pistol is in demand among stalkers thanks to its good combat characteristics.\n\nAmmunition:\n9x18mm FMJ,\n9x18mm +P+,\n9x18mm PBP</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-g36">
-		<text>German-made assault rifle, which is a first-class example of a modern weapon - lightweight, reliable and ergonomic.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
+		<text>The G36 is a new addition to the Western-made assault rifle family, which differs significantly from previous models in the series built on an automatic foundation with a semi-open bolt assembly, this weapon is more like American automatic gas-operated assault rifles with a short-stroke gas piston system. These changes ensure that the rifle is a first-rate example of a modern weapon - lightweight, reliable and ergonomic.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP (start here for your first session on 9/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-gauss">
 		<text>A super-precision weapon that the designers in the Zone put together. Operates almost silently, as it uses artifact energy rather than gunpowder gases to fire. Despite the enormous power of the shot, the recoil of the Gauss gun is very low. It is superior to any classic small arms weapon in accuracy and killing power.\nAmmunition is 2-millimeter gauss ammunition.</text>
