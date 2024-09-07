@@ -4546,11 +4546,10 @@ April 26, 2008. 13-40</text>
 		<text>This gauss rifle is a highly accurate, technologically advanced weapon. It was developed in secret laboratories located inside the Zone. The weapon operates by accelerating bullets to extremely high speeds using a system of electromagnets, which provides incredible stopping power with virtually no recoil. The weapon is powered by using capsulated artifact fragments stored in the batteries.\nAmmunition: Gauss rounds</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza">
-		<text>This assault rifle combined with a grenade launcher, which is similar to the AK series, was specifically developed for rapid response units. The main differences are its 9x39mm caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.\nAmmunition:\n9x39mm SP-5\n9x39mm SP-6\n9x39mm PAB-9\nVOG-25\nVOG-25R (start here for your first session on 9/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>This assault rifle combined with a grenade launcher, which is similar to the AK series, was specifically developed for rapid response units. The main differences are its 9x39mm caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.\nAmmunition:\n9x39mm SP-5\n9x39mm SP-6\n9x39mm PAB-9\nVOG-25\nVOG-25R</text>
 	</string>
 	<string id="enc_weapons1_wpn-hpsa">
-		<text>Produced by the Belgian company FN Erstal. The Browning HP (High Power) family of pistols is designed for police and military use. They are in service in more than 100 countries around the world. 
-The Browning High Power is deservedly considered one of the finest pistols of the twentieth century.\nAmmunition:\nbasic 9x19mm Parabellum,\nenhanced 9x19mm PBP.</text>
+		<text>A modified version of the Browning Hi-Power pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP (start here for your second session on 9/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
 		<text>A hunting knife. An indispensable weapon if you need to take someone out quietly.</text>
