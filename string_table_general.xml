@@ -4549,10 +4549,10 @@ April 26, 2008. 13-40</text>
 		<text>This assault rifle combined with a grenade launcher, which is similar to the AK series, was specifically developed for rapid response units. The main differences are its 9x39mm caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.\nAmmunition:\n9x39mm SP-5\n9x39mm SP-6\n9x39mm PAB-9\nVOG-25\nVOG-25R</text>
 	</string>
 	<string id="enc_weapons1_wpn-hpsa">
-		<text>A modified version of the Browning Hi-Power pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP (start here for your second session on 9/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>A modified version of the Browning Hi-Power pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
-		<text>A hunting knife. An indispensable weapon if you need to take someone out quietly.</text>
+		<text>A hunting knife. If you need to take someone out quietly, this knife is the perfect weapon for the job. (start here for your first session on 9/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85">
 		<text>After this rifle was replaced by the British Army with the German G36, it surfaced in large numbers on the black market and then in the Zone. The main advantages of the L85 are the standard 4x scope and the high accuracy of the first shot. When firing in bursts, the accuracy of the rifle drops drastically, and the reliability of the main mechanisms of the rifle is not high enough.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
