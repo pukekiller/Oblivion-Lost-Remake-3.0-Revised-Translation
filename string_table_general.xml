@@ -4552,10 +4552,10 @@ April 26, 2008. 13-40</text>
 		<text>A modified version of the Browning Hi-Power pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
-		<text>A hunting knife. If you need to take someone out quietly, this knife is the perfect weapon for the job. (start here for your first session on 9/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>A hunting knife. If you need to take someone out quietly, this knife is the perfect weapon for the job.</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85">
-		<text>After this rifle was replaced by the British Army with the German G36, it surfaced in large numbers on the black market and then in the Zone. The main advantages of the L85 are the standard 4x scope and the high accuracy of the first shot. When firing in bursts, the accuracy of the rifle drops drastically, and the reliability of the main mechanisms of the rifle is not high enough.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
+		<text>This rifle's considerable number of drawbacks caused most of these weapons to be modernized, with the retired stock making its way to the Zone via the black market. The L85's main advantages are its built-in 4x scope and high single-shot accuracy. When the weapon is fired in bursts, its accuracy decreases significantly and the rifle's basic internal mechanisms become somewhat unreliable.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP (start here for your second session on 9/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300">
 		<text>The latest development of the American company Z-M Weapons, whose owner Allan Zitta is well known in gun circles for his many years of experience in technical development of .Colt-based combat and sporting pistols. Ì 1911. The LR-300 is nothing short of a new stage in the development of the AR-15. LR-300 stands for Lightweight Rifle Effective Fire Rifle up to 300 meters. Compared to the AR-15, the AR-15 utilizes a shorter gas system, significantly modified gas exhaust system and completely reconstructed upper part of the bolt carrier.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
