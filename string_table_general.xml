@@ -4609,11 +4609,11 @@ April 26, 2008. 13-40</text>
 		<text>The Walther P99 is a excellent Western pistol known for its reliability, high capacity magazine and good accuracy, as well as being among the most ergonomic handguns in its class. One of the most widely used pistols in the Zone, both among professionals and rookies who can afford it.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-wincheaster1300">
-		<text>The Mossberg Maverick 88 is a Western smoothbore shotgun that is extremely popular around the world due to its great reliability and quick reloading speed. It's particularly valued for its functionality by the Zone's hunters. All of its parts are coated with an anticorrosion compound.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart (start here for your second session on 9/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>The Mossberg Maverick 88 is a Western smoothbore shotgun that is extremely popular around the world due to its great reliability and quick reloading speed. It's particularly valued for its functionality by the Zone's hunters. All of its parts are coated with an anticorrosion compound.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-pri_lom_ak74">
-		<text>A stalker nicknamed Crowbar used to work as a mechanic in a locksmith factory. He made small changes in the design of his AK-74M, which increased the weapon's rate of fire.</text>
+		<text>A stalker nicknamed Crowbar used to work as a mechanic in a locksmith factory. He made various small improvements to this AK-74, increasing its rate of fire. (start here for your first session on 9/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez_coll">
 		<text>Sniper rifle, special, modernized. Designed for silent and flameless sniper shooting and features an integrated silencer. The firing mechanism was modified to reduce wear and tear during firing. The magazine was also enlarged to 20 rounds.</text>
