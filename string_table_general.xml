@@ -3371,7 +3371,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 <string id="enc_weapons1_wpn-striker">
-		<text>A semi-automatic shotgun of South African origin, originally designed for hunting big game in the African safari. It's compact and convenient, but it does have the major flaw of spewing hot gas in its user's face whenever the weapon fires. Regardless, it has found its way into the hands of firearm enthusiasts in the Zone.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart</text>
+		<text>A semi-automatic shotgun of South African origin, originally designed for hunting big game in the African safari. It's compact and convenient, but it does have the major flaw of spewing hot gas in its user's face whenever the weapon fires. Regardless, it has found its way into the hands of firearm enthusiasts in the Zone.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 
 <string id="dolg_spam_sms_garbage">
@@ -4524,7 +4524,7 @@ April 26, 2008. 13-40</text>
 		<text>Beretta pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. It's in service with many armies and law enforcement organizations across the world. The Beretta pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Berettas found in the Zone are usually dated, probably from retired stock.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>The TOZ-66 is a side-by-side shotgun, originally designed for hunting animals, but it's also lethally effective at putting down hostile stalkers or soldiers. It has good accuracy for close to medium ranges. The TOZ-66 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart</text>
+		<text>The TOZ-66 is a side-by-side shotgun, originally designed for hunting animals, but it's also lethally effective at putting down hostile stalkers or soldiers. It has good accuracy for close to medium ranges. The TOZ-66 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
 		<text>An improved version of the classic Colt 1911 automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.\n\n Ammunition:\n.45 ACP,\n.45 ACP Hydra-Shock</text>
@@ -4585,7 +4585,7 @@ April 26, 2008. 13-40</text>
 		<text>The SIG SG 550 is relatively new assault rifle that has quickly found admirers around the world, despite lacking a "trendy" design. Weapons of this series are one of the best in their class, renowned for their reliability, accuracy and ease of use. Despite being relatively difficult to obtain in the Zone, this assault rifle is often ordered by experienced stalkers at considerable expense.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12">
-		<text>The SPAS-12 is a smoothbore automatic shotgun was designed in the second half of the 20th century and it comes with both pump-action and semi-automatic firing modes. It's used as an all-purpose weapon by the police and assault troops and is notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart</text>
+		<text>The SPAS-12 is a smoothbore automatic shotgun was designed in the second half of the 20th century and it comes with both pump-action and semi-automatic firing modes. It's used as an all-purpose weapon by the police and assault troops and is notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd">
 		<text>An army sniper rifle that has been on the market for more than fifty years and has earned its reputation for exceptional reliability and ease of use. The SVD is normally used by armies in countries that are part of the ex-USSR to improve the effective range of its units, but stalkers respect this weapon for its armor-piercing properties, which allows it to penetrate mutant hide and anti-ballistic body armor.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP</text>
@@ -4594,7 +4594,7 @@ April 26, 2008. 13-40</text>
 		<text>A modernized version of the SVD sniper rifle that's a compact, bullpup version of it - made to the specifications of Russian special forces units. It allows faster precision fire and is considerably lighter, while its single shot firing accuracy at short and medium range is similar to that of its predecessor. These qualities have earned it the admiration of countless stalkers.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34">
-		<text>The TOZ-34 is a extremely common over-and-under hunting shotgun, offering better protection against mutants than a pistol, thanks to its accuracy and stopping power. It's used mostly by rookies on the outskirts of the Zone. It has been in production since 1964 at the Tula Arms Plant.\n\n Ammunition:\n 12x70 Shot,\n 12x76mm Slug,\n 12x76mm Dart</text>
+		<text>The TOZ-34 is a extremely common over-and-under hunting shotgun, offering better protection against mutants than a pistol, thanks to its accuracy and stopping power. It's used mostly by rookies on the outskirts of the Zone. It has been in production since 1964 at the Tula Arms Plant.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp">
 		<text>Impeccable reliability and durability combined with excellent accuracy are the main noteworthy features of the USP Compact. Its minor drawbacks include its considerable size, relatively high center of gravity and massive bolt, which make it difficult to conceal but do not outweigh the weapon's positive features. The weapon is especially popular with the Zone's veterans.\n\n Ammunition:\n.45 ACP,\n.45 ACP Hydra-Shock</text>
@@ -4606,10 +4606,10 @@ April 26, 2008. 13-40</text>
 		<text>The VSS Vintorez is a specialized military sniper rifle purpose-built for silent, flashless sniping during special operations where avoiding early detection of the shooter may be critical. It provides high armor-piercing capability and stopping power, as well as being equipped with an integrated sniper and optical scope. Highly rated by many stalkers despite its small magazine.\n\nAmmunition:\n9x39mm PAB-9,\n9x39mm SP-6,\n9x39mm SP-5</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther">
-		<text>The Walther P99 is a excellent Western pistol known for its reliability, high capacity magazine and good accuracy, as well as being among the most ergonomic handguns in its class. One of the most widely used pistols in the Zone, both among professionals and rookies who can afford it.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP (start here for your first session on 9/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>The Walther P99 is a excellent Western pistol known for its reliability, high capacity magazine and good accuracy, as well as being among the most ergonomic handguns in its class. One of the most widely used pistols in the Zone, both among professionals and rookies who can afford it.\n\nAmmunition:\n9x19mm FMJ,\n9x19mm JHP</text>
 	</string>
 	<string id="enc_weapons1_wpn-wincheaster1300">
-		<text>American-made pump action shotgun, designed for use in the most adverse conditions and characterized by high reliability. All parts are provided with an anti-corrosion coating.\nAmmunition:\n12x70 buckshot,\n12x76 javelin,\n12x76 dart.</text>
+		<text>The Mossberg Maverick 88 is a Western smoothbore shotgun that is extremely popular around the world due to its great reliability and quick reloading speed. It's particularly valued for its functionality by the Zone's hunters. All of its parts are coated with an anticorrosion compound.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart (start here for your second session on 9/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-pri_lom_ak74">
