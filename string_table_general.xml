@@ -4613,10 +4613,10 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-pri_lom_ak74">
-		<text>A stalker nicknamed Crowbar used to work as a mechanic in a locksmith factory. He made various small improvements to this AK-74, increasing its rate of fire. (start here for your first session on 9/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>A stalker nicknamed Crowbar used to work as a mechanic in a locksmith factory. He made various small improvements to this AK-74, increasing its rate of fire.</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez_coll">
-		<text>Sniper rifle, special, modernized. Designed for silent and flameless sniper shooting and features an integrated silencer. The firing mechanism was modified to reduce wear and tear during firing. The magazine was also enlarged to 20 rounds.</text>
+		<text>A hybrid version of the VSS Vintorez and the AS Val, combining the best features of both weapons. This weapon has a 20-round magazine and very accurate automatic fire. The rifle's 2x scope is tailored for short to medium-range combat. Additionally, the trigger mechanism has been modified to reduce wear and tear during firing.\n\nAmmunition:\n9x39mm PAB-9,\n9x39mm SP-6,\n9x39mm SP-5 (start here for your second session on 9/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="grenade-f1">
 		<text>F1</text>
