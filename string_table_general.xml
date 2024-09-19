@@ -4628,25 +4628,25 @@ April 26, 2008. 13-40</text>
 		<text>RGD-5 grenade</text>
 	</string>
 	<string id="Weapons1">
-		<text>Weapons (start here for your first session on 9/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Weapons</text>
 	</string>
 	<string id="wp_desert_eagle">
 		<text>Desert Eagle</text>
 	</string>
 	<string id="wpn_hpsa">
-		<text>FN HPSA</text>
+		<text>Browning Hi-Power</text>
 	</string>
 	<string id="wpn_usp">
-		<text>USP</text>
+		<text>USP Compact</text>
 	</string>
 	<string id="wpn-abakan">
-		<text>AKMS-MF1</text>
+		<text>AKMS</text>
 	</string>
 	<string id="wpn-abakan_m1">
 		<text>AKMS Sniper</text>
 	</string>
 	<string id="wpn-abakan_m2">
-		<text>AKMS - Assault</text>
+		<text>AKMS Assault (start here for your first session on 9/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher">
 		<text>GP-25 Bonfire</text>
