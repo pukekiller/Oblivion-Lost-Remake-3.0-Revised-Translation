@@ -4649,7 +4649,7 @@ April 26, 2008. 13-40</text>
 		<text>AKMS Assault</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher">
-		<text>GP-25 Kostyor (start here for your first session on 9/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>GP-25 Kostyor</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher-m203">
 		<text>M203</text>
@@ -4658,7 +4658,7 @@ April 26, 2008. 13-40</text>
 		<text>PSO-1 scope</text>
 	</string>
 	<string id="wpn-addon-scope-susat">
-		<text>SUSAT scope</text>
+		<text>SUSAT sight</text>
 	</string>
 	<string id="wpn-addon-silencer">
 		<text>Silencer</text>
@@ -4667,7 +4667,7 @@ April 26, 2008. 13-40</text>
 		<text>AKS-74</text>
 	</string>
 	<string id="wpn-ak74_m1">
-		<text>AKS-74 Rapid-fire</text>
+		<text>Rapid-firing AKS-74</text>
 	</string>
 	<string id="wpn-ak74u">
 		<text>AKS-74U</text>
@@ -4676,10 +4676,10 @@ April 26, 2008. 13-40</text>
 		<text>AKS-74U Spetsnaz</text>
 	</string>
 	<string id="wpn-beretta">
-		<text>Beretta</text>
+		<text>Beretta 92FS</text>
 	</string>
 	<string id="wpn-bm16">
-		<text>BM-16</text>
+		<text>TOZ-66 (start here for your second session on 9/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-colt_m1">
 		<text>Colt</text>
