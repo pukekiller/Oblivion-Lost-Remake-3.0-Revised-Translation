@@ -4679,10 +4679,10 @@ April 26, 2008. 13-40</text>
 		<text>Beretta 92FS</text>
 	</string>
 	<string id="wpn-bm16">
-		<text>TOZ-66 (start here for your second session on 9/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>TOZ-66</text>
 	</string>
 	<string id="wpn-colt_m1">
-		<text>Colt</text>
+		<text>Colt M1911</text>
 	</string>
 	<string id="wpn-colt1911">
 		<text>Colt M1911</text>
@@ -4694,7 +4694,7 @@ April 26, 2008. 13-40</text>
 		<text>FN-2000</text>
 	</string>
 	<string id="wpn-fort">
-		<text>Fort12</text>
+		<text>Fort-12</text>
 	</string>
 	<string id="wpn-fort_m">
 		<text>Fort-12M</text>
@@ -4703,10 +4703,10 @@ April 26, 2008. 13-40</text>
 		<text>HK G36</text>
 	</string>
 	<string id="wpn-gauss">
-		<text>Gauss</text>
+		<text>Gauss rifle</text>
 	</string>
 	<string id="wpn-groza">
-		<text>OK-14 Groza</text>
+		<text>OTs-14 Groza (start here for your first session on 9/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-groza_m1">
 		<text>Thunderstorm 5.45</text>
