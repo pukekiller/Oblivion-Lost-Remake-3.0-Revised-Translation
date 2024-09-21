@@ -4718,16 +4718,16 @@ April 26, 2008. 13-40</text>
 		<text>L85</text>
 	</string>
 	<string id="wpn-l85_m2">
-		<text>L85 (start here for your second session on 9/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>L85</text>
 	</string>
 	<string id="wpn-lr300">
-		<text>LR300</text>
+		<text>ZM LR-300</text>
 	</string>
 	<string id="wpn-lr300_m1">
-		<text>LR-300</text>
+		<text>ZM LR-300</text>
 	</string>
 	<string id="wpn-mp5">
-		<text>MP5</text>
+		<text>MP5A3 (start here for your first session on 9/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-mp5_m1">
 		<text>MP5 9x18</text>
