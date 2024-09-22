@@ -4727,22 +4727,22 @@ April 26, 2008. 13-40</text>
 		<text>ZM LR-300</text>
 	</string>
 	<string id="wpn-mp5">
-		<text>MP5A3 (start here for your first session on 9/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>MP5A3</text>
 	</string>
 	<string id="wpn-mp5_m1">
-		<text>MP5 9x18</text>
+		<text>9x18 MP5A3</text>
 	</string>
 	<string id="wpn-mp5_m2">
-		<text>MP5</text>
+		<text>MP5A3</text>
 	</string>
 	<string id="wpn-pb">
 		<text>PB</text>
 	</string>
 	<string id="wpn-pm">
-		<text>PMM</text>
+		<text>Makarov PM</text>
 	</string>
 	<string id="wpn-rg-6">
-		<text>RG-6</text>
+		<text>RG-6 (start here for your second session on 9/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-rg6_m1">
 		<text>RG-6 M203</text>
