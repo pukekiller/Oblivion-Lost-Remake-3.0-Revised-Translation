@@ -4754,16 +4754,16 @@ April 26, 2008. 13-40</text>
 		<text>SG 550 Assault</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>SG 550 Sniper (start here for your second session on 9/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>SG 550 Sniper</text>
 	</string>
 	<string id="wpn-sig220">
 		<text>P220</text>
 	</string>
 	<string id="wpn-sig550">
-		<text>Sig-550</text>
+		<text>SG 550</text>
 	</string>
 	<string id="wpn-spas12">
-		<text>SPAS12</text>
+		<text>SPAS-12 (start here for your first session on 9/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-spas12_m1">
 		<text>SPAS12</text>
