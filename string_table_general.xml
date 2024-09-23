@@ -4748,13 +4748,13 @@ April 26, 2008. 13-40</text>
 		<text>M209 RG-6</text>
 	</string>
 	<string id="wpn-rpg7">
-		<text>RPG-7V (start here for your first session on 9/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>RPG-7V</text>
 	</string>
 	<string id="wpn-sig_m1">
-		<text>Sig-550 Assault</text>
+		<text>SG 550 Assault</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>Sig-550 Sniper</text>
+		<text>SG 550 Sniper (start here for your second session on 9/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-sig220">
 		<text>P220</text>
