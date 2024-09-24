@@ -4763,10 +4763,10 @@ April 26, 2008. 13-40</text>
 		<text>SG 550</text>
 	</string>
 	<string id="wpn-spas12">
-		<text>SPAS-12 (start here for your first session on 9/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>SPAS-12</text>
 	</string>
 	<string id="wpn-spas12_m1">
-		<text>SPAS12</text>
+		<text>SPAS-12</text>
 	</string>
 	<string id="wpn-svd">
 		<text>SVD</text>
@@ -4775,10 +4775,10 @@ April 26, 2008. 13-40</text>
 		<text>SVD</text>
 	</string>
 	<string id="wpn-svu">
-		<text>SVU</text>
+		<text>OTs-03 SVU</text>
 	</string>
 	<string id="wpn-toz34">
-		<text>TOZ-34</text>
+		<text>TOZ-34 (start here for your second session on 9/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-val">
 		<text>AS VAL</text>
