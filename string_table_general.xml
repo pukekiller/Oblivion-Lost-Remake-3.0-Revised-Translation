@@ -4778,19 +4778,19 @@ April 26, 2008. 13-40</text>
 		<text>OTs-03 SVU</text>
 	</string>
 	<string id="wpn-toz34">
-		<text>TOZ-34 (start here for your second session on 9/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>TOZ-34</text>
 	</string>
 	<string id="wpn-val">
-		<text>AS VAL</text>
+		<text>AS Val</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>Shaft</text>
+		<text>AS Val</text>
 	</string>
 	<string id="wpn-vintorez">
-		<text>VSS</text>
+		<text>VSS Vintorez</text>
 	</string>
 	<string id="wpn-walther">
-		<text>P-99</text>
+		<text>Walther P99 (start here for your first session on 9/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-walther_m1">
 		<text>Walther 9x18</text>
