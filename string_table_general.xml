@@ -4796,19 +4796,19 @@ April 26, 2008. 13-40</text>
 		<text>9x18 Walther P99</text>
 	</string>
 	<string id="wpn-wincheaster1300">
-		<text>Mossberg Maverick 88  (start here for your second session on 9/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Mossberg Maverick 88 </text>
 	</string>
 	<string id="wpn-vintorez_coll">
-		<text>Improved Rifles</text>
+		<text>Improved VSS Vintorez</text>
 	</string>
 	<string id="wpn_bm16_full">
 		<text>TOZ-66</text>
 	</string>
     <string id="enc_weapons_wpn_bm16_full">
-		<text>Unshortened version of the BM-16 shotgun. It is distinguished from the Obrez by its greater nastiness and accuracy. Suitable for hunting boars and larger animals. Often seen in rookies and on sale at merchants.\nAmmunition:\n12x70 buckshot,\n12x76 javelin,\n12x76 dart.</text>
+		<text>The TOZ-66 is a side-by-side shotgun, originally designed for hunting animals, but it's also lethally effective at putting down hostile stalkers or soldiers. It has good accuracy for close to medium ranges. The TOZ-66 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
     </string>
 	<string id="wpn-p90_name">
-		<text>FN P90</text>
+		<text>FN P90 (start here for your first session on 9/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-p90">
 		<text>Belgian submachine gun developed in the 1980s by FN Herstal. Despite its unusual appearance, it is quite effective. In the Zone, the FN P90 was fairly quickly redesigned for a special 5.56x45mm cartridge with more penetrating power than other pistol cartridges. The gun is easy to use and has extremely low recoil.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
