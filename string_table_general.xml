@@ -4808,14 +4808,14 @@ April 26, 2008. 13-40</text>
 		<text>The TOZ-66 is a side-by-side shotgun, originally designed for hunting animals, but it's also lethally effective at putting down hostile stalkers or soldiers. It has good accuracy for close to medium ranges. The TOZ-66 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n\n Ammunition:\n 12x70 Buckshot,\n 12x76mm Slug,\n 12x76mm Dart</text>
     </string>
 	<string id="wpn-p90_name">
-		<text>FN P90 (start here for your first session on 9/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>FN P90</text>
 	</string>
 	<string id="enc_weapons1_wpn-p90">
-		<text>Belgian submachine gun developed in the 1980s by FN Herstal. Despite its unusual appearance, it is quite effective. In the Zone, the FN P90 was fairly quickly redesigned for a special 5.56x45mm cartridge with more penetrating power than other pistol cartridges. The gun is easy to use and has extremely low recoil.\nAmmunition:\nconventional 5.56x45mm SS109,\narmor-piercing 5.56x45mm AR.</text>
+		<text>A Belgian submachine gun developed in the 1980s by FN Herstal. Despite its unusual appearance, it's an excellent SMG. In the Zone, the FN P90 was bought in bulk by gunsmiths and rechambered for the much more common 5.56x45mm cartridge, as the original cartridge it was designed for, 5.7x28mm, is much more rare and expensive. If compared to regular P90's, this rechambered one has much better ballistic performance, and it still retains the low recoil the P90 is known for.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP</text>
 	</string>
 	
 	<string id="wpn-pkm_name">
-		<text>PKM</text>
+		<text>PKM (start here for your second session on 9/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-pkm">
 		<text>Such weapons are usually equipped with heavily armed squads of military stalkers. It is extremely rare in the Zone, due to its large size and weight, which sometimes requires wearing an exoskeleton to shoot from hand.\nAmmunition:\narmor-piercing 7.62x54 mm BP.</text>
