@@ -4540,7 +4540,7 @@ April 26, 2008. 13-40</text>
 	</string>
 
 	<string id="enc_weapons1_wpn-g36">
-		<text>The G36 is a new addition to the Western-made assault rifle family, which differs significantly from previous models in the series built on an automatic foundation with a semi-open bolt assembly, this weapon is more like American automatic gas-operated assault rifles with a short-stroke gas piston system. These changes ensure that the rifle is a first-rate example of a modern weapon - lightweight, reliable and ergonomic.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP (start here for your first session on 9/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>The G36 is a new addition to the Western-made assault rifle family, which differs significantly from previous models in the series built on an automatic foundation with a semi-open bolt assembly, this weapon is more like American automatic gas-operated assault rifles with a short-stroke gas piston system. These changes ensure that the rifle is a first-rate example of a modern weapon - lightweight, reliable and ergonomic.\n\nAmmunition:\n5.56x45mm SS109,\n5.56x45mm AP</text>
 	</string>
 	<string id="enc_weapons1_wpn-gauss">
 		<text>This gauss rifle is a highly accurate, technologically advanced weapon. It was developed in secret laboratories located inside the Zone. The weapon operates by accelerating bullets to extremely high speeds using a system of electromagnets, which provides incredible stopping power with virtually no recoil. The weapon is powered by using capsulated artifact fragments stored in the batteries.\nAmmunition: Gauss rounds</text>
@@ -4824,7 +4824,7 @@ April 26, 2008. 13-40</text>
 		<text>Stechkin APS</text>
 	</string>
         <string id="enc_weapons1_wpn-aps">
-		<text>The Stechkin APS is an machine pistol developed during the late 1940s and early 1950s, and was officially adopted by the Soviet Armed Forces in 1951 alongside the Makarov PM. The APS is intended for arming officers taking direct part in combat operations, as well as for soldiers and sergeants of special units.\n\nAmmunition:\n9x18mm FMJ,\n9x18mm +P+,\n9x18mm PBP (start here for your second session on 9/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>The Stechkin APS is an machine pistol developed during the late 1940s and early 1950s, and was officially adopted by the Soviet Armed Forces in 1951 alongside the Makarov PM. The APS is intended for arming officers taking direct part in combat operations, as well as for soldiers and sergeants of special units.\n\nAmmunition:\n9x18mm FMJ,\n9x18mm +P+,\n9x18mm PBP</text>
         </string>
 
 
@@ -4832,10 +4832,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_lampa">
-		<text>Description: A super-powered psi wave emitter of unknown type. It looks like an ordinary lamp.</text>
+		<text>This object is a incredibly powerful psionic wave emitter, emitting psionic waves that are unknown to science. It looks like an ordinary lamp.</text>
 	</string>
 	<string id="af-art_lampa">
-		<text>Death-lamp</text>
+		<text>Death-lamp (start here for your first session on 9/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
