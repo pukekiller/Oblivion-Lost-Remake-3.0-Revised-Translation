@@ -4821,10 +4821,10 @@ April 26, 2008. 13-40</text>
 		<text>A PKM machine gun. These are very heavy and difficult to hip-fire effectively. In the Zone, these are extremely rare and are only used by military stalkers equipped with exoskeletons.\n\nAmmunition:\n7.62x54mmR 7N1,\n7.62x54mmR 7N14,\n7.62x54mmR BP</text>
 	</string>
 	<string id="wpn-aps">
-		<text>Stechkin APS (start here for your second session on 9/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stechkin APS</text>
 	</string>
         <string id="enc_weapons1_wpn-aps">
-		<text>APS is an automatic pistol developed in the late 1940s and early 1950s and adopted by the Soviet Armed Forces in 1951, at the same time as the Makarov pistol. APS is intended for arming officers taking direct part in combat operations, as well as for soldiers and sergeants of some special units.\n- 9x18mm, 9x18mm BMP\n- effective range 100m\n- magazine capacity 20 rounds\</text>
+		<text>The Stechkin APS is an machine pistol developed during the late 1940s and early 1950s, and was officially adopted by the Soviet Armed Forces in 1951 alongside the Makarov PM. The APS is intended for arming officers taking direct part in combat operations, as well as for soldiers and sergeants of special units.\n\nAmmunition:\n9x18mm FMJ,\n9x18mm +P+,\n9x18mm PBP (start here for your second session on 9/27/24 and don't forget to remove this reminder when you start)</text>
         </string>
 
 
