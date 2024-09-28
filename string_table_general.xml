@@ -4835,12 +4835,12 @@ April 26, 2008. 13-40</text>
 		<text>This object is a incredibly powerful psionic wave emitter, emitting psionic waves that are unknown to science. It looks like an ordinary lamp.</text>
 	</string>
 	<string id="af-art_lampa">
-		<text>Death-lamp (start here for your first session on 9/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Death-lamp</text>
 	</string>
 
 
 	<string id="enc_zone_af_art_kub">
-		<text>This artifact has interesting and unpredictable properties. For example, it increases your resistance to blowouts. Rumor has it that if you fall asleep with this artifact after being zombified, you'll turn back to normal the artifact itself will disappear. (start here for your second session on 9/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact has interesting and unpredictable properties. For example, it increases your resistance to blowouts. Rumor has it that if you fall asleep with this artifact after being zombified, you'll turn back to normal the artifact itself will disappear.</text>
 	</string>
 	<string id="af-af_art_kub">
 		<text>Invisible cube</text>
@@ -4848,8 +4848,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_lenss">
-		<text>Description: a valuable and rare artifact. The object of sale, studied properties has no properties, except one - increases the body's resistance to high temperatures.</text>
-	</string>
+		<text>This artifacle is rare and valuable. It'll get you a lot of money if you sell it, and has no known except properties except for one: it increases the resistance of its user to high temperatures. (start here for your second session on 9/28/24 and don't forget to remove this reminder when you start)</text>
 	<string id="af-art_lenss">
 		<text>Lens</text>
 	</string>
