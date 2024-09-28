@@ -1897,16 +1897,16 @@ Anomalous zones:\n1.	Radiation hotspots
 
 
 <string id="battery_change_name">
-		<text>PDA battery</text>
+		<text>Battery</text>
 	</string>
 
 
 <string id="battery_change_short_name">
-		<text>Battery </text>
+		<text>Battery</text>
 	</string>
 
 <string id="enc_equipment_battery_change">
-		<text>A removeable battery for PDAs that can be recharged. You can use it to increase your PDAs power charge, and to find out what the current charge of your PDA is.</text>
+		<text>A removeable battery for PDAs (and other compatiable devices) that can be recharged. You can use it to increase your PDAs power charge, and to find out what the current charge of your PDA is. The most common flashlight used in the Zone does not accept this type of battery.</text>
 	</string>
 
 
