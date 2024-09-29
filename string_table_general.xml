@@ -4856,7 +4856,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_ruchk">
-		<text>The Handle is an anomalous object of unknown origin. It resembles a thick pen, dark in color with a grey-colored pattern on its surface. It radiates warmth that you can feel even through the gloves of your protective suit. It you put a Handle on your belt, it'll increase the weight you can carry by 3 kilograms. (start here for your second session on 9/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>The Handle is an anomalous object of unknown origin. It resembles a thick pen, dark in color with a grey-colored pattern on its surface. It radiates warmth that you can feel even through the gloves of your protective suit. It you put a Handle on your belt, it'll increase the weight you can carry by 3 kilograms.</text>
 	</string>
 	<string id="af-art_ruchk">
 		<text>Handle</text>
@@ -4866,10 +4866,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_spiral">
-		<text>Description: an anomalous object of unknown origin, resembling a spiral. When worn on the belt, it causes a feeling of drowsiness.</text>
+		<text>The Spiral an anomalous object of unknown origin, resembling its namesake. It you put a Spiral on your belt, it'll make you feel drowsiness.</text>
 	</string>
 	<string id="af-art_spiral">
-		<text>Spirals</text>
+		<text>Spiral (start here for your first session on 9/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
