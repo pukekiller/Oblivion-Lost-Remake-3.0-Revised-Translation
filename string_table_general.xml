@@ -4848,7 +4848,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_lenss">
-		<text>This artifacle is rare and valuable. It'll get you a lot of money if you sell it, and has no known except properties except for one: it increases the resistance of its user to high temperatures. (start here for your second session on 9/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifacle is rare and valuable. It'll get you a lot of money if you sell it, and has no known except properties except for one: it increases the resistance of its user to high temperatures.</text>
 	<string id="af-art_lenss">
 		<text>Lens</text>
 	</string>
@@ -4856,7 +4856,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_ruchk">
-		<text>Description: an anomalous object of unknown origin. Something that looked like a thick pen, dark in color with a grayish pattern on the surface. Radiates warmth - you can feel it even through the gloves of your protective coveralls. Increases the weight carried by 3 kg.</text>
+		<text>The Handle is an anomalous object of unknown origin. It resembles a thick pen, dark in color with a grey-colored pattern on its surface. It radiates warmth that you can feel even through the gloves of your protective suit. It you put a Handle on your belt, it'll increase the weight you can carry by 3 kilograms. (start here for your second session on 9/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="af-art_ruchk">
 		<text>Handle</text>
