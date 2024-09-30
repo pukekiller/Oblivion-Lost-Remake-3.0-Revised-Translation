@@ -4843,7 +4843,7 @@ April 26, 2008. 13-40</text>
 		<text>This artifact has interesting and unpredictable properties. For example, it increases your resistance to blowouts. Rumor has it that if you fall asleep with this artifact after being zombified, you'll turn back to normal the artifact itself will disappear.</text>
 	</string>
 	<string id="af-af_art_kub">
-		<text>Invisible cube</text>
+		<text>Invisible Cube</text>
 	</string>
 
 
@@ -4869,7 +4869,7 @@ April 26, 2008. 13-40</text>
 		<text>The Spiral an anomalous object of unknown origin, resembling its namesake. It you put a Spiral on your belt, it'll make you feel drowsiness.</text>
 	</string>
 	<string id="af-art_spiral">
-		<text>Spiral (start here for your first session on 9/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Spiral</text>
 	</string>
 
 
@@ -4877,19 +4877,17 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_steklo">
-		<text>Description: transparent objects valuable from an aesthetic point of view.</text>
+		<text>This artifact has no known anomalous properties. It resembles an object made out of glass, being transparent and aesthetically pleasing to look at. It'll get you a bit of money if you sell it.</text>
 	</string>
 	<string id="af-art_steklo">
-		<text>Glass-like objects</text>
+		<text>Glass-like artifact</text>
 	</string>
 
 
 
 
 	<string id="enc_zone_art_sterj">
-		<text>    Description: The only artifact of its kind. The straight metal rod is 43 cm long. On one of the sides you can see the numbers "2465" clearly printed.
-    Properties: Capable of quenching any type of energy without changing shape or showing any primary signs (heating or cooling). Non-radioactive, no hazardous effects have been identified.
-    Application: Object of scientific research.</text>
+		<text>This artifact, which has only one known example that exists, resembles a straight metal rod that is 43 centimeters long. You can see the numbers "2465" clearly printed on one of its sides. The main anomalous property of this artifact is that it's capable of quenching any type of energy without changing its shape, and it also maintains a consisent temperature - regardless of what kind of heat or energy it's exposed to. It isn't radioactive, and it has no known negative effects. Selling this to a scientist would get you a fair sum of money as it is both extremely rare, benign, and has anomalous properties that defy the laws of physics.</text>
 	</string>
 	<string id="af-art_sterj">
 		<text>Rod 2465</text>
@@ -4905,26 +4903,26 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_head_cherep">
-		<text>A human skull, but made of a strange material. It's moving a bit, there are some fastenings in the eye sockets.</text>
+		<text>This artifact resembles human skull made out of a strange material. Upon closer inspection, it is actually moving very slightly, and there are also various fastenings in the eye sockets.</text>
 	</string>
 
 
 
 	<string id="enc_zone_art_chernaya_busina">
-		<text>Description: Artifact with the negative properties of the host's influence.</text>
+		<text>This artifact, resembling numerous black beads, has the anomalous trait of picking up the negative psionic properties of its host, such as anger or anxiety.</text>
 	</string>
 	<string id="af-art_chernaya_busina">
-		<text>Black bead</text>
+		<text>Black Bead</text>
 	</string>
 
 
 
 
 	<string id="enc_zone_art_lichinka">
-		<text>Description: a shrunken larva of an unknown insect inside a glass oval. Has a strange property of saturating its host.</text>
+		<text>This artifact, which appears to be a shrunken larva of an unknown type of insect inside a glass oval, has the anomalous property of saturating its host.</text>
 	</string>
 	<string id="af-art_lichinka">
-		<text>Larva</text>
+		<text>Larva (start here for your first session on 9/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
