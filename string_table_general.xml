@@ -4840,7 +4840,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_af_art_kub">
-		<text>This artifact has interesting and unpredictable properties. For example, it increases your resistance to blowouts. Rumor has it that if you fall asleep with this artifact after being zombified, you'll turn back to normal the artifact itself will disappear.</text>
+		<text>This artifact has interesting and unpredictable properties. For example, it increases your resistance to blowouts. Rumor has it that if you fall asleep with this artifact after being zombified, you'll turn back to normal and the artifact itself will disappear.</text>
 	</string>
 	<string id="af-af_art_kub">
 		<text>Invisible Cube</text>
@@ -4903,7 +4903,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_head_cherep">
-		<text>This artifact resembles human skull made out of a strange material. Upon closer inspection, it is actually moving very slightly, and there are also various fastenings in the eye sockets.</text>
+		<text>This artifact resembles human skull made out of a strange material. Upon closer inspection, you can see that it's actually moving very slightly, and there are also various fastenings in the eye sockets.</text>
 	</string>
 
 
@@ -4922,7 +4922,7 @@ April 26, 2008. 13-40</text>
 		<text>This artifact, which appears to be a shrunken larva of an unknown type of insect inside a glass oval, has the anomalous property of saturating its host.</text>
 	</string>
 	<string id="af-art_lichinka">
-		<text>Larva (start here for your first session on 9/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Larva</text>
 	</string>
 
 
@@ -4930,7 +4930,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_3_step_anom_svetim">
-		<text>An artifact of third-degree anomalous luminosity. Properties are unknown except one - increases resistance to radiation. It is well known that artifacts of the anomalous luminosity class can react anomalously with other artifacts of that class.</text>
+		<text>This artifact has a level-three rating for anomalous energy. Its properties unknown, except for one - it increases resistance of its host to radiation. It is known that level-three artifacts can react abnormally with other artifacts of the same type. (start here for your second session on 9/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="af-art_3_step_anom_svetim">
 		<text>An artifact of the third degree of anomalous luminosity</text>
