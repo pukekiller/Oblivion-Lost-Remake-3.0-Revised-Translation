@@ -4930,10 +4930,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art_3_step_anom_svetim">
-		<text>This artifact has a level-three rating for anomalous energy. Its properties unknown, except for one - it increases resistance of its host to radiation. It is known that level-three artifacts can react abnormally with other artifacts of the same type. (start here for your second session on 9/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact has a level-three rating for anomalous energy. Its properties unknown, except for one - it increases resistance of its host to radiation. It is known that level-three artifacts can react abnormally with other artifacts of the same type.</text>
 	</string>
 	<string id="af-art_3_step_anom_svetim">
-		<text>An artifact of the third degree of anomalous luminosity</text>
+		<text>This artifact has a level-three rating for anomalous energy. (start here for your first session on 9/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
