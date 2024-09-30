@@ -4933,7 +4933,7 @@ April 26, 2008. 13-40</text>
 		<text>This artifact has a level-three rating for anomalous energy. Its properties unknown, except for one - it increases resistance of its host to radiation. It is known that level-three artifacts can react abnormally with other artifacts of the same type.</text>
 	</string>
 	<string id="af-art_3_step_anom_svetim">
-		<text>This artifact has a level-three rating for anomalous energy. (start here for your first session on 9/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact has a level-three rating for anomalous energy.</text>
 	</string>
 
 
@@ -4941,7 +4941,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_art460">
-		<text>Artifact #460. An object with a negative degree of anomalous luminosity. Properties unknown. It is well known that artifacts of the anomalous luminosity class can react anomalously with other artifacts of that class.</text>
+		<text>This artifact, designated #460, is an object with a negative degree of anomalous energy. Its properties are unknown. It's well known that artifacts that have negative degrees of anomalous energy can react anomalously with other artifacts of the same type.</text>
 	</string>
 	<string id="af-art460">
 		<text>Artifact #460</text>
@@ -4952,16 +4952,16 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_artifact_black_kristal">
-		<text>An artifact of unknown origin. A poorly studied specimen. It has the property of increasing the muscle tone of the wearer, so you can move around longer.</text>
+		<text>An artifact of unknown origin. Very little is known about this artifact. It has the anomalous trait of increasing the physical strength of its host, allowing its host to run for longer periods of time.</text>
 	</string>
 	<string id="af-black_kristal">
-		<text>Black crystal</text>
+		<text>Black Crystal</text>
 	</string>
 
 
 
 	<string id="enc_zone_artifact_af_kolco">
-		<text>An artifact of unknown origin. It has the property of increasing the muscle tone of the wearer, so you can move around longer. Prone to degeneration with prolonged use.</text>
+		<text>An artifact of unknown origin. It has the anomalous trait of increasing the physical strength of its host, allowing its host to run for longer periods of time, although this specific artifact will degrade if you use it for long periods of time.</text>
 	</string>
 	<string id="af-af_kolco">
 		<text>Ring</text>
@@ -4970,7 +4970,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_zone_af_studen">
-		<text>A viscous substance. Ultra-hazardous colonies of mutated bacteria.\nSpecificity: very dangerous anomalous formation, store only in a secure container such as an R1 capsule.</text>
+		<text>This artifact is a highly hazardous, viscous substance that has numerous colonies of bacteria that's highly dangerous. You should only carry this around if you have an R1 capsule to store it safely.</text>
 	</string>
 	<string id="af-af_studen">
 		<text>Stud</text>
@@ -4978,10 +4978,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_af_gold_fish_black">
-		<text>The result of artifact modification. Has boosted properties of parental artifacts, including negative ones.</text>
+		<text>This artifact is the result of merging two together with a specialized device. It has both the positive and negative traits of its parental artifacts.</text>
 	</string>
 	<string id="af-af_gold_fish_black">
-		<text>Black Gravy</text>
+		<text>Black Gravi (start here for your first session on 9/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
