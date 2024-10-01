@@ -4981,20 +4981,20 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is the result of merging two together with a specialized device. It has both the positive and negative traits of its parental artifacts.</text>
 	</string>
 	<string id="af-af_gold_fish_black">
-		<text>Black Gravi (start here for your first session on 9/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Black Gravi</text>
 	</string>
 
 
 
 
 	<string id="af_studen_m1_desc">
-		<text>The result of genetic modification of artifact jelly. Protects against exposure to parasitic spores, eliminates the possibility of contracting the disease.</text>
+		<text>This artifact is the result of modifying the genes of the Jelly artifact. It protects its host against parasitic spores, and also greatly augments the immune system of its host - making it nearly impossible for any virus or bacteria to make its host ill.</text>
 	</string>
 
 
 
 	<string id="af-ameba-mica">
-		<text>Mercury ball</text>
+		<text>Mercury Ball (start here for your second session on 10/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="af-ameba-slime">
 		<text>Radioactive bolt</text>
