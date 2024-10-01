@@ -5012,7 +5012,7 @@ April 26, 2008. 13-40</text>
 		<text>Glass bagel</text>
 	</string>
 	<string id="af-drops">
-		<text>Zuda</text>
+		<text>Itch</text>
 	</string>
 	<string id="af-dummy-battery">
 		<text>Disintegrator</text>
@@ -5027,7 +5027,7 @@ April 26, 2008. 13-40</text>
 		<text>Plasma</text>
 	</string>
 	<string id="af-dummy-spring">
-		<text>Washcloth (start here for your first session on 10/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Washcloth</text>
 	</string>
 	<string id="af-electra-flash">
 		<text>Burning Wat</text>
@@ -5039,34 +5039,34 @@ April 26, 2008. 13-40</text>
 		<text>Node</text>
 	</string>
 	<string id="af-fireball">
-		<text>Transparent balloon</text>
+		<text>Transparent ball</text>
 	</string>
 	<string id="af-fuzz-kolobok">
-		<text>Strong needles</text>
+		<text>Sharp needles</text>
 	</string>
 	<string id="af-gold-fish">
-		<text>A strong gravitational artifact</text>
+		<text>Strong gravitational artifact</text>
 	</string>
 	<string id="af-gravi">
-		<text>gravitational artifact</text>
+		<text>Gravitational artifact</text>
 	</string>
 	<string id="af-medusa">
 		<text>Bagel</text>
 	</string>
 	<string id="af-mincer-meat">
-		<text>Rusty hair</text>
+		<text>Rusty Hair</text>
 	</string>
 	<string id="af-night-star">
 		<text>Magnet</text>
 	</string>
 	<string id="af-rusty-kristall">
-		<text>Black thorn</text>
+		<text>Black Thorn</text>
 	</string>
 	<string id="af-rusty-sea-urchin">
 		<text>Needles</text>
 	</string>
 	<string id="af-rusty-thorn">
-		<text>Thorn</text>
+		<text>Thorn (start here for your first session on 10/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="af-soul">
 		<text>Black drops</text>
