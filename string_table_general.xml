@@ -4994,7 +4994,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="af-ameba-mica">
-		<text>Mercury Ball (start here for your second session on 10/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Mercury Ball</text>
 	</string>
 	<string id="af-ameba-slime">
 		<text>Radioactive bolt</text>
@@ -5003,7 +5003,7 @@ April 26, 2008. 13-40</text>
 		<text>Radioactive debris</text>
 	</string>
 	<string id="af-blood">
-		<text>Toad's eye</text>
+		<text>Toad's Eye</text>
 	</string>
 	<string id="af-cristall">
 		<text>Double pacifier</text>
@@ -5021,13 +5021,13 @@ April 26, 2008. 13-40</text>
 		<text>Pacifier</text>
 	</string>
 	<string id="af-dummy-glassbeads">
-		<text>Dead head</text>
+		<text>Dead Head</text>
 	</string>
 	<string id="af-dummy-pellicle">
 		<text>Plasma</text>
 	</string>
 	<string id="af-dummy-spring">
-		<text>Washcloth</text>
+		<text>Washcloth (start here for your first session on 10/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="af-electra-flash">
 		<text>Burning Wat</text>
