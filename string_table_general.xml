@@ -5075,10 +5075,10 @@ April 26, 2008. 13-40</text>
 		<text>Weak gravitational artifact</text>
 	</string>
 	<string id="Agroprom">
-		<text>Agroprom Research Institute (start here for your second session on 10/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Agroprom Research Institute</text>
 	</string>
 	<string id="Ameba">
-		<text>Cholodets</text>
+		<text>Amoeba</text>
 	</string>
 	<string id="Anomalies">
 		<text>Anomalies</text>
@@ -5087,7 +5087,7 @@ April 26, 2008. 13-40</text>
 		<text>Artifacts</text>
 	</string>
 	<string id="Bald">
-		<text>Mosquito Patch</text>
+		<text>Springboard</text>
 	</string>
 	<string id="Bar">
 		<text>Bar</text>
@@ -5096,7 +5096,7 @@ April 26, 2008. 13-40</text>
 		<text>Dark Valley</text>
 	</string>
 	<string id="Electra">
-		<text>Electra</text>
+		<text>Electra (start here for your first session on 10/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Hvat">
 		<text>Grabber</text>
