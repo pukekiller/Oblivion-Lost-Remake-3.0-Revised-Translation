@@ -5117,16 +5117,16 @@ April 26, 2008. 13-40</text>
 		<text>Lift</text>
 	</string>
 	<string id="Roundabout">
-		<text>Carousel</text>
+		<text>Whirligig</text>
 	</string>
 	<string id="enc_weapons1_wpn-winchester_m1">
 		<text>This weapon is a modified version of the Mossberg Maverick 88 that has a small fragment of the Gravi artifact embedded into its barrel, improving this weapon's ballistic performance.</text>
 	</string>
 	<string id="enc_zone_anomalies_acidfog">
-		<text>This anomaly gets its name from the characteristic damage it inflicts on both living beings or the environment around it. Visually, it looks like a bright purple shimmer in the air. (start here for your second session on 10/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>This anomaly gets its name from the characteristic damage it inflicts on both living beings or the environment around it. Visually, it looks like a bright purple shimmer in the air.</text>
 	</string>
 	<string id="enc_zone_anomalies_roundabout">
-		<text>The name is due to the effect of lifting any living thing into the air and then spinning it up to tremendous speed. The nature of the "Carousel" has not yet been fully explored. Detected by a light dust vortex and scattered body fragments around. It is very important not to miss the moment of the beginning of pulling into the anomalous vortex and not to get into the zone of maximum strong effect in the center - only then there is a chance to get away with minimal injuries.</text>
+		<text>This anomaly snatches its victims up in the air and spins them at a breakneck speed. The exact nature of the Whirligig remains unknown. The anomaly can be recognized by a light whirlwind of dust above and by body fragments scattered in the vicinity. Victims caught on its outer rim - far enough from the maximum effect zone at the center - can escape the Whirligig with relatively minor injuries. (start here for your first session on 10/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_anomalies_ameba">
 		<text>A formation of a nature not entirely clear. On contact with the body, causes injuries similar to the effects of strong acid.</text>
