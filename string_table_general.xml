@@ -5159,10 +5159,10 @@ April 26, 2008. 13-40</text>
 		<text>A relatively harmless anomaly, temporarily negating normal gravity. It manifests itself as an area - usually several meters in diameter - where Earth's gravitational pull is greatly reduced.</text>
 	</string>
 	<string id="enc_zone_anomalies_meat">
-		<text>The anomaly snatches its victims up in the air and spins them at a breakneck speed. The exact nature of the Whirligig remains unknown. The anomaly can be recognized by a light whirlwind of dust above and by body fragments scattered in the vicinity. Victims caught on its outer rim - far enough from the maximum effect zone at the center - can escape the Whirligig with relatively minor injuries. (start here for your second session on 10/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>The anomaly snatches its victims up in the air and spins them at a breakneck speed. The exact nature of the Whirligig remains unknown. The anomaly can be recognized by a light whirlwind of dust above and by body fragments scattered in the vicinity. Victims caught on its outer rim - far enough from the maximum effect zone at the center - can escape the Whirligig with relatively minor injuries.</text>
 	</string>
 	<string id="enc_zone_anomalies_radioactive">
-		<text>An area of elevated levels - more than 50 mcR/h - of radiation. Prolonged exposure to such places should be avoided.</text>
+		<text>An area of increased radiation - over 50 mR/h. Staying in a radiation zone for long periods of time is strongly discouraged. (start here for your first session on 10/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_anomalies_time">
 		<text>An anomaly, which can rightly be called a small miracle: in a volume with a diameter of several meters, the flow of time is repeatedly slowed down. There appears to be no negative health effects, but it is not easy to get out of it. Interestingly, at the center of the time machine is usually an artifact called Mama's Beads, upon removal of which the anomaly ceases to exist.</text>
