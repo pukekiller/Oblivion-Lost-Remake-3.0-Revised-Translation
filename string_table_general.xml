@@ -5162,10 +5162,10 @@ April 26, 2008. 13-40</text>
 		<text>The anomaly snatches its victims up in the air and spins them at a breakneck speed. The exact nature of the Whirligig remains unknown. The anomaly can be recognized by a light whirlwind of dust above and by body fragments scattered in the vicinity. Victims caught on its outer rim - far enough from the maximum effect zone at the center - can escape the Whirligig with relatively minor injuries.</text>
 	</string>
 	<string id="enc_zone_anomalies_radioactive">
-		<text>An area of increased radiation - over 50 mR/h. Staying in a radiation zone for long periods of time is strongly discouraged. (start here for your first session on 10/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>An area of increased radiation - over 50 mR/h. Staying in a radiation zone for long periods of time is strongly discouraged.</text>
 	</string>
 	<string id="enc_zone_anomalies_time">
-		<text>An anomaly, which can rightly be called a small miracle: in a volume with a diameter of several meters, the flow of time is repeatedly slowed down. There appears to be no negative health effects, but it is not easy to get out of it. Interestingly, at the center of the time machine is usually an artifact called Mama's Beads, upon removal of which the anomaly ceases to exist.</text>
+		<text>A true miracle of an anomaly: an area several meters in diameter where the time flow is significantly slower than usual. The anomaly appears to have no negative effect on human health. However, the Time Machine can be very difficult to get out of. Interestingly, removing the Dead Head - an artifact usually found in the center of the anomaly - causes the Time Machine to disappear. (start here for your second session on 10/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_anomalies_zharka">
 		<text>In an inactive state it looks like a cloud of hot air, but when any object or living creature comes into range it forms a compact area heated to a temperature of about 1500K. Can only be detected at night by powerful detectors or by throwing metal objects. Forms three types of artifacts: "Drops," "Fireball," and "Crystal."</text>
