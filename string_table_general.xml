@@ -5168,10 +5168,10 @@ April 26, 2008. 13-40</text>
 		<text>A true miracle of an anomaly: an area several meters in diameter where the time flow is significantly slower than usual. The anomaly appears to have no negative effect on human health. However, the Time Machine can be very difficult to get out of. Interestingly, removing the Dead Head - an artifact usually found in the center of the anomaly - causes the Time Machine to disappear.</text>
 	</string>
 	<string id="enc_zone_anomalies_zharka">
-		<text>While inactive, this anomaly manifests itself as a barely visible cloud of hot air. When triggered by an object or a living being it instantly heats up to lethal temperatures approaching 1500K. At nighttime, it can be revealed by powerful detectors or by throwing metal objects into the trigger area. (start here for your first session on 10/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>While inactive, this anomaly manifests itself as a barely visible cloud of hot air. When triggered by an object or a living being it instantly heats up to lethal temperatures approaching 1500K. At nighttime, it can be revealed by powerful detectors or by throwing metal objects into the trigger area.</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-mica">
-		<text>Consists of liquid metal of anomalous origin. It is formed after emission, in contact with the body it lasts for a short time, after which it evaporates.</text>
+		<text>This artifact is composed of anomalous liquid metal. It's formed after an emission, and if you use it - it'll stay in contact with your body and then evaporate after a short while. (start here for your second session on 10/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-slime">
 		<text>Cheap artifacts in the form of metal scraps and construction debris. It has no useful properties. Only of interest to researchers for radiation measurements.</text>
