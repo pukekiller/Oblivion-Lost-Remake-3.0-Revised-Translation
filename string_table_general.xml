@@ -5180,10 +5180,10 @@ April 26, 2008. 13-40</text>
 		<text>This is a cheap and widespread artifact. It manifests in the form of metal debris, and it's completely devoid of any useful properties. You can sell it to traders for a pittance, since researchers want artifacts like these for measuring levels of radiation.</text>
 	</string>
 	<string id="enc_zone_artifact_af-blood">
-		<text>This artifact is unique and is the end result of a Whirligig and a Black Spike interacting with each other. The result of interaction between the Black Spike and the Meat Grinder. This artifact is also rare and rarely appears. (start here for your first session on 10/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact is unique and is the end result of a Whirligig and a Black Spike interacting with each other. The result of interaction between the Black Spike and the Meat Grinder. This artifact is also rare and rarely appears.</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall">
-		<text>Appears in clusters of anomalies. Protect against unconsciousness, restore strength, shield against psi effects.</text>
+		<text>This artifact appears normally appears in clusters of anomalies. It protects its host against fainting, restores strength, and also gives protection against psionic radiation. (start here for your second session on 10/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall-flower">
 		<text>A "springboard" anomaly is born. Such an artifact can be found in few parts of the zone.</text>
