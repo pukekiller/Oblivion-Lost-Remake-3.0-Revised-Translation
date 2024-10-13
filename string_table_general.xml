@@ -5183,16 +5183,16 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is unique and is the end result of a Whirligig and a Black Spike interacting with each other. The result of interaction between the Black Spike and the Meat Grinder. This artifact is also rare and rarely appears.</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall">
-		<text>This artifact appears normally appears in clusters of anomalies. It protects its host against fainting, restores strength, and also gives protection against psionic radiation. (start here for your second session on 10/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact appears normally appears in clusters of anomalies. It protects its host against fainting, restores strength, and also gives protection against psionic radiation.</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall-flower">
-		<text>A "springboard" anomaly is born. Such an artifact can be found in few parts of the zone.</text>
+		<text>This artifact is sometimes formed by the Springboard anomaly. It can found in specific parts of the Zone that have Springboards.</text>
 	</string>
 	<string id="enc_zone_artifact_af-drops">
-		<text>Formed by the "Roast" anomaly at high temperatures. Externally, it looks like a blackened drop-shaped formation with a glossy surface, covered with cracks.</text>
+		<text>This artifact is formed by the "Burner" anomaly at high temperatures. Externally, it looks like a blackened, droplet-shaped formation with a glossy surface that's covered with cracks.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-battery">
-		<text>A super artifact of an electro-magnetic nature. A directed field of disintegration. When activated, it emits a powerful force field that instantly transforms any objects into "jelly". The origin of this thing is shrouded in a veil of scientific mystery. It is clear that it includes dielectric elements, but under what physical conditions it is formed - science does not know.</text>
+		<text>A super-artifact that is both magnetic and electrical in nature. One of its distinct features is its directional disintegration field. When activated, it emits a powerful field that instantly transforms any objects into "jelly". The origin of this object is shrouded in scientific mystery. It's clear that it's made in part by dielectric elements, but science does not know the physical conditions in which it's formed. (start here for your first session on 10/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-dummy">
 		<text>An artifact from a weak energy anomaly with no practical use.</text>
