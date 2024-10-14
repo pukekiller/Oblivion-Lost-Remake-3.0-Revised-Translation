@@ -5195,10 +5195,10 @@ April 26, 2008. 13-40</text>
 		<text>A super-artifact that is both magnetic and electrical in nature. One of its distinct features is its directional disintegration field. When activated, it emits a powerful field that instantly transforms any objects into "jelly". The origin of this object is shrouded in scientific mystery. It's clear that it's made in part by dielectric elements, but science does not know the physical conditions in which it's formed.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-dummy">
-		<text>This artifact is normally formed by weak electrical anomalies. It has no practical uses, so it won't get you much money if you sell it. (start here for your second session on 10/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact is normally formed by weak electrical anomalies. It has no practical uses, so it won't get you much money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-glassbeads">
-		<text>A level two super artifact. Appear in clusters of anomalies. Has the ability to scare away monsters while attracting the controller. When panicking monsters, it loses its anomalous energy and can vaporize. anomalous energy level: very high. Cost: very high.</text>
+		<text>A level-two super-artifact. It normally appears in clusters of anomalies, and it has the ability to scare away mutants - but it can also attract Controllers. If you use it to scare away mutants, it loses its anomalous energy and will vaporize once its energy is exhausted. This artifact is rare, so it'll get you a lot of money if you sell it. (start here for your first session on 10/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-pellicle">
 		<text>An artifact of transmutational origin. Has a high price tag. A viscous substance resembling a sticky mass, yet very strong. It tends to spread into crevices. Rumor has it that when this artifact is worn on the belt, it sinks into damaged areas of the suit and then solidifies there, thus patching holes and damage.</text>
