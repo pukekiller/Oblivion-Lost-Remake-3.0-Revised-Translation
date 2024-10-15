@@ -5198,10 +5198,10 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is normally formed by weak electrical anomalies. It has no practical uses, so it won't get you much money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-glassbeads">
-		<text>A level-two super-artifact. It normally appears in clusters of anomalies, and it has the ability to scare away mutants - but it can also attract Controllers. If you use it to scare away mutants, it loses its anomalous energy and will vaporize once its energy is exhausted. This artifact is rare, so it'll get you a lot of money if you sell it. (start here for your first session on 10/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>A level-two super-artifact. It normally appears in clusters of anomalies, and it has the ability to scare away mutants - but it can also attract Controllers. If you use it to scare away mutants, it loses its anomalous energy and will vaporize once its energy is exhausted. This artifact is rare, so it'll get you a lot of money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-pellicle">
-		<text>An artifact of transmutational origin. Has a high price tag. A viscous substance resembling a sticky mass, yet very strong. It tends to spread into crevices. Rumor has it that when this artifact is worn on the belt, it sinks into damaged areas of the suit and then solidifies there, thus patching holes and damage.</text>
+		<text>This artifact is the result of two artfacts transmutating together. It resembles viscous substance that's sticky, but very strong, and tends to spread into crevices. Rumor has it that when this artifact is worn on your belt, it spreads to damaged areas of its host's suit and then solidifies there, patching any holes and damage. (start here for your second session on 10/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-spring">
 		<text>A superartefact with unstable gravity. A throwing object, after hitting the floor or an obstacle is fired at a living body. Once hit, is fired at the next living body until it falls or hits an inanimate object. After which it can be lifted.</text>
