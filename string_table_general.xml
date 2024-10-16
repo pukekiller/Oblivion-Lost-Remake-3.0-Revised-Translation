@@ -5204,10 +5204,10 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is the result of two artfacts transmutating together. It resembles viscous substance that's sticky, but very strong, and tends to spread into crevices. Rumor has it that when this artifact is worn on your belt, it spreads to damaged areas of its host's suit and then solidifies there, patching any holes and damage.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-spring">
-		<text>A super-artifact that has an unstable gravitational field. If you throw it and it hits the floor or an obstacle, it'll go to the nearest living thing and hit it, and it'll repeat this process until it loses momentum or hits an inanimate object. Once it falls, you can pick it up again. (start here for your first session on 10/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>A super-artifact that has an unstable gravitational field. If you throw it and it hits the floor or an obstacle, it'll go to the nearest living thing and hit it, and it'll repeat this process until it loses momentum or hits an inanimate object. Once it falls, you can pick it up again.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-flash">
-		<text>Large flying fluff, leaves severe burns when it hits the body. It accumulates in lowlands, pits and hollows. When there is a wind or explosion, it rises into the air. A rash of "burning fluff" growths.</text>
+		<text>This artifact, which is created by the Burnt Fuzz anomaly, is highly dangerous and leaves severe burns when it comes into contact with unprotected skin. It accumulates in lowlands, pits and hollows. It'll rise into air if its picked by wind, or if its caught in a shockwave of an explosion. (start here for your second session on 10/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-moonlight">
 		<text>An outgrown case of Elektra anomaly activity. Apparently, such a wonderful rounded shape can be obtained by subjecting the anomaly to thermal stress. An expensive artifact.</text>
