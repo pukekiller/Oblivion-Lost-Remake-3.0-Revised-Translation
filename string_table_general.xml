@@ -5213,10 +5213,10 @@ April 26, 2008. 13-40</text>
 		<text>This artfact seems to be spawned by the Electro anomaly. This wonderful, round artifact is created when the anomaly is subjected to high temperatures. This artifact is expensive, so it'll get you a lot of money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-sparkler">
-		<text>The origin of this artifact, as well as the the origin of its name is shrouded in mystery - although its been theorized that its spawned by the Electro anomaly. It's valued among the researchers in the Zone for its qualities. (start here for your second session on 10/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>The origin of this artifact, as well as the the origin of its name is shrouded in mystery - although its been theorized that its spawned by the Electro anomaly. It's valued among the researchers in the Zone for its qualities.</text>
 	</string>
 	<string id="enc_zone_artifact_af-fireball">
-		<text>An artifact of thermal origin. A transparent shimmering sphere.</text>
+		<text>This artifact is created by anomalies that emit intense levels of heat. It has the form of a transparent, shimmering sphere. (start here for your first session on 10/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-fuzz-kolobok">
 		<text>When you hold this enigma of the Zone in your hands, you can feel your skin roughening and becoming less sensitive. It's still easy to puncture it with a bullet, but it's much harder to cut it.</text>
