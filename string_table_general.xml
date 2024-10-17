@@ -5210,10 +5210,10 @@ April 26, 2008. 13-40</text>
 		<text>This artifact, which is created by the Burnt Fuzz anomaly, is highly dangerous and leaves severe burns when it comes into contact with unprotected skin. It accumulates in lowlands, pits and hollows. It'll rise into air if its picked by wind, or if its caught in a shockwave of an explosion.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-moonlight">
-		<text>This artfact seems to be spawned by the Electro anomaly. This wonderful, round artifact is created when the anomaly is subjected to high temperatures. This artifact is expensive, so it'll get you a lot of money if you sell it. (start here for your first session on 10/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artfact seems to be spawned by the Electro anomaly. This wonderful, round artifact is created when the anomaly is subjected to high temperatures. This artifact is expensive, so it'll get you a lot of money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-sparkler">
-		<text>The origin of this type of artifact as well as the name is shrouded in mystery. Valued amongst the explorers of the Zone.</text>
+		<text>The origin of this artifact, as well as the the origin of its name is shrouded in mystery - although its been theorized that its spawned by the Electro anomaly. It's valued among the researchers in the Zone for its qualities. (start here for your second session on 10/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-fireball">
 		<text>An artifact of thermal origin. A transparent shimmering sphere.</text>
