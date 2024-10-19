@@ -5225,10 +5225,10 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is created by the Vortex anomaly. It's elemental in nature, and contains a directed gravitional field anomaly. Equipping this artifact will allow you to carry an additional 6 kilograms of weight.</text>
 	</string>
 	<string id="enc_zone_artifact_af-gravi">
-		<text>This artifact, elemental in nature, contains a directed gravitional field anomaly. It has a variant with more pronounced anomalous properties: the strong gravitational artifact. Equipping this artifact will allow you to carry an additional 4 kilograms of weight. (start here for your second session on 10/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact, elemental in nature, contains a directed gravitional field anomaly. It has a variant with more pronounced anomalous properties: the strong gravitational artifact. Equipping this artifact will allow you to carry an additional 4 kilograms of weight.</text>
 	</string>
 	<string id="enc_zone_artifact_af-medusa">
-		<text>An elemental artifact of a gravitational nature. It has the shape of a torus, which explains its name. At least two varieties of this artifact are known, the common and the "glass bagel".</text>
+		<text>This artifact, elemental in nature, gets its namesake from the fact that it's shaped like a torus. At least two varieties of this artifact are known - the Torus, and the Glass Bagel. (start here for your first session on 10/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_artifact_af-mincer-meat">
 		<text>An elemental artifact of organic nature. A bundle of stiff lichen fibers of a dirty rusty color. It has no useful properties. Object of Sale.</text>
