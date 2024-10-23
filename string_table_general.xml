@@ -5246,10 +5246,10 @@ April 26, 2008. 13-40</text>
 		<text>This artifact is the result of an interaction between the Burnt Fuzz anomaly and the body of a careless stalker. The Needles artifact stabs the body of its host, no matter what. But it also helps clean the body of radionucliodes. Quite widespread and cheap.</text>
 	</string>
 	<string id="enc_zone_artifact_af-soul">
-		<text>This is an incredibly rare artifact. If it does appear, it can be located near the Whirligig anomaly. Very few stalkers have managed to find this artifact, and few have even seen it. It has a nice shape and it'll get you a great deal of money if you sell it. (start here for your first session on 10/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>This is an incredibly rare artifact. If it does appear, it can be located near the Whirligig anomaly. Very few stalkers have managed to find this artifact, and few have even seen it. It has a nice shape and it'll get you a great deal of money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-vyvert">
-		<text>It is located near anomalies of the "Funnel" type. On contact with the body, it spreads directional radiation that increases endurance. Such an artifact is not difficult to find, so the money for it is not much. Allows you to carry an extra 2 kilograms of weight.</text>
+		<text>This artifact is located near Vortex anomaly. When it touches the body, it disseminates any absorbed radiation, and it gives you some protection from scratches or wounds made by weapons. This artifact isn't hard to find, so traders don't pay much for it. (start here for your second session on 10/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_locations_agroprom">
 		<text>Strange terrain. If you go deeper into it, you'll come to a heavily contaminated plain. The shallow lake located there is filled to the brim with wreckage of machinery. You can also visit the old institute and the factory, but lately the military has been there too often.</text>
