@@ -5249,10 +5249,10 @@ April 26, 2008. 13-40</text>
 		<text>This is an incredibly rare artifact. If it does appear, it can be located near the Whirligig anomaly. Very few stalkers have managed to find this artifact, and few have even seen it. It has a nice shape and it'll get you a great deal of money if you sell it.</text>
 	</string>
 	<string id="enc_zone_artifact_af-vyvert">
-		<text>This artifact is located near Vortex anomaly. When it touches the body, it disseminates any absorbed radiation, and it gives you some protection from scratches or wounds made by weapons. This artifact isn't hard to find, so traders don't pay much for it. (start here for your second session on 10/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>This artifact is located near Vortex anomaly. When it touches the body, it disseminates any absorbed radiation, and it gives you some protection from scratches or wounds made by weapons. This artifact isn't hard to find, so traders don't pay much for it.</text>
 	</string>
 	<string id="enc_zone_locations_agroprom">
-		<text>Strange terrain. If you go deeper into it, you'll come to a heavily contaminated plain. The shallow lake located there is filled to the brim with wreckage of machinery. You can also visit the old institute and the factory, but lately the military has been there too often.</text>
+		<text>A strange, heavily contaminated area. Should you wander deeper into it, you will see a shallow lake, crammed shore-to-shore with abandoned equipment and other debris. You can also check out the abandoned Institute and the factory, though the military have been hanging around there quite a lot recently. (start here for your first session on 10/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_locations_bar">
 		<text>The Duty group has cleared a place on the outskirts of this wild territory for their base and allows stalkers to rest here. A kind of oasis. There is a department store building that houses a stalker bar: stalkers from all over the Zone gather there. The bar is run by a local merchant, so not only can you socialize here, but you can sell-buy almost anything. To the north of the bar is the military base, to the south is the Garbage.</text>
