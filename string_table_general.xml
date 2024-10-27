@@ -5273,10 +5273,10 @@ April 26, 2008. 13-40</text>
 		<text>This used to be a town built for engineers working at the Chernobyl Nuclear Power Plant. It was quite a big place once, now it's ghost town with various mutants and zombies as the only residents. Going through here steathily is ideal unless if you want to get swarmed.</text>
 	</string>
 	<string id="enc_zone_locations_radar">
-		<text>A dreadful place. It's easy to vanish here without a trace there, no matter how lucky you have been in life so far. Whoever gets close to the Brain Scorcher immediately goes insane, turns into a zombie and starts stalking the Zone restlessly. A human shell is all that's left. No-one has ever returned with a sound mind. (start here for your second session on 10/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>A dreadful place. It's easy to vanish here without a trace there, no matter how lucky you have been in life so far. Whoever gets close to the Brain Scorcher immediately goes insane, turns into a zombie and starts stalking the Zone restlessly. A human shell is all that's left. No-one has ever returned from here with a sound mind.</text>
 	</string>
 	<string id="enc_zone_locations_rostok">
-		<text>It was a rather large factory, of which now only ruins remain. A lot of stalkers found their end in them: all sorts of unclean things have spread there, as if they converge there from all over the Zone. Rumor has it, though, that there is something very important at this plant, so there are always plenty of people willing to try their luck.</text>
+		<text>This area used to be the site of a rather large manufacturing plant, currently in ruins. Many stalkers have met their death here, as the place is swarming with all sorts of monsters. The beasts are literally streaming over there from the entire Zone. It's said that something of great importance is hidden at this site, so there are always plenty of daredevils willing to try their luck. (start here for your first session on 10/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_zone_locations_stancia">
 		<text>A former nuclear power plant that everyone has heard of at least once. This is the heart of the Zone. If legends are to be believed, somewhere out there is some thing that can fulfill any wish - it's called the Monolith.</text>
