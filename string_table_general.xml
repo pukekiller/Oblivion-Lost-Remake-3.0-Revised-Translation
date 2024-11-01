@@ -5335,16 +5335,16 @@ April 26, 2008. 13-40</text>
 		<text>Silent Hills</text>
 	</string>
 	<string id="Pripiat">
-		<text>Pripyat (start here for your second session on 11/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Pripyat</text>
 	</string>
 	<string id="Radar">
 		<text>Radar</text>
 	</string>
 	<string id="Radioactive">
-		<text>Radioactivity hotspot</text>
+		<text>Radioactive hotspot</text>
 	</string>
 	<string id="Rostok">
-		<text>Rostok Plant</text>
+		<text>Rostok Plant (start here for your first session on 11/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Stancia">
 		<text>CHERNOBYL NPP</text>
