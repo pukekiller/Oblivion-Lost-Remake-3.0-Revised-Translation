@@ -5347,7 +5347,7 @@ April 26, 2008. 13-40</text>
 		<text>Rostok Factory</text>
 	</string>
 	<string id="Stancia">
-		<text>Chernobyl Nuclear Power Plant (start here for your second session on 11/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Chernobyl Nuclear Power Plant</text>
 	</string>
 	<string id="Story-2006">
 		<text>2001-2005. Exclusion Zone.</text>
@@ -5359,10 +5359,10 @@ April 26, 2008. 13-40</text>
 		<text>2010</text>
 	</string>
 	<string id="Story-raid">
-		<text>Breaking into the Zone.</text>
+		<text>Breakthrough into the Zone.</text>
 	</string>
 	<string id="Time_machine">
-		<text>Time machine</text>
+		<text>Time machine (start here for your first session on 11/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Yantar">
 		<text>Yantar</text>
