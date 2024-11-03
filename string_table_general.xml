@@ -5362,16 +5362,16 @@ April 26, 2008. 13-40</text>
 		<text>Breakthrough into the Zone.</text>
 	</string>
 	<string id="Time_machine">
-		<text>Time machine (start here for your first session on 11/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Time Machine</text>
 	</string>
 	<string id="Yantar">
 		<text>Yantar</text>
 	</string>
 	<string id="Zharka">
-		<text>Roasting</text>
+		<text>Burner</text>
 	</string>
 	<string id="Zone">
-		<text>Zone</text>
+		<text>The Zone (start here for your second session on 11/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="Zone-story">
 		<text>History of the Zone</text>
