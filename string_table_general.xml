@@ -5371,14 +5371,14 @@ April 26, 2008. 13-40</text>
 		<text>Burner</text>
 	</string>
 	<string id="Zone">
-		<text>The Zone (start here for your second session on 11/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>The Zone</text>
 	</string>
 	<string id="Zone-story">
 		<text>History of the Zone</text>
 	</string>
 
 <string id="cant_walk">
-		<text>You're too exhausted!</text>
+		<text>You're too exhausted to walk! (start here for your first session on 11/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cant_walk_weight">
 		<text>You're too overwhelmed!</text>
