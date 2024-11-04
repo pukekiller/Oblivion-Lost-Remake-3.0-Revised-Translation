@@ -5381,13 +5381,13 @@ April 26, 2008. 13-40</text>
 		<text>You're too exhausted to walk!</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>You're carrying too much and can't move! (start here for your second session on 11/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>You're carrying too much and can't move!</text>
 	</string>
 	<string id="Global Map">
 		<text>Global map</text>
 	</string>
 	<string id="gun_jammed">
-		<text>The gun jammed.</text>
+		<text>Your gun has jammed. You need to reload. (start here for your first session on 11/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cant_sleep_near_enemies">
 		<text>You can't sleep when your enemies are around</text>
