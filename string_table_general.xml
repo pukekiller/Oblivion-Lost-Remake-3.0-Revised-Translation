@@ -5282,7 +5282,7 @@ April 26, 2008. 13-40</text>
 		<text>The site of the world-famous nuclear power plant. This is the heart of the Zone. If you believe the legends, this is also the site of the Black Monolith - a mysterious thing capable of granting any wish.</text>
 	</string>
 	<string id="enc_zone_locations_yantar">
-		<text>The lake here is scattered with islands made of piled industrial debris and crumbling buildings, their stone hulks jutting from the toxic water. Lifeless and deadly, the lake’s acidic waters cause severe burns on contact, though shallow depths can be crossed with rubber boots. Toward the center, several large trash islands and building remnants are accessible by narrow trails through the shallows. The largest island includes a descent into an unflooded basement, hidden beneath the ruin.</text>
+		<text>The legendary lake in the sector of the same name dried up a long ago, leaving a shallow swamp in its place. The place is morbid and sodden with death. Great dangers await any adventurous soul foolish enough to get near it. Anyone who dares to go too far goes insane. Zombie drones are rambling around the whole sector, waiting for new victims. The lake itself is poisonous - touching it without protection will lead to nasty acid burns. If you walk around the lake and past the zombies, you’ll end up at the scientists' camp, where the eggheads brought there by choppers are doing some research. You can have a chat with them; they buy artifacts and could even send you on a mission. In the center of the lake there are several large islands made of garbage and the skeletons of buildings. Several paths through shallow water lead to them.  The largest one has a descent into an unflooded basement.</text>
 	</string>
 
 
@@ -5387,10 +5387,10 @@ April 26, 2008. 13-40</text>
 		<text>Global map</text>
 	</string>
 	<string id="gun_jammed">
-		<text>Your gun has jammed. You need to reload. (start here for your first session on 11/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Your gun has jammed. You need to reload.</text>
 	</string>
 	<string id="cant_sleep_near_enemies">
-		<text>You can't sleep when your enemies are around</text>
+		<text>You can't sleep when enemies are around. (start here for your second session on 11/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="inventory_box_use">
 		<text>Search ($$ACTION_USE$$).</text>
