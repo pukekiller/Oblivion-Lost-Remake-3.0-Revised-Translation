@@ -5390,7 +5390,7 @@ April 26, 2008. 13-40</text>
 		<text>Your gun has jammed. You need to reload.</text>
 	</string>
 	<string id="cant_sleep_near_enemies">
-		<text>You can't sleep when enemies are around. (start here for your second session on 11/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>You can't sleep when enemies are around.</text>
 	</string>
 	<string id="inventory_box_use">
 		<text>Search ($$ACTION_USE$$).</text>
@@ -5399,7 +5399,7 @@ April 26, 2008. 13-40</text>
 		<text>Local map</text>
 	</string>
 	<string id="st_game_saved">
-		<text>game saved</text>
+		<text>Game saved (start here for your first session on 11/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="tip_car_locked">
 		<text>No keys.</text>
