@@ -5399,10 +5399,10 @@ April 26, 2008. 13-40</text>
 		<text>Local map</text>
 	</string>
 	<string id="st_game_saved">
-		<text>Game saved (start here for your first session on 11/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>Game saved</text>
 	</string>
 	<string id="tip_car_locked">
-		<text>No keys.</text>
+		<text>You don't have the keys for this vehicle. (start here for your second session on 11/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="tip_car_use">
 		<text>Enter ($$ACTION_USE$$)</text>
