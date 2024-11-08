@@ -5429,13 +5429,13 @@ April 26, 2008. 13-40</text>
 		<text>Press ($$ACTION_USE$$) to open the gate.</text>
 	</string>
 	<string id="tip_monolith">
-		<text>Make a wish ($$ACTION_USE$$)  (start here for your first session on 11/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Make a wish ($$ACTION_USE$$)</text>
 	</string>
 
 
 
 	<string id="dpa_pda_ecol_dolina">
-		<text>Most of the information is encrypted. Just the latest message from the Professor: The lab has an exit to the lower levels of the cordon, but the entrance to it is reportedly closed from the inside. If possible, verify this information after you take the measurements.</text>
+		<text>Most of the information is encrypted. Only the latest message from the Professor is accessible. It says: "The lab has an exit to the lower levels of the cordon, but the entrance to it is reportedly closed from the inside. If possible, verify this information after you take the measurements."  (start here for your second session on 11/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
