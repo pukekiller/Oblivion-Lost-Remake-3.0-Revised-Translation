@@ -5441,7 +5441,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_blue_pda_nine">
-		<text>This is a PDA that belonged to an military stalker who had the call sign "Blue 9". Its contents are encrypted, but maybe someone can decipher its encryption. (start here for your first session on 11/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>This is a PDA that belonged to an military stalker who had the call sign "Blue 9". Its contents are encrypted, but maybe someone can decipher its encryption.</text>
 	</string>
 
 
@@ -5449,7 +5449,7 @@ April 26, 2008. 13-40</text>
 		<text>Black box</text>
 	</string>
 	<string id="rat_black_box_desc">
-		<text>A container with unknown contents.</text>
+		<text>A black-colored box with unknown contents. (start here for your second session on 11/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
