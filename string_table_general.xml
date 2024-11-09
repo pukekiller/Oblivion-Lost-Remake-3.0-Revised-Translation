@@ -5449,13 +5449,13 @@ April 26, 2008. 13-40</text>
 		<text>Black box</text>
 	</string>
 	<string id="rat_black_box_desc">
-		<text>A black-colored box with unknown contents. (start here for your second session on 11/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>A black-colored box with unknown contents.</text>
 	</string>
 
 
 
 	<string id="ros_korpus_pass_desc">
-		<text>Note in the margin: Personally in hand.\nOn your order, a shipment of gas masks and work clothes has been transferred to the lower levels of the workshops. A total of 140 pieces, plus boxes of specialty weights for your job. We have one access from the plant to your area, and I know the access code to the anteroom. Code 2565, I'll remind you. Further passage is not available to us. We're not going to ask too many questions, but still, Mr. Petrov. Why do you have wagons coming to you? They come from the city, pass under the lake, and come to you. Get it right, we don't stick our nose where it doesn't belong, but I don't want to risk my position... I hope to meet you in person where we can discuss things more specifically.</text>
+		<text>A note in the margin states the following: "Personally in hand.\nOn your order, a shipment of gas masks and work clothes has been transferred to the lower levels of the workshops. A total of 140 pieces, plus boxes of specialty weights for your job. We have singular access from the plant to your area, and I know the access code to the anteroom. The code for it is 2565, I'll remind you. Further passage is not available to us. We're not going to ask too many questions, but still, Mr. Petrov. Why do you have shipments coming to you? They come from the city, pass under the lake, and come to you. Get it right, we don't stick our nose where it doesn't belong, but I don't want to risk my position... I hope to meet you in person where we can discuss things more specifically." (start here for your first session on 11/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_korpus_pass_name">
 		<text>Note from the production manager</text>
