@@ -5464,7 +5464,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="enc_detector_zomscan">
-		<text>This device pxperimental prototype device that's used for scanning psionic radiation. You use this device by pointing it at the object you want to scan, and activate it.</text>
+		<text>This device experimental prototype device is used for scanning psionic radiation. You use this device by pointing it at the object you want to scan, and activate it.</text>
 	</string>
 	<string id="detector_zomscan_name">
 		<text>Scanner</text>
@@ -5474,7 +5474,7 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="jurn_plen_mesage_name">
-		<text>Journalist's note </text>
+		<text>Journalist's note</text>
 	</string>
 
 
