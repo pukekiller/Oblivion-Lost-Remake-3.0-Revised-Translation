@@ -5489,13 +5489,13 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="daem_proto_psy_shap_desc">
-		<text>This device is a prototype protective helmet that was developed by scientists to protect people from elevated levels of psionic radiation. Not adjusted. (start here for your first session on 11/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>This device is a prototype protective helmet that was developed by scientists to protect people from elevated levels of psionic radiation. Not adjusted.</text>
 	</string>
 
 
 
 	<string id="doc_4way_link_name">
-		<text>Documentation: Brain Link</text>
+		<text>Documentation: Brain Link (start here for your second session on 11/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="doc_4way_link_desc">
 		<text>...The 4 in charge lie in a state of induced coma, and if I'm not mistaken, they control everything that happens in the zone...\nNote: Gunslinger knew the code to enter the lab... maybe it's still in the stash on Roztec...</text>
