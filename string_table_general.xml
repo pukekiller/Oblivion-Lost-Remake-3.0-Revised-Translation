@@ -5511,12 +5511,12 @@ April 26, 2008. 13-40</text>
 		<text>Anti-radiation suit</text>
 	</string>
 	<string id="outfit_antirad_description_m">
-		<text>A modification version of a environmental protection suit that has active radiation protection added to it. If this suit is kept in good condition, it helps filter out radiation from the body of its user. (start here for your first session on 11/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>A modified version of an environmental protection suit that has active radiation protection added to it. If this suit is kept in good condition, it helps filter out radiation from the body of its user.</text>
 	</string>
 
 
 	<string id="psystab_helmet_name">
-		<text>Psi stabilizer</text>
+		<text>Psionic stabilizer (start here for your second session on 11/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="psystab_helmet_desc">
 		<text>A device that allows you to shield certain types of psi attacks from a	 controller. Protects against the fatal effects of phantom formations.</text>
