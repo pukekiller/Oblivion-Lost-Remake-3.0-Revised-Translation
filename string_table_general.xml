@@ -5516,10 +5516,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="psystab_helmet_name">
-		<text>Psionic stabilizer (start here for your second session on 11/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>Psionic stabilizer</text>
 	</string>
 	<string id="psystab_helmet_desc">
-		<text>A device that allows you to shield certain types of psi attacks from a	 controller. Protects against the fatal effects of phantom formations.</text>
+		<text>This protect device allows you to shield yourself from certain types of psionic attacks frrom controllers. It also protects against the potentially fatal effects of being attacked by formations of "phantoms". (start here for your first session on 11/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
