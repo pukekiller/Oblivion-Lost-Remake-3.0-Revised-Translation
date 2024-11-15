@@ -5519,12 +5519,12 @@ April 26, 2008. 13-40</text>
 		<text>Psionic stabilizer</text>
 	</string>
 	<string id="psystab_helmet_desc">
-		<text>This protect device allows you to shield yourself from certain types of psionic attacks frrom controllers. It also protects against the potentially fatal effects of being attacked by formations of "phantoms". (start here for your first session on 11/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>This protect device allows you to shield yourself from certain types of psionic attacks frrom controllers. It also protects against the potentially fatal effects of being attacked by formations of "phantoms".</text>
 	</string>
 
 
 	<string id="st_psivizor_detector">
-		<text>Psy-watch</text>
+		<text>Psionic sensor (start here for your second session on 11/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_psivizor_detector">
 		<text>A device that registers in the PDA the presence of mutants with psi activity.</text>
