@@ -5524,10 +5524,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="st_psivizor_detector">
-		<text>Psionic sensor (start here for your second session on 11/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>Psionic sensor</text>
 	</string>
 	<string id="enc_psivizor_detector">
-		<text>A device that registers in the PDA the presence of mutants with psi activity.</text>
+		<text>This device works in tandem with your PDA to display the locations of mutants that have psionic abilities on your map. (start here for your first session on 11/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="jurn_psi_defence_name">
