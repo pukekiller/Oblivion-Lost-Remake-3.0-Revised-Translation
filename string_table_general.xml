@@ -5524,14 +5524,14 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="st_psivizor_detector">
-		<text>Psionic sensor</text>
+		<text>Psionic visor</text>
 	</string>
 	<string id="enc_psivizor_detector">
-		<text>This device works in tandem with your PDA to display the locations of mutants that have psionic abilities on your map. (start here for your first session on 11/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>This device works in tandem with your PDA to display the locations of mutants that have psionic abilities on your map.</text>
 	</string>
 
 	<string id="jurn_psi_defence_name">
-		<text>Psi Stabilizer Documentation</text>
+		<text>Psionic Stabilizer Documentation (start here for your second session on 11/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jurn_psi_defence_desc">
 		<text>A thick folder in which, surprisingly, all the sheets stayed in place intact. The title page bears the title, "documentation for a defense device for protection in high psi background" and the state seal." On the following pages, in neat and even handwriting, there are notes in simple pencil, the author of which insistently advised to reduce the power consumption of the main unit, which, according to him, will affect the increased mobility of the protection device. Taped to the last page are two envelopes with letters to the head of the ZX-16 science lab. In the first, the addressee requests to test a psi-defense device in the field. A village on the outskirts of the Chernobyl Exclusion Zone was chosen as one of the test sites. The second letter gives a detailed report on the success of the trials.</text>
