@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Blind">
+		<text>Blind dog</text>
+	</string>
+	<string id="Karlik">
+		<text>Dwarf</text>
+	</string>
+	<string id="Bloodsucker">
+		<text>Bloodsucker</text>
+	</string>
+	<string id="Boar">
+		<text>Boar</text>
+	</string>
+	<string id="Crow">
+		<text>Crow</text>
+	</string>
+	<string id="enc_mutant_blind_general">
+		<text>Several generations of dogs have lived and died in the Zone since the catastrophe. Each was more affected by the Zone than the previous one. Rapid mutation lead to a vast improvement in previously peripheral abilities, frequently at the expense of primary ones. The most notable biological change was the loss of sight, paired with an uncanny development of smell. As it turned out, blind cubs survived in the Zone as well as normal ones, if not better. As a result, the common dog quickly became extinct in the Zone, giving way to a new breed - that of blind dogs. The animals instinctively identify and avoid anomalies, radiation, and other invisible dangers that plague the Zone. Like their wild ancestors - the wolves - blind dogs hunt in packs. An encounter with a large group of these animals can be dangerous even to an experiences and well-armed stalker.</text>
+	</string>
+	<string id="enc_mutant_bloodsucker_general">
+		<text>Experienced stalkers describe this semi-legendary beast as a tall, hunched humanoid with a bunch of tentacles where its mouth should be. According to those who saw it and lived to tell the tale, the creature uses its tentacles to cling to the victim's throat, paralyze it, and suck it dry of blood. Once it finishes feeding, a dry, mummified shell is all that's left of what used to be a living human being. The most astounding feature of the bloodsucker, however, is its ability to become invisible. Countless dead or missing stalkers are said to have perished in the merciless grip of a bloodsucker. The lucky few who have survived an encounter tell spine-chilling tales of marshes and subterranean areas haunted by the Zone's version of Count Dracula.</text>
+	</string>
+	<string id="enc_mutant_boar_general">
+		<text>A massive, mutated animal, reaching 1.5 meters at the shoulder. The Zone boar's aggressiveness and ability to survive surpass by far those of its relatives outside the contaminated area. Radiation and anomalies left their mark on the physical appearance of the animal as well: its fur is entirely gone in some places, and long and bristly in others. The hooves have evolved into sturdy, sharp claws, its pupils became colorless, and the boar's bald head is marred by pigmentation disorders and deep wrinkles. Zone boars are quite resistant to radiation and can stay in heavily contaminated areas for longer periods of time. They usually charge at their victims, trying to knock them over and then rip them to shreds.</text>
+	</string>
+	<string id="enc_mutant_crow_general">
+		<text>The only bird species to have survived in the Zone, enduring increased radiation levels and effectively avoiding anomalies. While the army pilots need to rely on complex detectors to avoid gravitational disturbances, the crow seems to rely on its own senses for that - a mystery that drives ornithologists and biologists mad. Various theories attempting to explain the phenomenon exist, all of them pointing to a highly specialized development of the bird's brain.</text>
+	</string>
+	<string id="enc_mutant_flesh_general">
+		<text>Like most other living creatures in the Zone, the domestic pig also underwent serious biological changes since the day of the catastrophe. It seems the genes responsible for metabolism were especially affected in this case. Mutant pigs, known simply as Flesh among the stalkers, are one of the most vivid examples of the Zone's disastrous perversion of nature. Mutant pigs developed a protective layer of scales and exoskeletal plates. Their regeneration potential increased several times, as did the complexity of their nervous system. Just like a normal pig, a Flesh is an omnivore and may attack a stalker if hungry.</text>
+	</string>
+	<string id="enc_mutant_poltergeist_general">
+		<text>Supernatural in the eyes of some, these invisible creatures haunt the deeper reaches of the Zone, usually haunting old, abandoned buildings. Nothing is known about their origin, although rumors in circulation claim they are spirits of stalkers hit by a massive wave of radiation. Their mysterious appearances and disappearances seem to correspond to the poltergeist legend, hence the name. Known encounters with poltergeists are quite diverse in fact: from mischievous laughter and blood-chilling howling, to deadly fireballs appearing out of nowhere. Unfortunately, all information about the poltergeist phenomenon originates from unclear and contradictory stories of questionable validity.</text>
+	</string>
+	<string id="enc_mutant_pseudodog_general">
+		<text>Despite the name, pseudodogs evolved directly from wolves. The animals inhabiting the forests at the time of the catastrophe gave rise to one of the Zone's most dangerous mutant species. Pseudodogs are about as different from mutant dogs as wild wolves differ from poodles. The creatures mark and guard their territory carefully, attacking anyone stupid enough to venture onto their land on sight. Lightning-fast reflexes, uncanny dexterity and razor-sharp teeth make the pseudodog a formidable enemy for large mutants and well-armed stalkers.</text>
+	</string>
+	<string id="enc_mutant_pseudogiant_general">
+		<text>The pseudogiant resembles a massive, drop-shaped abdomen with a pair of disproportionately large limbs. Their limbs serve as both arms and legs. The creature uses them to move around and grab its victims. An adult pseudogiant can weigh up to two tons and stand 2 meters tall. Their clumsy appearance might be deceiving, since they can move very rapidly if needed. Their muscles are exceptionally powerful and their bones are as hard as steel. The creature's brain is protected by a sturdy (up to 10 centimeters thick) skull, while many complex functions are controlled by the spinal medulla. Another astonishing feature of the pseudogiant is its ability to create local shock waves, which damage all living things in the vicinity.</text>
+	</string>
+	<string id="enc_mutant_snork_general">
+		<text>The result of Secret Service genetic experiments on criminals, under the program of human telekinesis development. A humanoid creature of hypertrophied complexion, clad in shreds of shabby overalls. Burers are afraid of bright light, so they dwell in dark and gloomy underground installations or caves. Feeds on dead bodies.</text>
+	</string>
+	<string id="enc_mutant_tushkano">
+		<text>The corpus is an zombie that lacks a head - and the fact that they're able to move around without a brain and attack people baffles scientists. They normally Appear near Lake Yantar. The most common theory of how the corpus was created is that they were created by one of the laboratories in the Zone.</text>
+	</string>
+	<string id="enc_mutant_zombie_general">
+		<text>The Brain Scorcher strips its victim of mind and reason, leaving only an empty, mindless shell. The brainless bodies then turn into zombies, following only the most basic instincts, wandering aimlessly around the Zone without weapons or clothing. Zombies are little more than sluggish walking corpses, caring only about food and sleep. They eat and drink just about anything they can get their claws on, so they are virtually soaked in radiation and toxic waste. Zombies usually they roam the Zone without any apparent purpose or just lie corpse-like in abandoned buildings. However, as soon as they sense the presence of a human being, they attack immediately. Experienced stalkers have learned to avoid them if they can.</text>
+	</string>
+	<string id="Flesh">
+		<text>Flesh</text>
+	</string>
+	<string id="General">
+		<text>General information</text>
+	</string>
+	<string id="mutant_boar_leg">
+		<text>Boar tissue sample</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>Boar tissue samples are used to produce a number of drugs, including antiradiation serum. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="mutant_dog_tail">
+		<text>Dog tissue sample</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>The resistance of mutant dogs' skin to electricity and chemical agents has long been the subject of scientific attention. Because fat tissue is almost absent in the mutant's body part, it is especially suited for lab examination. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="mutant_flesh_eye">
+		<text>Flesh tissue sample</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>The mutated tissue of the Flesh acquired a number of strange characteristics, the most useful of which is the ability to regenerate rapidly. The specifics of the process are hitherto unknown, although such discovery would most certainly revolutionlize modern medicine. You can play your part in scientific development by selling Flesh eyes to scientists for their experiments. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="mutant_krovosos_jaw">
+		<text>Bloodsucker tentacles</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>Bloodsucker tentacles contain a special gland producing a ferment that's capable of dissolving skin and simultaneously preventing blood from clotting. Discovering the ferment's composition could be the cornerstone of a whole series of great medical advances. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="mutant_psevdodog_tail">
+		<text>A tissue sample from a pseudo-dog</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>The resistance of mutated dogs to chemical and electrical exposure has long drawn the attention of scientists. It can be consumed.</text>
+	</string>
+	<string id="mutant_snork_leg">
+		<text>Snork foot</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>Snork feet contain a huge number of highly elastic tendons. This explains the beast's ability to do unbelievably long jumps.</text>
+	</string>
+	<string id="Mutants">
+		<text>Animals and mutants</text>
+	</string>
+	<string id="Poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="Pseudodog">
+		<text>Pseudodog</text>
+	</string>
+	<string id="Pseudogiant">
+		<text>Pseudogiant</text>
+	</string>
+	<string id="Snork">
+		<text>Naked dwarf</text>
+	</string>
+	<string id="Tushkano">
+		<text>Corpus</text>
+	</string>
+	<string id="Zombie">
+		<text>Zombie</text>
+	</string>
+	<string id="Controller">
+		<text>Controller</text>
+	</string>
+	<string id="enc_mutant_controller_general">
+		<text>A rare mutant seen near to the center of the Zone. It bears a superficial resemblance of a humanoid with a disproportionately big head. Controllers have excellent perception, and an ability to control the behavior of less developed creatures. Mature specimens are capable of taking control over a human's mind. Controllers are ferocious enemies, and even the most experienced stalkers are afraid of meeting one.</text>
+	</string>
+	<string id="mutant_zombie_hand">
+		<text>Zombie flesh</text>
+	</string>
+	<string id="mutant_zombie_hand_description">
+		<text>The characteristics of zombie flesh are currently unknown. You can do your part for the scientific community by selling them to scientists for study. Rumors say that the Brain Scorcher affected not only the minds of those caught in it, but also their bodies, to a point. That could explain why zombies and zombified stalkers shrug off extremely high levels of radiation as if it were nothing. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="mutant_burer_hand">
+		<text>Burer flesh</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>Burers flesh has obtained a myriad of attributes, most positive of which seems to be the flesh's extremely high resistance to radiation. Exactly how this is achieved is unknown; it repels gamma rays as if it were made of lead. You can do your part for the scientific community by selling all hands of Burers that you find to scientists for further research. This can also be eaten, but also needs to be cooked.</text>
+	</string>
+	<string id="Burer">
+		<text>Burer</text>
+	</string>
+	<string id="enc_mutant_burer_general">
+		<text>The result of Secret Service genetic experiments on criminals, under the program of human telekinesis development. A humanoid creature of hypertrophied complexion, clad in shreds of shabby overalls. Afraid of bright light, the Burer dwells in dark and gloomy undergrounds and caves. Burers tend to subsist on dead bodies of stalkers.</text>
+	</string>
+	<string id="Chimera">
+		<text>Chimera</text>
+	</string>
+	<string id="enc_mutant_chimera_general">
+		<text>The Chimera is result of genetic experimentation. 1.4 meters in length, the Chimera is extremely cunning, strong and fast creature; it hides, flanks, and circles around to attack its prey from behind. It has a doubled system of internal organs and an additional brain, both which make this creature problematic to kill, at the very least. It can also heal itself by regeneration of lost cells. It has almost no natural predators in the Zone and is considered the Zone's greatest predator. Its movement and agility is reminiscent of a panther. The only worthy opponents for this creature are the Bloodsucker and the Pseudogiant.</text>
+	</string>
+	<string id="Rat">
+		<text>Rat</text>
+	</string>
+	<string id="enc_mutant_rat_general">
+		<text>Rats aren't from underground lab complexes - they're the true masters of the Zone. It's hard to imagine a more adaptable organism - rats have evolved to be able to adapt to harsh environments quickly. The known resistance of rats to radiation is explained by the efficiency of their healing abilities. Additionally, rapid reproduction rates, leading to large numbers of offspring is one of the major reasons why rats quickly adapt to new environments.</text>
+	</string>
+	<string id="Fracture">
+		<text>Izlom</text>
+	</string>
+	<string id="enc_mutant_fracture_general">
+		<text>The result of a genetic experimentation, or the consequence of people who decided to stay in the Zone being twisted by its unique conditions. Izlom's supposedly has a hypotrophic limb that enables telepathy. This creature is very cunning; in most cases, it hides its telepathic limb under a cloak. From afar, it resembles a hunchbacked hermit, and it sometimes deliberately lures unsuspecting stalkers with a request or conversation. As soon as the stalker turns around, it stands up straight and attacks with its hypotrophic limb. If a stalker shares some food with the Izlom, then it might share some very interesting information about the Zone, or tell a story. It eats rats, dogs, Fleshes, and sometimes people. Izlom's will sometimes follow a solitary stalker, robbing him while he sleeps.</text>
+	</string>
+	<string id="enc_mutant_karlik_general">
+		<text>Karlik's are artificially grown and short humanoid creatures. They're like Burer's because they both tend to inhabit dark catacombs, although Karlik's can withstand bright light, making them able to go outside during the day. Karlik's possess intelligence and are able to communicate with each other. It's not known if Karlik's have telekinetic and telepathic abilities, although it has been confirmed that they make various devices out of garbage and set traps.</text>
+	</string>
+</string_table>
