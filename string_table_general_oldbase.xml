@@ -5555,10 +5555,10 @@ April 26, 2008. 13-40</text>
 		<text>Documentation for an experimental computer program that is being built into the PDAs of expeditionary units of military stalkers. It was found near one such group in the dungeons of the Agroprom Research Institute. Their devices have been smashed to pieces and can no longer function, so they are of little value. The documentation says that the program allows you to scan the area around of the PDAs owner in a radius of 50 meters for the presence of other devices, read, analyze and display the resulting information about the stalker who owns them. Based on this data, a picture is drawn of the stalker's affiliation with certain groups, his reputation in the stalker community, or his approximate relationship to the owner of the scanning program.</text>
 	</string>
 	<string id="activator_deznt_name">
-		<text>Disintegrator (start here for your second session on 11/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Disintegrator</text>
 	</string>
 	<string id="enc_detector_activator_deznt">
-		<text>Disintegrator artifact activator. Can activate the active particles of an artifact, turning it into jelly.</text>
+		<text>This device, known as an 'disintegrator' in the Zone, works by altering the properties of the active particles of an artifact, turning it into jelly. (start here for your first session on 11/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="med_injector_name">
 		<text>Diagnostic first aid kit with injector</text>
