@@ -220,7 +220,7 @@
 		<text>Major Kravtsov:\nCome in, let's talk. You'll find me at our base. I'm waiting.</text>
 	</string>
 	<string id="novic_leaded_dead_sms_slizen">
-		<text>Slug\nUh, I don't get it, is he fucking dead?! Get over here!</text>
+		<text>Slug:\nUh, I don't get it, is he fucking dead?! Get over here!</text>
 	</string>
 	<string id="spawen_monolit_na_kordone_komandira_sms">
 		<text>Message:\nHey, you! Go to the building next to the water tower. I need to talk to you.</text>
@@ -229,10 +229,10 @@
 		<text>Incoming Message:\nBro, come out! Come down.</text>
 	</string>
 	<string id="jaba_killar_washe">
-		<text>Toad\nAttention, everyone! From now on, the stalker called Messer is declared a murderer! There is a bounty on his head - let him serve as another example of how not to treat a fellow stalker. He may still get a chance to atone for his sins, if, of course, he gets to me.</text>
+		<text>Toad:\nAttention, everyone! From now on, the stalker called Messer is declared a murderer! There is a bounty on his head - let him serve as another example of how not to treat a fellow stalker. He may still get a chance to atone for his sins, if, of course, he gets to me and talk things out with me.</text>
 	</string>
 	<string id="jaba_killar_pre">
-		<text>Toad\nHey, what are you doing?! You'll be declared a murderer for the death of one more Neutral through your own fault, you'll be out of the Stalkers' way, and you'll be hunted, so be aware of that.</text>
+		<text>Toad:\nHey, what are you doing?! You'll be declared a murderer if you kill one more neutral stalker. Through your own fault, you'll be out of the Stalkers' way, and you'll be hunted, so be aware of that.</text>
 	</string>
 	<string id="jaba_ohrene">
 		<text>Toad\nHey, are you out of your mind?! These are my guys! They're guarding my bunker!</text>
