@@ -5567,10 +5567,10 @@ April 26, 2008. 13-40</text>
 		<text>HEALTH-13</text>
 	</string>
 	<string id="enc_equipment_med_injector">
-		<text>The HEALTH-13 device is a specialized, universal medical Kit.\nUsing it allows you to treat injuries of varying degrees of complexity (wounds, burns, poisoning, disease, etc).\nIt allows you to diagnose various diseases of the body and treat them.\nIn order for this device to work, you need to use specialized medical capsules meant for this device. (start here for your first session on 11/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>The HEALTH-13 device is a specialized, universal medical Kit.\nUsing it allows you to treat injuries of varying degrees of complexity (wounds, burns, poisoning, disease, etc).\nIt allows you to diagnose various diseases of the body and treat them.\nIn order for this device to work, you need to use specialized medical capsules meant for this device.</text>
 	</string>
 	<string id="med_injector_empty_desc">
-		<text>Empty Universal Medical Kit. Special medical capsules are required for operation.</text>
+		<text>An empty HEALTH-13 device. This device requires specialized medical capsules in order for it to work. (start here for your second session on 11/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="med_injector_capsule">
 		<text>Medical capsules</text>
