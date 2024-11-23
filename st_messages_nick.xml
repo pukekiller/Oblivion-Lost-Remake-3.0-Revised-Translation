@@ -247,16 +247,16 @@
 		<text>Toad:\nMesser, the soldiers have organized a raid on the bandits in the area where you are now, so don't run into them. A couple of hours ago an army jeep left the Cordon - there were 6 or 7 soldiers - and they were carrying some equipment with them. As soon as this mess is over, see what was there, and you can 'borrow' a car from the gentlemen in uniform. Anyway, if you find anything, I'll be in touch.</text>
 	</string>
 	<string id="st_maxsms_cool1">
-		<text>Incoming message: Max -\nIt's working! Let's run to the hall and see what's going on!</text>
+		<text>Incoming message - Max:\nIt's working! Let's run to the hall and see what's going on!</text>
 	</string>
 	<string id="st_maxsms_cool2">
-		<text>Incoming message: Max -\nThe light is on, my friend, the light is on!</text>
+		<text>Incoming message - Max:\nThe light is on, my friend, the light is on!</text>
 	</string>
 	<string id="st_maxsms_cool3">
-		<text>Incoming message: Max -\nThis is it! This is what I was talking about!</text>
+		<text>Incoming message - Max:\nThis is it! This is what I was talking about!</text>
 	</string>
 	<string id="st_maxsms_cool4">
-		<text>Incoming message: Max -\nYes, I'm coming to you.</text>
+		<text>Incoming message - Max:\nYes, I'm coming to you.</text>
 	</string>
 	<string id="st_rush_rostok_tmer_mochii">
 		<text>Message:\nShit, there's someone out there, everybody be on the lookout!</text>
