@@ -5576,10 +5576,10 @@ April 26, 2008. 13-40</text>
 		<text>Medical capsules</text>
 	</string>
 	<string id="med_injector_capsule_desc">
-		<text>Medical capsules meant for the HEALTH-13 universal medical kit. (start here for your second session on 11/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Medical capsules meant for the HEALTH-13 universal medical kit.</text>
 	</string>
 	<string id="yan_massive_gruz_name">
-		<text>A load for the Professor</text>
+		<text>A container for the Professor (start here for your first session on 11/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_massive_gruz_desc">
 		<text>A container for the Professor. Special delivery from the big city.</text>
