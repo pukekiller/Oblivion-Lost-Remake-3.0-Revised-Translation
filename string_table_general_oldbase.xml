@@ -5582,10 +5582,10 @@ April 26, 2008. 13-40</text>
 		<text>A container for the Professor</text>
 	</string>
 	<string id="yan_massive_gruz_desc">
-		<text>A container for the Professor, containing a special delivery from a major city. (start here for your second session on 11/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>A container for the Professor, containing a special delivery from a major city.</text>
 	</string>
 	<string id="actor_boots_mg">
-		<text>Safety boots</text>
+		<text>Protective boots (start here for your first session on 11/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="actor_boots_desc">
 		<text>Safety boots made of a special material that can protect against corrosive acids.</text>
