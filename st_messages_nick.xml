@@ -262,31 +262,31 @@
 		<text>Message:\nShit, there's someone out there, everybody be on the lookout!</text>
 	</string>
 	<string id="st_rush_rostok_tmer_mochii2">
-		<text>Message: Group\nEveryone group up! Remember, our goal now is to get to the tunnel leading to Rostok.</text>
+		<text>Message - Group:\nEveryone group up! Remember, our goal now is to get to the tunnel leading to Rostok.</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead">
-		<text>Message: Leader\nOkay, it's quiet. Come stalker, we'll discuss what to do next...</text>
+		<text>Message - Leader:\nOkay, it's quiet. Come stalker, we'll discuss what to do next.</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead2">
-		<text>Message: Leader\nKeep quiet... Everyone check your guns...</text>
+		<text>Message - Leader:\nKeep quiet. Everyone check your guns.</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead3">
-		<text>Message: Leader\nThere's something there...</text>
+		<text>Message - Leader:\nThere's something there...</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead4">
-		<text>Message: Black Slug\nHalt! Let's take the bastards down! Whoa... who are these guys?</text>
+		<text>Message - Black Slug:\nHalt! Let's take the bastards down! Whoa... wait a moment, who are these guys?</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead5">
-		<text>Message: Black Slug\nOkay, put the guns away, guys. This is just an ID check. You try to run, you're gonna get shot, I'm telling you.</text>
+		<text>Message - Black Slug:\nOkay, put your guns down, guys. This is just an ID check. You try to run, you're gonna get shot, I'm telling you.</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead6">
-		<text>Message: Black Slug\nWhat the hell?! Nail, go check it out. We're holding these ones, don't piss--</text>
+		<text>Message - Black Slug:\nWhat the hell?! Nail, go check it out. We're holding these ones, don't piss--</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead7">
-		<text>Message: Black Slug\nThere's nothing here! Let's go get these guys and get the fuck outta here!</text>
+		<text>Message - Black Slug:\nThere's nothing here! Let's go get these guys and get the fuck out of here!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead8">
-		<text>Message: Black Slug\nYou! Get your backpack off!</text>
+		<text>Message - Black Slug:\nYou! Get your backpack off!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead9">
 		<text>Message: Black Slug\nFuck! Get the fuck away!</text>
