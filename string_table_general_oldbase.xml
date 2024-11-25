@@ -5588,10 +5588,10 @@ April 26, 2008. 13-40</text>
 		<text>Protective boots</text>
 	</string>
 	<string id="actor_boots_desc">
-		<text>A pair of protective boots made out of a special material that can protect against corrosive acids. (start here for your second session on 11/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>A pair of protective boots made out of a special material that can protect against corrosive acids.</text>
 	</string>
 	<string id="item_case_esc_desc">
-		<text>A briefcase full of documents. Made of fire-resistant material.</text>
+		<text>A fireproof case containing numerous documents. (start here for your first session on 11/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_detector_yantar_desc">
 		<text>A device for certain psi-field measurements.</text>
