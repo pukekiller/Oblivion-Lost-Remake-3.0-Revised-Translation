@@ -289,16 +289,16 @@
 		<text>Message - Black Slug:\nYou! Get your backpack off!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead9">
-		<text>Message: Black Slug\nFuck! Get the fuck away!</text>
+		<text>Message - Black Slug:\nFuck! Get the fuck away!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead10">
-		<text>Message: Leader\nMesser! Get out of here, let's go!</text>
+		<text>Message - Leader:\nMesser! Get out of here, let's go!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead11">
-		<text>Message: Leader\nMesser! Follow me, let's get out of here, hurry up! What the hell is this place!? That thing dragged you down here before I could get here!</text>
+		<text>Message - Leader:\nMesser! Follow me, let's get out of here, hurry up! What the hell is this place!? That thing dragged you down here before I could get here!</text>
 	</string>
 	<string id="st_progulka_prisli_plos_lead12">
-		<text>Message: Leader\nIt's quiet. Shit. Go to the bar and talk to the Barkeep about what happened. I'm not going with you, I have some things I need to take care of... Go!</text>
+		<text>Message - Leader:\nIt's quiet. Shit. Go to the bar and talk to the Barkeep about what happened. I'm not going with you, I have some things I need to take care of. Go!</text>
 	</string>
 	<string id="st_mg_sms_hey_punkass_hrom">
 		<text>Chrome:\nI think I got a signal. Wait a bit, our guys will give them a warm welcome. If you can, do us a favor and help our guys. I don't think they'll know who attacked them in the dark.</text>
