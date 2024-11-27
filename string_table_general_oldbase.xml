@@ -5597,10 +5597,10 @@ April 26, 2008. 13-40</text>
 		<text>A device meant for taking measurements of fields of psionic radiation.</text>
 	</string>
 	<string id="item_detector_yantar_name">
-		<text>Universal psionic-field meter (start here for your first session on 11/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Universal psionic-field meter</text>
 	</string>
 	<string id="item_dec_doc_desc">
-		<text>A polyethylene file of documents.</text>
+		<text>A polyethylene file containing numerous documents. (start here for your second session on 11/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_dec_doc_name">
 		<text>Transcripts</text>
