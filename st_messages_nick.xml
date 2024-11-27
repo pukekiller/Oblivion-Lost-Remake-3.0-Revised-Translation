@@ -307,10 +307,10 @@
 		<text>Freedomer:\nQuiet, boys. Let's try to get in quietly...</text>
 	</string>
 	<string id="st_mg_sms_hey_punkass">
-		<text>Message: Monolith\nStalker, get out of here... this is none of your business.</text>
+		<text>Message - Monolithian:\nStalker, get out of here. This is none of your business.</text>
 	</string>
 	<string id="st_sms_val_garbage_bandits">
-		<text>Message:\nHey, stalker! Bro, come here, I have something to do!</text>
+		<text>Message:\nHey, stalker! Bro, come here, I have some work!</text>
 	</string>
 	<string id="st_olr_lab_2_door_unlocked_fake_sms1">
 		<text>Message:\nThis password expired on 20.02.2012. Please enter a new password.</text>
