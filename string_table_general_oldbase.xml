@@ -5606,10 +5606,10 @@ April 26, 2008. 13-40</text>
 		<text>File with documents</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Numerous documents containing information related to the Psionic Brain installation. (start here for your second session on 11/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Numerous documents containing information related to the Psionic Brain installation.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Lab documents</text>
+		<text>Lab documents (start here for your first session on 11/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_doc_x18_desc">
 		<text>A thick stack of research papers. Solid terms, formulas and diagrams. It's hard to understand anything about them.</text>
