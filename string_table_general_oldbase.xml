@@ -5603,10 +5603,10 @@ April 26, 2008. 13-40</text>
 		<text>A polyethylene file containing numerous documents.</text>
 	</string>
 	<string id="item_dec_doc_name">
-		<text>File with documents (start here for your first session on 11/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>File with documents</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Psi Brain installation documents.</text>
+		<text>Numerous documents containing information related to the Psionic Brain installation. (start here for your second session on 11/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_doc_x16_name">
 		<text>Lab documents</text>
