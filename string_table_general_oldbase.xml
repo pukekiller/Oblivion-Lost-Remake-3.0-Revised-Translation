@@ -5612,10 +5612,10 @@ April 26, 2008. 13-40</text>
 		<text>Lab documents</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>A thick pile of scientific documents. The contents are mostly hard-to-parse terms, formulas, and a number of diagrams. You need a scientific background to understand any of the content in these documents. (start here for your second session on 11/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>A thick pile of scientific documents. The contents are mostly hard-to-parse terms, formulas, and a number of diagrams. You need a scientific background to understand any of the content in these documents.</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Documents from X-18, part 1.</text>
+		<text>Documents from X-18, part 1</text>
 	</string>
 	<string id="item_doc_x18p2_name">
 		<text>Documents from X-18 part 2</text>
@@ -5624,10 +5624,10 @@ April 26, 2008. 13-40</text>
 		<text>Documents from X-18 part 3</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Documents from X-18, part 4.</text>
+		<text>Documents from X-18, part 4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Documents from X-18, part 5.</text>
+		<text>Documents from X-18, part 5 (start here for your first session on 11/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
 		<text>A heavy wooden box, labeled Explosive in several languages.</text>
