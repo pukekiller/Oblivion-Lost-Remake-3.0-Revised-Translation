@@ -5609,10 +5609,10 @@ April 26, 2008. 13-40</text>
 		<text>Numerous documents containing information related to the Psionic Brain installation.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Lab documents (start here for your first session on 11/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Lab documents</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>A thick stack of research papers. Solid terms, formulas and diagrams. It's hard to understand anything about them.</text>
+		<text>A thick pile of scientific documents. The contents are mostly hard-to-parse terms, formulas, and a number of diagrams. You need a scientific background to understand any of the content in these documents. (start here for your second session on 11/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_doc_x18p1_name">
 		<text>Documents from X-18, part 1.</text>
