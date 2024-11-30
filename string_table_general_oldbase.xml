@@ -5630,10 +5630,10 @@ April 26, 2008. 13-40</text>
 		<text>Documents from X-18, part 5</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>A heavy wooden box containing dynamite. The word "Explosive" is written on it in several languages. (start here for your second session on 11/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>A heavy wooden crate containing dynamite. The word "Explosive" is written on it in several languages.</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>A crate of dynamite</text>
+		<text>Dynamite (start here for your first session on 11/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
 		<text>A flash disk is a handy device for carrying information.</text>
