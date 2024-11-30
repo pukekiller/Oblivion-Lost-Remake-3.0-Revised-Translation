@@ -5627,10 +5627,10 @@ April 26, 2008. 13-40</text>
 		<text>Documents from X-18, part 4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Documents from X-18, part 5 (start here for your first session on 11/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Documents from X-18, part 5</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>A heavy wooden box, labeled Explosive in several languages.</text>
+		<text>A heavy wooden box containing dynamite. The word "Explosive" is written on it in several languages. (start here for your second session on 11/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_dynamite_esc_name">
 		<text>A crate of dynamite</text>
