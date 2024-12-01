@@ -5633,10 +5633,10 @@ April 26, 2008. 13-40</text>
 		<text>A heavy wooden crate containing dynamite. The word "Explosive" is written on it in several languages.</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>Dynamite (start here for your first session on 11/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Dynamite</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>A flash disk is a handy device for carrying information.</text>
+		<text>Flash drives are a convenient way to store and transfer information. (start here for your second session on 12/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
 		<text>Gunslinger's mini PDA</text>
