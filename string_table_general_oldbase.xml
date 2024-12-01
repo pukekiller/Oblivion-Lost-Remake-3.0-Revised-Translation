@@ -5636,10 +5636,10 @@ April 26, 2008. 13-40</text>
 		<text>Dynamite</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Flash drives are a convenient way to store and transfer information. (start here for your second session on 12/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Flash drives are a convenient way to store and transfer information.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
-		<text>Gunslinger's mini PDA</text>
+		<text>Gunslinger's flash drive (start here for your first session on 12/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_pda_deserter_desc">
 		<text>Pocket personal computer. An indispensable device in the Zone.</text>
