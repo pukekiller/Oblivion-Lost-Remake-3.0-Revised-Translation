@@ -5642,10 +5642,10 @@ April 26, 2008. 13-40</text>
 		<text>Gunslinger's flash drive</text>
 	</string>
 	<string id="item_pda_deserter_desc">
-		<text>A personal digital assistant, or PDA, is a small, hand-held computer. These devices are indispensable in the Zone and are useful for many things, such as communiating with other stalkers, archiving data, or maintaining a journal. (start here for your second session on 12/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>A personal digital assistant, or PDA, is a small, hand-held computer. These devices are indispensable in the Zone and are useful for many things, such as communiating with other stalkers, archiving data, or maintaining a journal.</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>A briefcase full of documents. Made of fire-resistant material.</text>
+		<text>Fireproof briefcase containing numerous important documents. (start here for your first session on 12/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_quest_case_02_name">
 		<text>Military documents</text>
