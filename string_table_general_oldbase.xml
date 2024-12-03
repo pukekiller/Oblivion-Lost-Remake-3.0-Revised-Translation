@@ -5645,10 +5645,10 @@ April 26, 2008. 13-40</text>
 		<text>A personal digital assistant, or PDA, is a small, hand-held computer. These devices are indispensable in the Zone and are useful for many things, such as communiating with other stalkers, archiving data, or maintaining a journal.</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Fireproof briefcase containing numerous important documents. (start here for your first session on 12/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Fireproof briefcase containing numerous important documents.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Military documents</text>
+		<text>Military documents (start here for your second session on 12/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="item_case_esc_name">
 		<text>The documents from the roadblock</text>
