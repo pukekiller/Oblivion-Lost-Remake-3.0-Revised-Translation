@@ -5654,10 +5654,10 @@ April 26, 2008. 13-40</text>
 		<text>The documents from the military checkpoint</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>A prototype protective helmet that's meant to protect against dangerous levels of psionic radiation, developed by scientists in the Zone. (start here for your second session on 12/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>A prototype protective helmet that's meant to protect against dangerous levels of psionic radiation, developed by scientists in the Zone.</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Experimental Brainwave Emulator (BRAIN-4)</text>
+		<text>Experimental BRAIN-4 Brainwave Emulator (start here for your first session on 12/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
 		<text>A customized prototype designed by scientists to protect against psi radiation.</text>
