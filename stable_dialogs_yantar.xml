@@ -131,10 +131,10 @@
  <text>Greetings, Professor.</text> 
  </string> 
  <string id="jannar_1"> 
- <text>Messer, you can't imagine how much the scientific community owes you. Thanks to you, Messer, we can now venture deep into the Zone without fear of being hit by psi radiation. You can't imagine how long we've dreamed of this. Now our lab will definitely get an increase in funding. Thank you from the bottom of my heart.</text> 
+ <text>Messer, you can't imagine how much the scientific community owes you. Thanks to you, Messer, we can now venture deep into the Zone without fear of being hit by psionic radiation. You can't imagine how long we've dreamed of this. Now our lab will definitely get an increase in funding. Thank you - from the bottom of my heart.</text> 
  </string> 
  <string id="jannar_2"> 
- <text>You're welcome. But I didn't come here to thank you. I was hoping the reward would be a little more material.</text> 
+ <text>You're welcome. But I didn't come here for thanks. I was hoping the reward would be a little more material.</text> 
  </string> 
  <string id="jannar_3"> 
  <text>Oh, trust me, I understand. Here you go. You deserve it.</text> 
@@ -143,7 +143,7 @@
  <text>...</text> 
  </string>
  <string id="jannar_5"> 
- <text>What the? Shit, it looks like someone's attacking our mobile lab again. Damn it! The bunker's defense system is down! It must be the zombified that were controlled by the installation. Now they're coming this way.</text> 
+ <text>What the..? Shit, it looks like someone's attacking our mobile lab again. Damn it! The bunker's defense system is down! It must be the zombies that were controlled by the installation. Now they're coming this way.</text> 
  </string>
  <string id="jannar_6"> 
  <text>Is there anything I can do to help?</text> 
