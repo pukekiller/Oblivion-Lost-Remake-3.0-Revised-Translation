@@ -5669,18 +5669,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="ecolog_outfit_description">
-		<text>A EX-04 NBC (nuclear, biological, chemical) suit that was designed from the ground up to give protection against the Zone's many hazards. These suits are normally used by expeditions of scientists and stalker-ecologists collaborating with them.
-Built-in air filtration and air conditioning system.
-Not designed for combat.
-Not designed for long-term use.
-Warning: with continuous use it will become damaged and torn.
-Level of protection against radiation - high
-Level of protection against damage and shock - medium
-Level of protection against bullets - low
-Level of protection against anomalies - high (start here for your second session on 12/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>A EX-04 NBC (nuclear, biological, chemical) suit that was designed from the ground up to give protection against the Zone's many hazards. These suits are normally used by expeditions of scientists and stalker-ecologists collaborating with them.\n\nBuilt-in air filtration and air conditioning system.\nNot designed for combat.\nNot designed for long-term use.\nWarning: with continuous use it will become damaged and torn.\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high</text>
 	</string>
 	<string id="ecolog_outfit_name">
-		<text>Scientific EX-04</text>
+		<text>EX-04 suit (start here for your first session on 12/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
