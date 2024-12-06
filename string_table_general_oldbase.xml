@@ -5663,13 +5663,21 @@ April 26, 2008. 13-40</text>
 		<text>The BRAIN-6 is a improved prototype protective helmet that's meant to protect against dangerous levels of psionic radiation, developed by scientists in the Zone.</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
-		<text>Experimental BRAIN-6 Brainwave Emulator (start here for your first session on 12/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>Experimental BRAIN-6 Brainwave Emulator</text>
 	</string>
 
 
 
 	<string id="ecolog_outfit_description">
-		<text>Built for the Zone, the EX-04 chemical defense suit. Used by expeditions of scientists and cooperating environmental stalkers.\nBuilt-in air filtration and air conditioning system.\nNot designed for combat operations.\nNa is designed for long-term use.\nSpecificity: with prolonged use it becomes unusable - damaged and torn.\nProtection level against radiation - high\nProtection level against damage and shock - medium\nProtection level against bullets - low\nProtection level against anomalous activity - high</text>
+		<text>A EX-04 NBC (nuclear, biological, chemical) suit that was designed from the ground up to give protection against the Zone's many hazards. These suits are normally used by expeditions of scientists and stalker-ecologists collaborating with them.
+Built-in air filtration and air conditioning system.
+Not designed for combat.
+Not designed for long-term use.
+Warning: with continuous use it will become damaged and torn.
+Level of protection against radiation - high
+Level of protection against damage and shock - medium
+Level of protection against bullets - low
+Level of protection against anomalies - high (start here for your second session on 12/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ecolog_outfit_name">
 		<text>Scientific EX-04</text>
