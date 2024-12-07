@@ -2454,11 +2454,7 @@ April 26, 2008. 13-40</text>
     <text>EX-04 suit</text>
   </string>
   <string id="exo_outfit_description">
-    <text>An experimental sample of a military exoskeleton. It was never mass-produced due to its very high cost and design flaws, and it gives practically zero protection against ballistic damage or anomalies. Despite this, it's in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. A special battery is needed for this exoskeleton to work.
-Level of protection against radiation - average
-Level of protection against damage and shock - average
-Level of protection against bullets - average
-Level of protection against anomalies - average</text>
+    <text>An experimental sample of a military exoskeleton. It was never mass-produced due to its very high cost and design flaws, and it gives practically zero protection against ballistic damage or anomalies. Despite this, it's in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. A special battery is needed for this exoskeleton to work.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average</text>
   </string>
   <string id="exo_outfit_name">
     <text>Exoskeleton</text>
