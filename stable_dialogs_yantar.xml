@@ -149,7 +149,7 @@
  <text>Is there anything I can do to help?</text> 
  </string>
  <string id="jannar_7"> 
- <text>Help repel the attack. Contact the safety officer in charge of lab personnel. Ask how you can help. Either way, science will thank you handsomely. One more time.</text> 
+ <text>Help repel the attack. Contact the safety officer in charge of lab personnel and ask him how you can help. Either way, science will thank you handsomely. One more time.</text> 
  </string>
 
 
@@ -163,7 +163,7 @@
  <text>Professor, are you alright?</text> 
  </string> 
  <string id="jpnnar_1"> 
- <text>Oh, I think so. Where the hell did they come from? It's alright, though, it's not the first time. how are you?</text> 
+ <text>Oh, I think so. Where the hell did they come from? It's alright, though, this is not the first time this has happened. How are you?</text> 
  </string> 
  <string id="jpnnar_2"> 
  <text>I think I'm fine. They were probably brought in by a controller, probably from the city.</text> 
