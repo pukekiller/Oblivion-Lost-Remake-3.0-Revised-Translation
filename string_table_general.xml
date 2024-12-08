@@ -2460,11 +2460,7 @@ April 26, 2008. 13-40</text>
     <text>Exoskeleton</text>
   </string>
   <string id="killer_outfit_description">
-    <text>Stalker suit from the Killer faction. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.
-Level of protection against radiation - low
-Level of protection against damage and shock - medium
-Level of protection against bullets - medium
-Level of protection against anomalies - low</text>
+    <text>Stalker suit from the Killer faction. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - medium\nLevel of protection against anomalies - low</text>
   </string>
   <string id="killer_outfit_name">
     <text>Killers' suit</text>

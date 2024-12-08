@@ -5681,13 +5681,13 @@ April 26, 2008. 13-40</text>
 		<text>An experimental sample of a military exoskeleton. It was never mass-produced due to its very high cost and design flaws, and it gives practically zero protection against ballistic damage or anomalies. Despite this, it's in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. A special battery is needed for this exoskeleton to work.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average</text>
 	</string>
 	<string id="exo_outfit_name">
-		<text>Exoskeleton (start here for your first session on 12/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Exoskeleton</text>
 	</string>
 
 
 
 	<string id="killer_outfit_description">
-		<text>A stalker's jumpsuit from a group of Killers. The samples of special forces equipment of Western armies are taken as a basis. Due to special fabric processing, the stability of the armor in case of physical displacement of the plates is strengthened. In terms of protective characteristics, it is slightly superior to the army armored vests of the PSZ-7 series.\nProtection level against radiation - low\nProtection level against damage and shock - medium\nProtection level against bullets - medium\nProtection level against anomalous activity - low</text>
+		<text>Stalker suit from the Killer faction. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - medium\nLevel of protection against anomalies - low (start here for your second session on 12/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="killer_outfit_name">
 		<text>Killer jumpsuit</text>
