@@ -5690,13 +5690,13 @@ April 26, 2008. 13-40</text>
 		<text>Stalker suit from the Killer faction. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - medium\nLevel of protection against anomalies - low</text>
 	</string>
 	<string id="killer_outfit_name">
-		<text>Killers' suit (start here for your first session on 12/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Killers' suit</text>
 	</string>
 
 
 
 	<string id="outfit_novice_description">
-		<text>Protects the body from weak anomalies and light damage. No oxygen mask. Specificity: with prolonged use, it becomes unusable - damaged and torn.\nProtection level against radiation - low\nProtection level against damage and shock - low\nProtection level against bullets - low\nProtection level against anomalous activity - none</text>
+		<text>A regular coat that's made out of of thick cloth that has a hood, a pair of jeans, and a pair of high boots. This set of clothes presumably came from outside the of the border of the Zone. It'll give you some protection against scratches or wounds, but it won't protect you against the Zone's anomalies.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - low\nLevel of protection against bullets - low\nLevel of protection against anomalies - none (start here for your second session on 12/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="outfit_novice_name">
 		<text>Protective suit</text>
