@@ -5696,10 +5696,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="outfit_novice_description">
-		<text>A regular coat that's made out of thick leather that has a hood, a pair of jeans, and a pair of high boots. This set of clothes presumably came from outside the of the border of the Zone. It'll give you some protection against scratches or wounds, but it won't protect you against the Zone's anomalies.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - low\nLevel of protection against bullets - low\nLevel of protection against anomalies - none (start here for your second session on 12/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>A regular coat that's made out of thick leather that has a hood, a pair of jeans, and a pair of high boots. This set of clothes presumably came from outside the of the border of the Zone. It'll give you some protection against scratches or wounds, but it won't protect you against the Zone's anomalies.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - low\nLevel of protection against bullets - low\nLevel of protection against anomalies - none</text>
 	</string>
 	<string id="outfit_novice_name">
-		<text>Protective suit</text>
+		<text>Leather jacket (start here for your first session on 12/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
