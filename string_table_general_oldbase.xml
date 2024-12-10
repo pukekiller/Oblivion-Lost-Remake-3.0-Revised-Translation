@@ -5699,13 +5699,13 @@ April 26, 2008. 13-40</text>
 		<text>A regular coat that's made out of thick leather that has a hood, a pair of jeans, and a pair of high boots. This set of clothes presumably came from outside the of the border of the Zone. It'll give you some protection against scratches or wounds, but it won't protect you against the Zone's anomalies.\n\nLevel of protection against radiation - low\nLevel of protection against damage and shock - low\nLevel of protection against bullets - low\nLevel of protection against anomalies - none</text>
 	</string>
 	<string id="outfit_novice_name">
-		<text>Leather jacket (start here for your first session on 12/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Leather jacket</text>
 	</string>
 
 
 
 	<string id="outfit_soldier_description">
-		<text>A soldier's standard set of equipment is a lightweight army body armor vest. Protects against pistol bullets and shrapnel quite effectively. But poor protection from anomalous influences.</text>
+		<text>A standard set of military fatigues with a bulletproof vest; the specific bulletproof vest intergrated with a gear rig that's currently used by the Ukrainian Army is known as the 'PSZ-7' (Personal Protection System). It gives protection against bullets and grenade fragments, but it won't protect you against anomalies at all. (start here for your second session on 12/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="outfit_soldier_name">
 		<text>Light body armor</text>
