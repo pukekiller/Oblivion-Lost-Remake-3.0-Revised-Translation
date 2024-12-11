@@ -5713,10 +5713,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="protection_outfit_description">
-		<text>An EXP-4 scientific protective suit with an airtight red helmet. It weighs around 11 kilograms, and it protects the body from heat, acidic gases, a variety of anomalies (including "Burnt Fuzz"), and it also limited protection against bullets and shrapnel. Equipped with two oxygen cylinders.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high (start here for your second session on 12/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>An EXP-4 scientific protective suit with an airtight red helmet. It weighs around 11 kilograms, and it protects the body from heat, acidic gases, a variety of anomalies (including "Burnt Fuzz"), and it also limited protection against bullets and shrapnel. Equipped with two oxygen cylinders.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high</text>
 	</string>
 	<string id="protection_outfit_name">
-		<text>Scientific EXP-4</text>
+		<text>EXP-4 suit (start here for your first session on 12/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
