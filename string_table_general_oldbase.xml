@@ -5708,12 +5708,12 @@ April 26, 2008. 13-40</text>
 		<text>A standard set of military fatigues with a bulletproof vest; the specific bulletproof vest intergrated with a gear rig that's currently used by the Ukrainian Army is known as the 'PSZ-7' (Personal Protection System). It gives protection against bullets and grenade fragments, but it won't protect you against anomalies at all.</text>
 	</string>
 	<string id="outfit_soldier_name">
-		<text>PSZ-7 suit (start here for your first session on 12/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>PSZ-7 suit</text>
 	</string>
 
 
 	<string id="protection_outfit_description">
-		<text>Features: Protects the body from severe chemical damage. Specificity: with prolonged use, it becomes unusable - damaged and torn.  High quality modified Scientific EX-04 jumpsuit. Added torso protection from bullet and shrapnel damage. Designed to outfit the guards of scientific expeditions. Effective protection against radiation and biological anomalies. Resistant to chemically aggressive environments and other harmful effects to the body.\nProtection level against radiation - high\nProtection level against damage and shock - medium\nProtection level against bullets - low\nProtection level against anomalous activity - high</text>
+		<text>An EXP-4 scientific protective suit with an airtight red helmet. It weighs around 11 kilograms, and it protects the body from heat, acidic gases, a variety of anomalies (including "Burnt Fuzz"), and it also limited protection against bullets and shrapnel. Equipped with two oxygen cylinders.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high (start here for your second session on 12/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="protection_outfit_name">
 		<text>Scientific EXP-4</text>

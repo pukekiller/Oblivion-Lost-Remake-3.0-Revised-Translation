@@ -2478,11 +2478,7 @@ April 26, 2008. 13-40</text>
     <text>PSZ-7 suit</text>
   </string>
   <string id="protection_outfit_description">
-    <text>An EXP-4 scientific protective suit with an airtight red helmet. It weighs around 11 kilograms, and it protects the body from heat, acidic gases, a variety of anomalies (including "Burnt Fuzz"), and mechanical damage. Equipped with two oxygen cylinders.
-Level of protection against radiation - high
-Level of protection against damage and shock - medium
-Level of protection against bullets - low
-Level of protection against anomalies - high</text>
+    <text>An EXP-4 scientific protective suit with an airtight red helmet. It weighs around 11 kilograms, and it protects the body from heat, acidic gases, a variety of anomalies (including "Burnt Fuzz"), and it also limited protection against bullets and shrapnel. Equipped with two oxygen cylinders.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high</text>
   </string>
   <string id="protection_outfit_name">
     <text>EXP-4 suit</text>
