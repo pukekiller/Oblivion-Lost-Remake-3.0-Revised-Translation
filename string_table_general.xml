@@ -2484,7 +2484,7 @@ April 26, 2008. 13-40</text>
     <text>EXP-4 suit</text>
   </string>
   <string id="scientific_outfit_description">
-    <text>Features: Protects from fire, acid, gases, from various abnormal influences and burning fluff.  Increases protection from physical damage.  Carries two oxygen cylinders.  Specifics: with prolonged use it becomes unusable - damaged and torn.</text>
+    <text>This suit gives protection from thermal anomalies, acidic anomalies, gaseous anomalies, and the Burnt Fuzz anoamly. It also gives limited protection against bullets and shrapnel. Equipped with two oxygen cylinders. Note that with prolonged use this suit will become damaged over time, rendering it useless unless if it's repaired.</text>
   </string>
   <string id="scientific_outfit_name">
     <text>Protective suit</text>
