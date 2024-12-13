@@ -2490,11 +2490,7 @@ April 26, 2008. 13-40</text>
     <text>Protective suit</text>
   </string>
   <string id="stalker_outfit_description">
-    <text>A protective suit, made by local craftsmen in the Zone. It has a special coating that protects against acidic anomalies, and gives decent protection against ballistic damage and trauma. It doesn't give more complete protection against anomalies and radiation if compared to more professionally-made protective suits since it lacks an airtight helmet.
-Level of protection against radiation - average
-Level of protection against damage and shock - average
-Level of protection against bullets - average
-Level of protection against anomalies - average</text>
+    <text>A protective suit, made by local craftsmen in the Zone. It has a special coating that protects against acidic anomalies, and gives decent protection against ballistic damage and trauma. It doesn't give more complete protection against anomalies and radiation if compared to more professionally-made protective suits since it lacks an airtight helmet.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average</text>
   </string>
   <string id="stalker_outfit_name">
     <text>Stalker suit</text>
