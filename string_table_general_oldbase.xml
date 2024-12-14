@@ -5733,13 +5733,13 @@ April 26, 2008. 13-40</text>
 		<text>A protective suit, made by local craftsmen in the Zone. It has a special coating that protects against acidic anomalies, and gives decent protection against ballistic damage and trauma. It doesn't give more complete protection against anomalies and radiation if compared to more professionally-made protective suits since it lacks an airtight helmet.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average</text>
 	</string>
 	<string id="stalker_outfit_name">
-		<text>Stalker suit (start here for your first session on 12/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker suit</text>
 	</string>
 
 
 
 	<string id="mp_exo_outfit_description">
-		<text>Features: Special coating that protects against jelly and burning fluff. The chest and back are protected by internal bio - metal plates. Protects the body from anomalousities and damage. Sealed metal-plastic helmet. Carries two oxygen tanks. Specificity: with prolonged use, it becomes unusable - damaged and torn. The exoskeleton provides excellent protection against bullet and shrapnel damage, but reduces mobility. Vulnerable to armor-piercing rounds.\nProtection level against radiation - medium\nProtection level against damage and impact - medium\nProtection level against bullets - medium\nProtection level against anomalous activity - medium\nProtection level against anomalous activity - medium</text>
+		<text>A protective suit, made by local craftsmen in the Zone. It has a special coating that protects against acidic anomalies, and the back and front have special bio-metal plates. It also gives decent protection against ballistic damage and trauma, and it also comes with an airtight helmet, giving its user good protection against radiation. These suits also normally come with two cylinders on the back filled with oxygen for its rebreather system. Unfortunately, this suit gives little protection against armor-piercing rounds and it'll get worn down quickly by them.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average (start here for your second session on 12/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mp_exo_outfit_name">
 		<text>Exoskeleton</text>
