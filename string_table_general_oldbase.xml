@@ -5724,7 +5724,7 @@ April 26, 2008. 13-40</text>
 		<text>This suit gives protection from thermal anomalies, acidic anomalies, gaseous anomalies, and the Burnt Fuzz anoamly. It also gives limited protection against bullets and shrapnel. Equipped with two oxygen cylinders. Note that with prolonged use this suit will become damaged over time, rendering it useless unless if it's repaired.</text>
 	</string>
 	<string id="scientific_outfit_name">
-		<text>Protective suit (start here for your first session on 12/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>Protective suit</text>
 	</string>
 
 
@@ -5747,10 +5747,10 @@ April 26, 2008. 13-40</text>
 
 
 	<string id="mp_scientific_outfit_description">
-		<text>This suit was designed to give protection for scientists working in the Zone. It's equipped with a closed breathing circuit system, as well as a built-in system for suppressing the effects of anomalies, giving its user excellent protection against anomalies. This suit also has a built-in container for carrying artifacts. The only real downside this suit has is that it gives nearly no protection against ballistic damage.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high (start here for your second session on 12/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>This suit was designed to give protection for scientists working in the Zone. It's equipped with a closed breathing circuit system, as well as a built-in system for suppressing the effects of anomalies, giving its user excellent protection against anomalies. This suit also has a built-in container for carrying artifacts. The only real downside this suit has is that it gives nearly no protection against ballistic damage.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
-		<text>Science jumpsuit</text>
+		<text>Scientist NBC suit</text>
 	</string>
 
 </string_table>
