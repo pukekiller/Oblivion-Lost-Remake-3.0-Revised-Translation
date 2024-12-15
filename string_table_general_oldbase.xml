@@ -5742,12 +5742,12 @@ April 26, 2008. 13-40</text>
 		<text>A protective suit, made by local craftsmen in the Zone. It has a special coating that protects against acidic anomalies, and the back and front have special bio-metal plates. It also gives decent protection against ballistic damage and trauma, and it also comes with an airtight helmet, giving its user good protection against radiation. These suits also normally come with two cylinders on the back filled with oxygen for its rebreather system. Unfortunately, this suit gives little protection against armor-piercing rounds and it'll get worn down quickly by them.\n\nLevel of protection against radiation - average\nLevel of protection against damage and shock - average\nLevel of protection against bullets - average\nLevel of protection against anomalies - average</text>
 	</string>
 	<string id="mp_exo_outfit_name">
-		<text>Exoskeleton (start here for your first session on 12/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>Exoskeleton</text>
 	</string>
 
 
 	<string id="mp_scientific_outfit_description">
-		<text>This jumpsuit is designed for exploratory activities in the Zone. Equipped with a closed-circuit breathing system, as well as a built-in anomalous field suppression system, making it an excellent defense against anomalies. Due to weak defenses, he's very vulnerable. Features a built-in container for carrying artifacts.\nProtection level against radiation - high\nProtection level against damage and shock - medium\nProtection level against bullets - low\nProtection level against anomalous activity - high</text>
+		<text>This suit was designed to give protection for scientists working in the Zone. It's equipped with a closed breathing circuit system, as well as a built-in system for suppressing the effects of anomalies, giving its user excellent protection against anomalies. This suit also has a built-in container for carrying artifacts. The only real downside this suit has is that it gives nearly no protection against ballistic damage.\n\nLevel of protection against radiation - high\nLevel of protection against damage and shock - medium\nLevel of protection against bullets - low\nLevel of protection against anomalies - high (start here for your second session on 12/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
 		<text>Science jumpsuit</text>
