@@ -7,11 +7,11 @@
 
 
 	<string id="jurnalist_bio">
-		<text>This experienced stalker goes by the name "Journalist". He is unsociable and reclusive. The only thing that's known about him is that he's looking for something in the Zone. (start here for your second session on 12/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>This experienced stalker goes by the name "Journalist". He is unsociable and reclusive. The only thing that's known about him is that he's looking for something in the Zone.</text>
 	</string>
 
 	<string id="esc_noobik_bio">
-		<text>Experienced veteran. Long time in the Zone, rumored to be on the radar.</text>
+		<text>This stalker is an experienced veteran that been in the Zone for a long time. Rumored to be on the radar. (start here for your first session on 12/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="greh_reg_bio">
