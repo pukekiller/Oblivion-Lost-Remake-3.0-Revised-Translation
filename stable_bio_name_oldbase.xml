@@ -2,12 +2,12 @@
 
 
 	<string id="traders">
-		<text>Merchants (start here for your first session on 12/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>Trader</text>
 	</string>
 
 
 	<string id="jurnalist_bio">
-		<text>Journalist. Experienced lone stalker. Unsociable, secretive. Looking for something in the Zone.</text>
+		<text>This experienced stalker goes by the name "Journalist". He is unsociable and reclusive. The only thing that's known about him is that he's looking for something in the Zone. (start here for your second session on 12/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="esc_noobik_bio">
