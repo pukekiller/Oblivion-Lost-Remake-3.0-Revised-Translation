@@ -369,19 +369,19 @@
      <text>Rat said you could help me get to the center.</text>
   </string>
    <string id="sah_bar_1">
-     <text>Yeah, the Barkeep contacted us, we talked to him about the current state of affairs. Theoretically it's possible to get to the center, but as you know, the way is blocked by some kind of psi installations...</text>
+     <text>Yeah, Barkeep contacted us, we talked to him about the current state of affairs. Theoretically it's possible to get to the center, but as you know, the way is blocked by some kind of psionic installation.</text>
   </string>
    <string id="sah_bar_2">
      <text>What do you want me to do?</text>
   </string>
    <string id="sah_bar_3">
-     <text>We're at one of the Zone's scientific bases, our goal is to study this place. There's a localized psi installation of unknown origin. Its structure is very similar to the one in the north. If we could study this installation, we could construct a psi-blocker that would help us get to the center. Now, there's been a lot of psi research done in many parts of the Zone. And the thing is, the people who worked on it are gone. But there should be some of their scientific work left behind. You need to get the prototypes developed by our employees, as well as two samples of gravity weapons. The first prototype is in the laboratory under the Dark Valley in the closed laboratory control room. The code to the door is 4678. The second prototype is in one of the apartments in the town of Shining Path in the north. More precisely, you can find out from the leader of the Freedom faction where it is. As for the gravity weapon - we can't say for sure, but there are reports that there is a certain sanctuary of dwarves in the laboratory under the Dark Valley, and they have what we need... And then there's the most important thing. We need documentation on how the psi helmet works. It's a zombie brain activity emulator. I know for a fact that there are several copies of this documentation, and they were stolen by stalkers from the research institute on Agroprom and Dark Valley. However, I don't know exactly where they are. Try asking traders, or people who trade in information. They might be able to help with that.</text>
+     <text>We're at one of the Zone's scientific bases, our goal is to study this place. There's a localized psionic installation of unknown origin here. Its structure is very similar to the one in the north. If we could study this installation, we could construct a psionic-blocker that would help us get to the center. Now, there's been a lot of psionic research done in many parts of the Zone.. and the thing is, the people who worked on it are gone. But there should be some of their scientific work left behind. You need to get the prototypes developed by our employees, as well as two samples of gravity-based weapons. The first prototype is in the laboratory under the Dark Valley in the closed laboratory control room. The code to the door is 4678. The second prototype is in one of the apartments in the town of Shining Path in the north. More precisely, you can find out from the leader of the Freedom faction where it is. As for the gravity-based weapon - we can't say for sure, but there are reports that there is a certain sanctuary of dwarves in the laboratory under the Dark Valley, and they have what we need... And then there's the most important thing. We need documentation on how the psionic helmet works. It's a zombie brain activity emulator. I know for a fact that there are several copies of this documentation, and they were stolen by stalkers from the research institute on Agroprom and Dark Valley. However, I don't know exactly where they are. Try asking traders, or people who trade in information. They might be able to help with that.</text>
   </string>
    <string id="sah_bar_4">
     <text>Alright, I'll get the prototypes.</text>
   </string>
    <string id="sah_bar_5">
-    <text>This is excellent, Messer! But be careful, there are a lot of radiation sources on the lake. Yeah, talk to the leader of Clear Sky, he'll probably have a job for you.</text>
+    <text>Excellent, Messer! But be careful, there are a lot of radioactive hot spots on the lake. Talk to the leader of Clear Sky, he'll probably have a job for you.</text>
   </string>
    <string id="sah_bar_6">
     <text>I'll make sure to talk to him.</text>
