@@ -43,10 +43,10 @@
 		<text>No detailed information available.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_bio">
-		<text>This individual is an special forces soldier that's well trained and well equipped. No details available. (start here for your first session on 12/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is an special forces soldier that's well trained and well equipped. No details available.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_name">
-		<text>Unknown military</text>
+		<text>This individual is unknown. All that's known is that they're part of the military. (start here for your second session on 12/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="aes_Soldier_specnaz_bio">
 		<text>Army Special Forces. Well equipped. Details unavailable.</text>
