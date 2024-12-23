@@ -401,10 +401,10 @@
      <text>Well, what do you think, Professor?</text>
   </string>
    <string id="sahh_bar_3">
-     <text>Quite interesting specimens. Unfortunately, however, the data here needs to be deciphered. In addition, psi-field measurements must be taken.</text>
+     <text>These specimens are quite interesting. Unfortunately, however, the data here needs to be deciphered. In addition, psionic-field measurements must be taken.</text>
   </string>
    <string id="sahh_bar_4">
-    <text>Psi-field measurements? I don't know how to take any psi-field measurements. What even is that?</text>
+    <text>Psionic-field measurements? I don't know how to take any psionic-field measurements. How is this done?</text>
   </string>
    <string id="sahh_bar_5">
     <text>All you have to do is ensure the safety of our employee who will be taking the measurements. There's a parking lot across the street from our base. Walk to the entrance of the parking lot and you'll spot him. He'll be coming from the direction of the stranded barge.</text>
@@ -413,7 +413,7 @@
     <text>I'm on my way.</text>
    </string>
   <string id="sahh_bar_7">
-    <text>Be careful, there's mutant activity in that area. Oh, before I forget. Please accept this item as a thank you. I think you're gonna need it. It's an exoskeleton battery. With it, you can use this type of suit at full power. However, this item is very rare, and I advise you to keep it safe. It is unlikely that you will be able to find another working copy of this kind... It can be recharged in our bunker. Now go on, I think the assistant will be at the bunker soon.</text>
+    <text>Be careful, there's mutant activity in that area. Oh, before I forget. Please accept this item as thanks. I think you're going to need it. It's an exoskeleton battery. With it, you can use this type of suit at full power. However, this item is very rare, and I advise you to keep it safe. It is unlikely that you will be able to find another working battery... It can be recharged in our bunker. Now go on, I think the assistant will be at the bunker soon.</text>
   </string>  
 
 
