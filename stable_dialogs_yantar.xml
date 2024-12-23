@@ -418,17 +418,17 @@
 
 
 	<string id="zam_talk_0">
-		<text>You're the one who's supposed to be taking psi-field measurements?</text>
+		<text>You're the one who's supposed to be taking psionic-field measurements?</text>
 	</string>
 	<string id="zam_talk_1">
-		<text>Yes, that's right. The plan is to move towards the tower in the village area. Then go to the left side of the parking lot. Then follow me, and cover me. We'll go towards the pillbox and the dome-shaped structure. Once we're done, we'll go to the base.</text>
+		<text>Yes, that's right. The plan is to move towards the tower in the village area.. then go to the left side of the parking lot. Follow me, and cover me. We'll go towards the pillbox and the dome-shaped structure. Once we're done, we'll go to the base.</text>
  
 	</string>
 	<string id="zam_talk_2">
 		<text>Got it.</text>
 	</string>
 	<string id="zam_talk_3">
-		<text>By the way, there's help for the camp arrived in an APC. Apparently, the professor managed to negotiate with the local stalkers. Well, let's go!</text>
+		<text>By the way, there's help for the camp that arrived in an APC. Apparently, the professor managed to negotiate with the local stalkers. Well, let's go!</text>
 	</string>
 
 
