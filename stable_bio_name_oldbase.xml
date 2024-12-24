@@ -65,10 +65,10 @@
 
 
 	<string id="agr_krot_name">
-		<text>Mole (start here for your second session on 12/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Mole</text>
 	</string>
 	<string id="agr_nii_commander_name">
-		<text>Captain Maximenko</text>
+		<text>Captain Maximenko (start here for your first session on 12/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_ratcatcher_name">
 		<text>Pied Piper</text>
