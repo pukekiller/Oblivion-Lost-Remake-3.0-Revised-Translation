@@ -77,10 +77,10 @@
 		<text>Little is known about this enigmatic figure, and rumors abound. Some claim he’s a former bandit; others insist he’s a counterintelligence officer with the call sign Krysolov. There’s even speculation that he reached the heart of the Zone and wished for the power to command rats, earning him his nickname. One thing is certain - encounters with him are rare, and even seasoned veterans seldom cross his path. Recently, he seems to have vanished entirely, fading from memory as people begin to forget he ever existed.</text>
 	</string>
 	<string id="bar_arena_stalker">
-		<text>This individual is one of the participants in the deadly battles in the Arena. No detailed information available. (start here for your second session on 12/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is one of the participants in the deadly battles in the Arena. No detailed information available.</text>
 	</string>
 	<string id="bar_arny_bio">
-		<text>Commander of a group of rookies from Cordon.</text>
+		<text>This individual is an leader of a group of rookies from the Cordon. (start here for your first session on 12/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_arny_name">
 		<text>Arnie</text>
