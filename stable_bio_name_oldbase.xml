@@ -83,10 +83,10 @@
 		<text>This individual is an leader of a group of rookies from the Cordon.</text>
 	</string>
 	<string id="bar_arny_name">
-		<text>Arnie (start here for your second session on 12/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Arnie</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>Bar guard. Or, if you prefer, the Barkeep's bodyguard. Nothing is known about his present, as well as his past.</text>
+		<text>Garik serves as the guard of the Stalker Bar - or, if you prefer, the Barkeep's personal bodyguard. His past, like his present, remains shrouded in mystery. (start here for your first session on 12/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_bar_guard_name">
 		<text>Garik</text>
