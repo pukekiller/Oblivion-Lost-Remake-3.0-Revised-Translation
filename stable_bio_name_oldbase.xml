@@ -86,10 +86,10 @@
 		<text>Arnie</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>Garik serves as the guard of the Stalker Bar - or, if you prefer, the Barkeep's personal bodyguard. His past, like his present, remains shrouded in mystery. (start here for your first session on 12/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Garik serves as the guard of the Stalker Bar - or, if you prefer, the Barkeep's personal bodyguard. His past, like his present, remains shrouded in mystery.</text>
 	</string>
 	<string id="bar_bar_guard_name">
-		<text>Garik</text>
+		<text>Garik (start here for your second session on 12/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_bar_guard2_bio">
 		<text>The guard at the entrance of the bar. As silent as his brother.</text>
