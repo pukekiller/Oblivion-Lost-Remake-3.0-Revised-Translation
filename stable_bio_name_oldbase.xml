@@ -98,10 +98,10 @@
 		<text>Zhorik</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Neither a saint nor a scoundrel, he knows his worth, and for that, he’s respected among stalkers. Rumor has it he’s hiding in the Zone to escape a dark past. After an encounter with an anomaly left him with a limp, he decided to change his path. He set up a bar near the Duty group, which quietly became the main gathering spot for Zone veterans. The Barkeep now has extensive connections, both within the Zone and in the outside world. (start here for your first session on 12/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Neither a saint nor a scoundrel, he knows his worth, and for that, he’s respected among stalkers. Rumor has it he’s hiding in the Zone to escape a dark past. After an encounter with an anomaly left him with a limp, he decided to change his path. He set up a bar near the Duty group, which quietly became the main gathering spot for Zone veterans. The Barkeep now has extensive connections, both within the Zone and in the outside world.</text>
 	</string>
 	<string id="bar_barmen_name">
-		<text>Barkeep Rat</text>
+		<text>Barkeep (start here for your second session on 12/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_beast_name">
 		<text>Beast</text>
