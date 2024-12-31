@@ -104,10 +104,10 @@
 		<text>Barkeep</text>
 	</string>
 	<string id="bar_beast_name">
-		<text>Beast (start here for your first session on 12/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Beast</text>
 	</string>
 	<string id="bar_drunk_bio">
-		<text>A member of Duty's faction. A regular at the Stalker Bar. Rumored to have dealings with the group's merchant.</text>
+		<text>A Duty member and regular at the Stalker Bar, rumored to have close dealings with Duty's merchant. (start here for your second session on 12/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_drunk_name">
 		<text>Brome</text>
