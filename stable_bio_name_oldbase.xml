@@ -107,10 +107,10 @@
 		<text>Beast</text>
 	</string>
 	<string id="bar_drunk_bio">
-		<text>A Duty member and regular at the Stalker Bar, rumored to have close dealings with Duty's merchant. (start here for your second session on 12/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>A Duty member and regular at the Stalker Bar, rumored to have close dealings with Duty's merchant.</text>
 	</string>
 	<string id="bar_drunk_name">
-		<text>Brome</text>
+		<text>Brome (start here for your first session on 12/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_hunter_bio">
 		<text>A good-natured jolly fellow, his only problem is that he can only shoot with a hunting rifle. Doesn't even try anything else. Recently got into trouble in the Wilderness and lost his family gun. Now he hangs around in a bar, hoping someone will give him his gun back.</text>
