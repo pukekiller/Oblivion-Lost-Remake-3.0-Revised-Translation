@@ -113,10 +113,10 @@
 		<text>Brome</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>A good-natured, cheerful guy, his only quirk is that he refuses to use anything but a hunting shotgun - and he’s a crack shot with it. Unfortunately, he ran into trouble near the Rostok factory and lost his shotgun, a cherished family heirloom. Now he spends his days hanging around the bar, hoping someone will help him get it back. (start here for your second session on 1/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>A good-natured, cheerful guy, his only quirk is that he refuses to use anything but a hunting shotgun - and he’s a crack shot with it. Unfortunately, he ran into trouble near the Rostok factory and lost his shotgun, a cherished family heirloom. Now he spends his days hanging around the bar, hoping someone will help him get it back.</text>
 	</string>
 	<string id="bar_hunter_name">
-		<text>Hunter</text>
+		<text>Hunter (start here for your first session on 1/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_informer_bio">
 		<text>A mysterious stalker who knows a lot. Trades information in the bar.</text>
