@@ -110,10 +110,10 @@
 		<text>A Duty member and regular at the Stalker Bar, rumored to have close dealings with Duty's merchant.</text>
 	</string>
 	<string id="bar_drunk_name">
-		<text>Brome (start here for your first session on 12/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Brome</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>A good-natured jolly fellow, his only problem is that he can only shoot with a hunting rifle. Doesn't even try anything else. Recently got into trouble in the Wilderness and lost his family gun. Now he hangs around in a bar, hoping someone will give him his gun back.</text>
+		<text>A good-natured, cheerful guy, his only quirk is that he refuses to use anything but a hunting shotgun - and he’s a crack shot with it. Unfortunately, he ran into trouble near the Rostok factory and lost his shotgun, a cherished family heirloom. Now he spends his days hanging around the bar, hoping someone will help him get it back. (start here for your second session on 1/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_hunter_name">
 		<text>Hunter</text>
