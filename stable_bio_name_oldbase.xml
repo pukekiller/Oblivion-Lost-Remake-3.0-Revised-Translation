@@ -125,10 +125,10 @@
 		<text>Snitch</text>
 	</string>
 	<string id="bar_ivancov_bio">
-		<text>An experienced stalker and dedicated member of the Duty faction, he is an ideological fighter who wholeheartedly believes in Duty’s cause. Considered the top candidate for the group’s next leader, he stands out as one of the few who voluntarily ventures into the deep Zone - areas with intense psionic activity - while managing to maintain a clear and sound mind. (start here for your second session on 1/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>An experienced stalker and dedicated member of the Duty faction, he is an ideological fighter who wholeheartedly believes in Duty’s cause. Considered the top candidate for the group’s next leader, he stands out as one of the few who voluntarily ventures into the deep Zone - areas with intense psionic activity - while managing to maintain a clear and sound mind.</text>
 	</string>
 	<string id="bar_ivancov_name">
-		<text>Captain Ivantsov</text>
+		<text>Captain Ivantsov (start here for your first session on 1/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_kicenko_name">
 		<text>Sergeant Kitsenko</text>
