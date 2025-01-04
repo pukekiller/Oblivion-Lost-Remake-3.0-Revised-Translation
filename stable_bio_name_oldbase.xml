@@ -131,10 +131,10 @@
 		<text>Captain Ivantsov</text>
 	</string>
 	<string id="bar_kicenko_name">
-		<text>Sergeant Kitsenko (start here for your second session on 1/4/25 and don't forget to remove this reminder when you start)</text>
+		<text>Sergeant Kitsenko</text>
 	</string>
 	<string id="bar_lelik_bio">
-		<text>The bodyguard of the host of the Arena. Only bad things are known about his past, hates his brothers.</text>
+		<text>The Arena owner's bodyguard. Not much is known about his past, but all of it is bad. He hates his brothers. (start here for your first session on 1/4/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_lelik_name">
 		<text>Lyolik</text>
