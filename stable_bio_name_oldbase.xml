@@ -146,10 +146,10 @@
 		<text>A seasoned military stalker who has explored every corner of the Zone, he found his place within the paramilitary group Duty, quickly earning respect and authority through his extensive experience. His primary role is to procure weapons, ammunition, and medical supplies for the group. Given Duty’s numerous ties to the armed forces beyond the Perimeter, it’s easy to guess who their main sponsor might be. Though he rarely sells his wares to ordinary stalkers, he is known for his kind and gentle demeanor. A passionate collector, his fascination with weaponry goes far beyond mere necessity.</text>
 	</string>
 	<string id="bar_petrenko_name">
-		<text>Petrenko (start here for your first session on 1/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Petrenko</text>
 	</string>
 	<string id="bar_plichko_bio">
-		<text>Head of security for Duty territory.</text>
+		<text>Chief of Duty's territory security. (start here for your second session on 1/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_plichko_name">
 		<text>Chief of Security</text>
