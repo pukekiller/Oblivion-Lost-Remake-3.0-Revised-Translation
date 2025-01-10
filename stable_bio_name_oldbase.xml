@@ -164,10 +164,10 @@
 		<text>Voronin, a seasoned Zone veteran, is the leader of the paramilitary group Duty, whose primary mission is the destruction of the Zone. He first entered the Zone as part of the infamous initial armed forces expedition, which ended in a disastrous failure. For several years now, he has commanded Duty with an iron hand, enforcing strict discipline and demanding absolute compliance from his subordinates. Due to numerous assassination attempts by mercenaries, Voronin rarely leaves his office these days. Securing an appointment with him requires strong connections within the Zone.</text>
 	</string>
 	<string id="bar_voronin_name">
-		<text>Voronin (start here for your first session on 1/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>Voronin</text>
 	</string>
 	<string id="cit_bandit_drunk_bio">
-		<text>Alkash</text>
+		<text>Alkash (start here for your second session on 1/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_bandit_general_bio">
 		<text>Unknown stalker. Questionable reputation. No detailed information available.</text>
