@@ -179,10 +179,10 @@
 		<text>This individual is one of the leaders of the bandits. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="cit_bandits_leader_name">
-		<text>Greyhound (start here for your second session on 1/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Greyhound</text>
 	</string>
 	<string id="cit_doctor_bio">
-		<text>The Doctor.</text>
+		<text>The Doctor. Very little is known about this individual. (start here for your first session on 1/12/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_doctor_name">
 		<text>The Doctor</text>
