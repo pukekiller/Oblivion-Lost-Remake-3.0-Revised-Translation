@@ -182,10 +182,10 @@
 		<text>Greyhound</text>
 	</string>
 	<string id="cit_doctor_bio">
-		<text>The Doctor. Very little is known about this individual. (start here for your first session on 1/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>This person is simply known as 'The Doctor'. Very little is known about this individual.</text>
 	</string>
 	<string id="cit_doctor_name">
-		<text>The Doctor</text>
+		<text>The Doctor (start here for your second session on 1/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_killer_exo_bio">
 		<text>Unknown Mercenary. Well armed and very dangerous. No detailed information available.</text>
