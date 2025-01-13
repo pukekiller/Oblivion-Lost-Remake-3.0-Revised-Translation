@@ -185,10 +185,10 @@
 		<text>This person is simply known as 'The Doctor'. Very little is known about this individual.</text>
 	</string>
 	<string id="cit_doctor_name">
-		<text>The Doctor (start here for your second session on 1/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>The Doctor</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>Unknown Mercenary. Well armed and very dangerous. No detailed information available.</text>
+		<text>This unknown individual is a mercenary. Well armed and very dangerous. No detailed information available. (start here for your first session on 1/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_killer_general_bio">
 		<text>Unknown Mercenary. Possibly well armed. No details available.</text>
