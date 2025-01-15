@@ -188,18 +188,18 @@
 		<text>The Doctor</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>This unknown individual is a mercenary. Well armed and very dangerous. No detailed information available. (start here for your first session on 1/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>This unknown individual is a mercenary. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="cit_killer_general_bio">
-		<text>Unknown Mercenary. Possibly well armed. No details available.</text>
+		<text>This unknown individual is a mercenary. Possibly well armed and dangerous. No detailed information available.</text>
 	</string>
 
 	<string id="cit_killers_leader_bio">
-		<text>Stalker of the Clear Sky group. Collects various information about the Zone, as well as deciphering PDA.</text>
+		<text>This individual is a stalker that's part of the Clear Sky faction. He's known for collecting information about the Zone, as well as deciphering encrypted PDA's.</text>
 	</string>
 
 	<string id="cit_killers_leader_name">
-		<text>Dushman</text>
+		<text>Dushman (start here for your second session on 1/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="cit_vp_bio">
 		<text>Experienced stalker. No detailed information available.</text>
