@@ -202,10 +202,10 @@
 		<text>Dushman</text>
 	</string>
 	<string id="cit_vp_bio">
-		<text>This individual is a highly experienced stalker. No detailed information available. (start here for your first session on 1/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a highly experienced stalker. No detailed information available.</text>
 	</string>
 	<string id="cit_vp_name">
-		<text>Vasily Petrovich</text>
+		<text>Vasily Petrovich (start here for your second session on 1/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dar_corpse_bio">
 		<text>No detailed information.</text>
