@@ -211,10 +211,10 @@
 		<text>No detailed information.</text>
 	</string>
 	<string id="dar_explorer_bio">
-		<text>This individual is a highly experienced stalker. He keeps his ear to the ground, keeping up with new developments in the Zone. (start here for your second session on 1/17/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a highly experienced stalker. He keeps his ear to the ground, keeping up with new developments in the Zone.</text>
 	</string>
 	<string id="dar_explorer_name">
-		<text>Zheka Duplet</text>
+		<text>Zheka Duplet (start here for your first session on 1/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dar_kalugin_name">
 		<text>Kalugin P.I.</text>
