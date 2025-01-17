@@ -6,22 +6,22 @@
 
 
 	<string id="jurnalist_bio">
-		<text>Journalist. Experienced lone stalker. Unsociable, secretive. Looking for something in the Zone.</text>
+		<text>This experienced stalker goes by the name "Journalist". He is unsociable and reclusive. The only thing that's known about him is that he's looking for something in the Zone.</text>
 	</string>
 
 	<string id="esc_noobik_bio">
-		<text>Experienced veteran. Long time in the Zone, rumored to be on the radar.</text>
+		<text>This stalker is an experienced veteran that been in the Zone for a long time. Rumored to be on the radar.</text>
 	</string>
 
 	<string id="greh_reg_bio">
-		<text>Former stalker. Now rumored to be a walking corpse under unknown influence.</text>
+		<text>This individual is former stalker that's been rumored to be a walking corpse now, controlled by some unknown influence.</text>
 	</string>
 
 	<string id="aes_Monolit_master_bio">
-		<text>Monolith Guardian. Best to stay away from him. No details available.</text>
+		<text>This individual is an veteran Monolith soldier. This individual is also highly dangerous, so it's best to stay away from him. No detailed information available.</text>
 	</string>
 	<string id="aes_Monolit_rpg_bio">
-		<text>Stalker of the Monolith faction. No detailed information available.</text>
+		<text>This individual is a militant that's loyal to the Monolith faction. No details available.</text>
 	</string>
 	<string id="aes_Monolit_sniper_bio">
 		<text>Monolith sniper. No detailed information available.</text>
