@@ -217,10 +217,10 @@
 		<text>Zheka Duplet</text>
 	</string>
 	<string id="dar_kalugin_name">
-		<text>Kalugin P.I. (start here for your second session on 1/18/25 and don't forget to remove this reminder when you start)</text>
+		<text>Kalugin P.I.</text>
 	</string>
 	<string id="ds_sergant_regular_bio">
-		<text>Enlisted sergeant. No detailed information available.</text>
+		<text>This individual is a sergeant that's enlisted in the Ukrainian Army. No detailed information available. (start here for your first session on 1/18/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ds_soldier_regular_bio">
 		<text>Private enlisted soldier. No detailed information available.</text>
