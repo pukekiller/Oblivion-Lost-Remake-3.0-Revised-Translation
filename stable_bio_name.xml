@@ -24,19 +24,19 @@
 		<text>This individual is a militant that's loyal to the Monolith faction. No details available.</text>
 	</string>
 	<string id="aes_Monolit_sniper_bio">
-		<text>Monolith sniper. No detailed information available.</text>
+		<text>This individual is a sniper that's loyal to the Monolith faction. No detailed information available.</text>
 	</string>
 	<string id="aes_Monolit_sniper_gauss_bio">
-		<text>Stalker of the Monolith faction. No detailed information available.</text>
+		<text>This individual is a stalker that's loyal to the Monolith faction. No detailed information available.</text>
 	</string>
 	<string id="aes_Monolit_specnaz_bio">
-		<text>Monolith fighter. Well equipped. No detailed information available.</text>
+		<text>This individual is a well-equipped militant that's loyal to the Monolith faction. No details available.</text>
 	</string>
 	<string id="aes_Soldier_commander_bio">
-		<text>Commander of the military assault.</text>
+		<text>This individual is a commander of an military assault force. No details available.</text>
 	</string>
 	<string id="aes_Soldier_military_bio">
-		<text>A military stalker. Well-armed and very dangerous. Details unavailable.</text>
+		<text>This individual is a military stalker who is well armed, well trained, and very dangerous. No details available.</text>
 	</string>
 	<string id="aes_Soldier_sniper_bio">
 		<text>No detailed information is available.</text>
