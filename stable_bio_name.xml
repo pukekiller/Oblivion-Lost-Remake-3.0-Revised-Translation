@@ -59,8 +59,7 @@
 
 
 	<string id="bar_rosomaha_bio">
-		<text>Wolverine of the Blade Clan,
-an old stalker who has tramped all over the Zone, lost the fingers on his right hand after an encounter with a bald spot anomaly near Kopachi.</text>
+		<text>Wolverine of the Blade Clan is a seasoned stalker who has traversed every corner of the Zone. During his long and storied career, he lost the fingers on his right hand to an encounter with an amoeba anomaly near Kopachi.</text>
 	</string>
 
 
@@ -74,10 +73,10 @@ an old stalker who has tramped all over the Zone, lost the fingers on his right 
 		<text>Pied Piper</text>
 	</string>
 	<string id="agr_ratcatcher_bio">
-		<text>Not much is known about him reliably, there are many different rumors and speculations. Some say he's a former bandit. Others say that he is a counterintelligence officer with the call sign Krysolov. And others believe that he was able to get to the center of the Zone, and when he got through, made a wish to command rats, for which he got his nickname. One thing is for sure, to meet him is very rare, not every veteran has seen him. And lately he has disappeared somewhere, and people are starting to forget about him.</text>
+		<text>Little is known about this enigmatic figure, and rumors abound. Some claim he’s a former bandit; others insist he’s a counterintelligence officer with the call sign Krysolov. There’s even speculation that he reached the heart of the Zone and wished for the power to command rats, earning him his nickname. One thing is certain - encounters with him are rare, and even seasoned veterans seldom cross his path. Recently, he seems to have vanished entirely, fading from memory as people begin to forget he ever existed.</text>
 	</string>
 	<string id="bar_arena_stalker">
-		<text>One of the participants in the deadly battles in the Arena. No detailed information available.</text>
+		<text>This individual is one of the participants in the deadly battles in the Arena. No detailed information available.</text>
 	</string>
 	<string id="bar_arny_bio">
 		<text>Commander of a group of rookies from Cordon.</text>
