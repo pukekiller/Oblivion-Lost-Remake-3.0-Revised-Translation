@@ -229,10 +229,10 @@
 		<text>This individual is a unknown stalker of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="esc_soldier_blockpost_commander_name">
-		<text>Lieutenant Chuguikin (start here for your second session on 1/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>Lieutenant Chuguikin</text>
 	</string>
 	<string id="esc_lieutenant_bio">
-		<text>Lieutenant of extra-long service. No detailed information available.</text>
+		<text>This individual is a lieutenant that's been enlisted in the army for a long time. No detailed information available. (start here for your first session on 1/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_captain_bio">
 		<text>Captain of the extra-long service. No detailed information available.</text>
