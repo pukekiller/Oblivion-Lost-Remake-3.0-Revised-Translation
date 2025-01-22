@@ -247,14 +247,14 @@
 
 
 	<string id="esc_fox_bio">
-		<text>An experienced stalker who entered the Zone several years ago, Fox is known for his resourcefulness and cunning. During a deep raid with his partner, they encountered the military conducting a punitive operation near the old warehouses. In the ensuing firefight, Fox's partner was killed, leaving him with a deep, personal grudge against the military. His reputation among stalkers and traders is mixed - many dislike him for his sly nature. Rumors circulate that he doesn’t shy away from robbing other stalkers, though no witnesses have ever come forward to confirm it. (start here for your second session on 1/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>An experienced stalker who entered the Zone several years ago, Fox is known for his resourcefulness and cunning. During a deep raid with his partner, they encountered the military conducting a punitive operation near the old warehouses. In the ensuing firefight, Fox's partner was killed, leaving him with a deep, personal grudge against the military. His reputation among stalkers and traders is mixed - many dislike him for his sly nature. Rumors circulate that he doesn’t shy away from robbing other stalkers, though no witnesses have ever come forward to confirm it.</text>
 	</string>
 
 
 
 
 	<string id="esc_fox_name">
-		<text>Fox</text>
+		<text>Fox (start here for your first session on 1/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_killer_specnaz_bio">
 		<text>Unknown Mercenary. Possibly heavily armed. No detailed information available.</text>
