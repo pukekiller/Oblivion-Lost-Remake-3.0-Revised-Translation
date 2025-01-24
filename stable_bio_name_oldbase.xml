@@ -264,14 +264,14 @@
 
 
 	<string id="esc_petruha_bio">
-		<text>A rookie stalker who arrived in the Zone just two months ago, he has quickly adapted to its harsh environment. So far, he hasn’t ventured beyond Agroprom, believing there’s plenty to be gained on the outskirts of the Zone. Specializing in artifact retrieval for orders and mutant hunting, he has proven himself skilled at both. A humanist by nature, he prefers to steer clear of both the military and bandits, avoiding unnecessary conflict whenever possible. (start here for your first session on 1/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>A rookie stalker who arrived in the Zone just two months ago, he has quickly adapted to its harsh environment. So far, he hasn’t ventured beyond Agroprom, believing there’s plenty to be gained on the outskirts of the Zone. Specializing in artifact retrieval for orders and mutant hunting, he has proven himself skilled at both. A humanist by nature, he prefers to steer clear of both the military and bandits, avoiding unnecessary conflict whenever possible.</text>
 	</string>
 
 
 
 
 	<string id="esc_petruha_name">
-		<text>Petrukha</text>
+		<text>Petruha (start here for your second session on 1/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_provodnik_bio">
 		<text>A legendary personality of his kind, they say that he can lead to any point of the Zone. He charges a lot, but it's not just about money. He won't lead people he doesn't like for any money. He's a veteran, knows the Zone inside and out.</text>
