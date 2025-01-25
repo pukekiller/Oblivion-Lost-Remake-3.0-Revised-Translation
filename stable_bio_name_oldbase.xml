@@ -274,10 +274,10 @@
 		<text>Petruha</text>
 	</string>
 	<string id="esc_provodnik_bio">
-		<text>A legendary stalker, known for his unparalleled knowledge of the Zone, he’s said to be able to guide you to any location within it. His services don’t come cheap, but it’s not just about the money—he refuses to work with anyone he doesn’t like, no matter the price. A true veteran, he knows the Zone inside and out. (start here for your first session on 1/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>A legendary stalker, known for his unparalleled knowledge of the Zone, he’s said to be able to guide you to any location within it. His services don’t come cheap, but it’s not just about the money - he refuses to work with anyone he doesn’t like, no matter the price. A true veteran, he knows the Zone inside and out.</text>
 	</string>
 	<string id="esc_provodnik_name">
-		<text>Guide</text>
+		<text>Guide (start here for your second session on 1/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_sergant_regular_bio">
 		<text>Enlisted sergeant. No detailed information.</text>
