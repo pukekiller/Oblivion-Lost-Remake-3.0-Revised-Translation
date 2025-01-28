@@ -292,10 +292,10 @@
 		<text>This individual is a major that's enlisted in the army. He commands the checkpoint at the bridge and he's also known for taking a toll from stalkers, letting anyone pass through if they pay.</text>
 	</string>
 	<string id="esc_soldier_commander_name">
-		<text>Major Kuznetsov (start here for your first session on 1/27/25 and don't forget to remove this reminder when you start)</text>
+		<text>Major Kuznetsov</text>
 	</string>
 	<string id="esc_soldier_regular_bio">
-		<text>Private conscript soldier. No detailed information available.</text>
+		<text>This individual is a conscripted solider that's enlisted in the army, having the rank of private. No detailed information available. (start here for your second session on 1/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_specnaz_bio">
 		<text>Army Special Forces. Well equipped. Details unavailable.</text>
