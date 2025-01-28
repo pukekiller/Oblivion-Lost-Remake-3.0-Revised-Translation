@@ -187,21 +187,21 @@
 		<text>The Doctor</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>Unknown Mercenary. Well armed and very dangerous. No detailed information available.</text>
+		<text>This unknown individual is a mercenary. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="cit_killer_general_bio">
-		<text>Unknown Mercenary. Possibly well armed. No detailed information available.</text>
+		<text>This unknown individual is a mercenary. Possibly well armed and dangerous. No detailed information available.</text>
 	</string>
 
 	<string id="cit_killers_leader_bio">
-		<text>Stalker of the Clear Sky group. Collects various information about the Zone, and also deciphers PDAs</text>
+		<text>This individual is a stalker that's part of the Clear Sky faction. He's known for collecting information about the Zone, as well as deciphering encrypted PDA's.</text>
 	</string>
 
 	<string id="cit_killers_leader_name">
 		<text>Dushman</text>
 	</string>
 	<string id="cit_vp_bio">
-		<text>Experienced stalker. No detailed information available.</text>
+		<text>This individual is a highly experienced stalker. No detailed information available.</text>
 	</string>
 	<string id="cit_vp_name">
 		<text>Vasily Petrovich</text>
