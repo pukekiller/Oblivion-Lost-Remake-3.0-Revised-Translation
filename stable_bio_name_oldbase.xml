@@ -208,7 +208,7 @@
 		<text>Vasily Petrovich</text>
 	</string>
 	<string id="dar_corpse_bio">
-		<text>No detailed information available. (start here for your first session on 1/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>No detailed information available.</text>
 	</string>
 	<string id="dar_explorer_bio">
 		<text>This individual is a highly experienced stalker. He keeps his ear to the ground, keeping up with new developments in the Zone.</text>
@@ -298,7 +298,7 @@
 		<text>This individual is a conscripted solider that's enlisted in the army, having the rank of private. No detailed information available.</text>
 	</string>
 	<string id="esc_specnaz_bio">
-		<text>This individual is a special forces operator that's enlisted in the army. Highly trained and well equipped. No detailed information available. (start here for your first session on 1/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a special forces operator that's enlisted in the army. Highly trained and well equipped. No detailed information available. (start here for your first session on 1/29/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
 		<text>Unknown Mercenary. Well armed and very dangerous. No details available.</text>
