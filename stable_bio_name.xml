@@ -237,7 +237,7 @@
 		<text>This individual is a captain that's been enlisted in the army for a long time. No detailed information available.</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>A stalker who has not lost his mind.</text>
+		<text>This individual is stalker who has managed to not lose his mind, retaining his sanity even after witnessing the worst aspects of the Zone.</text>
 	</string>
 	<string id="esc_fanat_name">
 		<text>Fanatic</text>
@@ -246,7 +246,7 @@
 
 
 	<string id="esc_fox_bio">
-		<text>An experienced stalker. Came to the Zone several years ago. With his partner during one deep raid he came across the military, who were conducting a punitive operation in the area of the former warehouses. During a firefight, Ferret's partner was killed. Since then, this stalker with the military has a personal grudge. Because of his cunning, he is disliked by many stalkers and traders. There are rumors that he does not shy away from robbing stalkers, but there are no witnesses to confirm this.</text>
+		<text>An experienced stalker who entered the Zone several years ago, Fox is known for his resourcefulness and cunning. During a deep raid with his partner, they encountered the military conducting a punitive operation near the old warehouses. In the ensuing firefight, Fox's partner was killed, leaving him with a deep, personal grudge against the military. His reputation among stalkers and traders is mixed - many dislike him for his sly nature. Rumors circulate that he doesn’t shy away from robbing other stalkers, though no witnesses have ever come forward to confirm it.</text>
 	</string>
 
 
@@ -256,21 +256,21 @@
 		<text>Fox</text>
 	</string>
 	<string id="esc_killer_specnaz_bio">
-		<text>Unknown Mercenary. Possibly heavily armed. No detailed information available.</text>
+		<text>This individual is a unknown contractor, possibly heavily armed. No detailed information available.</text>
 	</string>
 
 
 
 
 	<string id="esc_petruha_bio">
-		<text>Rookie stalker. Appeared in the Zone only two months ago, but quickly adapted to the new environment. He hasn't gone further than Agroprom yet, but he doesn't see the point in it, arguing that there is also something to be had on the outskirts of the Zone. He searches for artifacts for orders, which he does well, and hunts mutants. Humanist. Prefers to avoid military and bandits.</text>
+		<text>A rookie stalker who arrived in the Zone just two months ago, he has quickly adapted to its harsh environment. So far, he hasn’t ventured beyond Agroprom, believing there’s plenty to be gained on the outskirts of the Zone. Specializing in artifact retrieval for orders and mutant hunting, he has proven himself skilled at both. A humanist by nature, he prefers to steer clear of both the military and bandits, avoiding unnecessary conflict whenever possible.</text>
 	</string>
 
 
 
 
 	<string id="esc_petruha_name">
-		<text>Petrukha</text>
+		<text>Petruha</text>
 	</string>
 	<string id="esc_provodnik_bio">
 		<text>A legendary personality of his kind, they say that he can lead to any point of the Zone. He charges a lot, but it's not just about money. He won't lead people he doesn't like for any money. He's a veteran, knows the Zone inside and out.</text>
