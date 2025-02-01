@@ -313,10 +313,10 @@
 		<text>Tolik</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>This individual is the commander of the army forces that maintains one of the military cordons of the Chernobyl Exclusion Zone. (start here for your second session on 2/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is the commander of the army forces that maintains one of the military cordons of the Chernobyl Exclusion Zone.</text>
 	</string>
 	<string id="esc_wolf_name">
-		<text>Commander</text>
+		<text>Commander (start here for your first session on 2/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_trader_bio">
 		<text>He's been in the trade since he was a kid. In kindergarten sold colored pencils. At school he sold chewing gum. At the institute, he sold light narcotics. When the Zone came along, he realized there was a good way to make money. He is famous for being able to establish good trade relations with the most diverse customers.</text>
