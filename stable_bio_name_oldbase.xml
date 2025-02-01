@@ -310,10 +310,10 @@
 		<text>This individual is just a regular stalker.</text>
 	</string>
 	<string id="esc_tolik_name">
-		<text>Tolik (start here for your first session on 1/31/25 and don't forget to remove this reminder when you start)</text>
+		<text>Tolik</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>Commander of the patrol of the Cordon zone.</text>
+		<text>This individual is the commander of the army forces that maintains one of the military cordons of the Chernobyl Exclusion Zone. (start here for your second session on 2/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_wolf_name">
 		<text>Commander</text>
