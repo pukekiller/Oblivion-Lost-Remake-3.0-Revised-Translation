@@ -288,19 +288,19 @@
 		<text>Nimble</text>
 	</string>
 	<string id="esc_soldier_commander_bio">
-		<text>Major, commands the army post at the bridge. Cooperates with stalkers, taking a fee for passing through the bridge.</text>
+		<text>This individual is a major that's enlisted in the army. He commands the checkpoint at the bridge and he's also known for taking a toll from stalkers, letting anyone pass through if they pay.</text>
 	</string>
 	<string id="esc_soldier_commander_name">
 		<text>Major Kuznetsov</text>
 	</string>
 	<string id="esc_soldier_regular_bio">
-		<text>Private conscript soldier. No detailed information available.</text>
+		<text>This individual is a conscripted solider that's enlisted in the army, having the rank of private. No detailed information available.</text>
 	</string>
 	<string id="esc_specnaz_bio">
-		<text>Army Special Forces. Well equipped. Details not available.</text>
+		<text>This individual is a special forces operator that's enlisted in the army. Highly trained and well equipped. No detailed information available.</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
-		<text>Unknown Mercenary. Well armed and very dangerous. No detailed information available.</text>
+		<text>This individual is a unknown private military contractor. Well armed, well trained and highly dangerous. No detailed information available.</text>
 	</string>
 	<string id="esc_stalker_novice_bio">
 		<text>Rookie. Recently in the Zone. No detailed information available.</text>
