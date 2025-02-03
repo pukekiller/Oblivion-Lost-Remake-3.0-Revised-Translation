@@ -303,16 +303,16 @@
 		<text>This individual is a unknown private military contractor. Well armed, well trained and highly dangerous. No detailed information available.</text>
 	</string>
 	<string id="esc_stalker_novice_bio">
-		<text>Rookie. Recently in the Zone. No detailed information available.</text>
+		<text>This individual is a rookie stalker that's new to the Zone. No detailed information available.</text>
 	</string>
 	<string id="esc_tolik_bio">
-		<text>Just a stalker.</text>
+		<text>This individual is just a regular stalker.</text>
 	</string>
 	<string id="esc_tolik_name">
 		<text>Tolik</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>Commander of the patrol of the Cordon zone.</text>
+		<text>This individual is the commander of the army forces that maintains one of the military cordons of the Chernobyl Exclusion Zone.</text>
 	</string>
 	<string id="esc_wolf_name">
 		<text>Commander</text>
