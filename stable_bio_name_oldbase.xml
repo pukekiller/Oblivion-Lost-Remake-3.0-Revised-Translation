@@ -322,10 +322,10 @@
 		<text>Toad has been a trader since childhood. In kindergarten, he sold colored pencils; in school, it was chewing gum; by university, he had moved on to light narcotics. When the Zone emerged, he saw an even greater opportunity to make money. Known for his ability to build solid trade relations with all kinds of clients, he has earned a reputation as a shrewd and resourceful dealer.</text>
 	</string>
 	<string id="escape_trader_name">
-		<text>Toad (start here for your first session on 2/2/25 and don't forget to remove this reminder when you start)</text>
+		<text>Toad</text>
 	</string>
 	<string id="gar_bandit_leader_bio">
-		<text>Enjoys a certain authority among the bandits in the Zone. Borov's accomplice.</text>
+		<text>This individual is a seasoned criminal that enjoys a certain authority among the bandits in the Zone. He is also Borov's accomplice. (start here for your second session on 2/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_bandit_leader_name">
 		<text>Vasya Kaban</text>
