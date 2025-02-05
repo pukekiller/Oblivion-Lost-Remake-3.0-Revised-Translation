@@ -333,19 +333,19 @@
 		<text>This individual is a stalker that's part of the Duty faction. No detailed information available.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_bio">
-		<text>Officer of the Duty faction. No detailed information available.</text>
+		<text>This individual is a officer that's part of the Duty faction. No detailed information available.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_name">
 		<text>Prapor</text>
 	</string>
 	<string id="gar_dram_novice_bio">
-		<text>Rookie. Taking his first steps in the Zone.</text>
+		<text>This individual is a rookie stalker, still wet behind the ears and taking his first steps into the Zone.</text>
 	</string>
 	<string id="gar_dram_novice_name">
 		<text>Yurik</text>
 	</string>
 	<string id="gar_hellcar_bio">
-		<text>Experienced stalker. Fishing for artifacts on the Garbage.</text>
+		<text>This individual is a experienced stalker that's known for artifact hunting at the Garbage.</text>
 	</string>
 	<string id="gar_hellcar_name">
 		<text>Sprout</text>
