@@ -351,16 +351,16 @@
 		<text>Sprout</text>
 	</string>
 	<string id="gar_newbie_bio">
-		<text>A rookie. New to the Zone. No detailed information available.</text>
+		<text>This individual is a rookie stalker that's new to the Zone. No detailed information available.</text>
 	</string>
 	<string id="gar_seryi_bio">
-		<text>Stalker with a dirty face and no less dirty biography.</text>
+		<text>This individual is a stalker who is filthy in both appearance and morals.</text>
 	</string> 
 	<string id="gar_seryi_name">
 		<text>Witcher</text>
 	</string>
 	<string id="gar_stalker_regular_bio">
-		<text>Experienced stalker. No detailed information available.</text>
+		<text>This individual is a experienced stalker. No detailed information available.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
 		<text>A fighter of the Duty faction. Usually well equipped. No detailed information available.</text>
