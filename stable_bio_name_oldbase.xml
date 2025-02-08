@@ -376,19 +376,19 @@
 		<text>This individual is a soldier that's part of the Duty faction. Well trained and well equipped. No detailed information available.</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
-		<text>This individual is a private contractor that's known in the Zone for his speciality of being an informant. (start here for your first session on 2/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a private contractor that's known in the Zone for his speciality of being an informant.</text>
 	</string>
 	<string id="mil_Killer_informator_name">
 		<text>Ara</text>
 	</string>
 	<string id="mil_killer_master_bio">
-		<text>Unknown Mercenary. Well armed and very dangerous. No detailed information available.</text>
+		<text>This individual is a unknown private contractor that's well armed, well trained and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="mil_killer_sniper_bio">
-		<text>Unknown Mercenary. Apparently new to the Zone. No details available.</text>
+		<text>This individual is a unknown private contractor that's new to the Zone. No detailed information available.</text>
 	</string>
 	<string id="mil_Killer_specnaz_bio">
-		<text>Unknown Mercenary. Probably heavily armed. No details available.</text>
+		<text>This individual is a unknown private contractor that's heavily armed. No detailed information available. (start here for your second session on 2/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_Monolit_master_bio">
 		<text>Guardian of the Monolith faction. Best to stay away from him. No details available.</text>
