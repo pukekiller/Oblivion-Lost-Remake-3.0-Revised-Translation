@@ -396,19 +396,19 @@
 		<text>This individual is a stalker that's part of the Monolith faction. No detailed information available.</text>
 	</string>
 	<string id="mil_Stalker_master_bio">
-		<text>One of the Zone's veterans. This stalker knows the Zone like the back of his hand. Usually well equipped and very dangerous. No details available.</text>
+		<text>This individual is one of the Zone's veterans - he's a stalker that knows the Zone like the back of his hand. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="mil_Stalker_veteran_bio">
-		<text>Veteran stalker. Probably well equipped. No detailed information available.</text>
+		<text>This individual is a veteran stalker. Well equipped. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>Free stalker. A man who has rallied people around him, ready to die for a common cause.</text>
+		<text>This individual is a stalker who is part of the Freedom faction. He's a man who has rallied people around him, ready to die for a common cause.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
 		<text>Kep</text>
 	</string>
 	<string id="mil_Svoboda_bodyguard_bio">
-		<text>Guard for Lukash, leader of the Freedom faction.</text>
+		<text>This individual is one Lukash's guards, who is the leader of the Freedom faction.</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
 		<text>Freedom's cook. A drunkard and a debauchee, but an excellent cook.</text>
