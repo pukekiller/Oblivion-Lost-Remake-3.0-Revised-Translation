@@ -403,13 +403,13 @@
 		<text>This individual is a veteran stalker. Well equipped. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>This individual is a stalker who is part of the Freedom faction. He's a man who has rallied people around him, ready to die for a common cause. (start here for your second session on 2/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a stalker who is part of the Freedom faction. He's a man who has rallied people around him, ready to die for a common cause.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
 		<text>Kep</text>
 	</string>
 	<string id="mil_Svoboda_bodyguard_bio">
-		<text>Guard for Lukash, leader of the Freedom group.</text>
+		<text>This individual is one Lukash's guards, who is the leader of the Freedom faction. (start here for your first session on 2/9/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
 		<text>Freedom's cook. A drunkard and a debauchee, but an excellent cook.</text>
