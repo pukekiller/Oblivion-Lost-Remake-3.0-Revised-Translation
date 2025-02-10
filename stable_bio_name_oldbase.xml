@@ -424,13 +424,13 @@
 		<text>Screw</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>This individual is the leader of the Freedom faction. (start here for your second session on 2/10/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is the leader of the Freedom faction.</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
 		<text>Freedom leader</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Master of the Freedom faction. No detailed information available.</text>
+		<text>This individual is the leader of the Freedom faction. No detailed information available.  (start here for your first session on 2/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
 		<text>Guardian of the Freedom faction. Fanatically devoted to the faction. Well equipped and very dangerous. No details available.</text>
