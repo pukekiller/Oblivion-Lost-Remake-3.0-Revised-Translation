@@ -417,19 +417,19 @@
 		<text>Cook</text>
 	</string>
 	<string id="mil_Svoboda_engineer_bio">
-		<text>A well-known mechanic in the Zone. He can build a tank out of a tractor.</text>
+		<text>This individual is a well-known mechanic in the Zone. He's incredibly skilled with his hands at building or fixing things, practically able to build a tank out of a tractor.</text>
 	</string>
 	<string id="mil_Svoboda_engineer_name">
 		<text>Screw</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>Leader of the Freedom faction.</text>
+		<text>This individual is the leader of the Freedom faction.</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
-		<text>Freedom leader</text>
+		<text>Lukash</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Master of the Freedom faction. No detailed information available.</text>
+		<text>This individual is the leader of the Freedom faction. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
 		<text>Guardian of the Freedom faction. Fanatically devoted to the faction. Well equipped and very dangerous. No details available.</text>
