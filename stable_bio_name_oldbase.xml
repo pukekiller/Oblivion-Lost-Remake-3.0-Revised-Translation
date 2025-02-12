@@ -448,16 +448,16 @@
 		<text>Kolyan</text>
 	</string>
 	<string id="mil_Svoboda_Tolyan_name">
-		<text>Tolyan (start here for your first session on 2/11/25 and don't forget to remove this reminder when you start)</text>
+		<text>Tolyan</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
-		<text>Stalker of the Freedom faction. No detailed information available.</text>
+		<text>This individual is a stalker that's part of the Freedom faction. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_sniper_bio">
-		<text>Freedom sniper. No detailed information available.</text>
+		<text>This individual is a sniper that's part of the Freedom faction. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Freedom fighter. Usually well equipped. No detailed information available.</text>
+		<text>This individual is a soldier that's part of the Freedom faction. Well equipped and dangerous. No detailed information available. (start here for your second session on 2/12/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
 		<text>Freedom Stalker. No detailed information available.</text>
