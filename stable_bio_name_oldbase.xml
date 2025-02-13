@@ -463,16 +463,16 @@
 		<text>This individual is a stalker that's part of the Freedom faction. No detailed information available.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_name">
-		<text>Pavlik (start here for your first session on 2/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Pavlik</text>
 	</string>
 	<string id="mil_Svoboda_trader_bio">
-		<text>Known for being greedy and unyielding, but they say you can get anything from him.</text>
+		<text>This individual is Freedom's main trader. He is infamous for his greediness and incompliance, but they say he can get you anything.</text>
 	</string>
 	<string id="mil_Svoboda_trader_name">
-		<text>Freedom Merchant</text>
+		<text>Skinflint</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_bio">
-		<text>Stalker of the Freedom faction. No detailed information available.</text>
+		<text>This individual is a stalker that's part of the Freedom faction. No detailed information available. (start here for your second session on 2/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_name">
 		<text>Crazy Freedom Stalker.</text>
