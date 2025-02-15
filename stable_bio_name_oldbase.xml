@@ -505,13 +505,13 @@
 		<text>This individual is a special forces operator that's part of the Monolith faction. No detailed information available.</text>
 	</string>
 	<string id="pri_zombied_soldier_bio">
-		<text>This individual used to be a soldier until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available. (start here for your second session on 2/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>This unlucky individual used to be a soldier until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available.</text>
 	</string>
 	<string id="pri_zombied_soldier_name">
-		<text>Zombie</text>
+		<text>Zombified soldier</text>
 	</string>
 	<string id="pri_zombied_stalker_bio">
-		<text>One of the unlucky stalkers.</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available. (start here for your first session on 2/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="pri_zombied_stalker_name">
 		<text>Zombie</text>
