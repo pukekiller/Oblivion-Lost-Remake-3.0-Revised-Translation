@@ -511,16 +511,16 @@
 		<text>Zombified soldier</text>
 	</string>
 	<string id="pri_zombied_stalker_bio">
-		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available. (start here for your first session on 2/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available.</text>
 	</string>
 	<string id="pri_zombied_stalker_name">
-		<text>Zombie</text>
+		<text>Zombified stalker</text>
 	</string>
 	<string id="pri_lom_name">
 		<text>Crowbar</text>
 	</string>
 	<string id="pri_brevno_name">
-		<text>Log</text>
+		<text>Log (start here for your second session on 2/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rad_dolg_master_bio">
 		<text>Master of the Duty faction. Very well equipped. No detailed information available.</text>
