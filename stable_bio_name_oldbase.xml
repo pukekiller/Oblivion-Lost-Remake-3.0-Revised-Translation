@@ -520,13 +520,13 @@
 		<text>Crowbar</text>
 	</string>
 	<string id="pri_brevno_name">
-		<text>Log (start here for your second session on 2/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Log</text>
 	</string>
 	<string id="rad_dolg_master_bio">
-		<text>Master of the Duty faction. Very well equipped. No detailed information available.</text>
+		<text>This individual is the leader of the Duty faction. Well equipped and well trained. No detailed information available.</text>
 	</string>
 	<string id="rad_ecolog_bio">
-		<text>Scientist. No detailed information available.</text>
+		<text>This individual is a scientist that's studying the Zone. No detailed information available. (start here for your first session on 2/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rad_ecolog_guard_bio">
 		<text>Scientist guards. No details available.</text>
