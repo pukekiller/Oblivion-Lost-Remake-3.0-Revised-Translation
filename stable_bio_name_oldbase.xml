@@ -526,16 +526,16 @@
 		<text>This individual is the leader of the Duty faction. Well equipped and well trained. No detailed information available.</text>
 	</string>
 	<string id="rad_ecolog_bio">
-		<text>This individual is a scientist that's studying the Zone. No detailed information available. (start here for your first session on 2/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a scientist that's studying the Zone. No detailed information available.</text>
 	</string>
 	<string id="rad_ecolog_guard_bio">
-		<text>Scientist guards. No details available.</text>
+		<text>This individual is a private contractor that's been hired to help protect scientists working in the Zone. No detailed information available.</text>
 	</string>
 	<string id="rad_ecolog_guard_name">
-		<text>Assistant</text>
+		<text>Ecologist guard</text>
 	</string>
 	<string id="rad_ecolog_name">
-		<text>Assistant</text>
+		<text>Ecologist (start here for your second session on 2/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rad_monolith_general_bio">
 		<text>Stalker of the Monolith faction. No detailed information available.</text>
