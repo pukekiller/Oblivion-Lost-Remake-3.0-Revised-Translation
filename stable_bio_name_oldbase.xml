@@ -556,16 +556,16 @@
 		<text>This individual is the leader of the Freedom faction. No detailed information available.</text>
 	</string>
 	<string id="rad_zombied_general_bio">
-		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available. (start here for your second session on 2/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available.</text>
 	</string>
 	<string id="rad_jaw_zam_name">
-		<text>Lyokha Jawbone's replacement.</text>
+		<text>Lyokha Jawbone's replacement</text>
 	</string>
 	<string id="stalker_rad_jaw_name">
 		<text>Lyokha Jawbone</text>
 	</string>
 	<string id="stalker_rad_jaw_bio">
-		<text>Veteran stalker. Possibly well-equipped. Questionable personality. No detailed information available.</text>
+		<text>This individual is a veteran stalker of questionable character. His personality has earned him a mixed reputation among others in the Zone. Well equipped. No detailed information available. (start here for your first session on 2/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_ecolog_guard_bio">
 		<text>Employee of a mobile science lab. No details available.</text>
