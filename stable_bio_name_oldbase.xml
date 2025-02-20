@@ -574,7 +574,7 @@
 
 
 	<string id="ros_freeman_bio">
-		<text>An unlucky lone stalker, he has a knack for getting into trouble and rarely emerges unscathed. He lost an eye while searching for an artifact in the Swamps and now wears a prosthetic in its place. Constantly short on money, he takes on high-risk missions from merchants, often involving the exploration of abandoned communication facilities or navigating dense anomaly fields in search of valuable artifacts. (start here for your second session on 2/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>An unlucky lone stalker, he has a knack for getting into trouble and rarely emerges unscathed. He lost an eye while searching for an artifact in the Swamps and now wears a prosthetic in its place. Constantly short on money, he takes on high-risk missions from merchants, often involving the exploration of abandoned communication facilities or navigating dense anomaly fields in search of valuable artifacts.</text>
 	</string>
 
 
@@ -584,13 +584,13 @@
 		<text>Phil</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Looter and Murderer. A bounty has been announced for his head on numerous occasions. Was once on good terms with Duty, helped them recapture their current territory. Now dwells in the wilderness and robs lone stalkers with his gang.</text>
+		<text>Looter and a murderer. A price has been set for his head. Formerly on good terms with Duty, helped them win over their territory. Lucky now dwells near the Rostok factory and mugs lonely stalkers with his gang.</text>
 	</string>
 	<string id="ros_happy_name">
 		<text>Lucky</text>
 	</string>
 	<string id="ros_kruglov_bio">
-		<text>Doctor of Biological Sciences. Outside the Zone, he studied pathogenic mutations in animals. He went to the Zone to study mutations in blind dogs.</text>
+		<text>Kruglov, Doctorate of Biology, came to the Zone to study mutations in blind dogs. Before that, he studied pathogenic mutations in animals outside the Zone. (start here for your first session on 2/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_kruglov_name">
 		<text>Prof. Kruglov</text>
