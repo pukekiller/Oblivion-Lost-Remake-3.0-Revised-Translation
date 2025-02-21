@@ -558,22 +558,22 @@
 		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. No detailed information available.</text>
 	</string>
 	<string id="rad_jaw_zam_name">
-		<text>Lyokha Jawbone's replacement.</text>
+		<text>Lyokha Jawbone's replacement</text>
 	</string>
 	<string id="stalker_rad_jaw_name">
 		<text>Lyokha Jawbone</text>
 	</string>
 	<string id="stalker_rad_jaw_bio">
-		<text>Veteran stalker. Possibly well-equipped. Questionable personality. No detailed information available.</text>
+		<text>This individual is a veteran stalker of questionable character. His personality has earned him a mixed reputation among others in the Zone. Well equipped. No detailed information available.</text>
 	</string>
 	<string id="ros_ecolog_guard_bio">
-		<text>Employee of a mobile science lab. No details available.</text>
+		<text>This individual is a privately hired guard, employed by scientists working at a mobile science lab. No detailed information available.</text>
 	</string>
 
 
 
 	<string id="ros_freeman_bio">
-		<text>Unlucky lone stalker. Always getting into trouble, rarely getting out of it in one piece. He once lost his eye when he went to the Swamps to retrieve an artifact. Since then, he has been fitted with a prosthetic eyeball instead of an eyeball. Due to a perpetual lack of money, he accepts suicide missions from the Merchants, such as exploring abandoned communications.</text>
+		<text>An unlucky lone stalker, he has a knack for getting into trouble and rarely emerges unscathed. He lost an eye while searching for an artifact in the Swamps and now wears a prosthetic in its place. Constantly short on money, he takes on high-risk missions from merchants, often involving the exploration of abandoned communication facilities or navigating dense anomaly fields in search of valuable artifacts.</text>
 	</string>
 
 
@@ -583,16 +583,16 @@
 		<text>Phil</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Looter and Murderer. A bounty has been announced for his head on numerous occasions. Was once on good terms with Duty, helped them recapture their current territory. Now dwells in the wilderness and robs lone stalkers with his gang.</text>
+		<text>Looter and a murderer. A price has been set for his head. Formerly on good terms with Duty, helped them win over their territory. Lucky now dwells near the Rostok factory and mugs lonely stalkers with his gang.</text>
 	</string>
 	<string id="ros_happy_name">
 		<text>Lucky</text>
 	</string>
 	<string id="ros_kruglov_bio">
-		<text>Doctor of Biological Sciences. Outside the Zone, he studied pathogenic mutations in animals. He went to the Zone to study mutations in blind dogs.</text>
+		<text>Kruglov, Doctorate of Biology, came to the Zone to study mutations in blind dogs. Before that, he studied pathogenic mutations in animals outside the Zone.</text>
 	</string>
 	<string id="ros_kruglov_name">
-		<text>Prof. Kruglov</text>
+		<text>Kruglov</text>
 	</string>
 	<string id="ros_tiran_bio">
 		<text>One of the "heroes" of the Mercenaries. A veteran shot by all calibers. A rare psycho and sadist.</text>
