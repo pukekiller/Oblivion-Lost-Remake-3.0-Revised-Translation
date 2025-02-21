@@ -593,16 +593,16 @@
 		<text>Kruglov, Doctorate of Biology, came to the Zone to study mutations in blind dogs. Before that, he studied pathogenic mutations in animals outside the Zone.</text>
 	</string>
 	<string id="ros_kruglov_name">
-		<text>Kruglov (start here for your first session on 2/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Kruglov</text>
 	</string>
 	<string id="ros_tiran_bio">
-		<text>One of the "heroes" of the Mercenaries. A veteran shot by all calibers. A rare psycho and sadist.</text>
+		<text>This individual is one of the so-called 'heroes' of the Killers - a battle-hardened veteran who has faced fire from all calibers. Known for his brutality, he is both a rare psychopath and a sadist.</text>
 	</string>
 	<string id="ros_tiran_name">
 		<text>Tyrant</text>
 	</string>
 	<string id="ros_volkodav_bio">
-		<text>One of Freedom's field commanders. Commander of a squad of fighters who call themselves dogs. An anarchist who despises all laws except those of force.</text>
+		<text>This individual is one of Freedom's field commanders, leading a squad of fighters known as the 'Dogs.' An anarchist at heart, he rejects all laws except those dictated by sheer force. (start here for your second session on 2/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_volkodav_name">
 		<text>Wolfhound</text>
