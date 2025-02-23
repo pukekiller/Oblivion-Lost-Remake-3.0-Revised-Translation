@@ -623,7 +623,7 @@
 		<text>Vasya Boar</text>
 	</string>
 	<string id="sar2_bio">
-		<text>A psychomaterial form created by the Black Monolith. (start here for your first session on 2/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>A psychomaterial form created by the Black Monolith.</text>
 	</string>
 	<string id="sar2_borov_name">
 		<text>Hog</text>
@@ -632,7 +632,7 @@
 		<text>Crazy</text>
 	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
-		<text>Prapor</text>
+		<text>Prapor (start here for your second session on 2/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sar2_dolg_guard_commander_name">
 		<text>Chief of Security</text>
