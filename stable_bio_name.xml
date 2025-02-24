@@ -622,7 +622,7 @@
 		<text>Vasya Boar</text>
 	</string>
 	<string id="sar2_bio">
-		<text>A psychomaterial form created by the Monolith.</text>
+		<text>A psychomaterial form created by the Black Monolith.</text>
 	</string>
 	<string id="sar2_borov_name">
 		<text>Hog</text>
@@ -649,7 +649,7 @@
 		<text>Zheka Duplet</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>Fan</text>
+		<text>Fanatic</text>
 	</string>
 	<string id="sar2_fox_name">
 		<text>Fox</text>
@@ -658,7 +658,7 @@
 		<text>Gordon</text>
 	</string>
 	<string id="sar2_haron_name">
-		<text>Haron</text>
+		<text>Charon</text>
 	</string>
 	<string id="sar2_hellcar_name">
 		<text>Imp</text>
