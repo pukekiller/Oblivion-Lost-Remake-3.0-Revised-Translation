@@ -638,7 +638,7 @@
 		<text>Chief of Security</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>Skull (start here for your first session on 2/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>Skull</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
 		<text>Outpost commander</text>
@@ -650,7 +650,7 @@
 		<text>Zheka Duplet</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>Fan</text>
+		<text>Fanatic</text>
 	</string>
 	<string id="sar2_fox_name">
 		<text>Fox</text>
@@ -659,7 +659,7 @@
 		<text>Gordon</text>
 	</string>
 	<string id="sar2_haron_name">
-		<text>Haron</text>
+		<text>Charon (start here for your second session on 2/24/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sar2_hellcar_name">
 		<text>Imp</text>
