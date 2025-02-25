@@ -665,16 +665,16 @@
 		<text>Imp</text>
 	</string>
 	<string id="sar2_informator_name">
-		<text>Ara (start here for your first session on 2/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>Ara</text>
 	</string>
 	<string id="sar2_ivancov_name">
 		<text>Captain Ivantsov</text>
 	</string>
 	<string id="sar2_krot_name">
-		<text>Stalker Mole</text>
+		<text>Mole</text>
 	</string>
 	<string id="sar2_kruglov_name">
-		<text>Prof. Kruglov</text>
+		<text>Kruglov (start here for your second session on 2/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sar2_kuznetsov_name">
 		<text>Major Kuznetsov</text>
