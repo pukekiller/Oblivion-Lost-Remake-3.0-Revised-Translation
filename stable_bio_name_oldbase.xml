@@ -680,7 +680,7 @@
 		<text>Major Kuznetsov</text>
 	</string>
 	<string id="sar2_lucky_name">
-		<text>Lucky (start here for your first session on 2/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>Lucky</text>
 	</string>
 	<string id="sar2_petrenko_name">
 		<text>Petrenko</text>
@@ -689,7 +689,7 @@
 		<text>Zhorik</text>
 	</string>
 	<string id="sar2_professor_name">
-		<text>Prof. Sakharov</text>
+		<text>Sakharov (start here for your second session on 2/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sar2_ryaboy_name">
 		<text>Ryaboy</text>
