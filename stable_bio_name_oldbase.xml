@@ -719,13 +719,13 @@
 		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>Skinflint (start here for your second session on 2/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>Skinflint</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
 		<text>Sullen</text>
 	</string>
 	<string id="sar2_tiran_name">
-		<text>Tyrant</text>
+		<text>Tyrant (start here for your first session on 2/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sar2_tolik_name">
 		<text>Tolik</text>
