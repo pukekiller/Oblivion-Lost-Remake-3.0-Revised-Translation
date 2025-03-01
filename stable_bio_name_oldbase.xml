@@ -743,14 +743,14 @@
 
 
 	<string id="zablikov_bio">
-		<text>A veteran stalker, he lived with his family in a classified military town within the Zone before the evacuation. He was later hired by a research institute to protect a team of ecologists on a scientific expedition from a mobile research lab. His deep knowledge of the Zone and sharp instincts have saved his life more than once. These days, he's often found at the bar, sharing stories and keeping an ear to the ground. (start here for your second session on 2/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>A veteran stalker, he lived with his family in a classified military town within the Zone before the evacuation. He was later hired by a research institute to protect a team of ecologists on a scientific expedition from a mobile research lab. His deep knowledge of the Zone and sharp instincts have saved his life more than once. These days, he's often found at the bar, sharing stories and keeping an ear to the ground.</text>
 	</string>
 
 
 
 
 	<string id="sim_bandit_general_bio">
-		<text>Unknown stalker. Questionable reputation. No detailed information available.</text>
+		<text>This individual is a unknown stalker of questionable reputation. No detailed information available. (start here for your first session on 3/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_bandit_master_bio">
 		<text>Unknown stalker. Questionable reputation. No detailed information available.</text>
