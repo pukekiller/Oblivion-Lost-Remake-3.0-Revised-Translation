@@ -765,16 +765,16 @@
 		<text>This individual is a unknown stalker of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="sim_bandit_veteran_bio">
-		<text>This individual is a unknown stalker of questionable reputation. No detailed information available. (start here for your first session on 3/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a unknown stalker of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="sim_dolg_master_bio">
-		<text>Guardian of the Duty faction. Unless you are their friend, you should avoid them. Details unavailable.</text>
+		<text>This individual is a soldier that's part of the Duty faction. Unless if you're on good terms with this person, you should avoid them. No detailed information available.</text>
 	</string>
 	<string id="sim_dolg_regular_bio">
-		<text>Duty Stalker. No details available.</text>
+		<text>This individual is a stalker that's part of the Duty faction. No detailed information available.</text>
 	</string>
 	<string id="sim_dolg_sniper_bio">
-		<text>A Duty faction fighter. Usually well equipped. No detailed information available.</text>
+		<text>This individual is a soldier that's part of the Duty faction. Well equipped. No detailed information available. (start here for your second session on 3/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
 		<text>Boor, sycophant, hypocrite, coward. Barin's life credo could be called the phrase "after us there will be a flood". He tries to capitalize on everything. He's very ambitious and resentful. He came to the Zone, as banal as it may sound, for money. And for the second year in the Zone is engaged in the extraction of material values by any means.</text>
