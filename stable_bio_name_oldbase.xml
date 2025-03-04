@@ -789,13 +789,13 @@
 		<text>In everyday life, he is phlegmatic and calm, rarely showing his emotions. However, under stress or strong impressions, he can become irritable and aggressive. An intellectual and a materialist, he deeply regrets ending up in the Zone. After graduating from medical school, he was sent here to assist as a neurosurgeon in a scientific camp. His work involves dissecting mutant brains and studying their psychokinetic abilities. He spends his days quietly longing for retirement and the chance to live in the capital, far away from this dead place.</text>
 	</string>
 	<string id="sim_fresh_Zombied_bio">
-		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie. (start here for your second session on 3/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie.</text>
 	</string>
 	<string id="sim_killer_general_bio">
-		<text>An unknown mercenary. Possibly heavily armed. No detailed information available.</text>
+		<text>This individual is a unknown mercenary. Heavily armed. No detailed information available.</text>
 	</string>
 	<string id="sim_killer_master_bio">
-		<text>Unknown Mercenary. Possibly heavily armed. No detailed information available.</text>
+		<text>This individual is a unknown mercenary. Heavily armed. No detailed information available. (start here for your first session on 3/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_killer_sniper_bio">
 		<text>Unknown Mercenary. Possibly heavily armed. No detailed information available.</text>
