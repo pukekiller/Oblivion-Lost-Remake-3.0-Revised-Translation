@@ -827,19 +827,19 @@
 		<text>No detailed information about this individual is available.</text>
 	</string>
 	<string id="sim_soldier_specnaz_bio">
-		<text>Army Special Forces. Well equipped. Details not available.</text>
+		<text>This individual is a special forces operator that's part an army spec ops unit. Well equipped, well trained and dangerous. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_general_bio">
-		<text>Experienced stalker. No detailed information available.</text>
+		<text>This individual is a experienced stalker. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_general_upir_bio">
-		<text>Incredibly lucky stalker. Many times his group was on the brink of death, and always he was the only one who managed to save himself. Stalkers have a bad reputation as an unlucky talisman. Since some time he's been walking alone.</text>
+		<text>An incredibly lucky stalker, he's earned a reputation for always being the sole survivor when his group finds itself on the brink of death. While his luck has kept him alive, it has also given him a bad name among other stalkers - like an unlucky talisman no one wants around. These days, he walks the Zone alone.</text>
 	</string>
 	<string id="sim_stalker_master_bio">
-		<text>One of the Zone's veterans. This stalker knows the Zone like the back of his hand. Usually well equipped and very dangerous. No detailed information is available.</text>
+		<text>This individual is one of the Zone's veterans - he's a stalker that knows the Zone like the back of his hand. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>A smuggler with a long history.</text>
+		<text>This individual is a smuggler that has a long history.</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
 		<text>Ex-Afghan. During one of the mujahideen ambushes, he came to believe in God. After Afghanistan he immigrated to Poland, where he entered the seminary. After graduating from the seminary he preaches for some time in the Lviv Catholic Church. After the explosion at Chernobyl NPP he signed up as a volunteer to help the victims. For the last few years he has been preaching in the Zone.</text>
