@@ -840,16 +840,16 @@
 		<text>This individual is one of the Zone's veterans - he's a stalker that knows the Zone like the back of his hand. Well armed and very dangerous. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>This individual is a smuggler that has a long history. (start here for your first session on 3/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>This individual is a smuggler that has a long history.</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
-		<text>Ex-Afghan. During one of the mujahideen ambushes, he came to believe in God. After Afghanistan he immigrated to Poland, where he entered the seminary. After graduating from the seminary he preaches for some time in the Lviv Catholic Church. After the explosion at Chernobyl NPP he signed up as a volunteer to help the victims. For the last few years he has been preaching in the Zone.</text>
+		<text>A former Afghan war veteran, he found faith in God during a mujahideen ambush. After the war, he immigrated to Poland and entered a seminary. Upon graduating, he spent time preaching at the Catholic Church in Lviv. Following the Chernobyl disaster, he volunteered to help the victims, driven by a sense of duty and compassion. For the past few years, he has made the Zone his mission field, preaching to those who wander its desolate landscapes.</text>
 	</string>
 	<string id="sim_stalker_master_master_bio">
-		<text>In the past he was a mechanic at the KholodMash plant. After his wife left him, he decided to commit suicide, and since he was a religious man, he chose the Zone as the original method of suicide. But he survived, wore himself out for a couple of years and gained a certain authority among stalkers, thanks to his professional skills. At the moment the Master is the most competent locksmith in the Zone, repair of equipment and machinery, arrangement of defense systems of group bunkers, etc. etc. etc. - his diocese. He can get into any door, is influential, simple, but rude in communication.</text>
+		<text>He used to work as a mechanic at the KholodMash plant. After his wife left him, he fell into despair and, being a religious man, chose the Zone as a unique method of suicide. But instead of dying, he survived, endured, and over a few hard years, earned respect among the stalkers for his exceptional mechanical skills. Now known as the Master, he is the most skilled locksmith in the Zone. His expertise covers everything from repairing equipment and machinery to setting up defense systems for group bunkers. He can open any door, holds considerable influence, and while he is straightforward and competent, his manner of speaking is often blunt and rude.</text>
 	</string>
 	<string id="sim_stalker_master_polkan_bio">
-		<text>Former military stalker, lieutenant colonel of the internal troops. After one of the operations in the depths of the Zone, he was left alone from the entire squad, but found evidence that they were simply set up and sent for slaughter. After that he decided not to go back, faked his own death and went to the stalkers, to deal with the problem of the Zone illegally. Silent, cynical, determined.</text>
+		<text>A former military stalker and lieutenant colonel of the internal troops, he was the sole survivor of a doomed operation deep in the Zone. While combing through the aftermath, he discovered evidence that his squad had been set up and sent to their deaths. Rather than return to his superiors, he faked his own death and joined the ranks of the stalkers, determined to confront the Zone’s dangers on his own terms. He is a silent, cynical, and resolute figure - driven by a need for answers and justice. (start here for your second session on 3/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_novice_bio">
 		<text>A rookie. New to the Zone. No detailed information available.</text>
