@@ -855,16 +855,16 @@
 		<text>This individual is a rookie stalker that's new to the Zone. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_bio">
-		<text>A simple 20-year-old with nothing and no one left on the Big Land, he came to the Zone because he had nowhere else to go. With no means to leave, he barely scrapes by, just making ends meet. He owes money to many stalkers and often joins groups heading into the Zone, but few are willing to take him along - he's seen as more of a burden than a help. He rarely finds loot and survives mostly on the charity of others, sinking deeper into debt with each handout. (start here for your first session on 3/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>A simple 20-year-old with nothing and no one left on the Big Land, he came to the Zone because he had nowhere else to go. With no means to leave, he barely scrapes by, just making ends meet. He owes money to many stalkers and often joins groups heading into the Zone, but few are willing to take him along - he's seen as more of a burden than a help. He rarely finds loot and survives mostly on the charity of others, sinking deeper into debt with each handout.</text>
 	</string>
 	<string id="sim_stalker_sniper_bio">
-		<text>Stalker's a veteran. Probably well equipped. No detailed information is available.</text>
+		<text>This individual is a veteran stalker. Well equipped. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_veteran_bio">
-		<text>Stalker veteran. Probably well equipped. Detailed information is missing.</text>
+		<text>This individual is a veteran stalker. Well equipped. No detailed information available.</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Oleg Demon Gusarov. Former Black Beret, served in the Belotserkovsky brigade of Spetsnaz. Senior enlisted, senior sergeant, specialty sniper and bomber. By state of mind - a lone wolf. In the Zone he never takes his partners with him, preferring to act alone. More than once he was offered to join clans, but he always refused flatly for this reason.</text>
+		<text>Oleg "Demon" Gusarov is a former Black Beret who served as a senior sergeant in the Belotserkovsky Spetsnaz brigade, specializing as a sniper and demolitionist. A lone wolf by nature, he never takes partners with him into the Zone, preferring to operate alone. Despite receiving numerous offers to join various clans, he has always refused, holding firm to his solitary ways. (start here for your second session on 3/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
 		<text>A student from the Physics Department, he left the fifth year of the institute to go to the Zone to earn money. He liked to show off his scientific knowledge and argue on abstract philosophical topics. For this show-off he is disliked by stalkers. But in general, the guy is not bad. Still believes in high ideals.</text>
