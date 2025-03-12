@@ -887,31 +887,31 @@
 		<text>Leshiy, as his brother nicknamed him, came to the Zone as a young idealist. However, years of living on the edge of death transformed him into a hardened cynic. He now considers the Zone his true home and believes that those who cannot survive its trials are unworthy of life anywhere.</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_bio">
-		<text>He writes essays and stories about the Zone under the pseudonym Arkady. In the past, a journalist, meticulous, tough, but fair. Enjoys a certain respect among stalkers.</text>
+		<text>Writing under the pseudonym Arkady, he crafts essays and stories about the Zone. A former journalist, he is meticulous, tough, but fair - traits that have earned him a measure of respect among stalkers.</text>
 	</string>
 	<string id="sim_zombied_master_bio">
-		<text>One of the unlucky stalkers.</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie.</text>
 	</string>
 	<string id="sim_zombied_novice_bio">
-		<text>One of the unlucky stalkers.</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie.</text>
 	</string>
 	<string id="sim_zombied_veteran_bio">
-		<text>One of the unlucky stalkers.</text>
+		<text>This unlucky individual used to be a stalker until he was exposed to dangerous amounts of psionic radiation, turning him into a zombie.</text>
 	</string>
 	<string id="val_bandit_bodyguard_bio">
-		<text>Bandit security guard. Questionable reputation. No detailed information available.</text>
+		<text>This individual is a bandit of questionable reputation that works as a security guard. No detailed information available.</text>
 	</string>
 	<string id="val_bandit_general_bio">
-		<text>A common bandit. Questionable reputation. No details available.</text>
+		<text>This individual is a bandit of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="val_bandit_novice_bio">
-		<text>Rookie bandit. Questionable reputation. No details available.</text>
+		<text>This individual is a rookie bandit of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="val_bandit_veteran_bio">
-		<text>Experienced bandit. Questionable reputation. No details available.</text>
+		<text>This individual is a experienced bandit of questionable reputation. No detailed information available.</text>
 	</string>
 	<string id="val_borov_bio">
-		<text>Bandit leader.</text>
+		<text>This individual is the current leader of the bandits in the Zone.</text>
 	</string>
 	<string id="val_borov_name">
 		<text>Borov</text>
