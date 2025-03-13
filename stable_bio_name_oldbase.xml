@@ -927,13 +927,13 @@
 		<text>This individual is a stalker that's part of the Duty faction. No detailed information available.</text>
 	</string>
 	<string id="val_prisoner_name">
-		<text>Shaggy Sergei (start here for your second session on 3/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>Shaggy Sergei</text>
 	</string>
 	<string id="val_pulia_bio">
-		<text>Stalker of the group Duty. No detailed information available.</text>
+		<text>This individual is a stalker that's part of the Duty faction. No detailed information available.</text>
 	</string>
 	<string id="val_pulia_name">
-		<text>Bullet</text>
+		<text>Bullet (start here for your first session on 3/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_soldier_regular_bio">
 		<text>Private soldier. No detailed information available.</text>
