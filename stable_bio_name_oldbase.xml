@@ -957,13 +957,13 @@
 		<text>Ghost</text>
 	</string>
 	<string id="yan_saharov_bio">
-		<text>The leader of an ecological research expedition from a mobile scientific laboratory, he is a world-renowned scientist once fascinated by the natural anomalies of this region. Now, he conducts his research from a bunker on the shores of Lake Yantar. Author of the thesis "Properties of Gamma Particles in Fields with Multidirectional Gravitational Acceleration", he is highly respected in academic circles. However, his reputation among stalkers is far less favorable - he has been known to send them on deadly missions to test artifact-based drugs and experimental technologies. (start here for your second session on 3/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>The leader of an ecological research expedition from a mobile scientific laboratory, he is a world-renowned scientist once fascinated by the natural anomalies of this region. Now, he conducts his research from a bunker on the shores of Lake Yantar. Author of the thesis "Properties of Gamma Particles in Fields with Multidirectional Gravitational Acceleration", he is highly respected in academic circles. However, his reputation among stalkers is far less favorable - he has been known to send them on deadly missions to test artifact-based drugs and experimental technologies.</text>
 	</string>
 	<string id="yan_saharov_name">
 		<text>Sakharov</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>A researcher in the mobile laboratory. No detailed information available.</text>
+		<text>This individual is a scientist that works at an mobile laboratory, doing research. No detailed information available. (start here for your first session on 3/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_semenov_name">
 		<text>Scientist</text>
