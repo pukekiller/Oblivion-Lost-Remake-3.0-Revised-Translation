@@ -969,10 +969,10 @@
 		<text>Scientist</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Scientist (start here for your second session on 3/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Scientist</text>
 	</string>
 	<string id="zombie_name">
-		<text>Zombified stalker</text>
+		<text>Zombified stalker (start here for your first session on 3/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="actor_name">
 		<text>Messer</text>
