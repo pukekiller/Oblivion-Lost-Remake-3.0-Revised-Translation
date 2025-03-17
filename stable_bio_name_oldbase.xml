@@ -978,10 +978,10 @@
 		<text>Messer</text>
 	</string>
 	<string id="sim_bandit_master_fraer_name">
-		<text>Fraer (start here for your second session on 3/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Fraer</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_name">
-		<text>Sapyga</text>
+		<text>Sapyga (start here for your first session on 3/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_name">
 		<text>Veteran of duty</text>
