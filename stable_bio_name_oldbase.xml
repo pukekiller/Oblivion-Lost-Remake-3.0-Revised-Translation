@@ -972,13 +972,13 @@
 		<text>Scientist</text>
 	</string>
 	<string id="zombie_name">
-		<text>Zombified stalker (start here for your first session on 3/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Zombified stalker</text>
 	</string>
 	<string id="actor_name">
 		<text>Messer</text>
 	</string>
 	<string id="sim_bandit_master_fraer_name">
-		<text>Fryer</text>
+		<text>Fraer (start here for your second session on 3/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_name">
 		<text>Sapyga</text>
