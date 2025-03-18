@@ -987,10 +987,10 @@
 		<text>Barin</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_name">
-		<text>Prapor (start here for your second session on 3/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Prapor</text>
 	</string>
 	<string id="sim_ecolog_zob_name">
-		<text>Zob</text>
+		<text>Zob (start here for your first session on 3/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_general_upir_name">
 		<text>Ghoul</text>
