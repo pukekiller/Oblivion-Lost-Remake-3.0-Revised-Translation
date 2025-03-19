@@ -990,13 +990,13 @@
 		<text>Prapor</text>
 	</string>
 	<string id="sim_ecolog_zob_name">
-		<text>Zob (start here for your first session on 3/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Zob</text>
 	</string>
 	<string id="sim_stalker_general_upir_name">
 		<text>Ghoul</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_name">
-		<text>Scarecrow</text>
+		<text>Scarecrow (start here for your second session on 3/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_master_diador_name">
 		<text>Father Diodorus</text>
