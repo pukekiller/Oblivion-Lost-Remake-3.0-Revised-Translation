@@ -999,13 +999,13 @@
 		<text>Scarecrow</text>
 	</string>
 	<string id="sim_stalker_master_diador_name">
-		<text>Father Diodor (start here for your first session on 3/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Father Diodor</text>
 	</string>
 	<string id="sim_stalker_master_master_name">
 		<text>Master</text>
 	</string>
 	<string id="sim_stalker_master_polkan_name">
-		<text>Polkan</text>
+		<text>Polkan (start here for your second session on 3/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_name">
 		<text>Inept</text>
