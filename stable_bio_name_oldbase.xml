@@ -1008,13 +1008,13 @@
 		<text>Polkan</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_name">
-		<text>Clumsy (start here for your first session on 3/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Clumsy</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_name">
-		<text>Oleg Demon Gusarov</text>
+		<text>Oleg 'Demon' Gusarov</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_name">
-		<text>Clever</text>
+		<text>Smartass (start here for your second session on 3/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_name">
 		<text>Sparrow</text>
