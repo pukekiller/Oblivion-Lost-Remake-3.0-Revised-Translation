@@ -2,11 +2,11 @@
 <string_table>
 
 	<string id="st_doc">
-		<text>Document (start here for your first session on 3/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Document</text>
 	</string>
 
 	<string id="st_device_pda_majors">
-		<text>Major's PDA</text>
+		<text>Major's PDA (start here for your second session on 3/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_device_pda_majors_desc">
