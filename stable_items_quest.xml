@@ -6,15 +6,15 @@
 	</string>
 
 	<string id="st_device_pda_majors">
-		<text>Major's PDA (start here for your second session on 3/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Major's PDA</text>
 	</string>
 
 	<string id="st_device_pda_majors_desc">
-		<text>A message was found on the PDA for someone named Major:\nR-138, there is a new order. From our friends at bloodcall... at the anthill. It's a big order. Rumor has it a Frankenstein stalker has been seen in the Zone. The Doctor made him out of body parts from other stalkers. Literally. We can't get to the Doctor in the Swamps - too much psi activity prevents us from reaching his hut, but the stalker himself is still roaming the Zone somewhere. Find him and bring him to the Perimeter. Alive, if possible. I've already given my eagles a description of the Frankenstein. But you have a better chance of finding him. Send me your account number. I'll pay you in advance if you're up for it.</text>
+		<text>A message was found on this PDA for someone named Major:\nR-138, we've got a new job - it comes from our friends at Bloodcall, over by the Anthill. It's a big one. Rumor has it there’s a Frankenstein stalker wandering the Zone - literally pieced together by the Doctor from parts of other stalkers. We can’t get to the Doctor’s hut in the Swamps; the psionic activity there is off the charts. But the creation is still out there, somewhere in the Zone. Your task is to find him and bring him to the Perimeter—alive, if possible. I’ve already passed his description to my men, but you’ve got a better shot at tracking him down. Send me your account number - I’ll pay in advance if you're taking the job.</text>
 	</string>
 
 	<string id="st_ratlab_doki_jaba">
-		<text>Ordinance 563</text>
+		<text>Ordinance 563 (start here for your first session on 3/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_ratlab_doki_jaba_desc">
