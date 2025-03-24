@@ -18,15 +18,15 @@
 	</string>
 
 	<string id="st_ratlab_doki_jaba_desc">
-		<text>A large pile of papers with various entries...\nIn order to ensure greater safety and stability of research operations (following several unfortunate incidents), it was decided to implement a third tier of psionic-treatment for all laboratory personnel—from janitors to lead scientists. Everyone will be equipped with adaptive psionic-blockers designed to prevent disruptions, riots, data theft, and escape attempts.\nMessage:\n...there was a conflict between a group of scientists developing psychotropic weapons and the leadership of Project Cover. The scientists objected to being subjected to the very weapons they were creating. Realizing that psionic exposure was only a matter of time, they began to quietly plan a way to protect themselves - and perhaps escape their fate. (start here for your second session on 3/24/and don't forget to remove this reminder when you start)</text>
+		<text>A large pile of papers with various entries...\nIn order to ensure greater safety and stability of research operations (following several unfortunate incidents), it was decided to implement a third tier of psionic-treatment for all laboratory personnel - from janitors to lead scientists. Everyone will be equipped with adaptive psionic-blockers designed to prevent disruptions, riots, data theft, and escape attempts.\nMessage:\n...there was a conflict between a group of scientists developing psychotropic weapons and the leadership of Project Cover. The scientists objected to being subjected to the very weapons they were creating. Realizing that psionic exposure was only a matter of time, they began to quietly plan a way to protect themselves - and perhaps escape their fate.</text>
 	</string>
 	
 	<string id="st_radbun_docs_posthuman_desc">
-		<text>Test results of the Posthuman Project.\nIn the document folder you can find a sheet titled conclusion. Based on the results, the following conclusions can be drawn: 1) the project is still too far from completion, 2) focus should be placed on finding a method that combines both the enhancement of the intelligence of the test material and the effective maximization of the radiation of the outer cortex, 3) the neuroengineering department should be involved in the project to consult on the issue of psi overload.</text>
+		<text>Test results of the Posthuman Project.\nIn the document folder, there is a sheet titled "Conclusion." Based on the results, the following points have been determined: 1) The project remains far from completion, 2) efforts should be redirected toward developing a method that both enhances the cognitive function of the test subjects and effectively maximizes radiation output from the outer cortex, 3) the Neuroengineering Department must be brought in to consult on managing psi overload.</text>
 	</string>
 
 	<string id="st_radbun_karta_pc">
-		<text>Card</text>
+		<text>Card (start here for your first session on 3/24/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_radbun_karta_pc_desc">
