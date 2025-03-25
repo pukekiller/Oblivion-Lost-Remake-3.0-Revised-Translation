@@ -26,15 +26,15 @@
 	</string>
 
 	<string id="st_radbun_karta_pc">
-		<text>Card (start here for your first session on 3/24/and don't forget to remove this reminder when you start)</text>
+		<text>Card</text>
 	</string>
 	
 	<string id="st_radbun_karta_pc_desc">
-		<text>Access card for controlling the main module of the transmitter.</text>
+		<text>An access card that's meant for controlling the main module of the transmitter.</text>
 	</string>
 
 	<string id="st_doka_sterok_zametka">
-		<text>Memo</text>
+		<text>Memo (start here for your second session on 3/25/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_doka_sterok_zametka_desc">
