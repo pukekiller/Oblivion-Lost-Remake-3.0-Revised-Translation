@@ -46,11 +46,11 @@
 	</string>
 
 	<string id="st_psy_shapka_proto_rostok_desc">
-		<text>This device is an experimental prototype of T-ZUD-12. It's defective, but it may be worth something. (start here for your second session on 3/26/and don't forget to remove this reminder when you start)</text>
+		<text>This device is an experimental prototype of T-ZUD-12. It's defective, but it may be worth something.</text>
 	</string>
 	
 	<string id="st_pribor_antivibros">
-		<text>Psi-blocker</text>
+		<text>Psi-blocker (start here for your first session on 3/26/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_pribor_antivibros_desc">
