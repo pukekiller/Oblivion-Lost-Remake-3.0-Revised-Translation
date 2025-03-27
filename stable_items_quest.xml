@@ -50,15 +50,15 @@
 	</string>
 	
 	<string id="st_pribor_antivibros">
-		<text>Psi-blocker (start here for your first session on 3/26/and don't forget to remove this reminder when you start)</text>
+		<text>Psi-blocker</text>
 	</string>
 	
 	<string id="st_pribor_antivibros_desc">
-		<text>Device for shielding against the effects of a blowout on the body. Protects from blowout damage, has limited resources.</text>
+		<text>A device that protects its user against the effects of a blowout on the body. Its effectiveness is limited.</text>
 	</string>
 
 	<string id="st_zameritel_vibrosa">
-		<text>Meter</text>
+		<text>Meter (start here for your second session on 3/27/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_zameritel_vibrosa_desc">
