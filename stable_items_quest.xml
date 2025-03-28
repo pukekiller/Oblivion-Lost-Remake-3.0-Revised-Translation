@@ -66,11 +66,11 @@
 	</string>
 	
 	<string id="st_bar_under_prison_doc">
-		<text>Prison superintendent's log (start here for your second session on 3/28/and don't forget to remove this reminder when you start)</text>
+		<text>Prison superintendent's log</text>
 	</string>
 	
 	<string id="st_bar_under_prison_doc_desc">
-		<text>Prison superintendent's log. There is evidence of supplies of materials for unknown purposes in the workshops of the Rostok factory.</text>
+		<text>A logbook belonging to the prison superintendent. It contains records suggesting that materials were being supplied to the workshops at the Rostok factory for unknown purposes. (start here for your first session on 3/28/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_killers_deadscient_doc">
