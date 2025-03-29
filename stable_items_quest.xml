@@ -70,11 +70,11 @@
 	</string>
 	
 	<string id="st_bar_under_prison_doc_desc">
-		<text>A logbook belonging to the prison superintendent. It contains records suggesting that materials were being supplied to the workshops at the Rostok factory for unknown purposes. (start here for your first session on 3/28/and don't forget to remove this reminder when you start)</text>
+		<text>A logbook belonging to the prison superintendent. It contains records suggesting that materials were being supplied to the workshops at the Rostok factory for unknown purposes.</text>
 	</string>
 	
 	<string id="st_killers_deadscient_doc">
-		<text>Notes on experiments</text>
+		<text>Notes on experiments (start here for your second session on 3/29/and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_killers_deadscient_doc_decs">
