@@ -98,11 +98,11 @@
 	</string>
 
 	<string id="st_ros_seif_zap_2_desc">
-		<text>This document contains an order to install and activate equipment in the Pripyat area. There's also a note indicating a downtime window for the installation - from 21:00 to 23:00. The rest of the text is illegible. (start here for your second session on 3/31/25 and don't forget to remove this reminder when you start)</text>
+		<text>This document contains an order to install and activate equipment in the Pripyat area. There's also a note indicating a downtime window for the installation - from 21:00 to 23:00. The rest of the text is illegible.</text>
 	</string>
 	
 	<string id="st_zap_killera_jurn_zap">
-		<text>Journalist's Diary</text>
+		<text>Journalist's diary (start here for your first session on 3/31/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_zap_killera_jurn_zap_desc">
