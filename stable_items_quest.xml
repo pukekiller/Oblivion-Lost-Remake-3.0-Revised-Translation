@@ -102,11 +102,11 @@
 	</string>
 	
 	<string id="st_zap_killera_jurn_zap">
-		<text>Journalist's diary (start here for your first session on 3/31/25 and don't forget to remove this reminder when you start)</text>
+		<text>Journalist's diary</text>
 	</string>
 	
 	<string id="st_zap_killera_jurn_zap_desc">
-		<text>1. Gunslinger informed me that he no longer trust the scientists at Lake Yantar. After his trip to the Center, something changed in him. He spoke of strange things happening there. He offered me to go with him next time. I agreed - he's got to have someone to watch his back after his injury. But first we have to go to the Dark Valley. The snitch contacted us and told us that there was something in the Dark Valley that would interest us. 2. Returned from the raid in the Valley. I smell that it was a trap - the military were waiting for us right at the exit of the complex. I had to put them all down. If it wasn't for Gunslinger, I would have been killed right there. But we found what we were looking for. An international research center was doing some genetic research here. We tried to find information on the Monolith, but there's nothing. We'll have to go to the eggheads on Yantar. Maybe they can tell us something. From here, we need to head north. I'm starting to be like Gunslinger. I don't trust anyone either. Just him and the Mediator. No one else.</text>
+		<text>1. Gunslinger informed me that he no longer trusts the scientists at Lake Yantar. After his trip to the Center, something changed in him. He spoke of strange things happening there. He asked me to come with him next time. I agreed - after his injury, he needs someone watching his back. But first, we have to head to the Dark Valley. The snitch contacted us and said there’s something there that might interest us. 2. Returned from the raid in the Valley. I could smell it was a trap - the military was waiting for us right at the complex exit. Had to take them all out. If it hadn’t been for Gunslinger, I wouldn’t have made it out alive. But we found what we came for. Turns out an international research center was conducting genetic experiments there. We looked for any info on the Black Monolith, but came up empty. We’ll have to check with the eggheads at Yantar - maybe they know something. From here, we head north. I think I’m becoming more like Gunslinger. I don’t trust anyone now. Just him and the Mediator. No one else. (start here for your second session on 4/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_pda_hmir_rostok_desc">
