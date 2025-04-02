@@ -114,11 +114,11 @@
 	</string>
 		
 	<string id="st_zap_killera_bar">
-		<text>Note from Hmir to Sana Borov (start here for your second session on 4/2/25 and don't forget to remove this reminder when you start)</text>
+		<text>Note from Hmir to Sana Borov</text>
 	</string>
 		
 	<string id="st_zap_killera_bar_posr">
-		<text>Memo from Hmir to the Mediator</text>
+		<text>Note from Hmir to the Mediator (start here for your second first on 4/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_zap_killera_bar_desc">
