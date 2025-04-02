@@ -110,11 +110,11 @@
 	</string>
 	
 	<string id="st_pda_hmir_rostok_desc">
-		<text>Took the Mediator's container. He... wouldn’t hand it over willingly, so I had to do it the hard way. I took care of him, but now I can’t open the damn thing - it’s locked with a code. Should’ve gotten it from him before I put him down. Gotta head back to our rendezvous point. If I can open it… I’ll be cured. (start here for your first session on 4/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>Took the Mediator's container. He... wouldn’t hand it over willingly, so I had to do it the hard way. I took care of him, but now I can’t open the damn thing - it’s locked with a code. Should’ve gotten it from him before I put him down. Gotta head back to our rendezvous point. If I can open it… I’ll be cured.</text>
 	</string>
 		
 	<string id="st_zap_killera_bar">
-		<text>Note from Hmir to Sana Borov</text>
+		<text>Note from Hmir to Sana Borov (start here for your second session on 4/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 		
 	<string id="st_zap_killera_bar_posr">
