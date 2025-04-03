@@ -122,11 +122,11 @@
 	</string>
 
 	<string id="st_zap_killera_bar_desc">
-		<text>Mediator, I'm looking for the Journalist. I have what he’s after. Word is, you know how to find him. Meet me at near the Bar - at a house on the south side, across from the school. Come alone. - Messer (start here for your second first on 4/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>Mediator, I'm looking for the Journalist. I have what he’s after. Word is, you know how to find him. Meet me at near the Bar - at a house on the south side, across from the school. Come alone. - Messer</text>
 	</string>
 	
 	<string id="st_pda_ecol_dolina_desc">
-		<text>Most of the information is encrypted. Just a final message from the Professor: The lab has access to the lower levels of the cordon, but the entrance is reportedly locked from the inside. If possible, check this information after taking measurements.</text>
+		<text>Most of the information is encrypted. Only the professor’s final message is readable: "The lab has access to the lower levels of the Cordon, but the entrance is reportedly locked from the inside. If possible, verify this after completing the measurements." (start here for your first session on 4/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_blue_pda_lvltwelv_desc">
