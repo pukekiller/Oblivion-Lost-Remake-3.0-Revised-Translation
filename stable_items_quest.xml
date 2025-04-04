@@ -126,11 +126,11 @@
 	</string>
 	
 	<string id="st_pda_ecol_dolina_desc">
-		<text>Most of the information is encrypted. Only the professor’s final message is readable: "The lab has access to the lower levels of the Cordon, but the entrance is reportedly locked from the inside. If possible, verify this after completing the measurements." (start here for your first session on 4/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>Most of the information is encrypted. Only the professor’s final message is readable: "The lab has access to the lower levels of the Cordon, but the entrance is reportedly locked from the inside. If possible, verify this after completing the measurements."</text>
 	</string>
 	
 	<string id="st_blue_pda_lvltwelv_desc">
-		<text>Personal Digital Assistant. The owner of the PDA has not bothered to delete recent posts. One of the last messages on the PDA from the host of the ''Stalker'' establishment: ''He's heading North. Last seen at the Garbage. Follow him until he reaches the center. Don't go into Pripyat, it's a dead end. If he goes through the city, go back - the military will finish him off.''</text>
+		<text>A Personal Digital Assistant, with its recent messages still intact. One of the last entries is from the host of the "Stalker" Bar: "He's heading north. Last seen at the Garbage. Follow him until he reaches the center. Don't go into Pripyat - it's a dead end. If he enters the city, turn back - the military will take care of him." (start here for your second session on 4/4/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="nine_pda_rasch_rashifrvn_article_name">
