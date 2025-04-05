@@ -138,11 +138,11 @@
 	</string>
 	
 	<string id="st_blue_pda_nine_desc">
-		<text>An encrypted PDA that belonged to a military stalker with the callsign Blue 9. Perhaps someone with the right skills can decrypt it and uncover its contents. (start here for your second session on 4/5/25 and don't forget to remove this reminder when you start)</text>
+		<text>An encrypted PDA that belonged to a military stalker with the callsign Blue 9. Perhaps someone with the right skills can decrypt it and uncover its contents.</text>
 	</string>
 
 	<string id="nine_pda_rasch_rashifrvn_article_desc">
-		<text>Subject has detected passage 1 and 3, proceeding to sector 28.\nTeams White, Green to Sector 26 for evacuation.\nGroups Red: in the area of the Dark Valley, in the laboratory sector exit to the Cordon catacombs.\nGroups Blue: three samples of anomalous formations #24 were found on Cordon. In the area of the entrance to the factory, water tower, destroyed building in the village.\nTo all groups: Backup weapons cache is located in the Radar area, coordinates attached to the message. Use only if absolutely necessary.\nContact Major about the facility.</text>
+		<text>Subject has detected Passage 1 and 3, proceeding to Sector 28.\nTeams White and Green: proceed to Sector 26 for evacuation.\nRed Groups: remain in the Dark Valley near the laboratory sector, at the exit leading to the Cordon catacombs.\nBlue Groups: three samples of anomalous formation #24 have been discovered in the Cordon - near the factory entrance, the water tower, and the ruined building in the village.\nAll units: a backup weapons cache is located in the Radar area; coordinates are attached to this message. Use only if absolutely necessary.\nContact Major regarding the facility. (start here for your first session on 4/5/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_ros_korpus_pass">
