@@ -142,11 +142,11 @@
 	</string>
 
 	<string id="nine_pda_rasch_rashifrvn_article_desc">
-		<text>Subject has detected Passage 1 and 3, proceeding to Sector 28.\nTeams White and Green: proceed to Sector 26 for evacuation.\nRed Groups: remain in the Dark Valley near the laboratory sector, at the exit leading to the Cordon catacombs.\nBlue Groups: three samples of anomalous formation #24 have been discovered in the Cordon - near the factory entrance, the water tower, and the ruined building in the village.\nAll units: a backup weapons cache is located in the Radar area; coordinates are attached to this message. Use only if absolutely necessary.\nContact Major regarding the facility. (start here for your first session on 4/5/25 and don't forget to remove this reminder when you start)</text>
+		<text>Subject has detected Passage 1 and 3, proceeding to Sector 28.\nTeams White and Green: proceed to Sector 26 for evacuation.\nRed Groups: remain in the Dark Valley near the laboratory sector, at the exit leading to the Cordon catacombs.\nBlue Groups: three samples of anomalous formation #24 have been discovered in the Cordon - near the factory entrance, the water tower, and the ruined building in the village.\nAll units: a backup weapons cache is located in the Radar area; coordinates are attached to this message. Use only if absolutely necessary.\nContact Major regarding the facility.</text>
 	</string>
 	
 	<string id="st_ros_korpus_pass">
-		<text>Note from Production Manager</text>
+		<text>Note from Production Manager (start here for your second session on 4/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_ros_korpus_pass_desc">
