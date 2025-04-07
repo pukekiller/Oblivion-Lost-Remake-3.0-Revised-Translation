@@ -154,15 +154,15 @@
 	</string>
 	
 	<string id="st_mosk_part">
-		<text>Unknown device (start here for your first session on 4/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Unknown device</text>
 	</string>
 	
 	<string id="st_mosk_part_desc">
-		<text>A device of unknown function</text>
+		<text>A device of some kind. Its function is unknown.</text>
 	</string>
 	
 	<string id="st_grav_molot">
-		<text>A hammer</text>
+		<text>Gravity hammer (start here for your second session on 4/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_grav_molot_desc">
