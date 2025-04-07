@@ -162,11 +162,11 @@
 	</string>
 	
 	<string id="st_grav_molot">
-		<text>Gravity hammer (start here for your second session on 4/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>Gravity hammer</text>
 	</string>
 	
 	<string id="st_grav_molot_desc">
-		<text>A gravity hammer created by the Burers.</text>
+		<text>A gravity hammer created by Burers, powered by anomalous energy. (start here for your first session on 4/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_foto_radar_itm_desc">
