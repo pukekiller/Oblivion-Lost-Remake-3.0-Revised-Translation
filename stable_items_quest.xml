@@ -174,15 +174,15 @@
 	</string>
 	
 	<string id="st_foto_radar_totem">
-		<text>Skull (start here for your second session on 4/8/25 and don't forget to remove this reminder when you start)</text>
+		<text>Skull</text>
 	</string>
 	
 	<string id="st_foto_radar_totem_desc">
-		<text>A human skull, however made of a strange material. It moves a bit, there are some kind of mounts in the eye sockets.</text>
+		<text>A human skull made of a strange, unnatural material. It moves slightly when touched, and there appear to be some kind of mounts or fittings embedded in the eye sockets.</text>
 	</string>
 	
 	<string id="st_detector_zomscan">
-		<text>Scanner</text>
+		<text>Scanner (start here for your first session on 4/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_detector_zomscan_descr">
