@@ -166,15 +166,15 @@
 	</string>
 	
 	<string id="st_grav_molot_desc">
-		<text>A gravity hammer created by Burers, powered by anomalous energy. (start here for your first session on 4/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>A gravity hammer created by Burers, powered by anomalous energy.</text>
 	</string>
 	
 	<string id="st_foto_radar_itm_desc">
-		<text>We've instructed our two groups to split up. the full artifact must not reach the mainland. An anomalous concentration point has been found in the area of Unit 1 (Woodpecker 1), in the vicinity of an abandoned railroad tunnel. Avoid that area. At this point, this location has been closed by the past group, but avoid it anyway. After the groups destroy additional parts of the artifact, we should meet up behind the roadblock...</text>
+		<text>We've instructed our two teams to split up. The complete artifact must not be allowed to reach the mainland. An anomalous concentration point has been identified near Unit 1 (Woodpecker 1), close to an abandoned railroad tunnel - avoid that area. It’s been sealed off by the previous group, but steer clear regardless. Once both teams have destroyed the remaining parts of the artifact, we’ll regroup behind the roadblock...</text>
 	</string>
 	
 	<string id="st_foto_radar_totem">
-		<text>Skull</text>
+		<text>Skull (start here for your second session on 4/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_foto_radar_totem_desc">
