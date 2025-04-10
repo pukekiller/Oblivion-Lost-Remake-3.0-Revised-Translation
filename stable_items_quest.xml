@@ -198,11 +198,11 @@
 	</string>
 
 	<string id="st_pers_card_eco">
-		<text>Card (start here for your first session on 4/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>Card</text>
 	</string>
 	
 	<string id="st_pers_card_eco_desc">
-		<text>Personal access card. Used by scientific groups.</text>
+		<text>A personal access card. In the Zone, these are normally used by scientists to access restricted areas. (start here for your second session on 4/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_radlab_key_door">
