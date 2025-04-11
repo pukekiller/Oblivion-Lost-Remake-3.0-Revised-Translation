@@ -210,11 +210,11 @@
 	</string>
 	
 	<string id="st_radlab_key_door_desc">
-		<text>A personal access card for the lower level of the underground facility. The code is 8418. (start here for your second session on 4/11/25 and don't forget to remove this reminder when you start)</text>
+		<text>A personal access card for the lower level of the underground facility. The code is 8418.</text>
 	</string>
 	
 	<string id="st_psystab_helmet">
-		<text>Psi-Stabilizer</text>
+		<text>Psi-Stabilizer (start here for your first session on 4/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_psystab_helmet_desc">
