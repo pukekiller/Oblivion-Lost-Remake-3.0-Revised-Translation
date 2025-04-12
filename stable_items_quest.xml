@@ -218,11 +218,11 @@
 	</string>
 	
 	<string id="st_psystab_helmet_desc">
-		<text>A device that shields its user from certain types of psionic attacks, including those from Controllers, and also offers protection against the harmful effects of "ghost" psionic formations. (start here for your second session on 4/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>A device that shields its user from certain types of psionic attacks, including those from Controllers, and also offers protection against the harmful effects of "ghost" psionic formations.</text>
 	</string>
 	
 	<string id="st_pribor_paras_spory">
-		<text>Analyzer</text>
+		<text>Analyzer (start here for your first session on 4/12/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_pribor_paras_spory_desc">
