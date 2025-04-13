@@ -222,11 +222,11 @@
 	</string>
 	
 	<string id="st_pribor_paras_spory">
-		<text>Analyzer (start here for your first session on 4/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Analyzer</text>
 	</string>
 
 	<string id="st_pribor_paras_spory_desc">
-		<text>An air analyzer configured to analyze parasite spores. To activate, you must place the analyzer near the source of the spores.</text>
+		<text>An air analyzer specifically calibrated to detect and analyze parasite spores. To activate it, place the device near the source of the spores. (start here for your second session on 4/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_doc_4way_link">
