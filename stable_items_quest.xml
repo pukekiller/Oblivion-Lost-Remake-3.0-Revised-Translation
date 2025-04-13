@@ -226,11 +226,11 @@
 	</string>
 
 	<string id="st_pribor_paras_spory_desc">
-		<text>An air analyzer specifically calibrated to detect and analyze parasite spores. To activate it, place the device near the source of the spores. (start here for your second session on 4/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>An air analyzer specifically calibrated to detect and analyze parasite spores. To activate it, place the device near the source of the spores.</text>
 	</string>
 	
 	<string id="st_doc_4way_link">
-		<text>Documentation: Brain Link</text>
+		<text>Brain Link documentation (start here for your first session on 4/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_doc_4way_link_desc">
