@@ -242,11 +242,11 @@
 	</string>
 	
 	<string id="st_jurn_psi_defence_desc">
-		<text>A thick folder, surprisingly well-preserved, with all pages still intact. The title page reads: "Documentation for the Psi-Stabilizer" and bears the official state seal. Inside, the pages are filled with neat pencil notes, where the author repeatedly recommends reducing the main unit’s power consumption - arguing that doing so would improve the mobility of the protective device. Attached to the final page are two envelopes containing letters addressed to the head of scientific laboratory ZX-16. In the first, the sender requests a field test of the psi-defense device, selecting a village on the outskirts of the Chernobyl Exclusion Zone as one of the trial sites. The second letter provides a detailed report on the successful outcome of those tests. (start here for your second session on 4/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>A thick folder, surprisingly well-preserved, with all pages still intact. The title page reads: "Documentation for the Psi-Stabilizer" and bears the official state seal. Inside, the pages are filled with neat pencil notes, where the author repeatedly recommends reducing the main unit’s power consumption - arguing that doing so would improve the mobility of the protective device. Attached to the final page are two envelopes containing letters addressed to the head of scientific laboratory ZX-16. In the first, the sender requests a field test of the psi-defense device, selecting a village on the outskirts of the Chernobyl Exclusion Zone as one of the trial sites. The second letter provides a detailed report on the successful outcome of those tests.</text>
 	</string>
 	
 	<string id="st_jurn_psi_vision">
-		<text>Psi-visor documentation</text>
+		<text>Psi-visor documentation (start here for your first session on 4/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_jurn_psi_vision_desc">
