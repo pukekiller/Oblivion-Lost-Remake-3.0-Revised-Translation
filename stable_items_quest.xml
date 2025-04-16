@@ -246,11 +246,11 @@
 	</string>
 	
 	<string id="st_jurn_psi_vision">
-		<text>Psi-visor documentation (start here for your first session on 4/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Psi-visor documentation</text>
 	</string>
 	
 	<string id="st_jurn_psi_vision_desc">
-		<text>The documentation folder is torn to shreds. Many of the pages inside are missing. After reading what few pages are left, we can safely conclude that it describes how the psi-visor, a new generation experimental device for survival in the dangerous environment of the Zone, works. The psi-visor is needed to find mobile sources of psi radiation, i.e. psionic creatures. Unlike humans, psionic creatures have their own unique rhythm of brain activity, which is not yet fully understood by modern science. The device scans the area for rhythmic bioelectric brain activity and informs its owner of the presence of a psionic being.</text>
+		<text>The documentation folder is badly torn, with many pages missing. However, from the few remaining sheets, it’s clear that the contents describe the functionality of the psi-visor - an experimental next-generation device designed to aid survival in the hazardous environment of the Zone. The psi-visor is used to detect mobile sources of psionic radiation, specifically psionic creatures. Unlike humans, these entities exhibit a unique rhythm of bioelectric brain activity, still not fully understood by modern science. The device scans the surrounding area for these distinct neural patterns and alerts its user to the presence of a psionic lifeform. (start here for your second session on 4/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_jurn_rad_outfit">
