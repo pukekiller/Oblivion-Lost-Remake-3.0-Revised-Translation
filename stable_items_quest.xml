@@ -254,11 +254,11 @@
 	</string>
 	
 	<string id="st_jurn_rad_outfit">
-		<text>Anti-radiation suit documentation (start here for your first session on 4/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Anti-radiation suit documentation</text>
 	</string>
 	
 	<string id="st_jurn_rad_outfit_desc">
-		<text>An old folder covered in a layer of dust. The yellowed pages contain a schematic of the radiation shielding suit and instructions for its use. The documentation says that the spacesuits of this limited series arrived to the laboratory from the Research Institute of Radiation Safety earlier than scheduled, so they have not yet passed all the necessary tests. Among the advantages: a closed breathing system and a new-generation insulating coating capable of partially stopping hot particle streams. From the disadvantages: low mobility due to the weight of oxygen cylinders behind the back, low resistance to mechanical damage. In the appendix to the documentation there are records that talk about the creation of a new version of the anti-radiation spacesuit, in the design of which all the disadvantages of previous samples are corrected.</text>
+		<text>An old folder, covered in dust, holds a collection of yellowed pages containing a schematic of a radiation shielding suit along with detailed usage instructions. According to the documentation, these limited-series suits were delivered to the laboratory ahead of schedule from the Research Institute of Radiation Safety and had not yet undergone all required testing. Noted advantages include a closed breathing system and a next-generation insulating coating capable of partially blocking streams of hot particles. However, the suit also has drawbacks: reduced mobility due to the heavy oxygen cylinders mounted on the back, and low resistance to mechanical damage. An appendix at the end of the folder contains notes on the development of a new version of the anti-radiation suit, designed to address and correct the shortcomings of earlier models. (start here for your second session on 4/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_jurn_visual_device">
