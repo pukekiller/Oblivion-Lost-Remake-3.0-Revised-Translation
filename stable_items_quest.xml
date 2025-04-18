@@ -270,11 +270,11 @@
 	</string>
 	
 	<string id="st_yan_massive_gruz">
-		<text>Cargo for the Professor (start here for your second session on 4/18/25 and don't forget to remove this reminder when you start)</text>
+		<text>Cargo for the Professor</text>
 	</string>
 	
 	<string id="st_yan_massive_gruz_desc">
-		<text>A container for the Professor. Special package from the big city.</text>
+		<text>A container that's for the Professor - a special package from a big city. (start here for your first session on 4/18/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_zombied_pda_dezintegr_desc">
