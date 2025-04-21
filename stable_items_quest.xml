@@ -294,11 +294,11 @@
 	</string>
 	
 	<string id="st_jurn_doki_controlory_desc">
-		<text>Controllers are former humans who have undergone extensive surgical and biochemical modifications to their brains. These changes grant them the ability to control other living beings through microlepton brainwaves - essentially, a form of telepathy. They are typically dressed in tight-fitting, semi-sportive black uniforms. Additionally, there's some important details about controllers that have been documented:\n1. Completely mute\n2. Capture and zombify stalkers using fragments of their own consciousness\n3. Actively prevent researchers from reaching the Zone’s center\n4. Control and direct mutant life forms within the Zone\n5. Deploy psi-generators to zombify both animals and humans\n6. Controllers prefer to work at night, though they remain fully capable during daylight hours. Most major takeovers done by Controllers occur at night\nFactions:\nRoadblock\n7. Most Controllers do not interfere with military stalkers. (start here for your second session on 4/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>Controllers are former humans who have undergone extensive surgical and biochemical modifications to their brains. These changes grant them the ability to control other living beings through microlepton brainwaves - essentially, a form of telepathy. They are typically dressed in tight-fitting, semi-sportive black uniforms. Additionally, there's some important details about controllers that have been documented:\n1. Completely mute\n2. Capture and zombify stalkers using fragments of their own consciousness\n3. Actively prevent researchers from reaching the Zone’s center\n4. Control and direct mutant life forms within the Zone\n5. Deploy psi-generators to zombify both animals and humans\n6. Controllers prefer to work at night, though they remain fully capable during daylight hours. Most major takeovers done by Controllers occur at night\nFactions:\nRoadblock\n7. Most Controllers do not interfere with military stalkers.</text>
 	</string>
 	
 	<string id="st_jurn_doki_last_zapiska">
-		<text>Diary</text>
+		<text>Diary (start here for your first session on 4/21/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_jurn_doki_last_zapiska_desc">
