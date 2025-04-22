@@ -298,14 +298,14 @@
 	</string>
 	
 	<string id="st_jurn_doki_last_zapiska">
-		<text>Diary (start here for your first session on 4/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>Diary</text>
 	</string>
 	
 	<string id="st_jurn_doki_last_zapiska_desc">
-		<text>...Beneath the ground lie the bodies of the C-Consciousness, their condition being in a phase of near coma. In the laboratory is one of the bodies controlled by the C-Consciousness. It fulfills their will, controls external processes and provides the bodies with everything they need. It is a representative of the C-Consciousness project... The children were "harvested" by the C-Consciousness to prepare a more powerful replacement...</text>
+		<text>...Beneath the ground lie the bodies of the C-Consciousness, maintained in a near-comatose state. Within the laboratory, one body acts as their physical proxy - controlled directly by the collective. It carries out their will, manages external operations, and ensures their biological needs are met. This figure serves as the primary representative of the C-Consciousness project. The children were "harvested" by C-Consciousness as part of a program to prepare more powerful successors...</text>
 	</string>
 	<string id="st_zapiska_dead_proffecor">
-		<text>A note</text>
+		<text>A note (start here for your second session on 4/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_zapiska_dead_proffecor_desc">
