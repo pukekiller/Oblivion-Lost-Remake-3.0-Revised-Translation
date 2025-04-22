@@ -305,11 +305,11 @@
 		<text>...Beneath the ground lie the bodies of the C-Consciousness, maintained in a near-comatose state. Within the laboratory, one body acts as their physical proxy - controlled directly by the collective. It carries out their will, manages external operations, and ensures their biological needs are met. This figure serves as the primary representative of the C-Consciousness project. The children were "harvested" by C-Consciousness as part of a program to prepare more powerful successors...</text>
 	</string>
 	<string id="st_zapiska_dead_proffecor">
-		<text>A note (start here for your second session on 4/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>A note</text>
 	</string>
 	
 	<string id="st_zapiska_dead_proffecor_desc">
-		<text>I remember everything! Give the Winds of Madness Cyclicity Chart to Messer. He has to go!</text>
+		<text>I remember everything! Give the Cyclicity Chart of the Winds of Madness to Messer, he has to go! (start here for your first session on 4/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_grafic_ciklichnosti_vetrov_doki">
