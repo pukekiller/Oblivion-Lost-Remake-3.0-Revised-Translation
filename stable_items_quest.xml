@@ -309,11 +309,11 @@
 	</string>
 	
 	<string id="st_zapiska_dead_proffecor_desc">
-		<text>I remember everything! Give the Cyclicity Chart of the Winds of Madness to Messer, he has to go! (start here for your first session on 4/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>I remember everything! Give the Cyclicity Chart of the Winds of Madness to Messer, he has to go!</text>
 	</string>
 	
 	<string id="st_grafic_ciklichnosti_vetrov_doki">
-		<text>The documents on the Winds of Madness with the Professor's notes</text>
+		<text>The documents on the Winds of Madness, annotated with the Professor’s notes  (start here for your second session on 4/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_grafic_ciklichnosti_vetrov_doki_desc">
