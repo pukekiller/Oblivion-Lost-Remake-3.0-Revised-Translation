@@ -321,11 +321,11 @@
 	</string>
 	
 	<string id="st_dedast_docs_brain_desc">
-		<text>PDA with the description of a stash (start here for your second session on 4/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>PDA with the description of a stash</text>
 	</string>
 	
 	<string id="st_documentacia_zombibrain_doki">
-		<text>Documentation</text>
+		<text>Documentation (start here for your first session on 4/24/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_documentacia_zombibrain_doki_desc">
