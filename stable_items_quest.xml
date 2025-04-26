@@ -337,11 +337,11 @@
 	</string>
 	
 	<string id="st_med_dolga_flash_desc">
-		<text>A crate filled with medical supplies. It has a Duty faction emblem on the side.  (start here for your second session on 4/26/25 and don't forget to remove this reminder when you start)</text>
+		<text>A crate filled with medical supplies. It has a Duty faction emblem on the side.</text>
 	</string>
 	
 	<string id="st_vetri_bezumia_doki">
-		<text>Winds of Madness Document</text>
+		<text>Winds of Madness Document (start here for your first session on 4/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_vetri_bezumia_doki_desc">
