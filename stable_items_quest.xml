@@ -349,11 +349,11 @@
 	</string>
 	
 	<string id="st_greh_leader_key">
-		<text>Key (start here for your first session on 4/27/25 and don't forget to remove this reminder when you start)</text>
+		<text>Key</text>
 	</string>
 	
 	<string id="st_greh_leader_key_desc">
-		<text>The key to the Sin Group's safe.</text>
+		<text>The key to the Sin leader's safe. (start here for your second session on 4/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_actor_boots">
