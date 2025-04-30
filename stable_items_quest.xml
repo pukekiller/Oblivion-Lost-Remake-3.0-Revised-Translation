@@ -365,11 +365,11 @@
 	</string>
 	
 	<string id="st_goplit_pda_dolina">
-		<text>Hoplite's PDA (start here for your first session on 4/29/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hoplite's PDA</text>
 	</string>
 	
 	<string id="st_goplit_pda_dolina_desc">
-		<text>Personal PDA of a stalker called Hoplite. Access is password protected. Maybe one of the scientists can crack it.</text>
+		<text>Personal PDA belonging to a stalker known as Hoplite. Access is locked behind a password - perhaps one of the scientists can decrypt it. (start here for your second session on 4/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_goplit_pda_dolina_hacked_desc">
