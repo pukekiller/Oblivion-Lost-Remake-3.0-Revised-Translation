@@ -369,11 +369,11 @@
 	</string>
 	
 	<string id="st_goplit_pda_dolina_desc">
-		<text>Personal PDA belonging to a stalker known as Hoplite. Access is locked behind a password - perhaps one of the scientists can decrypt it. (start here for your second session on 4/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>Personal PDA belonging to a stalker known as Hoplite. Access is locked behind a password - perhaps one of the scientists can decrypt it.</text>
 	</string>
 	
 	<string id="st_goplit_pda_dolina_hacked_desc">
-		<text>I didn't have time to record it the day before yesterday. I came across the Journalist in the swamp nearby. I had to carry him back to his nest and help him to his feet. The Zuda I was saving for Toad had to be wasted. It's all right, it was worth it. He said that he was running away from someone, but when I asked who was chasing him, he preferred to keep silent. I said goodbye to him today and he went somewhere north. I don't know where exactly and why, but apparently he is going to meet his snitchs there. Before he left, he asked me if I had visited the archives of the local research institute. He was interested in some papers related to the delivery of equipment to the laboratory on the Radar territory. When I'm near, I'll go in and have a look. If anything, I'll tell the Journalist when I meet him.</text>
+		<text>I didn’t get a chance to record this the day before yesterday. I ran into Journalist in the nearby swamp - had to carry him back to his hideout and help him get back on his feet. Ended up using the Zuda I’d been saving for Toad, but it was worth it. He said he was running from someone, though when I asked who, he kept quiet. I saw him off today - he headed north. I’m not sure where exactly or why, but it sounded like he was planning to meet with some of his informants. Before leaving, he asked if I’d been to the archives at the local research institute. He was interested in documents related to equipment deliveries to the lab near the Radar sector. I’ll stop by when I’m in the area, and if I find anything, I’ll let him know next time we cross paths. (start here for your first session on 4/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_gen_dnev_doki">
