@@ -401,11 +401,11 @@
 	</string>
 	
 	<string id="st_pribor_primanka">
-		<text>Decoy Device (start here for your second session on 5/4/25 and don't forget to remove this reminder when you start)</text>
+		<text>Decoy Device</text>
 	</string>
 
 	<string id="st_pribor_primanka_desc">
-		<text>A device that can be used to lure out the Sentient Swamp. To activate it, you must place the device in the desired area.</text>
+		<text>A device that can be used to lure out the Sapient Swamp. To activate it, you must place the device in the desired area. (start here for your first session on 5/4/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="city_fake_dnevnik_name">
