@@ -397,11 +397,11 @@
 	</string>
 	
 	<string id="st_psy_shapka_mg_desc">
-		<text>A device that simulates the psionic profile of a zombie, protecting its wearer from strong levels of psionic radiation that come from creatures that harness it as a weapon. (start here for your first session on 5/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>A device that simulates the psionic profile of a zombie, protecting its wearer from strong levels of psionic radiation that come from creatures that harness it as a weapon.</text>
 	</string>
 	
 	<string id="st_pribor_primanka">
-		<text>Decoy Device</text>
+		<text>Decoy Device (start here for your second session on 5/4/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_pribor_primanka_desc">
