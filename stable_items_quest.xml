@@ -409,11 +409,11 @@
 	</string>
 
 	<string id="city_fake_dnevnik_name">
-		<text>Sarcophagus research document (start here for your second session on 5/5/25 and don't forget to remove this reminder when you start)</text>
+		<text>Sarcophagus research document</text>
 	</string>
 	
 	<string id="st_horok_ammo_zink">
-		<text>Ammo for Ferret</text>
+		<text>Ammo for Ferret (start here for your first session on 5/5/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_horok_ammo_zink_desc">
