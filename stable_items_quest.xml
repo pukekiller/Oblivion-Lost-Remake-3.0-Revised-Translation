@@ -417,11 +417,11 @@
 	</string>
 	
 	<string id="st_horok_ammo_zink_desc">
-		<text>A box of ammunition that you need to give to Ferret. (start here for your second session on 5/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>A box of ammunition that you need to give to Ferret.</text>
 	</string>
 	
 	<string id="st_horok_rukzak_arts">
-		<text>Ferret's backpack</text>
+		<text>Ferret's backpack (start here for your first session on 5/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_horok_rukzak_arts_desc">
