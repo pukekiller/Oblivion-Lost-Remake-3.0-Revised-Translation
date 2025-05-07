@@ -421,11 +421,11 @@
 	</string>
 	
 	<string id="st_horok_rukzak_arts">
-		<text>Ferret's backpack (start here for your first session on 5/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Ferret's backpack</text>
 	</string>
 	
 	<string id="st_horok_rukzak_arts_desc">
-		<text>A heavy backpack filled with what are presumably artifacts. An orange glow runs through the fabric.</text>
+		<text>A heavy backpack filled with what are presumably artifacts. You can see an orange glow coming through the fabric.</text>
 	</string>
 
 	<string id="st_rat_black_box">
