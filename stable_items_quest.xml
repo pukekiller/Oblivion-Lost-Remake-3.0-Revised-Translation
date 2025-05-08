@@ -429,11 +429,11 @@
 	</string>
 
 	<string id="st_rat_black_box">
-		<text>Black box (start here for your first session on 5/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>Black box</text>
 	</string>
 	
 	<string id="st_rat_black_box_desc">
-		<text>A container with unknown contents.</text>
+		<text>A black box. Its contents are unknown. (start here for your second session on 5/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_gar_train_doki">
