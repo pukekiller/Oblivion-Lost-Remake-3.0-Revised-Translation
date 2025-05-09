@@ -437,12 +437,11 @@
 	</string>
 	
 	<string id="st_gar_train_doki">
-		<text>Dead Stalker's Diary (start here for your first session on 5/8/25 and don't forget to remove this reminder when you start)</text>
+		<text>Dead Stalker's Diary</text>
 	</string>
 	
 	<string id="st_gar_train_doki_desc">
-		<text>An old shabby diary found in the cab of a rusty radioactive diesel locomotive, which, by some unknown coincidence, turned out to be very far from the railroad. The decayed remains of what appeared to be the author of the diary were also found in the cab. Judging by the entries, he was trying to hide from the horrors of the Zone inside.\n"... There are still voices swirling around in my skull. They don't want to come out. Asking me to look out the window, to see what's left. There's nothing out there. Nothing. But I silence them, because I'd go crazy if I looked out. It's empty. No color, no space. And who's gonna survive when they see that emptiness? No one. There's nothing there. There's only a room inside me, and I'm the room inside. And on the other side there's nothing. Nothing at all. Sometimes I hear something creaking or growling on the other side. It's all a voice, a voice from inside me. There's nothing out there. I crawl around the room so I don't see the emptiness, God forbid. My body hurts. My head hurts too. The geiger counter kept screaming. 
-I dropped it out into the void so it wouldn't interfere..."</text>
+		<text>An old, tattered diary found in the cab of a rusted, radioactive diesel locomotive - somehow located far from any known railway. Inside the cab were the decayed remains of what appeared to be the diary’s author. Judging by the entries, he had taken refuge there, trying to escape the horrors of the Zone.\n"...The voices are still swirling in my skull. They won’t leave. They beg me to look out the window, to see what’s left. But there’s nothing out there. Nothing. I silence them, because if I look, I’ll lose my mind. It’s empty - no color, no space. And who could survive after seeing that kind of emptiness? No one. There’s only a room inside me now, and I am that room. Beyond it - nothing. Just... nothing. Sometimes I hear something creaking, something growling on the other side. But it’s all just a voice. A voice from within. There’s nothing outside. I crawl around the room to avoid seeing the void—God forbid I look. My body hurts. My head too. The Geiger counter wouldn’t stop screaming. I threw it into the void, just to make it stop..." start here for your second session on 5/9/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_yantar_mozg_doki">
