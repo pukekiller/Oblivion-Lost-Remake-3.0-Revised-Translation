@@ -449,11 +449,11 @@
 	</string>
 
 	<string id="st_yantar_mozg_doki_desc">
-		<text>Documents recovered from the underground complex beneath Lake Yantar detail the early stages of a project focused on developing an artificially grown biological psi-emitter. The opening pages are filled with records of incoming biological material - primarily stray dogs left behind in Pripyat after the evacuation and wolves that had proliferated in the Chernobyl forests. However, some entries suggest that even then, researchers doubted the long-term viability of these sources and were already seeking new sources of biomaterial. Attached is a group photograph of the complex staff standing beside a life support unit sustaining the severed head of a dog; several of the scientists’ faces have been censored. The final pages include a roster of the first six-month research team, along with a comprehensive set of management-issued instructions for their assignment. (start here for your second session on 5/10/25 and don't forget to remove this reminder when you start)</text>
+		<text>Documents recovered from the underground complex beneath Lake Yantar detail the early stages of a project focused on developing an artificially grown biological psi-emitter. The opening pages are filled with records of incoming biological material - primarily stray dogs left behind in Pripyat after the evacuation and wolves that had proliferated in the Chernobyl forests. However, some entries suggest that even then, researchers doubted the long-term viability of these sources and were already seeking new sources of biomaterial. Attached is a group photograph of the complex staff standing beside a life support unit sustaining the severed head of a dog; several of the scientists’ faces have been censored. The final pages include a roster of the first six-month research team, along with a comprehensive set of management-issued instructions for their assignment.</text>
 	</string>
 	
 	<string id="st_agro_pda_pilot">
-		<text>Pilot's PDA</text>
+		<text>Pilot's PDA (start here for your first session on 5/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_agro_pda_pilot_desc">
