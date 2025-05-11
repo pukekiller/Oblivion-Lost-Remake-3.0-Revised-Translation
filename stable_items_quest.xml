@@ -457,11 +457,11 @@
 	</string>
 
 	<string id="st_agro_pda_pilot_desc">
-		<text>A PDA recovered near the Agroprom Institute, apparently belonging to the pilot of a downed military helicopter. Before the crash - caused by an encounter with an anomaly - the helicopter had been conducting reconnaissance over the Cordon, Garbage, Dark Valley, and the surrounding areas of the Agroprom Institute. The PDA contains markings of numerous major sites in the southern Zone. Fortunately, this data never reached Perimeter Command and likely never will, meaning there’s little risk of them pushing deeper into the Zone for now. You can try transferring the pilot’s map markers to your own PDA - this information could prove valuable. (start here for your second session on 5/11/25 and don't forget to remove this reminder when you start)</text>
+		<text>A PDA recovered near the Agroprom Institute, apparently belonging to the pilot of a downed military helicopter. Before the crash - caused by an encounter with an anomaly - the helicopter had been conducting reconnaissance over the Cordon, Garbage, Dark Valley, and the surrounding areas of the Agroprom Institute. The PDA contains markings of numerous major sites in the southern Zone. Fortunately, this data never reached Perimeter Command and likely never will, meaning there’s little risk of them pushing deeper into the Zone for now. You can try transferring the pilot’s map markers to your own PDA - this information could prove valuable.</text>
 	</string>
 	
 	<string id="st_mg_monolitovec_doki">
-		<text>Monolithic Diary</text>
+		<text>Monolith stalker diary (start here for your first session on 5/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_mg_monolitovec_doki_desc">
