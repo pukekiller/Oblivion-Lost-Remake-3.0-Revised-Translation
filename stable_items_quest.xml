@@ -453,11 +453,11 @@
 	</string>
 	
 	<string id="st_agro_pda_pilot">
-		<text>Pilot's PDA (start here for your first session on 5/10/25 and don't forget to remove this reminder when you start)</text>
+		<text>Pilot's PDA</text>
 	</string>
 
 	<string id="st_agro_pda_pilot_desc">
-		<text>A PDA found near the Agroprom Institute by a military helicopter. Apparently, the PDA originally belonged to its pilot. The helicopter surveyed Cordon, Garbage, Dark Valley and the vicinity of the Institute before hitting a anomaly and making an emergency landing. Many large objects in the south of the Zone were marked on the PDA. This data has not fallen into the hands of Perimeter Command and is unlikely to ever fall into the hands of Perimeter Command, so you can not be afraid of their further advancement deep into the Zone. You can try to transfer the marks made by the pilot to your PDA yourself - this information will not be superfluous.</text>
+		<text>A PDA recovered near the Agroprom Institute, apparently belonging to the pilot of a downed military helicopter. Before the crash - caused by an encounter with an anomaly - the helicopter had been conducting reconnaissance over the Cordon, Garbage, Dark Valley, and the surrounding areas of the Agroprom Institute. The PDA contains markings of numerous major sites in the southern Zone. Fortunately, this data never reached Perimeter Command and likely never will, meaning there’s little risk of them pushing deeper into the Zone for now. You can try transferring the pilot’s map markers to your own PDA - this information could prove valuable. (start here for your second session on 5/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_mg_monolitovec_doki">
