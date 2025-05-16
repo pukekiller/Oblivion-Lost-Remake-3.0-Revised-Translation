@@ -479,7 +479,7 @@
 
 \nI have no idea where you got access to our prisoner lists, and frankly, I don’t want to know. I can’t attach the file from the archive - there’s an inspection scheduled in the coming days - so I’ll summarize the key details here: Viktor Davidovich Krivashin, born 1968. Organizer and chief ideologist of the religious cult known as the "Gray Brothers." The group was involved in sectarian activity, with documented cases of robbery resulting in fatalities, and instances of cannibalism among its members. Incarcerated since 1996, serving a life sentence. Krivashin is currently undergoing psychotherapy, but our psychologists' prognosis is bleak. I’ll do my best to send the subject your way as soon as possible.
 
-\nSincerely -  head of strict regime facility 1269-bis, Pakhlo K.P.
+\nSincerely -  head of strict regime facility 1269-bis, K.P. Pakhlo 
 
 \nP.S. Allow me to add the following: the dossier contains almost no information about Krivashin’s past. However, through my own sources, I discovered that before founding his religious organization, he worked at an institute focused on issues of self-governance. It’s likely that after the collapse of the USSR, the institute was shut down and the staff’s records were “sanitized.” But of course, I don’t need to be the one explaining that to you.
 
@@ -487,13 +487,13 @@
 	</string>
 	
 	<string id="st_dolina_prelaba_doki">
-		<text>Excerpt from the Kiev Division of Laboratory No. 15 (start here for your second session on 5/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Excerpt from the Kiev Division of Laboratory No. 15</text>
 	</string>
 
 	<string id="st_dolina_prelaba_doki_desc">
-		<text>\nExtract from the minutes of the 42nd meeting of the managers of the Kiev branch of the laboratory ¹15 from 09.09.96\nPresent were: 
+		<text>\nExcerpt from the minutes of the 42nd meeting of the management team, Kiev Branch, Laboratory No. 15 - dated 09.09.96\nPresent:
 
-\nDirector of the network of research laboratories - Frankevich S.K.
+\nDirector of the Research Laboratory Network – S.K. Frankevich (start here for your second session on 5/16/25 and don't forget to remove this reminder when you start)
 \nHead of the Kiev Branch of Laboratory #15 - I.L. Karteevich.
 \nDeputy Head of Kiev branch of laboratory ¹15 - Ah.G. Lavrikov.
 
