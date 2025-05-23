@@ -514,11 +514,11 @@
 	</string>
 	
 	<string id="st_gar_postroika_dnevnik">
-		<text>Diary of a dead stalker (start here for your first session on 5/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>Diary of a dead stalker</text>
 	</string>
 	
 	<string id="st_gar_postroika_dnevnik_desc">
-		<text>A notebook, found at the corpse of a stalker on the Garbage. Only the first third of the notebook is scribbled, the rest of the sheets remained untouched. Judging by the abrupt ending of the notebook, the stalker died while making his last entry in the diary.\nFerret's a bastard. I can't trust him - I'll tell the Barkeep that when I get to the Bar. He said that everything was quiet at the Garbage, just kilometers of iron and anomalies. No shit. My brothers got stomped on on the way up. I had to share my loot. They left me with just my bare ass. How am I supposed to go to Agroprom now? Toad will kill me if I don't get the papers. I guess I'll have to go to the bar first to get a gun, and then...</text>
+		<text>A notebook found on the corpse of a stalker in the Garbage. Only the first third is filled with writing; the remaining pages are blank. Judging by the abrupt ending, it appears the stalker died while making his final diary entry. (start here for your second session on 5/23/25 and don't forget to remove this reminder when you start)\nFerret's a bastard. I can't trust him - I'll tell the Barkeep that when I get to the Bar. He said that everything was quiet at the Garbage, just kilometers of iron and anomalies. No shit. My brothers got stomped on on the way up. I had to share my loot. They left me with just my bare ass. How am I supposed to go to Agroprom now? Toad will kill me if I don't get the papers. I guess I'll have to go to the bar first to get a gun, and then...</text>
 	</string>
 	
 	<string id="st_bar_barman_kamaz_doki">
