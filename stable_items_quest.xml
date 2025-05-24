@@ -518,11 +518,11 @@
 	</string>
 	
 	<string id="st_gar_postroika_dnevnik_desc">
-		<text>A notebook found on the corpse of a stalker in the Garbage. Only the first third is filled with writing; the remaining pages are blank. Judging by the abrupt ending, it appears the stalker died while making his final diary entry. \nFerret’s a bastard. I can’t trust him - and I’ll tell the Barkeep that as soon as I get to the Bar. He swore the Garbage was quiet, just kilometers of scrap and anomalies. Yeah, right. My crew got torn apart on the way in. I had to give up my loot just to make it out alive - they left me with nothing but the shirt on my back. How the hell am I supposed to reach Agroprom now? Toad’s gonna kill me if I don’t bring him those papers. Guess I’ll have to hit the Bar first, get my hands on a gun, and then... (start here for your first session on 5/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>A notebook found on the corpse of a stalker in the Garbage. Only the first third is filled with writing; the remaining pages are blank. Judging by the abrupt ending, it appears the stalker died while making his final diary entry. \nFerret’s a bastard. I can’t trust him - and I’ll tell the Barkeep that as soon as I get to the Bar. He swore the Garbage was quiet, just kilometers of scrap and anomalies. Yeah, right. My crew got torn apart on the way in. I had to give up my loot just to make it out alive - they left me with nothing but the shirt on my back. How the hell am I supposed to reach Agroprom now? Toad’s gonna kill me if I don’t bring him those papers. Guess I’ll have to hit the Bar first, get my hands on a gun, and then...</text>
 	</string>
 	
 	<string id="st_bar_barman_kamaz_doki">
-		<text>Travel log</text>
+		<text>Travel log (start here for your second session on 5/24/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_bar_barman_kamaz_doki_desc">
