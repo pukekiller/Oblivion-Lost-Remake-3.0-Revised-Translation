@@ -530,11 +530,11 @@
 	</string>
 	
 	<string id="st_arg_jaba_voda_boloto">
-		<text>Swamp water sample (start here for your first session on 5/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>Swamp water sample</text>
 	</string>
 	
 	<string id="st_arg_jaba_voda_boloto_desc">
-		<text>A sample of water from the swamp at the Agroprom Research Institute.</text>
+		<text>A sample of water from the swamp at the Agroprom Research Institute. (start here for second session on 5/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_dolina_barman_house_doki">
