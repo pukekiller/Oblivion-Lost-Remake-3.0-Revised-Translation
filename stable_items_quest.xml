@@ -562,13 +562,7 @@
 	</string>
 
 	<string id="city_fake_dnevnik_opis">
-		<text>To the head of Kiev branch of Laboratory #15, Karteevich I. L.\n Ivan Lvovich, after conferring with the rest of the group, we unanimously approved the proposal to provide you with a sample of the anomalous body, as requested. The body itself is located dangerously close to the infamous "Helena" lid, which makes on-site examination extremely difficult. What we've managed to determine about the nature of the crystal is outlined below. We're sending the sample in a sealed container. The labeling on the container reads: "Monolith II." (start here for your first session on 5/30/25 and don't forget to remove this reminder when you start)\n*** \n
-Found in the bowels of Unit 4, the body of anomalous nature has no links
-with any alloy officially or unofficially known to modern science.
-The psi radiation levels range from ~1200 to ~1500 Jigowatts, which is dangerous
-to the life of anyone within ten meters of it. In addition to that,
-we discovered a peculiarity in the crystal's behavior: the creation of organic and
-inorganic substances from literally nothing. </text>
+		<text>To the head of Kiev branch of Laboratory #15, Karteevich I. L.\n Ivan Lvovich, after conferring with the rest of the group, we unanimously approved the proposal to provide you with a sample of the anomalous body, as requested. The body itself is located dangerously close to the infamous "Helena" lid, which makes on-site examination extremely difficult. What we've managed to determine about the nature of the crystal is outlined below. We're sending the sample in a sealed container. The labeling on the container reads: "Monolith II."\n*** \n Discovered deep within the ruins of Unit 4, the anomalous body bears no resemblance to any known alloy—whether officially cataloged or informally reported - by modern science. Its psionic radiation levels fluctuate between approximately 1200 and 1500 gigawatts, posing a severe threat to any living organism within a ten-meter radius. Additionally, a remarkable property was observed: the crystal appears capable of generating both organic and inorganic matter out of nothing. (start here for your second session on 5/31/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="esc_zavod_plot_doki_opis">
