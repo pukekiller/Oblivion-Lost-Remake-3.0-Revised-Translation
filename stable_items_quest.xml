@@ -566,11 +566,11 @@
 	</string>
 
 	<string id="esc_zavod_plot_doki_opis">
-		<text>During its inspection of the scientific facilities, the State Commission found no violations. As a result, the Commission has resolved to issue a permit for the continuation of research activities within the Chernobyl Exclusion Zone, effective no later than 02.06.1998. Currently, the Scientific Research Institute "Agroprom" (see Annex ** for a detailed list of ongoing activities) is developing specialized equipment for use in complex radiation oncology procedures. According to the technical specifications, the equipment is expected to be in high demand for patients diagnosed with tumor cordis, casus inoperabilis. The primary advantages of the new apparatus include enhanced safety for both the patient and the attending physician, as well as a record-setting reduction in irradiation procedure time. In light of this, we request that all relevant research documentation be withdrawn from the Central Archive and transferred to the file cabinet of the Research Institute "Agroprom" to streamline reporting and administrative processes. (start here for your first session on 5/31/25 and don't forget to remove this reminder when you start)</text>
+		<text>During its inspection of the scientific facilities, the State Commission found no violations. As a result, the Commission has resolved to issue a permit for the continuation of research activities within the Chernobyl Exclusion Zone, effective no later than 02.06.1998. Currently, the Scientific Research Institute "Agroprom" (see Annex ** for a detailed list of ongoing activities) is developing specialized equipment for use in complex radiation oncology procedures. According to the technical specifications, the equipment is expected to be in high demand for patients diagnosed with tumor cordis, casus inoperabilis. The primary advantages of the new apparatus include enhanced safety for both the patient and the attending physician, as well as a record-setting reduction in irradiation procedure time. In light of this, we request that all relevant research documentation be withdrawn from the Central Archive and transferred to the file cabinet of the Research Institute "Agroprom" to streamline reporting and administrative processes.</text>
 	</string>
 
 	<string id="esc_zavod_plot_doki_name">
-		<text>Document from the attic</text>
+		<text>Attic document (start here for your second session on 6/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="enc_equipment_battery_change_headlamp">
