@@ -570,11 +570,11 @@
 	</string>
 
 	<string id="esc_zavod_plot_doki_name">
-		<text>Attic document (start here for your second session on 6/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>Attic document</text>
 	</string>
 
 	<string id="enc_equipment_battery_change_headlamp">
-		<text>Battery for a headlamp</text>
+		<text>Headlamp battery (start here for your first session on 6/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_strelok_flash">
