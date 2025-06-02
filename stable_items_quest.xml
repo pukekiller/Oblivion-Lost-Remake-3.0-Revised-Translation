@@ -574,11 +574,11 @@
 	</string>
 
 	<string id="enc_equipment_battery_change_headlamp">
-		<text>Headlamp battery (start here for your first session on 6/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>Headlamp battery</text>
 	</string>
 
 	<string id="st_strelok_flash">
-		<text>Gunslinger's PDA</text>
+		<text>Gunslinger's PDA (start here for your second session on 6/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="st_strelok_flash_descr">
