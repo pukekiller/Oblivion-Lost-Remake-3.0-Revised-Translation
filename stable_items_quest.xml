@@ -578,11 +578,11 @@
 	</string>
 
 	<string id="st_strelok_flash">
-		<text>Gunslinger's PDA (start here for your second session on 6/2/25 and don't forget to remove this reminder when you start)</text>
+		<text>Gunslinger's PDA</text>
 	</string>
 
 	<string id="st_strelok_flash_descr">
-		<text>PDA of the legendary Gunslinger. In addition to various records of the first breakthrough to the center of the zone, has information on the presence of pieces of information hidden in the zone in seven parts. Note: the first two parts are hidden here on Agroprom, in each of the complexes.</text>
+		<text>PDA belonging to the legendary stalker Gunslinger. Alongside various notes detailing the first breakthrough to the Zone’s center, it contains information about a seven-part data cache scattered throughout the Zone. Note: the first two parts are hidden here at Agroprom, one in each complex. (start here for your first session on 6/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_psy_blocerator">
