@@ -594,11 +594,11 @@
 	</string>
 	
 	<string id="st_glaz_fila">
-		<text>Glass eye (start here for your second session on 6/4/25 and don't forget to remove this reminder when you start)</text>
+		<text>Glass eye</text>
 	</string>
 	
 	<string id="st_glaz_fila_desc">
-		<text>An inserted eye made of glass.</text>
+		<text>An false eye made of glass. (start here for your first session on 6/4/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_radar_uchenyy_fleska">
