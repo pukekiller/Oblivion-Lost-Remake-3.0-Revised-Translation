@@ -607,11 +607,11 @@
 	
 	<string id="st_radar_uchenyy_fleska_descr">
 		<text>Personal diary of one of the scientists - apparently a former staff member here. Alongside technical calculations, it contains increasingly frantic notes about the events that unfolded. Final entries:
-	"...We're trapped... Critical errors during the brain mass augmentation trials led to the disaster. Subject N9 - a meter-long, jelly-like entity sealed in an armored capsule—used telepathy to instantly enslave all personnel who made visual contact. When attempts were made to shut down its life support, N9 manipulated the minds of the lab staff, reading their thoughts and generating convincing hallucinations to prevent resistance. Efforts to build a mechanism for escape into the outside world ultimately failed. Sobolev tried to cut power to the entire lab, hoping the N9 mass drew energy from the same line as the Woodpecker array... but he didn’t succeed. The deputy chief shot him once he found out. And honestly? Maybe he was right. If people realized what would happen if the plant were shut down—and if the Woodpecker-- (recording corrupted). Sobolev’s body is still lying near the auxiliary conduit. Strange he knew cutting power would also fry the backup system. Whatever. We've sealed it off for now on Zam’s orders... Code: 7641." (start here for your first session on 6/5/25 and don't forget to remove this reminder when you start)</text>
+	"...We're trapped... Critical errors during the brain mass augmentation trials led to the disaster. Subject N9 - a meter-long, jelly-like entity sealed in an armored capsule—used telepathy to instantly enslave all personnel who made visual contact. When attempts were made to shut down its life support, N9 manipulated the minds of the lab staff, reading their thoughts and generating convincing hallucinations to prevent resistance. Efforts to build a mechanism for escape into the outside world ultimately failed. Sobolev tried to cut power to the entire lab, hoping the N9 mass drew energy from the same line as the Woodpecker array... but he didn’t succeed. The deputy chief shot him once he found out. And honestly? Maybe he was right. If people realized what would happen if the plant were shut down—and if the Woodpecker-- (recording corrupted). Sobolev’s body is still lying near the auxiliary conduit. Strange he knew cutting power would also fry the backup system. Whatever. We've sealed it off for now on Zam’s orders... Code: 7641."</text>
 	</string>
 	
 	<string id="st_sobolev_dead_docs">
-		<text>Diary</text>
+		<text>Diary (start here for your second session on 6/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	
 	<string id="st_sobolev_dead_docs_descr">
