@@ -2,11 +2,11 @@
 <string_table>
 
 	<string id="dm_action_info_0">
-		<text>I'm sorry, I don't have time to chat right now. (start here for your first session on 6/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'm sorry, I don't have time to chat right now.</text>
 	</string>
 
 	<string id="dm_action_info_1">
-		<text>I'd rather wait for the lunch break of those handsome men in uniforms. It's no use hanging around here, I have to go to the Big Land, and they won't let me in! I'm not the only one trying to get out, but we still can't slip through.</text>
+		<text>I'd rather wait for the lunch break of those handsome men in uniforms. It's no use hanging around here, I have to go to the Big Land, and they won't let me in! I'm not the only one trying to get out, but we still can't slip through. (start here for your second session on 6/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_10">
 		<text>There's something not far away that the cops in shoulder straps need. No one's ever come this way before me. Everything was cleaned up before me, cables and those were cut. And now they've found it. I couldn't even get close to the building, they saw me and shot me. I'm glad it didn't blow a hole.</text>
