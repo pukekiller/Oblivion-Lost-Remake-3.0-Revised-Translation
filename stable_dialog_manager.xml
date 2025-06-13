@@ -42,10 +42,10 @@
 		<text>Have you ever been to our transshipment base? It’s not just ours - lots of people pass through. The best part is, it’s clean, safe from most of the Zone’s nastier surprises, and it’s where all the news flows in. You can always pick up something useful or just chat about life. Shame Baldy left with a group the day before yesterday - I missed him this time around.</text>
 	</string>
 	<string id="dm_action_info_2">
-		<text>Let's go to the camp, you'll hear all the rumors there. All the first-timers, rookies like you, usually come to us. Get some experience or get some rest. We've got soldiers on our side, so don't be afraid of them, but don't be too vigilant - they can shoot you, it's as easy as two fingers for them... There's a place not far from the merchant, the local reseller, where you can organize a rest. (start here for your second session on 6/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>Let’s head to the camp - you’ll hear all the latest rumors there. That’s where most rookies like you end up anyway, either to gain some experience or catch a breather. We’ve got soldiers nearby, so don’t worry too much - but don’t get careless either. They won’t hesitate to shoot if you make the wrong move. There’s a spot near the merchant, our local trader, where you can settle in and rest for a while.</text>
 	</string>
 	<string id="dm_action_info_20">
-		<text>This place is safe now, stalker, and we try to keep it that way. There's always a lot of people here! Some have settled down and don't go further than the neighborhood, and some are preparing for the next raid. It's a pity Iroquois didn't come back - he liked to teach first-timers like you the way of the truth.</text>
+		<text>This place is safe now, stalker, and we try to keep it that way. There's always a lot of people here! Some have settled down and don't go further than the neighborhood, and some are preparing for the next raid. It's a pity Iroquois didn't come back - he liked to teach first-timers like you the way of the truth. (start here for your first session on 6/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_21">
 		<text>Did you hear Duty announced a recruitment drive? I thought about it for a minute, and then I decided, what the hell do I need it for?! Back on the belt every other day? Discipline, that sort of thing. I've served my two tours, that's enough!</text>
