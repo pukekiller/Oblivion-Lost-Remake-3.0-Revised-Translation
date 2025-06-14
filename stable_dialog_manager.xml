@@ -48,10 +48,10 @@
 		<text>This place is safe now, stalker - and we do our best to keep it that way. There's always a crowd around here. Some folks have settled in and never venture beyond the outskirts, while others are gearing up for their next raid. It's a shame Iroquois didn’t make it back - he had a knack for showing rookies like you the ropes, always talking about the “way of the truth.”</text>
 	</string>
 	<string id="dm_action_info_21">
-		<text>Did you hear Duty announced a recruitment drive? I thought about it for a minute, and then I decided, what the hell do I need it for?! Back on the belt every other day? Discipline, that sort of thing. I've served my two tours, that's enough! (start here for your second session on 6/14/25 and don't forget to remove this reminder when you start)</text>
+		<text>Did you hear Duty's running a new recruitment drive? I considered it for a moment, but then thought - why the hell would I need that? Back on the front line every other day, strict discipline, constant orders... I’ve done my two tours already. That’s more than enough for me.</text>
 	</string>
 	<string id="dm_action_info_22">
-		<text>In case you haven't heard, I'm telling you! We've announced an additional recruitment. If you have more or less experience, come, you won't regret it.</text>
+		<text>In case you haven't heard, I'm telling you! We've announced an additional recruitment. If you have more or less experience, come, you won't regret it. (start here for your first session on 6/14/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_23">
 		<text>I don't know anything. Go where you're going.</text>
