@@ -45,10 +45,10 @@
 		<text>Let’s head to the camp - you’ll hear all the latest rumors there. That’s where most rookies like you end up anyway, either to gain some experience or catch a breather. We’ve got soldiers nearby, so don’t worry too much - but don’t get careless either. They won’t hesitate to shoot if you make the wrong move. There’s a spot near the merchant, our local trader, where you can settle in and rest for a while.</text>
 	</string>
 	<string id="dm_action_info_20">
-		<text>This place is safe now, stalker, and we try to keep it that way. There's always a lot of people here! Some have settled down and don't go further than the neighborhood, and some are preparing for the next raid. It's a pity Iroquois didn't come back - he liked to teach first-timers like you the way of the truth. (start here for your first session on 6/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>This place is safe now, stalker - and we do our best to keep it that way. There's always a crowd around here. Some folks have settled in and never venture beyond the outskirts, while others are gearing up for their next raid. It's a shame Iroquois didn’t make it back - he had a knack for showing rookies like you the ropes, always talking about the “way of the truth.”</text>
 	</string>
 	<string id="dm_action_info_21">
-		<text>Did you hear Duty announced a recruitment drive? I thought about it for a minute, and then I decided, what the hell do I need it for?! Back on the belt every other day? Discipline, that sort of thing. I've served my two tours, that's enough!</text>
+		<text>Did you hear Duty announced a recruitment drive? I thought about it for a minute, and then I decided, what the hell do I need it for?! Back on the belt every other day? Discipline, that sort of thing. I've served my two tours, that's enough! (start here for your second session on 6/14/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_22">
 		<text>In case you haven't heard, I'm telling you! We've announced an additional recruitment. If you have more or less experience, come, you won't regret it.</text>
