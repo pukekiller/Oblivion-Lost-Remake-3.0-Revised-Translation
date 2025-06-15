@@ -51,10 +51,10 @@
 		<text>Did you hear Duty's running a new recruitment drive? I considered it for a moment, but then thought - why the hell would I need that? Back on the front line every other day, strict discipline, constant orders... I’ve done my two tours already. That’s more than enough for me.</text>
 	</string>
 	<string id="dm_action_info_22">
-		<text>In case you haven't heard, I'm telling you! We've announced an additional recruitment. If you have more or less experience, come, you won't regret it. (start here for your first session on 6/14/25 and don't forget to remove this reminder when you start)</text>
+		<text>In case you haven’t heard - here’s the word: we’ve opened up additional recruitment. If you’ve got at least some experience under your belt, come on over. You won’t regret it.</text>
 	</string>
 	<string id="dm_action_info_23">
-		<text>I don't know anything. Go where you're going.</text>
+		<text>I don't know anything. Go where you're going. (start here for your second session on 6/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_24">
 		<text>Fuck off, I can't talk to you!</text>
