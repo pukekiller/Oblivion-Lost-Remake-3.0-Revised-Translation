@@ -60,13 +60,13 @@
 		<text>Fuck off - I’m not supposed to talk to you!</text>
 	</string>
 	<string id="dm_action_info_25">
-		<text>I'm sorry, I don't want to have this conversation for nothing. (start here for your second session on 6/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Sorry, I’d rather not waste time on this conversation.</text>
 	</string>
 
 
 
 	<string id="dm_action_info_26">
-		<text>They say if you get some kind of disease in the zone, you can go crazy... Some of them even settle accounts with themselves.</text>
+		<text>They say if you get some kind of disease in the zone, you can go crazy... Some of them even settle accounts with themselves. (start here for your first session on 6/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
