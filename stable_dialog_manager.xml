@@ -57,10 +57,10 @@
 		<text>I don’t know anything. Just keep moving.</text>
 	</string>
 	<string id="dm_action_info_24">
-		<text>Fuck off, I can't talk to you! (start here for your first session on 6/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Fuck off - I’m not supposed to talk to you!</text>
 	</string>
 	<string id="dm_action_info_25">
-		<text>I'm sorry, I don't want to have this conversation for nothing.</text>
+		<text>I'm sorry, I don't want to have this conversation for nothing. (start here for your second session on 6/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
