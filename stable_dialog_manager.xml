@@ -97,14 +97,14 @@
 
 
 	<string id="dm_action_info_30">
-		<text>I hear there's some scientists doing some research in the valley. They even recruited one of ours to guard them. It's been a while. (start here for your second session on 6/19/25 and don't forget to remove this reminder when you start)</text>
+		<text>I heard there are some scientists running research down in the valley. They even hired one of our own for security. Haven’t heard from them in a while, though.</text>
 	</string>
 
 
 
 
 	<string id="dm_action_info_31">
-		<text>Go away before it's night! It's still daytime, but when the sun goes down...</text>
+		<text>Go away before it's night! It's still daytime, but when the sun goes down... (start here for your first session on 6/19/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_32">
 		<text>Stalker, get out! We're going to take down the cordon. We're only keeping it during the day, but we're leaving at night. It's too bad here at night.</text>
