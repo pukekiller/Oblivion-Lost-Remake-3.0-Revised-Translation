@@ -107,10 +107,10 @@
 		<text>Get out of here before nightfall! It's still daylight now, but once the sun sets...</text>
 	</string>
 	<string id="dm_action_info_32">
-		<text>Stalker, get out! We're going to take down the cordon. We're only keeping it during the day, but we're leaving at night. It's too bad here at night. (start here for your second session on 6/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>Stalker, move out! We're taking down the cordon. We only hold it during the day - come nightfall, we’re gone. It’s too dangerous around here after dark.</text>
 	</string>
 	<string id="dm_action_info_33">
-		<text>You see, at night, you gotta take cover here, and preferably behind good doors. We're practically under siege at night.</text>
+		<text>You see, at night, you gotta take cover here, and preferably behind good doors. We're practically under siege at night. (start here for your first session on 6/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_34">
 		<text>Well, buddy, I see you haven't heard? At night, you gotta go to bed somewhere far away from here. A grenade launcher doesn't always work at night!</text>
