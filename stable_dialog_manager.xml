@@ -104,10 +104,10 @@
 
 
 	<string id="dm_action_info_31">
-		<text>Go away before it's night! It's still daytime, but when the sun goes down... (start here for your first session on 6/19/25 and don't forget to remove this reminder when you start)</text>
+		<text>Get out of here before nightfall! It's still daylight now, but once the sun sets...</text>
 	</string>
 	<string id="dm_action_info_32">
-		<text>Stalker, get out! We're going to take down the cordon. We're only keeping it during the day, but we're leaving at night. It's too bad here at night.</text>
+		<text>Stalker, get out! We're going to take down the cordon. We're only keeping it during the day, but we're leaving at night. It's too bad here at night. (start here for your second session on 6/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_33">
 		<text>You see, at night, you gotta take cover here, and preferably behind good doors. We're practically under siege at night.</text>
