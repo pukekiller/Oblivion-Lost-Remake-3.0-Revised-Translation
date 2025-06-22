@@ -116,10 +116,10 @@
 		<text>Well, buddy, looks like you haven’t heard the news - come nightfall, you’d better be bedding down far away from here. Even a grenade launcher won’t always save you when it gets dark!</text>
 	</string>
 	<string id="dm_action_info_35">
-		<text>You know what? Let the Dugovtsy and the freedom fighters and the looters decide whose piece this is, and I don't give a shit. Fuck it. (start here for your first session on 6/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>You know what? Let Duty, Freedom, and all the looters fight over who owns this scrap - doesn’t matter to me. Fuck it.</text>
 	</string>
 	<string id="dm_action_info_36">
-		<text>We're working here now, stalker. There's enough scum out there, and now these darkies are interfering with our lives...</text>
+		<text>We're working here now, stalker. There's enough scum out there, and now these darkies are interfering with our lives... (start here for your second session on 6/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_37">
 		<text>I have to warn you, it's not safe here during the daytime. I understand there's some kind of confrontation between local gangs.</text>
