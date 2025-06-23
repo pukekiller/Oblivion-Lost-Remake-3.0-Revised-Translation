@@ -122,10 +122,10 @@
 		<text>We’re running things here now, stalker. There’s enough trouble out there already - now these outsiders are making our lives even harder...</text>
 	</string>
 	<string id="dm_action_info_37">
-		<text>I have to warn you, it's not safe here during the daytime. I understand there's some kind of confrontation between local gangs. (start here for your first session on 6/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>Just a heads-up - this place isn’t safe even during the day. There’s some kind of conflict going on between the local gangs.</text>
 	</string>
 	<string id="dm_action_info_38">
-		<text>Look, you tell me. This is all our territory, right? It's easier for us to keep the shit coming out of the center of the Zone, right? Let the eggheads go digging around, but let Duty and the looters get the hell outta here!</text>
+		<text>Look, you tell me. This is all our territory, right? It's easier for us to keep the shit coming out of the center of the Zone, right? Let the eggheads go digging around, but let Duty and the looters get the hell outta here! (start here for your second session on 6/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_39">
 		<text>Don't you know? There's a new path to get past the Drog patrols to the perimeter with the loot. From Yantar here, then through the vegetable gardens to Agroprom, and that's it!</text>
