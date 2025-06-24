@@ -131,10 +131,10 @@
 		<text>Didn’t you hear? There’s a new route past the Duty patrols to the perimeter. From Yantar, cut through the thick brush to Agroprom - easy as that, and you're out with the loot.</text>
 	</string>
 	<string id="dm_action_info_4">
-		<text>Nothing! I don't know shit! I'm just scrounging for my daily bread. I'm afraid to go to the Zone itself, to hell with it! And at home there's no work, my wife is nagging me... I have to live somehow, don't I? Here on the Garbage, if you walk around for a day, you can collect various artifacts. It's enough to eat and drink. (start here for your second session on 6/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>Nothing, alright? I don’t know a damn thing! I’m just scraping by, trying to earn my daily bread. I’m too scared to go deep into the Zone - screw that place! And back home, there’s no work, and my wife’s always on my case... I’ve got to survive somehow, don’t I? Out here in the Garbage, if you walk around long enough, you can scavenge enough artifacts to afford food and a drink. That’s all I need.</text>
 	</string>
 	<string id="dm_action_info_40">
-		<text>What are you doing here? Are you going to Yantar, or do you want to sneak artifacts past the bar?</text>
+		<text>What are you doing here? Are you going to Yantar, or do you want to sneak artifacts past the bar? (start here for your first session on 6/24/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_41">
 		<text>I won't hide the fact that here your fellow stalkers from time to time offer us very interesting anomalous formations - artifacts, as you call them. These places, because of their. shall we say, the uncertainty of their control, they're something of a busy smuggling trail.</text>
