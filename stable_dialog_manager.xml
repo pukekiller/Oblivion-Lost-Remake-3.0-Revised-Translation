@@ -134,10 +134,10 @@
 		<text>Nothing, alright? I don’t know a damn thing! I’m just scraping by, trying to earn my daily bread. I’m too scared to go deep into the Zone - screw that place! And back home, there’s no work, and my wife’s always on my case... I’ve got to survive somehow, don’t I? Out here in the Garbage, if you walk around long enough, you can scavenge enough artifacts to afford food and a drink. That’s all I need.</text>
 	</string>
 	<string id="dm_action_info_40">
-		<text>What are you doing here? Are you going to Yantar, or do you want to sneak artifacts past the bar? (start here for your first session on 6/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>What are you doing here? Heading to Yantar, or trying to sneak some artifacts past the Bar?</text>
 	</string>
 	<string id="dm_action_info_41">
-		<text>I won't hide the fact that here your fellow stalkers from time to time offer us very interesting anomalous formations - artifacts, as you call them. These places, because of their. shall we say, the uncertainty of their control, they're something of a busy smuggling trail.</text>
+		<text>I won't hide the fact that here your fellow stalkers from time to time offer us very interesting anomalous formations - artifacts, as you call them. These places, because of their. shall we say, the uncertainty of their control, they're something of a busy smuggling trail. (start here for your second session on 6/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_42">
 		<text>Oh, come on, man. We've paved the path so you don't have to meet Duty officials if you want to go to the Big Land! No, I mean, they've been around for a while. But as long as they don't know anything, at least we can avoid them.</text>
