@@ -137,10 +137,10 @@
 		<text>What are you doing here? Heading to Yantar, or trying to sneak some artifacts past the Bar?</text>
 	</string>
 	<string id="dm_action_info_41">
-		<text>I won't hide the fact that here your fellow stalkers from time to time offer us very interesting anomalous formations - artifacts, as you call them. These places, because of their. shall we say, the uncertainty of their control, they're something of a busy smuggling trail. (start here for your second session on 6/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>I won’t deny it - your fellow stalkers occasionally bring us some very curious anomalous formations… artifacts, as you call them. Given the loose control over these parts, this area has turned into quite the smuggling route.</text>
 	</string>
 	<string id="dm_action_info_42">
-		<text>Oh, come on, man. We've paved the path so you don't have to meet Duty officials if you want to go to the Big Land! No, I mean, they've been around for a while. But as long as they don't know anything, at least we can avoid them.</text>
+		<text>Oh, come on, man. We've paved the path so you don't have to meet Duty officials if you want to go to the Big Land! No, I mean, they've been around for a while. But as long as they don't know anything, at least we can avoid them. (start here for your first session on 6/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_43">
 		<text>I've just come from Yantar. I thought I'd push something to science, as usual, but they've locked themselves in their bunkers there, they don't even come out during the day, except for the next chopper. So, if you're going there, turn your horns up - you'll miss out...</text>
