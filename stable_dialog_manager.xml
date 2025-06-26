@@ -140,10 +140,10 @@
 		<text>I won’t deny it - your fellow stalkers occasionally bring us some very curious anomalous formations… artifacts, as you call them. Given the loose control over these parts, this area has turned into quite the smuggling route.</text>
 	</string>
 	<string id="dm_action_info_42">
-		<text>Oh, come on, man. We've paved the path so you don't have to meet Duty officials if you want to go to the Big Land! No, I mean, they've been around for a while. But as long as they don't know anything, at least we can avoid them. (start here for your first session on 6/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>Come on, man - we’ve carved out a path so you don’t have to bump into Duty patrols on your way to the Big Land! Yeah, they’re still around, sure. But as long as they don’t catch wind of it, we can steer clear of them.</text>
 	</string>
 	<string id="dm_action_info_43">
-		<text>I've just come from Yantar. I thought I'd push something to science, as usual, but they've locked themselves in their bunkers there, they don't even come out during the day, except for the next chopper. So, if you're going there, turn your horns up - you'll miss out...</text>
+		<text>I've just come from Yantar. I thought I'd push something to science, as usual, but they've locked themselves in their bunkers there, they don't even come out during the day, except for the next chopper. So, if you're going there, turn your horns up - you'll miss out... (start here for your second session on 6/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_44">
 		<text>There's some research going on in the Yantar zone, but there's been a lot of dead guys lately. So we're guarding the approaches.</text>
