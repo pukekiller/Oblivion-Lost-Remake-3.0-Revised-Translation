@@ -143,10 +143,10 @@
 		<text>Come on, man - we’ve carved out a path so you don’t have to bump into Duty patrols on your way to the Big Land! Yeah, they’re still around, sure. But as long as they don’t catch wind of it, we can steer clear of them.</text>
 	</string>
 	<string id="dm_action_info_43">
-		<text>I've just come from Yantar. I thought I'd push something to science, as usual, but they've locked themselves in their bunkers there, they don't even come out during the day, except for the next chopper. So, if you're going there, turn your horns up - you'll miss out... (start here for your second session on 6/26/25 and don't forget to remove this reminder when you start)</text>
+		<text>I just got back from Yantar. Figured I’d sell some stuff to the scientists like usual - but they’ve holed up in their bunkers, won’t even come out during the day unless it’s to meet the next helicopter. So if you’re heading that way, keep your eyes open - you might end up missing your chance.</text>
 	</string>
 	<string id="dm_action_info_44">
-		<text>There's some research going on in the Yantar zone, but there's been a lot of dead guys lately. So we're guarding the approaches.</text>
+		<text>There's some research going on in the Yantar zone, but there's been a lot of dead guys lately. So we're guarding the approaches. (start here for your first session on 6/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_45">
 		<text>I don't know what to tell you. I wanted to go back to our complex, which is Yantar, I think you know. And here we are! They say that if it was dangerous before, now it's impossible to pass through. Maybe they exaggerate?</text>
