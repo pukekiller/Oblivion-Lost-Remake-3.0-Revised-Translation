@@ -149,10 +149,10 @@
 		<text>There’s ongoing research in the Yantar zone, but lately, too many people have turned up dead. That’s why we’re posted here - guarding the approaches.</text>
 	</string>
 	<string id="dm_action_info_45">
-		<text>I don't know what to tell you. I wanted to go back to our complex, which is Yantar, I think you know. And here we are! They say that if it was dangerous before, now it's impossible to pass through. Maybe they exaggerate? (start here for your second session on 6/27/25 and don't forget to remove this reminder when you start)</text>
+		<text>I don’t know what to tell you. I was planning to head back to our complex - Yantar, you know the place. But now? They say if it was dangerous before, it’s completely impassable now. Maybe they’re exaggerating… but maybe not.</text>
 	</string>
 	<string id="dm_action_info_46">
-		<text>I've been to Yantar, and the science there is completely dormant! Scared, hiding. They only live on what they get from the choppers. On the other hand, there's a lot of dead people out there. You live among them for a week, you won't be so scared. It's a nice place. It's not pretty.</text>
+		<text>I've been to Yantar, and the science there is completely dormant! Scared, hiding. They only live on what they get from the choppers. On the other hand, there's a lot of dead people out there. You live among them for a week, you won't be so scared. It's a nice place. It's not pretty. (start here for your first session on 6/27/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_47">
 		<text>Fuck the dogs, hanging out with the dead! There's more and more of them in this fucking complex. They're getting bigger and bigger.</text>
