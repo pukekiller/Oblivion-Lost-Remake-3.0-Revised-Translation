@@ -164,10 +164,10 @@
 		<text>You know, we’ve been conducting our own reconnaissance. I’ve been mapping the main movement routes of the quasi-living - what you’d call the dead. Care to share any observations of your own?</text>
 	</string>
 	<string id="dm_action_info_5">
-		<text>It's just the way it is. Some of them are feeding on the Garbage, picking up little things, and some of them are drilling deeper into the Zone. There, of course, the pieces are much fattier, but not everyone goes there. Rookies without experience have nothing to do there, and if there is no decent equipment, it's a dead end. No chance! (start here for your first session on 6/29/25 and don't forget to remove this reminder when you start)</text>
+		<text>That’s just how it is. Some scavenge around the Garbage, picking up scraps, while others push deeper into the Zone. Sure, the rewards out there are richer - but not everyone dares. Rookies without experience don’t stand a chance, and without proper gear, it’s a one-way trip.</text>
 	</string>
 	<string id="dm_action_info_50">
-		<text>Have you shot any of those dead people coming out of the lab building? Look at them! They're not afraid of anything, they don't feel pain, they have no brains at all.</text>
+		<text>Have you shot any of those dead people coming out of the lab building? Look at them! They're not afraid of anything, they don't feel pain, they have no brains at all. (start here for your second session on 6/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_51">
 		<text>I'm going to get a job at the lab! Alright, man, relax, it's just a joke of humor. Once you're in there, you're dead. Best case scenario, you're dead.</text>
