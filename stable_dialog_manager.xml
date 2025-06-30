@@ -167,10 +167,10 @@
 		<text>That’s just how it is. Some scavenge around the Garbage, picking up scraps, while others push deeper into the Zone. Sure, the rewards out there are richer - but not everyone dares. Rookies without experience don’t stand a chance, and without proper gear, it’s a one-way trip.</text>
 	</string>
 	<string id="dm_action_info_50">
-		<text>Have you shot any of those dead people coming out of the lab building? Look at them! They're not afraid of anything, they don't feel pain, they have no brains at all. (start here for your second session on 6/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>Have you ever had to shoot one of those dead things coming out of the lab? Look at them - they don’t feel pain, they’re not afraid of anything... it’s like there’s nothing left in their heads at all.</text>
 	</string>
 	<string id="dm_action_info_51">
-		<text>I'm going to get a job at the lab! Alright, man, relax, it's just a joke of humor. Once you're in there, you're dead. Best case scenario, you're dead.</text>
+		<text>I'm going to get a job at the lab! Alright, man, relax, it's just a joke of humor. Once you're in there, you're dead. Best case scenario, you're dead. (start here for first second session on 6/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_52">
 		<text>I'm warning you! Don't go in the lab. No, if you really want to go, go. I won't stop you. But you don't come back alive.</text>
