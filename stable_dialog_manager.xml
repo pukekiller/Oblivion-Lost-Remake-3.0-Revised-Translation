@@ -173,10 +173,10 @@
 		<text>I'm gonna go get a job at the lab! ... Alright, relax, man - just joking. Once you’re in there, you’re done for. Best case? You die quick.</text>
 	</string>
 	<string id="dm_action_info_52">
-		<text>I'm warning you! Don't go in the lab. No, if you really want to go, go. I won't stop you. But you don't come back alive. (start here for second session on 7/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'm warning you - don’t go into the lab. But hey, if you’re dead set on it, I won’t stop you. Just don’t expect to come back alive.</text>
 	</string>
 	<string id="dm_action_info_53">
-		<text>You see. I'd like to warn you. You shouldn't go to the lab. In fact, nobody should! It involves drastic changes in your psyche and metabolism - and, I'm afraid, completely irreversible.</text>
+		<text>You see. I'd like to warn you. You shouldn't go to the lab. In fact, nobody should! It involves drastic changes in your psyche and metabolism - and, I'm afraid, completely irreversible. (start here for your second first on 7/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
