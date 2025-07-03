@@ -191,10 +191,10 @@
 		<text>Have you seen those brainy types in their UN-blue gear? Lately, they’ve been spooked. They barely step off their base without bringing an entire regiment - APCs, helicopters, the whole show - just to guard them.</text>
 	</string>
 	<string id="dm_action_info_56">
-		<text>What's it to you? Don't pester them with bad questions, then they won't pester you either. (start here for your second session on 7/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>What’s it to you? Don’t bother them with dumb questions, and they won’t bother you either.</text>
 	</string>
 	<string id="dm_action_info_57">
-		<text>You see, we usually don't leave our bunkers without proper security. Environmental conditions don't allow it. I'm a kind of exception - I don't really like big expeditions, all this fuss, military... But I'm afraid I can't tell you anything useful yet.</text>
+		<text>You see, we usually don't leave our bunkers without proper security. Environmental conditions don't allow it. I'm a kind of exception - I don't really like big expeditions, all this fuss, military... But I'm afraid I can't tell you anything useful yet. (start here for your first session on 7/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_58">
 		<text>I'm in love with our funny science! I'm crazy about her, man! She doesn't usually come out of her bunker. But if she does, like she did the other day, it's like, "Oh, my God! There's a lot of troops, choppers, armored vehicles! It would be great if they brought a battleship here, or an armored train, at least...</text>
