@@ -212,10 +212,10 @@
 		<text>I work here, young man - just doing my job, serving science and humanity. And as for that abandoned lab, the one every stalker assumes I know all about - I'll tell you this: I don’t know, and I don’t want to know! I’ve never been interested in that place, and I intend to keep it that way. Understood?!</text>
 	</string>
 	<string id="dm_action_info_62">
-		<text>Maybe the scientists have invented a device, don't you know? I wonder what's hidden in that lab. Even if there's no good stuff, it's still interesting! (start here for your first session on 7/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Maybe the scientists came up with some kind of device - who knows? I wonder what’s really hidden in that lab. Even if there’s nothing valuable, it’s still fascinating!</text>
 	</string>
 	<string id="dm_action_info_63">
-		<text>I'm thinking of going to Freedom? Why not? They seem to be smart people, and even if they're a little careless, it's even better! I don't need to be disciplined, I know what to do, I've been here for months...</text>
+		<text>I'm thinking of going to Freedom? Why not? They seem to be smart people, and even if they're a little careless, it's even better! I don't need to be disciplined, I know what to do, I've been here for months... (start here for your second session on 7/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_64">
 		<text>I saw an old man in the hills. With a huge dog. What's he doing there?</text>
