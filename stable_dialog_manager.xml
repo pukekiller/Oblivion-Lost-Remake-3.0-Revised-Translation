@@ -218,17 +218,17 @@
 		<text>Thinking of joining Freedom? Why not? They seem like smart people - and if they’re a bit laid-back, all the better! I don’t need someone barking orders at me. I know what I’m doing - I’ve been out here for months...</text>
 	</string>
 	<string id="dm_action_info_64">
-		<text>I saw an old man in the hills - he's got a huge dog. What's he doing there?</text>
+		<text>I saw an old man on the hills - he's got a huge dog. What's he doing there?</text>
 	</string>
 
 
 	<string id="dm_action_info_65">
-		<text>I'm meeting a fellow Dugovian. We're talking. He's a smart guy, but he's as narrow-minded as your tank. You see, we have a different philosophy. The zone can only be tamed, assimilated, not destroyed. That requires open access to all information. Someone will come up with something useful sooner or later. And they - close, forbid, do not disclose... They're assholes, for God's sake, assholes! On the other hand, it's understandable! When the whole state machine is behind you, you don't have to think too much. (start here for your second session on 7/8/25 and don't forget to remove this reminder when you start)</text>
+		<text>I was talking to a fellow Dugovian the other day. Smart guy - but narrow-minded, like a tank. See, we’ve got different philosophies. The Zone isn’t something you destroy - it has to be understood, tamed, assimilated. And for that, we need open access to information. Sooner or later, someone will figure something out, something useful. But them? They restrict, forbid, cover everything up... Bunch of bastards, honestly. Then again, I get it - when you’ve got the whole state machine backing you, thinking for yourself isn’t exactly required.</text>
 	</string>
 
 
 	<string id="dm_action_info_66">
-		<text>There's a hamlet here, it used to be quiet, but now some crap has broken out. It's better to make a detour, so I'm taking a detour... Look, I warned you.</text>
+		<text>There's a hamlet here, it used to be quiet, but now some crap has broken out. It's better to make a detour, so I'm taking a detour... Look, I warned you. (start here for your first session on 7/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_67">
 		<text>You, stalker, I want to warn you right away. In the village long ago nested bloodsuckers, and maybe even worse, so be careful.</text>
