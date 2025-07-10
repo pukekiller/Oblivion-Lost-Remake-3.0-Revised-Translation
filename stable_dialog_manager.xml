@@ -234,10 +234,10 @@
 		<text>You there, stalker - let me warn you right off. That village? Bloodsuckers settled there a long time ago... maybe something even worse. So watch yourself if you go there.</text>
 	</string>
 	<string id="dm_action_info_68">
-		<text>What's new? There are no artifacts here for a long time, and those houses over there used to be inhabited by bloodsuckers, and we shot them off as best we could. Now I'm here, and I can't get to the place. Intuition or something, but I can't go there, that's all. I can't. It's dead out there. (start here for your first session on 7/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>What’s new? Nothing much - no artifacts around here for a long time. Those houses over there used to be crawling with bloodsuckers; we cleared them out as best we could. Now I’m stuck here, and I just... can’t bring myself to go back. Maybe it’s intuition, maybe something else. But I won’t go. It’s dead out there.</text>
 	</string>
 	<string id="dm_action_info_69">
-		<text>I'm getting the hell out of here. I've done four weeks at the barrier, and that's it. I'm done. Woodpecker's coming in 24/7, and it's getting more and more aggressive every day.</text>
+		<text>I'm getting the hell out of here. I've done four weeks at the barrier, and that's it. I'm done. Woodpecker's coming in 24/7, and it's getting more and more aggressive every day. (start here for your second session on 7/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_7">
 		<text>A lot of people are becoming garbage men now. Before, they didn't look in the piles at all - radiation so strong it'd boil your balls in half an hour. But now, when the loot is tight, they wrap themselves in protection, take chemistries, and nothing, they look for it. There's a lot of stuff there, though it's mostly small stuff.</text>
