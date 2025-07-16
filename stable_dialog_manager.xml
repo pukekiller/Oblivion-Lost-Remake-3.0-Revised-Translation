@@ -273,10 +273,10 @@
 		<text>Let me break it down for you: that’s Pripyat. Beyond it lies Chernobyl. We don’t know what’s happening there - or who might be living there now. But this is our place. We’ll dig something up to scavenge, like always.</text>
 	</string>
 	<string id="dm_action_info_8">
-		<text>I don't know! I'm on my way to the bar to meet some people. You've never been there before? Oh, come on! That's it! As you stand, you're going straight north. Before you can take two steps, there'll be a bar right there. It's a good place to go, and for newbies like you, it's a doctor's appointment. Experienced guys hang out there, they'll tell you what to do. The only thing is that our guys from Duty will meet you on the way... Well, whether they like you or not, it's up to them. (start here for your second session on 7/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>I don’t know, man! I’m just heading to the bar to meet some people. You’ve never been there? Seriously? Alright, listen - just head straight north from here. You won’t get far before you stumble right into it. It’s a solid place, especially for a rookie like you - it’s like a check-up with the doctor. Plenty of seasoned stalkers hang around there; they’ll set you straight. Only catch is, Duty patrols that stretch. Whether they let you through or give you grief... well, that’s up to them.</text>
 	</string>
 	<string id="dm_action_info_80">
-		<text>Pripyat! Shit, pinch me! Finally! It's just a short walk to the power plant. I don't know who you'll meet here now, what kind of animal is sharpening its teeth at you!</text>
+		<text>Pripyat! Shit, pinch me! Finally! It's just a short walk to the power plant. I don't know who you'll meet here now, what kind of animal is sharpening its teeth at you! (start here for your first session on 7/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_81">
 		<text>Hey, buddy, listen. Is that voice in your head too, or am I the only one who's crazy? It just keeps on talking and talking.</text>
