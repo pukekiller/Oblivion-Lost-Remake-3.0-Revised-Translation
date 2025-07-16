@@ -270,10 +270,10 @@
 		<text>Have you seen the high-rises? That’s Pripyat. Just beyond it is the power plant. I’d love to get there someday... but who knows what’s lurking in those buildings now.</text>
 	</string>
 	<string id="dm_action_info_79">
-		<text>I'm explaining! There's Pripyat. Beyond Pripyat is Chernobyl. We don't know what's going on there and who's living there. This is where we belong. We'll find something to clean up, as always! (start here for your first session on 7/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Let me break it down for you: that’s Pripyat. Beyond it lies Chernobyl. We don’t know what’s happening there - or who might be living there now. But this is our place. We’ll dig something up to scavenge, like always.</text>
 	</string>
 	<string id="dm_action_info_8">
-		<text>I don't know! I'm on my way to the bar to meet some people. You've never been there before? Oh, come on! That's it! As you stand, you're going straight north. Before you can take two steps, there'll be a bar right there. It's a good place to go, and for newbies like you, it's a doctor's appointment. Experienced guys hang out there, they'll tell you what to do. The only thing is that our guys from Duty will meet you on the way... Well, whether they like you or not, it's up to them.</text>
+		<text>I don't know! I'm on my way to the bar to meet some people. You've never been there before? Oh, come on! That's it! As you stand, you're going straight north. Before you can take two steps, there'll be a bar right there. It's a good place to go, and for newbies like you, it's a doctor's appointment. Experienced guys hang out there, they'll tell you what to do. The only thing is that our guys from Duty will meet you on the way... Well, whether they like you or not, it's up to them. (start here for your second session on 7/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_80">
 		<text>Pripyat! Shit, pinch me! Finally! It's just a short walk to the power plant. I don't know who you'll meet here now, what kind of animal is sharpening its teeth at you!</text>
