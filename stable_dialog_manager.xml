@@ -276,10 +276,10 @@
 		<text>I don’t know, man! I’m just heading to the bar to meet some people. You’ve never been there? Seriously? Alright, listen - just head straight north from here. You won’t get far before you stumble right into it. It’s a solid place, especially for a rookie like you - it’s like a check-up with the doctor. Plenty of seasoned stalkers hang around there; they’ll set you straight. Only catch is, Duty patrols that stretch. Whether they let you through or give you grief... well, that’s up to them.</text>
 	</string>
 	<string id="dm_action_info_80">
-		<text>Pripyat! Shit, pinch me! Finally! It's just a short walk to the power plant. I don't know who you'll meet here now, what kind of animal is sharpening its teeth at you! (start here for your first session on 7/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Pripyat! Shit, pinch me - finally made it! Just a short walk from here to the power plant. But who knows what you’ll run into now... what kind of beast might be lurking, sharpening its teeth just for you.</text>
 	</string>
 	<string id="dm_action_info_81">
-		<text>Hey, buddy, listen. Is that voice in your head too, or am I the only one who's crazy? It just keeps on talking and talking.</text>
+		<text>Hey, buddy, listen. Is that voice in your head too, or am I the only one who's crazy? It just keeps on talking and talking. (start here for your second session on 7/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_82">
 		<text>Shit, another one. Alright! For the tenth time, I'm explaining the kind of telepathic influence people are subjected to here. Unheard from the outside voices constantly call them to the center of the Zone and promise to fulfill any wish of the one who manages to touch... as it... yes - some kind of Monolith!</text>
