@@ -305,10 +305,10 @@
 
 
 	<string id="dm_action_info_9">
-		<text>Listen, friend! You don't know about the Agroprom yourself? I wanted to go there, and people laughed at me. No, they say it's gone to shit, it's been stripped clean back then, only anomalies left. Do you know if they're telling the truth or just for laughs? I'm new here, I believe it if the locals say it's true. Maybe they're joking. They're just having a laugh, those pests! (start here for your second session on 7/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>Listen, friend - don’t you know anything about Agroprom? I thought about heading there myself, but people just laughed. Said the place’s gone to hell, stripped bare ages ago - only anomalies left now. I don’t know if they’re serious or just messing with me. I’m new here, so when the locals talk, I tend to believe them... but maybe they’re just having a laugh. Bastards.</text>
 	</string>
 	<string id="dm_action_info_94">
-		<text>Wait! Hurry up, but don't be in a hurry! There's Monolithians around here. They know the city from top to bottom, they've set up ambushes. Be careful!</text>
+		<text>Wait! Hurry up, but don't be in a hurry! There's Monolithians around here. They know the city from top to bottom, they've set up ambushes. Be careful! (start here for your first session on 7/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_95">
 		<text>I'm warning you! So far, most of the city is controlled by the Monolith faction. A lot of ambushes, they know the place like the back of their hand. Keep your eyes open and check your weapons.</text>
