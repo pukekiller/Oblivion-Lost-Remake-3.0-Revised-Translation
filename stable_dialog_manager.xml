@@ -311,10 +311,10 @@
 		<text>Wait up! Move quickly, but don’t rush blindly! There are Monolith freaks around here - they know the city like the back of their hand and they’ve set up ambushes. Watch your step!</text>
 	</string>
 	<string id="dm_action_info_95">
-		<text>I'm warning you! So far, most of the city is controlled by the Monolith faction. A lot of ambushes, they know the place like the back of their hand. Keep your eyes open and check your weapons. (start here for your second session on 7/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'm warning you - most of the city’s still under Monolith control. They've set up ambushes all over and know every corner of this place. Keep your eyes sharp and your weapon ready.</text>
 	</string>
 	<string id="dm_action_info_96">
-		<text>What I'd love to do is carpet bomb this town. Bastards. Unless they're in sandboxes and flowerpots. People have already died because of these assholes!</text>
+		<text>What I'd love to do is carpet bomb this town. Bastards. Unless they're in sandboxes and flowerpots. People have already died because of these assholes! (start here for your first session on 7/21/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_97">
 		<text>Look, I don't know what the hell this Monolith is. Maybe it's not eternal, so there won't be enough for everyone? What are we supposed to do, stand on four points? If we get there, you'll be behind me, I promise...</text>
