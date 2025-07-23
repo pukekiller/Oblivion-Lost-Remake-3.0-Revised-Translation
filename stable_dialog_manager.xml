@@ -324,11 +324,11 @@
 	</string>
 
 	<string id="dm_action_info_99">
-		<text>I don't feel like talking. (start here for your second session on 7/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>I don't feel like talking.</text>
 	</string>
 
 	<string id="dm_action_info_101">
-		<text>Oh, nothing much. I'm just trying to survive and make a living.</text>
+		<text>Oh, nothing much. I'm just trying to survive and make a living. (start here for your first session on 7/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_102">
 		<text>I'm gaining experience, saving up my finances. When I get the money, I'll buy a better gun and armor, and then I'll rush to the center of the Zone...</text>
