@@ -343,10 +343,10 @@
 		<text>You’re asking me that?! It’s because of people like you that we’re stuck out here. What do you all see in this damn Zone? You come in droves, die off like flies, and still more of you keep coming! And now you're asking me what I'm doing here? I should be asking you what the hell you're doing here. Whatever - I've got no time for this. Just get lost!</text>
 	</string>
 	<string id="dm_action_info_106">
-		<text>Military secrets! (start here for your second session on 7/26/25 and don't forget to remove this reminder when you start)</text>
+		<text>Military secrets!</text>
 	</string>
 	<string id="dm_action_info_107">
-		<text>It's nothing, really. It's nothing.</text>
+		<text>It's nothing, really. It's nothing. (start here for your first session on 7/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_108">
 		<text>I'm just admiring the beauty of this place. It's not like the outside world. I think, you know, you may not agree with me, but people just can not or do not want to find a common language with nature and their actions hurt her, and she as much as she can, gives them a signal, which they stubbornly ignore. Uh-huh.</text>
