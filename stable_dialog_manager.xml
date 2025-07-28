@@ -355,10 +355,10 @@
 		<text>It's none of your business!</text>
 	</string>
 	<string id="dm_action_info_110">
-		<text>Never mind... (start here for your second session on 7/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>Never mind...</text>
 	</string>
 	<string id="dm_action_info_111">
-		<text>What business is it of yours?!</text>
+		<text>What business is it of yours?! (start here for your first session on 7/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_112">
 		<text>Ever since I was a kid, I've loved going to undiscovered places. When I heard about this place, I came here immediately. This is the most unusual place I've ever seen!</text>
