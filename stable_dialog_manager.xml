@@ -352,10 +352,10 @@
 		<text>I'm just taking in the beauty of this place. It’s nothing like the outside world. You might not agree, but I think people either can’t - or won’t - find a common language with nature. And in the end, their actions hurt her. Still, in her own way, she tries to send them a signal... but they just keep ignoring it. Uh-huh.</text>
 	</string>
 	<string id="dm_action_info_109">
-		<text>It's none of your business! (start here for your first session on 7/27/25 and don't forget to remove this reminder when you start)</text>
+		<text>It's none of your business!</text>
 	</string>
 	<string id="dm_action_info_110">
-		<text>Never mind...</text>
+		<text>Never mind... (start here for your second session on 7/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_action_info_111">
 		<text>What business is it of yours?!</text>
