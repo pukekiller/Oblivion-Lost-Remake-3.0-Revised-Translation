@@ -398,13 +398,13 @@
 
 
 	<string id="dm_cool_info_10">
-		<text>They say that artifacts contain the power of anomalies, and some of them can generate anomalies themselves, but after that they are no longer good for anything, and the anomalies are weak and short-lived. (start here for your second session on 8/2/25 and don't forget to remove this reminder when you start)</text>
+		<text>They say artifacts hold the very power of anomalies - and some can even create new ones. But once they do, they lose their value. The anomalies they produce don’t last long, and they’re usually weak.</text>
 	</string>
 
 
 
 	<string id="dm_cool_info_100">
-		<text>I haven't heard anything like that, sorry.</text>
+		<text>I haven't heard anything like that, sorry. (start here for your first session on 8/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
