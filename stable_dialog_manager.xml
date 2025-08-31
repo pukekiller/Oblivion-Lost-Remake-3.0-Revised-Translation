@@ -673,10 +673,10 @@
 		<text>Something shady’s going on. Word is the Duty commander, a real big shot, wasn’t just out here on some Zone business, but actually met with the Freedom boys to negotiate. If they were gonna make peace, they would've done it out in the open. Instead? Total mess. The whole thing stinks. And you know, the old-timers say that war didn’t start for any good reason in the first place. I just hope those desk jockeys from the Big Land don’t drag us into another meat grinder...</text>
 	</string>
 	<string id="dm_cool_info_50">
-		<text>Did you hear that? The military's on a roll, they'll be here in a minute! They found out that Woodpecker's dead, they want to grab all the stuff at once! (start here for your second session on 8/31/25 and don't forget to remove this reminder when you start)</text>
+		<text>Did you hear that? The military’s on the move - they’ll be here any minute! Word is they found out the Woodpecker’s dead and now they’re rushing in to grab everything at once!</text>
 	</string>
 	<string id="dm_cool_info_51">
-		<text>They just got word! The army is planning a large-scale landing on the power plant. My advice! If you want to grab some of the loot, hurry up!</text>
+		<text>They just got word! The army is planning a large-scale landing on the power plant. My advice! If you want to grab some of the loot, hurry up! (start here for your first session on 8/31/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_cool_info_52">
 		<text>It's a total mess! Just when the corridor opened, the power plant started to be cleaned of all kinds of shit, and now the military are here! You have no shame, no conscience!</text>
