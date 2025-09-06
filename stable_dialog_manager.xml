@@ -709,10 +709,10 @@
 		<text>I have to warn you, stalker. The military has gone crazy around here lately! They used to guard the scientists quietly and peacefully, but now it's as if someone has drivem them insane! They're running around. Your brother's been shot by them more than once, and we've had two wounded this week.</text>
 	</string>
 	<string id="dm_help_thanks_1">
-		<text>Thank you very much. (start here for your second session on 9/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Thank you very much.</text>
 	</string>
 	<string id="dm_intro_0">
-		<text>Don't bully the soldiers, you'll get a bullet in no time. And any of our guys who are around here might get hurt.</text>
+		<text>Don't bully the soldiers, you'll get a bullet in no time. And any of our guys who are around here might get hurt. (start here for your first session on 9/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_1">
 		<text>I see you don't know your way around here yet, so I'm warning you in a neighborly way! Don't mess with the military. If you see them, get the hell out of here, because they've got no brains. They'll shoot you first, and then they'll look at your papers.</text>
