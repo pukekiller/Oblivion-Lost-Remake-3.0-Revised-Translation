@@ -706,10 +706,10 @@
 		<text>It's not just bandits anymore, now the military's showing up too. Used to be you’d see a helicopter maybe once in a blue moon, but now they’re swarming the Zone. What, did they lose something out here?</text>
 	</string>
 	<string id="dm_cool_info_9">
-		<text>I want to warn you, stalker. The military has gone crazy around here lately! They used to guard the scientists quietly and peacefully, but now it's as if someone has tipped their tails! They're running around. Your brother's been shelled more than once, and we've had two wounded this week. (start here for your first session on 9/5/25 and don't forget to remove this reminder when you start)</text>
+		<text>I have to warn you, stalker. The military has gone crazy around here lately! They used to guard the scientists quietly and peacefully, but now it's as if someone has drivem them insane! They're running around. Your brother's been shot by them more than once, and we've had two wounded this week.</text>
 	</string>
 	<string id="dm_help_thanks_1">
-		<text>Thank you very much.</text>
+		<text>Thank you very much. (start here for your second session on 9/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_0">
 		<text>Don't bully the soldiers, you'll get a bullet in no time. And any of our guys who are around here might get hurt.</text>
