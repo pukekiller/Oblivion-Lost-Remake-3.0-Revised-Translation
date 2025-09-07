@@ -715,13 +715,13 @@
 		<text>Don’t fire at the soldiers, one wrong move and you’ll catch a bullet fast. Worse, any of our guys nearby could get caught in the crossfire if you provoke them.</text>
 	</string>
 	<string id="dm_intro_1">
-		<text>I see you don't know your way around here yet, so I'm warning you in a neighborly way! Don't mess with the military. If you see them, get the hell out of here, because they've got no brains. They'll shoot you first, and then they'll look at your papers. (start here for your second session on 9/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>I see you don't know your way around here yet, so I'm going to give you a friendly warning! Don't mess with the military. If you see them, get the hell away from them, because they've got no brains. They'll shoot you first, and then they'll look at your papers.</text>
 	</string>
 
 
 
 	<string id="dm_intro_10">
-		<text>Dutyers run this place. Keep it in mind, so you don't get in trouble.</text>
+		<text>Dutyers run this place. Keep it in mind, so you don't get in trouble. (start here for your first session on 9/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
