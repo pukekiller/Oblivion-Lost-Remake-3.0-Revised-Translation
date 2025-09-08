@@ -721,14 +721,14 @@
 
 
 	<string id="dm_intro_10">
-		<text>Dutyers run this place. Keep it in mind, so you don't get in trouble. (start here for your first session on 9/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>Dutyers run this place. Keep that in mind, so that you don't get in trouble.</text>
 	</string>
 
 
 
 
 	<string id="dm_intro_100">
-		<text>Good day, stalker. What do you want?</text>
+		<text>Good day, stalker. What do you want?  (start here for your second session on 9/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_101">
 		<text>Good day.</text>
