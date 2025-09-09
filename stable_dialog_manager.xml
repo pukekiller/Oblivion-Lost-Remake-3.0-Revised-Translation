@@ -731,10 +731,10 @@
 		<text>Good day, stalker. What do you want?</text>
 	</string>
 	<string id="dm_intro_101">
-		<text>Good day. (start here for your first session on 9/8/25 and don't forget to remove this reminder when you start)</text>
+		<text>Good day.</text>
 	</string>
 	<string id="dm_intro_102">
-		<text>Good day!</text>
+		<text>Good day! (start here for your second session on 9/9/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_103">
 		<text>Hey, man.</text>
