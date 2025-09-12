@@ -752,10 +752,10 @@
 		<text>Greetings!</text>
 	</string>
 	<string id="dm_intro_108">
-		<text>Hello, stalker. (start here for your second session on 9/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hello, stalker.</text>
 	</string>
 	<string id="dm_intro_109">
-		<text>Greetings, stalker.</text>
+		<text>Greetings, stalker. (start here for your first session on 9/12/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
