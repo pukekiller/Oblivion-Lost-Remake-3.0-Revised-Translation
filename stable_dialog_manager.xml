@@ -755,12 +755,12 @@
 		<text>Hello, stalker.</text>
 	</string>
 	<string id="dm_intro_109">
-		<text>Greetings, stalker. (start here for your first session on 9/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Greetings, stalker.</text>
 	</string>
 
 
 	<string id="dm_intro_11">
-		<text>You are in an area where order is maintained by members of the Duty group. Any request of the patrol must be obeyed without question.</text>
+		<text>You’ve entered a zone under Duty control. Obey all patrol commands without hesitation, no exceptions. (start here for your second session on 9/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
