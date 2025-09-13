@@ -760,12 +760,12 @@
 
 
 	<string id="dm_intro_11">
-		<text>You’ve entered a zone under Duty control. Obey all patrol commands without hesitation, no exceptions. (start here for your second session on 9/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>You’ve entered a zone under Duty control. Obey all patrol commands without hesitation, no exceptions.</text>
 	</string>
 
 
 	<string id="dm_intro_110">
-		<text>Hey, you, stalker!</text>
+		<text>Hey, you, stalker! (start here for your first session on 9/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_111">
 		<text>Hello.</text>
