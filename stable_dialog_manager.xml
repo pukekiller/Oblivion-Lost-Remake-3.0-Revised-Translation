@@ -768,10 +768,10 @@
 		<text>Hey, you, stalker!</text>
 	</string>
 	<string id="dm_intro_111">
-		<text>Hello. (start here for your second session on 9/14/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hello.</text>
 	</string>
 	<string id="dm_intro_112">
-		<text>Wow! What a bunch of people!</text>
+		<text>Wow! What a bunch of people! (start here for your first session on 9/14/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_113">
 		<text>And who do we have here?</text>
