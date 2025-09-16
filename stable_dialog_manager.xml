@@ -782,12 +782,12 @@
 
 
 	<string id="dm_intro_12">
-		<text>Ever wonder where all the zombies in the Zone come from? I heard one guy say they crawled out of some secret lab after everything went to hell, and now they just wander. I’ve even seen a few drift into the area near the Bar now and then. (start here for your second session on 9/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Ever wonder where all the zombies in the Zone come from? I heard one guy say they crawled out of some secret lab after everything went to hell, and now they just wander. I’ve even seen a few drift into the area near the Bar now and then.</text>
 	</string>
 
 
 	<string id="dm_intro_13">
-		<text>First time here? Then I suggest you go to the bar. Your coworkers there will give you all the latest news.</text>
+		<text>First time here? Then I suggest you go to the Bar. Your fellow stalkers there will give you all the latest news. (start here for your first session on 9/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_14">
 		<text>Don't go near the center of the lake... there's a bunch of zombies. They'll eat more.</text>
