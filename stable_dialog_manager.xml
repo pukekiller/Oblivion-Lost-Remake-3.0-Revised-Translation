@@ -787,10 +787,10 @@
 
 
 	<string id="dm_intro_13">
-		<text>First time here? Then I suggest you go to the Bar. Your fellow stalkers there will give you all the latest news. (start here for your first session on 9/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>First time here? Then I suggest you go to the Bar. Your fellow stalkers there will give you all the latest news.</text>
 	</string>
 	<string id="dm_intro_14">
-		<text>Don't go near the center of the lake... there's a bunch of zombies. They'll eat more.</text>
+		<text>Don't go near the center of the lake... there's a bunch of zombies there. They'll hunt you down. (start here for your second session on 9/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_15">
 		<text>I don't recommend going anywhere near the center of the lake... There's a lot of dead people out there!</text>
