@@ -793,13 +793,13 @@
 		<text>Don't go near the center of the lake... there's a bunch of zombies there. They'll hunt you down.</text>
 	</string>
 	<string id="dm_intro_15">
-		<text>I don't recommend going anywhere near the center of the lake... There's a lot of dead people out there! (start here for your first session on 9/17/25 and don't forget to remove this reminder when you start)</text>
+		<text>I don't recommend going anywhere near the center of the lake... There's a lot of dead people out there!</text>
 	</string>
 
 
 
 	<string id="dm_intro_16">
-		<text>You know where all the zombies in the zone come from? They say that after the explosion, they came out of all the labs. experimenting on them.</text>
+		<text>You know where all the zombies in the Zone come from? They say that after the explosion, they started crawling out of the labs - products of experiments gone wrong. (start here for your second session on 9/18/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
