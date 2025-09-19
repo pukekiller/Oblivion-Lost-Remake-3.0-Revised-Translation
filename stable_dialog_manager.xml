@@ -799,7 +799,7 @@
 
 
 	<string id="dm_intro_16">
-		<text>You know where all the zombies in the Zone come from? They say that after the explosion, they started crawling out of the labs - products of experiments gone wrong. (start here for your second session on 9/18/25 and don't forget to remove this reminder when you start)</text>
+		<text>You know where all the zombies in the Zone come from? They say that after the explosion, they started crawling out of the labs - products of experiments gone wrong.</text>
 	</string>
 
 
@@ -812,7 +812,7 @@
 
 
 	<string id="dm_intro_18">
-		<text>You keep in mind, Radar's already around here. Don't you dare go north!</text>
+		<text>Keep this in mind — Radar's just up ahead. Don’t even think about going north! (start here for your second session on 9/19/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_19">
 		<text>You don't want to lose your brains, don't go north from here!</text>
