@@ -812,10 +812,10 @@
 
 
 	<string id="dm_intro_18">
-		<text>Keep this in mind — Radar's just up ahead. Don’t even think about going north! (start here for your second session on 9/19/25 and don't forget to remove this reminder when you start)</text>
+		<text>Keep this in mind — Radar's just up ahead. Don’t even think about going north!</text>
 	</string>
 	<string id="dm_intro_19">
-		<text>You don't want to lose your brains, don't go north from here!</text>
+		<text>You don't want to lose your brains, don't go north from here! (start here for your first session on 9/19/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_2">
 		<text>Watch out for the bridge, okay? There's a lot of stray dogs out there. If you flap your ears, they'll eat you in two seconds!</text>
