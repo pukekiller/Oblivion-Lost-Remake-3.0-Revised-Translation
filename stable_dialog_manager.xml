@@ -824,10 +824,10 @@
 		<text>You need to be careful out here. It's a stone's throw to Radar from here. If you go north, you'll get into serious trouble and you'll get messed up badly.</text>
 	</string>
 	<string id="dm_intro_21">
-		<text>It's like walking through a minefield, only worse! There's a hell of a lot going on here at times, you can't let your guard down for a second! (start here for your first session on 9/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>It's like walking through a minefield, only worse! There's a hell of a lot going on here at times, you can't let your guard down for a second!</text>
 	</string>
 	<string id="dm_intro_22">
-		<text>I advise you to increase your attention, and once you've increased it, don't relax. If you relax, you're gone, you're dead!</text>
+		<text>I advise you to never let your guard down here - don't relax. If you relax, you're gone, you're dead! (start here for your first session on 9/21/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_23">
 		<text>You've got to keep your ears open at all times! Sleep half-eyed! Shit can happen at any time!</text>
