@@ -830,10 +830,10 @@
 		<text>I advise you to never let your guard down here - don't relax. If you relax, you're gone, you're dead!</text>
 	</string>
 	<string id="dm_intro_23">
-		<text>You've got to keep your ears and eyes open here at all times! Sleep with one eye open! Shit can happen at any time! (start here for your second session on 9/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>You've got to keep your ears and eyes open here at all times! Sleep with one eye open! Shit can happen at any time!</text>
 	</string>
 	<string id="dm_intro_24">
-		<text>Watch out for scumbags! It's like a cockroach infestation.</text>
+		<text>Watch out for scumbags! It's like there's a cockroach infestation here. (start here for your first session on 9/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_25">
 		<text>Destroy the so-called Monolithians as soon as you see them! Very dangerous - real fanatics!</text>
