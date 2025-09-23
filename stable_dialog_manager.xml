@@ -833,10 +833,10 @@
 		<text>You've got to keep your ears and eyes open here at all times! Sleep with one eye open! Shit can happen at any time!</text>
 	</string>
 	<string id="dm_intro_24">
-		<text>Watch out for scumbags! It's like there's a cockroach infestation here. (start here for your first session on 9/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>Watch out for scumbags! It's like there's a cockroach infestation here.</text>
 	</string>
 	<string id="dm_intro_25">
-		<text>Destroy the so-called Monolithians as soon as you see them! Very dangerous - real fanatics!</text>
+		<text>Shoot down any Monolithians as soon as you see them! They're very dangerous - real fanatics! (start here for your second session on 9/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_26">
 		<text>There are some assholes here who call themselves Monolithians... They're not afraid of pain. If you run out of ammunition, they'll throw themselves at you and try to chew your throat off. In general, if you see it, shoot immediately, don't hesitate!</text>
