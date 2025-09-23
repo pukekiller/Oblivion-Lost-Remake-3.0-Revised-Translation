@@ -836,10 +836,10 @@
 		<text>Watch out for scumbags! It's like there's a cockroach infestation here.</text>
 	</string>
 	<string id="dm_intro_25">
-		<text>Shoot down any Monolithians as soon as you see them! They're very dangerous - real fanatics! (start here for your second session on 9/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>Shoot down any Monolithians as soon as you see them! They're very dangerous - real fanatics!</text>
 	</string>
 	<string id="dm_intro_26">
-		<text>There are some assholes here who call themselves Monolithians... They're not afraid of pain. If you run out of ammunition, they'll throw themselves at you and try to chew your throat off. In general, if you see it, shoot immediately, don't hesitate!</text>
+		<text>There are some assholes here who call themselves Monolithians... They're not afraid of pain. If you run out of ammunition, they'll throw themselves at you and try to chew your throat off. If you see any of them, shoot immediately, don't hesitate! (start here for your first session on 9/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_3">
 		<text>Listen up! You see a tunnel, don't go in it. I'm telling you right away, because not everyone is smart enough to stay out of the ass. They won't even take you out of there, you'll be in pieces on the walls. This is the Zone, okay?</text>
