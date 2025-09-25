@@ -845,10 +845,10 @@
 		<text>Listen up! If you see a tunnel, don't go into it. I'm telling you right away, because not everyone is smart enough to stay out of them. If you go in, and get into trouble - no one will take you out of there. If you run into anomaly, all that'll remain of you bits stuck on the wall. This is the Zone, okay?</text>
 	</string>
 	<string id="dm_intro_4">
-		<text>Hey, hobo. I'll give you some free advice - you'd better not go behind the factory - bandits have been seen there. Rumor has it they're coming here from the Cordon, through the gate. (start here for your first session on 9/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hey, hobo. I'll give you some free advice - you'd better not go behind the factory - bandits have been seen there. Rumor has it they're coming here from the Cordon, through the gate.</text>
 	</string>
 	<string id="dm_intro_5">
-		<text>Why do you walk alone? This place is full of skinheads, they can catch you at any time! Lately they've become quite brazen, even attacking roadblocks, I hear.</text>
+		<text>Why do you walk alone? This place is full of skinheads, they can catch you at any time! Lately they've become quite brazen, even attacking military roadblocks, I hear. (start here for your second session on 9/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_6">
 		<text>Be warned if you're not in the know! There's been a lot of gang activity around here lately. It's the second shooting with them in a week. Be careful, keep your eyes open, they've already sent six loners to the afterlife.</text>
