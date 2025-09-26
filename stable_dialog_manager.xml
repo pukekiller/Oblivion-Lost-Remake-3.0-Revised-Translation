@@ -854,10 +854,10 @@
 		<text>If you don't know what's been happening here, then consider yourself warned! There's been a lot of gang activity around here lately. It's the second shooting with them in a week. Be careful, keep your eyes open, they've already sent six loners to the afterlife.</text>
 	</string>
 	<string id="dm_intro_7">
-		<text>You didn't happen to hear what the military suddenly needed in the research building, did you? What are they doing out there today? (start here for your second session on 9/26/25 and don't forget to remove this reminder when you start)</text>
+		<text>You didn't happen to hear what the military suddenly needed in the research building, did you? What are they doing out there today?</text>
 	</string>
 	<string id="dm_intro_8">
-		<text>You pay attention here! There's a bunch of thugs in the main building. They have no conscience or pity, I'd strangle them all!</text>
+		<text>Keep your eyes open! There's a bunch of thugs in the main building. They have no conscience or pity. If I could, I'd strangle them all! (start here for your first session on 9/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_9">
 		<text>You don't want to go into the Dark Valley alone. The killers are nesting in one of the buildings. We're still trying to smoke them out. Don't get hurt, boy!</text>
