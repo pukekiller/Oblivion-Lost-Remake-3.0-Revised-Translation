@@ -860,10 +860,10 @@
 		<text>Keep your eyes open! There's a bunch of thugs in the main building. They have no conscience or pity. If I could, I'd strangle them all!</text>
 	</string>
 	<string id="dm_intro_9">
-		<text>You don't want to go into the Dark Valley alone. The killers are nesting in one of the buildings. We're still trying to smoke them out. Don't get hurt, man! (start here for your second session on 9/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>You don't want to go into the Dark Valley alone. The killers are nesting in one of the buildings. We're still trying to smoke them out. Don't get hurt, man!</text>
 	</string>
 	<string id="dm_intro_help_1">
-		<text>Brother, help!</text>
+		<text>Brother, help! (start here for your first session on 9/28/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_10">
 		<text>Help me, somebody!</text>
