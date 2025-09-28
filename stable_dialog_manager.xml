@@ -866,10 +866,10 @@
 		<text>Brother, help!</text>
 	</string>
 	<string id="dm_intro_help_10">
-		<text>Somebody, help me! (start here for your second session on 9/29/25 and don't forget to remove this reminder when you start)</text>
+		<text>Somebody, help me!</text>
 	</string>
 	<string id="dm_intro_help_11">
-		<text>Guards, I'm hit! Come here!</text>
+		<text>Guards, I'm hit! Come here! (start here for your first session on 9/29/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_12">
 		<text>Help! I'm dying!</text>
