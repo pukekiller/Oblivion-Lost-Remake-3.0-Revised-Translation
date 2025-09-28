@@ -863,10 +863,10 @@
 		<text>You don't want to go into the Dark Valley alone. The killers are nesting in one of the buildings. We're still trying to smoke them out. Don't get hurt, man!</text>
 	</string>
 	<string id="dm_intro_help_1">
-		<text>Brother, help! (start here for your first session on 9/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>Brother, help!</text>
 	</string>
 	<string id="dm_intro_help_10">
-		<text>Help me, somebody!</text>
+		<text>Somebody, help me! (start here for your second session on 9/29/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_11">
 		<text>Guards, I'm hit! Come here!</text>
