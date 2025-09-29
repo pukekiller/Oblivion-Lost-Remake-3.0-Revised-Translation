@@ -872,10 +872,10 @@
 		<text>Guards, I'm hit! Come here!</text>
 	</string>
 	<string id="dm_intro_help_12">
-		<text>Help! I'm dying! (start here for your second session on 9/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>Help! I'm dying!</text>
 	</string>
 	<string id="dm_intro_help_2">
-		<text>Guys, first aid kit!</text>
+		<text>Guys, I need a first aid kit! (start here for your first session on 9/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_3">
 		<text>Get the first aid kit in here!</text>
