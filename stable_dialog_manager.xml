@@ -875,10 +875,10 @@
 		<text>Help! I'm dying!</text>
 	</string>
 	<string id="dm_intro_help_2">
-		<text>Guys, I need a first aid kit! (start here for your first session on 9/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>Guys, I need a first aid kit!</text>
 	</string>
 	<string id="dm_intro_help_3">
-		<text>Get the first aid kit in here!</text>
+		<text>Get a first aid kit over here! (start here for your second session on 9/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_4">
 		<text>Shock control, boys! Hurry up!</text>
