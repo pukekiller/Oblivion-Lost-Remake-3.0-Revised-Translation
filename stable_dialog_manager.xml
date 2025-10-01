@@ -884,10 +884,10 @@
 		<text>Guys, this man has gone into shock! Hurry up!</text>
 	</string>
 	<string id="dm_intro_help_5">
-		<text>First aid kit, men! (start here for your first session on 10/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>First aid kit, men!</text>
 	</string>
 	<string id="dm_intro_help_6">
-		<text>Somebody! Give me the first aid kit!</text>
+		<text>Somebody! Give me an first aid kit! (start here for your second session on 10/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dm_intro_help_7">
 		<text>Buddy, first aid kit... first aid kit!</text>
