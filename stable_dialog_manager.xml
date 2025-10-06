@@ -915,10 +915,10 @@
 		<text>The cost of repairing the weapon in the first slot:</text>
 	</string>
 	<string id="list_trader_repair_1">
-		<text>The cost of repairing the weapon in the second slot: (start here for your first session on 10/5/25 and don't forget to remove this reminder when you start)</text>
+		<text>The cost of repairing the weapon in the second slot:</text>
 	</string>
 	<string id="list_trader_repair_2">
-		<text>Cost to repair armor:</text>
+		<text>Cost to repair armor: (start here for your second session on 10/6/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
