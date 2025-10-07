@@ -926,10 +926,10 @@
 <!-- Repair at the Barman's -->
 <!--****************************-->
 	<string id="bar_trader_repair_0">
-		<text>Barkeep, you wouldn't happen to be a gunsmith, would you? (start here for your first session on 10/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Barkeep, you wouldn't happen to be a gunsmith, would you?</text>
 	</string>
 	<string id="bar_trader_repair_1">
-		<text>Truth be told... me, no. But I have a great gunsmith in my kitchen! So not only does he repair weapons, he repairs suits. So what are we gonna fix?\n\nA list of possible repairs:</text>
+		<text>Truth be told... me, no. But I have a great gunsmith in my kitchen! Not only does he repair weapons, he repairs suits as well. What do you want him to fix?\n\nA list of possible repairs: (start here for your second session on 10/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_trader_repair_2">
 		<text>Repair the weapon in the first slot.</text>
