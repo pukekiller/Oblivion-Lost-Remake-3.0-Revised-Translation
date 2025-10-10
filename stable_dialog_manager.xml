@@ -944,10 +944,10 @@
 		<text>Shit, money's always tight. I'll come back later!</text>
 	</string>
 	<string id="bar_trader_repair_6">
-		<text>Here you go! Everything is fixed as much as it can be! (start here for your first session on 10/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>Here you go! Everything is fixed as much as it can be!</text>
 	</string>
 	<string id="bar_trader_repair_7">
-		<text>Here you go! Everything possible is done!</text>
+		<text>Here you go! Anything that can be done has been done! (start here for your second session on 10/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_trader_repair_8">
 		<text>Your gunsmith really is a master! Give him my regards.</text>
