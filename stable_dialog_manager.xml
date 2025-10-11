@@ -950,10 +950,10 @@
 		<text>Here you go! Anything that can be done has been done!</text>
 	</string>
 	<string id="bar_trader_repair_8">
-		<text>Your gunsmith really is a master! Give him my regards. (start here for your first session on 10/10/25 and don't forget to remove this reminder when you start)</text>
+		<text>Your gunsmith really is a master! Give him my regards.</text>
 	</string>
 	<string id="bar_trader_repair_9">
-		<text>Great job indeed!</text>
+		<text>Great job indeed! (start here for your second session on 10/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_trader_repair_10">
 		<text>Is there anything else he can fix?</text>
