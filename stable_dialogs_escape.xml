@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="escape_lager_leader_hello_21">
-		<text>Stalker. Wait, don't shoot! I'm not a zombie!</text>
+		<text>Stalker. Wait, don't shoot! I'm not a zombie! (start here for your second session on 10/12/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_lager_leader_hello_11">
 		<text>Stalker. Wait, don't shoot!</text>
