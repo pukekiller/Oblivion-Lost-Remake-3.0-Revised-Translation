@@ -13,10 +13,10 @@
 		<text>Alive? Heh. I don't know what to say to you. I'm alive, but I'm.. not.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111">
-		<text>What happened to you? (start here for your second session on 10/14/25 and don't forget to remove this reminder when you start)</text>
+		<text>What happened to you?</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111">
-		<text>All I remember is a bright flash. It was about two, maybe three months ago. Maybe more. I woke up at the Doctor's, the one in the swamp. I was with him for about two weeks. He said I was hit by a massive blowout and miraculously escaped. Now I'm hiding out here. There's not a lot of people here, and there's no one here but dogs. There was a kind man in town. He was a journalist. I've seen him a couple times. He was looking for something. He had some documents with him.</text>
+		<text>All I remember is a bright flash. It was about two, maybe three months ago. Maybe more. I woke up at the Doctor's place, the one in the swamp. I was with him for about two weeks. He said I was hit by a massive blowout and miraculously escaped. Now I'm hiding out here. There's not a lot of people here, and there's no one here but dogs. There was a kind man in town. He was a journalist. I've seen him a couple times. He was looking for something. He had some documents with him.  (start here for your first session on 10/14/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111111">
 		<text>Tell me more about him.</text>
