@@ -22,10 +22,10 @@
 		<text>Tell me more about him.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111111">
-		<text>Listen, I've been here a week and I haven't eaten anything but rats. If you bring me some human food, say.. two loaves of bread, I'll tell you everything I know. I'd go myself, but the Freedom fighters don't like me much. You understand? (start here for your second session on 10/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Listen, I've been here a week and I haven't eaten anything but rats. If you bring me some human food, say.. two loaves of bread, I'll tell you everything I know. I'd go myself, but the Freedom fighters don't like me much. You understand?</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111111">
-		<text>Alright.</text>
+		<text>Alright. (start here for your first session on 10/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111112">
 		<text>Bye.</text>
