@@ -46,11 +46,10 @@
 		<text>Oh, man, here's the story. I've heard a lot about the boiler room. A famous stalker died there, a local legend, so to speak. There's an omen about this place: whoever goes into this place, anyone who goes there will be be haunted by bad luck. So. I decided to visit the catacombs. I went in. I look up, and there's an entrance under the ground somewhere. So I thought, "let me see what's in there." Man, you don't know how happy I am to see you. I haven't been out of here for half a day. So I come down. I see there's a shitload of hallways and rooms. I go into one. I go into the second one. I went into a third. My curiosity was piqued, wondering what this place was. I didn't know these catacombs were so complicated. Eventually, I got lost. Hey, man, listen, I need you to get me out of here. Or at least point me in the right direction. I'll never forget if you help me!</text>
 	</string>
 	<string id="rat_nov_2">
-		<text>I'll give you directions, sure. Look.. you go that way, and from there you turn left. Go through the corridor, don't look around in the rooms. There's nothing to do. You go down the hallway, and then you go up the stairs. It's on the right. That's your exit. (start here for your second session on 10/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'll give you directions, sure. Look.. you go that way, and from there you turn left. Go through the corridor, don't look around in the rooms. There's nothing to do. You go down the hallway, and then you go up the stairs. It's on the right. That's your exit.</text>
 	</string>
 	<string id="rat_nov_3">
-		<text>Hey, man, thanks. I'm gonna owe you for the rest of my life. Never
-I'll go down in these goddamn catacombs again. Fuck 'em</text>
+		<text>Hey, man, thanks. I'm gonna owe you for the rest of my life. I'll never go down in these goddamn catacombs again. Fuck them. (start here for your first session on 10/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rat_nov_4">
 		<text>Hey, you seen any live stalkers around here?</text>
