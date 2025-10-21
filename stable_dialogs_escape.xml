@@ -52,11 +52,10 @@
 		<text>Hey, man, thanks. I'm gonna owe you for the rest of my life. I'll never go down in these goddamn catacombs again. Fuck them.</text>
 	</string>
 	<string id="rat_nov_4">
-		<text>Hey, you seen any live stalkers around here? (start here for your second session on 10/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hey, you seen any live stalkers around here?</text>
 	</string>
 	<string id="rat_nov_5">
-		<text>Nah, man. No matter how many times I've been down here, I ain't seen nothing. Rats and skeletons.
-Nothing else interesting. It's a shame. Man, thanks again. I'm outta here.</text>
+		<text>Nah, man. No matter how many times I've been down here, I've seen nothing here. Rats and skeletons. Nothing else interesting. It's a shame. Man, thanks again. I'm out of here. (start here for your first session on 10/21/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_start_phanrom_0">
 		<text>You paged me?</text>
