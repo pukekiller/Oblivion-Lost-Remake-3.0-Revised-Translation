@@ -58,10 +58,10 @@
 		<text>Nah, man. No matter how many times I've been down here, I've seen nothing here. Rats and skeletons. Nothing else interesting. It's a shame. Man, thanks again. I'm out of here.</text>
 	</string>
 	<string id="jaba_start_phanrom_0">
-		<text>You paged me? (start here for your second session on 10/22/25 and don't forget to remove this reminder when you start)</text>
+		<text>You paged me?</text>
 	</string>
 	<string id="jaba_start_phanrom_1">
-		<text>Oh, he's here. Good job delivering the box. Appreciate it. So I talked to the Barkeep, and he needs time to figure out what's going on. you know, I guess. I got a case.</text>
+		<text>Oh, you're here. Good job delivering the box. Appreciate it. So I talked to the Barkeep, and he needs time to figure out what's going on, I guess. I got a case. (start here for your first session on 10/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_start_phanrom_2">
 		<text>What's the case?</text>
