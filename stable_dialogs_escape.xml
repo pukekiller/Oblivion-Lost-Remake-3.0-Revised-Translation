@@ -64,10 +64,10 @@
 		<text>Oh, you're here. Good job delivering the box. Appreciate it. So I talked to the Barkeep, and he needs time to figure out what's going on, I guess. I got a case.</text>
 	</string>
 	<string id="jaba_start_phanrom_2">
-		<text>What's the case? (start here for your second session on 10/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>What's the case?</text>
 	</string>
 	<string id="jaba_start_phanrom_3">
-		<text>Well, there was this new guy I know about a week ago. He's not a rookie, but that's not the point. said, "Vovan, I'm going to the Lake Yantar." It was clear that he was dead... he disappeared on the way to the research institute. I never heard from him again, but one of my couriers said he'd seen him periodically under the bridge at night.</text>
+		<text>Well, there was this new guy I know about a week ago. He's not a rookie, but that's not the point. He said, "Vovan, I'm going to the Lake Yantar." It was clear that he died on the way... he disappeared on the way to the research institute. I never heard from him again, but one of my couriers said he'd seen him periodically under the bridge at night. (start here for your first session on 10/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_start_phanrom_4">
 		<text>What's that got to do with me?</text>
