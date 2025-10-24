@@ -70,10 +70,10 @@
 		<text>Well, there was this new guy I know about a week ago. He's not a rookie, but that's not the point. He said, "Vovan, I'm going to the Lake Yantar." It was clear that he died on the way... he disappeared on the way to the research institute. I never heard from him again, but one of my couriers said he'd seen him periodically under the bridge at night.</text>
 	</string>
 	<string id="jaba_start_phanrom_4">
-		<text>What's that got to do with me? (start here for your second session on 10/24/25 and don't forget to remove this reminder when you start)</text>
+		<text>What's that got to do with me?</text>
 	</string>
 	<string id="jaba_start_phanrom_5">
-		<text>Because I got a report online that he's gone. I got a gut feeling something ain't right. I don't know what the hell happened to him. Maybe it's a glitch or-- well, you're the man of the hour, you go and see what's going on with him. He only shows up under the bridge at night. The point is, the locals know he's missing, and they're afraid to go there. I don't want that kind of damage.</text>
+		<text>Because I got a report online that he's gone. I got a gut feeling something isn't right. I don't know what the hell happened to him. Maybe it's a glitch or- well, you're the man of the hour, you go and see what's going on with him. He only shows up under the bridge at night. The point is, the locals know he's missing, and they're afraid to go there. I don't want that kind of damage. (start here for your first session on 10/24/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_start_phanrom_6">
 		<text>So what am I supposed to do?</text>
