@@ -121,10 +121,10 @@
 		<text>Let me see it. Where is it?</text>
 	</string>
 	<string id="sukkubys_sace_3">
-		<text>It's at the tower by the train cars where your artifact was. (start here for your first session on 11/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>It's at the tower by the train cars where your artifact was.</text>
 	</string>
 	<string id="sukkubys_sace_4">
-		<text>What the-- It's moving or something. Uh, maybe there's some artifacts in there. or maybe it's just junk or something. I'll give you 50 bucks for it. What do you say?</text>
+		<text>What the- it's moving or something. Uh, maybe there's some artifacts in there. or maybe it's just some junk or something. I'll give you 50 roubles for it. What do you say? (start here for your second session on 11/2/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sukkubys_sace_5">
 		<text>No, I'll keep it for now, just in case.</text>
