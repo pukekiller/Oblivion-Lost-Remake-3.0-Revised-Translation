@@ -139,10 +139,10 @@
 		<text>Well, try talking to the Snitch at the bar, maybe he'll give you a hint. You shouldn't have kept it, Messer. I got a knack for this kind of thing.</text>
 	</string>
 	<string id="sukkubys_sace_9">
-		<text>Take it. I don't need it. (start here for your first session on 11/4/25 and don't forget to remove this reminder when you start)</text>
+		<text>Take it. I don't need it.</text>
 	</string>
 	<string id="nikeagogo">
-		<text>Phew, thanks a lot, man. Thought you weren't coming back. One of the patrols spotted something near the bridge. They thought it was an artifact or something, but it was the size of an average person and it was glowing. It was like a phantom or something. We decided to get closer, and the object started to get farther away, so we didn't realize how we got here. We're gonna pack up and head back to our place.</text>
+		<text>Phew, thanks a lot, man. Thought you weren't coming back. One of the patrols spotted something near the bridge. They thought it was an artifact or something, but it was the size of an average person and it was glowing. It was like a phantom or something. We decided to get closer, and the object started to get farther away, so we didn't realize how we got here. We're gonna pack up and head back to our place. (start here for your second session on 11/5/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="tips_and_voyaks">
 		<text>Commander: Hey, stalker! Stop! Help us out, we're stuck here. Do you have a surge protector? Can you deactivate these fucking anomalies to get us out of here? It's going to take more than one discharger. We can't clear it with one. We've been trying to send an SOS signal for an hour, but the anomalies must be jamming the signal. Talk to me on your PDA, I'll tell you what you need to do!</text>
