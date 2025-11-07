@@ -151,10 +151,10 @@
 		<text>Toad: Careful in this place, there's a lot of anomalous activity. A step sideways and you're dead. Don't forget the bolts. By the way, I'm picking up a strange signal near the railroad tunnel. It's it looks like an SOS, but it's distorted or something. Why don't you go check it out?</text>
 	</string>
 	<string id="jabina_peredachka_name">
-		<text>Package from the Stalker Bar. (start here for your first session on 11/6/25 and don't forget to remove this reminder when you start)</text>
+		<text>Package from the Stalker Bar.</text>
 	</string>
 	<string id="jabina_peredachka_desc">
-		<text>It's a closed container, pretty heavy. It says on the side, "To Toad, from Rat." #138.</text>
+		<text>It's a closed container, pretty heavy. It says on the side, "To Toad, from Rat." #138. (start here for your second session on 11/7/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jhooo_baby">
 		<text>Looks like the bandits gave him a bath. In the well. Here's your box, you heavy devil.</text>
