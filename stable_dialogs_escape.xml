@@ -178,10 +178,10 @@
 		<text>There was a weird artifact and a mutant. I calmed him down, but here's the artifact, take it.</text>
 	</string>
 	<string id="hooo_zzz33">
-		<text>Wow, you killed the monster, that's good. Good for you. But this thing is interesting. Very interesting. Give it to me. Okay. I'll tell you something about this artifact. It's rumored to be able to fly with great force at a nearby stalker or monster. Yeah, yeah, you heard me right. It can even kill, in theory.. Very mysterious stuff, you know? (start here for your second session on 11/11/25 and don't forget to remove this reminder when you start)</text>
+		<text>Wow, you killed the monster, that's good. Good for you. But this thing is interesting. Very interesting. Give it to me. Okay. I'll tell you something about this artifact. It's rumored to be able to fly with great force at a nearby stalker or monster. Yeah, yeah, you heard me right. It can even kill, in theory.. Very mysterious stuff, you know?</text>
 	</string>
 	<string id="esc_trader_repair_0">
-		<text>I've got a science suit for a trip to the research institute, but it doesn't seem very hermetic. Can you do anything with it?</text>
+		<text>I've got a science suit for a trip to the research institute, but it doesn't seem very hermetic. Can you do anything with it? (start here for your first session on 11/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_trader_repair_1">
 		<text>Yeah, I've got some tools here. I'm not much of a repairman, but at the bar, yeah, I'm more of a fixer, but whatever. So what do you got? Yeah.\n\nIt's gonna cost a lot:</text>
