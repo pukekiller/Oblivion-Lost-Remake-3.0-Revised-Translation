@@ -187,10 +187,10 @@
 		<text>Yeah, I've got some tools here. I'm not much of a repairman, but at the bar, yeah, I'm more of a fixer, but whatever. So what do you got?\n\nIt's going to cost a lot:</text>
 	</string>
 	<string id="esc_trader_repair_4">
-		<text>Alright, we'll fix it. (start here for your first session on 11/12/25 and don't forget to remove this reminder when you start)</text>
+		<text>Alright, we'll fix it.</text>
 	</string>
 	<string id="esc_trader_repair_5">
-		<text>Shit, I don't have enough money. I'll come back later.</text>
+		<text>Shit, I don't have enough money. I'll come back later. (start here for your second session on 11/13/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_trader_repair_6">
 		<text>Here, I think it's alright with him now.</text>
