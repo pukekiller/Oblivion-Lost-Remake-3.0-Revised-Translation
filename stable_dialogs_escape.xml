@@ -193,10 +193,10 @@
 		<text>Shit, I don't have enough money. I'll come back later.</text>
 	</string>
 	<string id="esc_trader_repair_6">
-		<text>Here, I think it's alright with him now. (start here for your first session on 11/13/25 and don't forget to remove this reminder when you start)</text>
+		<text>Here, I think it's alright with him now.</text>
 	</string>
 	<string id="esc_trader_repair_7">
-		<text>Here you go, everything you need is done.</text>
+		<text>Here you go, everything you need is done. (start here for your second session on 11/14/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escesc_trader_repair_8">
 		<text>Well, that's good. I think we're good.</text>
