@@ -202,10 +202,10 @@
 		<text>Well, that's good. I think we're good.</text>
 	</string>
 	<string id="esc_trader_repair_9">
-		<text>Alright. (start here for your second session on 11/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Alright.</text>
 	</string>
 	<string id="dgonofnb_head_1">
-		<text>Are we there yet?</text>
+		<text>Are we there yet? (start here for your first session on 11/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dgonofnb_head_2">
 		<text>We're here. Okay, uh. check your gear again.</text>
