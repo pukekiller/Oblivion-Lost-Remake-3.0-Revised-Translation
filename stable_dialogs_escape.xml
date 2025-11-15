@@ -199,10 +199,10 @@
 		<text>Here you go, everything you need is done.</text>
 	</string>
 	<string id="escesc_trader_repair_8">
-		<text>Well, that's good. I think we're good. (start here for your first session on 11/14/25 and don't forget to remove this reminder when you start)</text>
+		<text>Well, that's good. I think we're good.</text>
 	</string>
 	<string id="esc_trader_repair_9">
-		<text>Alright.</text>
+		<text>Alright. (start here for your second session on 11/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dgonofnb_head_1">
 		<text>Are we there yet?</text>
