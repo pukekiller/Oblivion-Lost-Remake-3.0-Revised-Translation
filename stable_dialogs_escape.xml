@@ -208,10 +208,10 @@
 		<text>Are we there yet?</text>
 	</string>
 	<string id="dgonofnb_head_2">
-		<text>We're here. Okay, uh, check your gear again. (start here for your second session on 11/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>We're here. Okay, uh, check your gear again.</text>
 	</string>
 	<string id="dgonofnb_head_3">
-		<text>Alright, shall we move on?</text>
+		<text>Alright, shall we move on? (start here for your first session on 11/16/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="dgonofnb_head_4">
 		<text>There's a gate on the left, go through it, I'll follow you. I'm just going to change. Go on. I'll catch up with you, don't worry.</text>
