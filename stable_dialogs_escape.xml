@@ -214,10 +214,10 @@
 		<text>Alright, shall we move on?</text>
 	</string>
 	<string id="dgonofnb_head_4">
-		<text>There's a gate on the left, go through it, I'll follow you. I'm just going to change. Go on. I'll catch up with you, don't worry. (start here for your second session on 11/17/25 and don't forget to remove this reminder when you start)</text>
+		<text>There's a gate on the left, go through it, I'll follow you. I'm just going to change. Go on. I'll catch up with you, don't worry.</text>
 	</string>
 	<string id="dgonofnb_head_5">
-		<text>I'll catch up with you, don't worry.</text>
+		<text>I'll catch up with you, don't worry. (start here for your first session on 11/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gonofnb_head_1">
 		<text>You ready to go?</text>
