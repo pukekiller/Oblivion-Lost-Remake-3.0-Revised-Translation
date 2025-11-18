@@ -220,10 +220,10 @@
 		<text>I'll catch up with you, don't worry.</text>
 	</string>
 	<string id="gonofnb_head_1">
-		<text>You ready to go? (start here for your second session on 11/18/25 and don't forget to remove this reminder when you start)</text>
+		<text>You ready to go?</text>
 	</string>
 	<string id="gonofnb_head_2">
-		<text>Yeah, we can go. You've been to the dump before, right? You probably know the way, but it's best to stick together. So, you got your outfit on you? If you do, we can get out of here. The trader's counting on us for this, so let's not get too heroic... Though we should pick up some loot if we can.</text>
+		<text>Yeah, we can go. You've been to the dump before, right? You probably know the way, but it's best to stick together. So, you got your outfit on you? If you do, we can get out of here. The trader's counting on us for this, so let's not get too heroic... Though we should pick up some loot if we can. (start here for your first session on 11/18/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gonofnb_head_3">
 		<text>I think we're good to go.</text>
