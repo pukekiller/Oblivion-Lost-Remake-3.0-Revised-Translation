@@ -226,10 +226,10 @@
 		<text>Yeah, we can go. You've been to the dump before, right? You probably know the way, but it's best to stick together. So, you got your outfit on you? If you do, we can get out of here. The trader's counting on us for this, so let's not get too heroic... Though we should pick up some loot if we can.</text>
 	</string>
 	<string id="gonofnb_head_3">
-		<text>I think we're good to go. (start here for your second session on 11/19/25 and don't forget to remove this reminder when you start)</text>
+		<text>I think we're good to go.</text>
 	</string>
 	<string id="gonofnb_head_4">
-		<text>Alright. You follow me, I've been there a few times, I know the way. Get behind me and cover me if you can. It's usually quiet here, but sometimes the worst of it can come from the middle of nowhere. Alright, gear's in place, let's move.</text>
+		<text>Alright. You follow me, I've been there a few times, I know the way. Get behind me and cover me if you can. It's usually quiet here, but sometimes the worst of it can come from the middle of nowhere. Alright, gear's in place, let's move. (start here for your first session on 11/19/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gonofnb_head_5">
 		<text>Let's go.</text>
