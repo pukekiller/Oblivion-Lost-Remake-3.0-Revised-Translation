@@ -232,10 +232,10 @@
 		<text>Alright. You follow me, I've been there a few times, I know the way. Get behind me and cover me if you can. It's usually quiet here, but sometimes the worst of it can come from the middle of nowhere. Alright, gear's in place, let's move.</text>
 	</string>
 	<string id="gonofnb_head_5">
-		<text>Let's go. (start here for your second session on 11/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>Let's go.</text>
 	</string>
 	<string id="maopojanonb_head_1_k">
-		<text>You got a science suit that's good enough to go to the research institute?</text>
+		<text>You got a science suit that's good enough to go to the research institute? (start here for your first session on 11/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="maopojanonb_head_2_k">
 		<text>Yeah, I got one. A stalker by the railroad tracks found it. It's beat up, but he spent a couple nights working on it, and now it's good as new.</text>
