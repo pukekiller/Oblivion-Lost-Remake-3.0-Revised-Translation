@@ -283,10 +283,10 @@
 		<text>There's a creature in a village just to the left of the bridge. Rare, but extremely bloodthirsty. The stalkers who were there said that human guts were hanging on the branches, as if it was tearing up its victims. No one's ever seen what kind of creature it is. Anyway, heh, I see you're a brave guy, dashing, running back and forth all the time... yeah. If you kill the bastard, the suit's yours. That's it.</text>
 	</string>
 	<string id="janonb_head_5_k">
-		<text>I'll take a look. But no promises. (start here for your first session on 11/28/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'll take a look. But no promises.</text>
 	</string>
 	<string id="janonb_head_1">
-		<text>About my trip to the research institute.</text>
+		<text>Let's talk about my trip to the research institute. (start here for your second session on 11/29/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="janonb_head_2">
 		<text>Well? Is there a problem or something?</text>
