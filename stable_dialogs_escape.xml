@@ -286,10 +286,10 @@
 		<text>I'll take a look. But no promises.</text>
 	</string>
 	<string id="janonb_head_1">
-		<text>Let's talk about my trip to the research institute. (start here for your second session on 11/29/25 and don't forget to remove this reminder when you start)</text>
+		<text>Let's talk about my trip to the research institute.</text>
 	</string>
 	<string id="janonb_head_2">
-		<text>Well? Is there a problem or something?</text>
+		<text>Well? Is there a problem or something? (start here for your first session on 11/29/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="janonb_head_3">
 		<text>No, nothing. Forget it.</text>
