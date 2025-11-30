@@ -292,10 +292,10 @@
 		<text>Well? Is there a problem or something?</text>
 	</string>
 	<string id="janonb_head_3">
-		<text>No, it's nothing. Forget it. (start here for your second session on 11/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>No, it's nothing. Forget it.</text>
 	</string>
 	<string id="janonb_head_4">
-		<text>Go on then.</text>
+		<text>Go on then. (start here for your first session on 11/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_samyy_start_0">
 		<text>Hey! Are you okay? Are you awake? Can you talk? Or should I tell the guys to take you back to where they found you?</text>
