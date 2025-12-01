@@ -298,10 +298,10 @@
 		<text>Go on then.</text>
 	</string>
 	<string id="jaba_samyy_start_0">
-		<text>Hey! Are you okay? Are you awake? Can you talk? Or should I tell the guys to take you back to where they found you? (start here for your second session on 12/1/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hey! Are you okay? Are you awake? Can you talk? Or should I tell the guys to take you back to where they found you?</text>
 	</string>
 	<string id="kdenb_head_1">
-		<text>Hi. What are you doing here?</text>
+		<text>Hi. What are you doing here? (start here for your first session on 12/1/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="kdenb_head_2">
 		<text>Stalker, help me. I was walking around the Cordon, and, uh. I met two guys from the Garbage. Bandits, veterans. You can tell they're old school. I had an AK, just a regular 74. They just took it away from me. Good thing they didn't kill me, they just shot me in the leg, so I ran away.</text>
