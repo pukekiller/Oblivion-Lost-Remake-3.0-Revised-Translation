@@ -310,10 +310,10 @@
 		<text>So what can I do for you?</text>
 	</string>
 	<string id="kdenb_head_4">
-		<text>I followed them for a while, they went behind the factory. Listen. I've seen you walking around, why don't you give them a warm welcome? I just need the gun they took from me, that's all. I don't know if they still got it, but please try to get me that Kalashnikov they stole from me. I won't be in deb any compensate for your trouble, but if you play around with it long enough to shoot it, when you take it away from them, I'll think you screwed me. Keep that in mind. Just don't forget you're going to have to give it back, okay? (start here for your second session on 12/3/25 and don't forget to remove this reminder when you start)</text>
+		<text>I followed them for a while, they went behind the factory. Listen. I've seen you walking around, why don't you give them a warm welcome? I just need the gun they took from me, that's all. I don't know if they still got it, but please try to get me that Kalashnikov they stole from me. I won't be in deb any compensate for your trouble, but if you play around with it long enough to shoot it, when you take it away from them, I'll think you screwed me. Keep that in mind. Just don't forget you're going to have to give it back, okay?</text>
 	</string>
 	<string id="nonb_head_1">
-		<text>Hey, stalker. Got a question for you.</text>
+		<text>Hey, stalker. Got a question for you. (start here for your first session on 12/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="nonb_head_2">
 		<text>Hey, thanks for the gun again, by the way. What do you want?</text>
