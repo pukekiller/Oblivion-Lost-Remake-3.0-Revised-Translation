@@ -307,10 +307,10 @@
 		<text>Stalker, help me. I was walking around the Cordon, and, uh. I met two guys from the Garbage. Bandits, veterans. You can tell they're old school. I had an AK, just a regular 74. They just took it away from me. Good thing they didn't kill me, they just shot me in the leg, so I ran away.</text>
 	</string>
 	<string id="kdenb_head_3">
-		<text>So what can I do for you? (start here for your first session on 12/2/25 and don't forget to remove this reminder when you start)</text>
+		<text>So what can I do for you?</text>
 	</string>
 	<string id="kdenb_head_4">
-		<text>I followed them for a while, they went behind the factory. Listen. I've seen you walking around, why don't you give them a warm welcome? I just need a machine gun, that's all. I don't know if they still got one. Well, get me a 74 Kalashnikov. I won't be in debt. If you play around with it long enough to shoot it, when you take it away from them, I'll think you screwed me. Keep that in mind. Just don't forget you're gonna have to give it back, okay?</text>
+		<text>I followed them for a while, they went behind the factory. Listen. I've seen you walking around, why don't you give them a warm welcome? I just need the gun they took from me, that's all. I don't know if they still got it, but please try to get me that Kalashnikov they stole from me. I won't be in deb any compensate for your trouble, but if you play around with it long enough to shoot it, when you take it away from them, I'll think you screwed me. Keep that in mind. Just don't forget you're going to have to give it back, okay? (start here for your second session on 12/3/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="nonb_head_1">
 		<text>Hey, stalker. Got a question for you.</text>
