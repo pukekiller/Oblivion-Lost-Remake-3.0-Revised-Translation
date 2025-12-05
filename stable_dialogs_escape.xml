@@ -319,10 +319,10 @@
 		<text>Hey, thanks for the gun again, by the way. What do you want?</text>
 	</string>
 	<string id="nonb_head_3">
-		<text>I'm going on a raid at the Agroprom Research Institute, you ever heard of it? I'm looking for a good partner to back me up if I need help, you know. What do you say? (start here for your first session on 12/4/25 and don't forget to remove this reminder when you start)</text>
+		<text>I'm going on a raid at the Agroprom Research Institute, you ever heard of it? I'm looking for a good partner to back me up if I need help, you know. What do you say?</text>
 	</string>
 	<string id="nonb_head_4">
-		<text>NRI, huh? Hmm, why not? But you see, my equipment's not very good. To go to the research institute, you need a stalker outfit at least. I've heard the radiation there is pretty bad. So let's do it this way. You get me a stalker suit, and then we'll go right away.</text>
+		<text>Agroprom, huh? Hmm, why not? But you see, my equipment's not very good. To go to the research institute, you need a stalker outfit at least. I've heard the radiation there is pretty bad. So let's do it this way. You get me a stalker suit, and then we'll go right away. (start here for your second session on 12/5/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="skdenb_head_1">
 		<text>About your machine gun.</text>
