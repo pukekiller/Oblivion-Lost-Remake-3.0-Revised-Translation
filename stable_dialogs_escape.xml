@@ -337,10 +337,10 @@
 		<text>Thanks a lot, buddy. I'm going to the village. You come by sometime. Maybe we can work something out together. I'm thinking of going to the Garbage soon.</text>
 	</string>
 	<string id="tnonb_head_1">
-		<text>I got an outfit for you. (start here for your first session on 12/7/25 and don't forget to remove this reminder when you start)</text>
+		<text>I got an outfit for you.</text>
 	</string>
 	<string id="tnonb_head_2">
-		<text>Oh, that's great. I'll just change at the Garbage. We can move right now.</text>
+		<text>Oh, that's great. I'll just change at the Garbage. We can move right now. (start here for your second session on 12/8/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="tnonb_head_3">
 		<text>You know how to handle a gun, right?</text>
