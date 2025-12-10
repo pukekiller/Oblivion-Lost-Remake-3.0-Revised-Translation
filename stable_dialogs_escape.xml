@@ -349,10 +349,10 @@
 		<text>Huh, why are you asking me that? I've done things to scumbags you wouldn't even dream of. So... don't forget your outfit, and we'll move right away.</text>
 	</string>
 	<string id="btnonb_head_1">
-		<text>Listen... do you want to raid the Agroprom Research Institute? (start here for first session on 12/9/25 and don't forget to remove this reminder when you start)</text>
+		<text>Listen... do you want to raid the Agroprom Research Institute?</text>
 	</string>
 	<string id="btnonb_head_2">
-		<text>What? A raid? With you? So you can put another bullet in me?</text>
+		<text>What? A raid? With you? So you can put another bullet in me? (start here for second session on 12/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="btnonb_head_3">
 		<text>Yeah.</text>
