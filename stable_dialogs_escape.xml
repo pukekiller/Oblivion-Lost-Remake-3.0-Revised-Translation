@@ -352,10 +352,10 @@
 		<text>Listen... do you want to raid the Agroprom Research Institute?</text>
 	</string>
 	<string id="btnonb_head_2">
-		<text>What? A raid? With you? So you can put another bullet in me? (start here for second session on 12/10/25 and don't forget to remove this reminder when you start)</text>
+		<text>What? A raid? With you? So you can put another bullet in me?</text>
 	</string>
 	<string id="btnonb_head_3">
-		<text>Yeah.</text>
+		<text>Uh... no. (start here for first session on 12/10/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="btnonb_head_4">
 		<text>Get outta here before I give you a bullet.</text>
