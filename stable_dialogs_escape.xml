@@ -358,10 +358,10 @@
 		<text>Uh... no.</text>
 	</string>
 	<string id="btnonb_head_4">
-		<text>Get out of here before I give you a bullet. (start here for second session on 12/11/25 and don't forget to remove this reminder when you start)</text>
+		<text>Get out of here before I give you a bullet.</text>
 	</string>
 	<string id="skdenb_head_3_u">
-		<text>I got one, but it's a shortened one. You want it?</text>
+		<text>I got one, but it's a shortened one. You want it? (start here for first session on 12/11/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="skdenb_head_4_u">
 		<text>Shit. I guess the bastards drank it. The shortened one's not bad, but it's got more range. It could cost you your life. Alright, come on. Thank you.</text>
