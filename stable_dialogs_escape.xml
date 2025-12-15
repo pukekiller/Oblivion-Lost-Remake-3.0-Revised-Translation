@@ -382,10 +382,10 @@
 		<text>I found it, the short one. You know, I think I'm gonna keep it.</text>
 	</string>
 	<string id="skdenb_head_4_s_u">
-		<text>Yeah, you asked for help. Well, go on, go on. I'll see you around. (start here for your second session on 12/15/25 and don't forget to remove this reminder when you start)</text>
+		<text>Yeah, you asked for help. Well, go on, go on. I'll see you around.</text>
 	</string>
 	<string id="pjaba_esli_alarm_0">
-		<text>Who the hell are you?</text>
+		<text>Who the hell are you? (start here for your first session on 12/15/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="pjaba_esli_alarm_1">
 		<text>This is our place. What are you doing here?</text>
