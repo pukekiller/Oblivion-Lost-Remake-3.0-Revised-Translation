@@ -391,10 +391,10 @@
 		<text>This is our place. What are you doing here?</text>
 	</string>
 	<string id="pjaba_esli_alarm_2">
-		<text>Uh, I'm here on business. I have an assignment.. to get some papers from here. (start here for your first session on 12/16/25 and don't forget to remove this reminder when you start)</text>
+		<text>Uh, I'm here on business. I have an assignment.. to get some papers from here.</text>
 	</string>
 	<string id="pjaba_esli_alarm_3">
-		<text>Papers? Hmm. We don't need them. But we do have something. Shotgun. It's right here, right next to it. It's our work. You can have it, but only if you help us. Some stalker wandered into our lab here, right where we want to build our new sanctuary. But there's a warehouse of big crates we can't move. Take this, it'll help with the heavy lifting. Remove the rubble and chase him away. Come back afterward, we'll talk.</text>
+		<text>Papers? Hmm. We don't need them. But we do have something: a shotgun. It's right here, right next to this. It's our work. You can have it, but only if you help us. Some stalker wandered into our lab here, right where we want to build our new sanctuary. But there's a lot of big crates we can't move. Take this, it'll help with the heavy lifting. Remove the crates and chase him away. Come back after you're done, we'll talk. (start here for your second session on 12/17/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="pjaba_esli_alarm_4">
 		<text>So what exactly do you want from me?</text>
