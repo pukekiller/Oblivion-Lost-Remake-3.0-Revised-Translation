@@ -397,10 +397,10 @@
 		<text>Papers? Hmm. We don't need them. But we do have something: a shotgun. It's right here, right next to this. It's our work. You can have it, but only if you help us. Some stalker wandered into our lab here, right where we want to build our new sanctuary. But there's a lot of big crates we can't move. Take this, it'll help with the heavy lifting. Remove the crates and chase him away. Come back after you're done, we'll talk.</text>
 	</string>
 	<string id="pjaba_esli_alarm_4">
-		<text>So what exactly do you want from me? (start here for your first session on 12/17/25 and don't forget to remove this reminder when you start)</text>
+		<text>So what exactly do you want from me?</text>
 	</string>
 	<string id="pjaba_esli_alarm_5">
-		<text>Clear the rubble and chase the stalker away. The mark is now showing up on your computer.</text>
+		<text>Clear the crates and chase the stalker away. The mark showing where the stalker is located is now showing up on your computer. (start here for your second session on 12/18/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="zdenb_head_1">
 		<text>Well, I think we're all set.</text>
