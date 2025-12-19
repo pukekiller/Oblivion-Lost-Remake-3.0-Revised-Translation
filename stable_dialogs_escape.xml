@@ -400,10 +400,10 @@
 		<text>So what exactly do you want from me?</text>
 	</string>
 	<string id="pjaba_esli_alarm_5">
-		<text>Clear the crates and chase the stalker away. The mark showing where the stalker is located is now showing up on your computer. (start here for your second session on 12/18/25 and don't forget to remove this reminder when you start)</text>
+		<text>Clear the crates and chase the stalker away. The mark showing where the stalker is located is now showing up on your computer.</text>
 	</string>
 	<string id="zdenb_head_1">
-		<text>Well, I think we're all set.</text>
+		<text>Well, I think we're all set. (start here for your second session on 12/19/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="zdenb_head_2">
 		<text>Yeah, we're good now. Well, we'll keep our word. Apparently. you can be trusted. And trust me with something.</text>
