@@ -409,10 +409,10 @@
 		<text>Yeah, we're good now. Well, we'll keep our word. Apparently. you can be trusted... and trust me with something.</text>
 	</string>
 	<string id="zdenb_head_3">
-		<text>The stalker said he came here through the Agroprom Research Institute. He-  (start here for your second session on 12/20/25 and don't forget to remove this reminder when you start)</text>
+		<text>The stalker said he came here through the Agroprom Research Institute. He-</text>
 	</string>
 	<string id="zdenb_head_4">
-		<text>Here, take it. Now leave us alone. Wait, here's something else. This pendant is of great value to us. Keep it safe, and you'll always have good luck. Now leave us.</text>
+		<text>Here, take it. Now leave us alone. Wait, here's something else. This pendant is of great value to us. Keep it safe, and you'll always have good luck. Now leave us.  (start here for your first session on 12/20/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="denb_head_1">
 		<text>Hello. How's it going?</text>
