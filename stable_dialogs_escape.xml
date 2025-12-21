@@ -415,10 +415,10 @@
 		<text>Here, take it. Now leave us alone. Wait, here's something else. This pendant is of great value to us. Keep it safe, and you'll always have good luck. Now leave us.</text>
 	</string>
 	<string id="denb_head_1">
-		<text>Hello. How's it going? (start here for your second session on 12/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>Hello. How's it going?</text>
 	</string>
 	<string id="denb_head_2">
-		<text>Messer, phew! Yeah, I'm fine! I made it to the bar pretty good. Told people you're a good guy. Oh, by the way, I saw some dudes in weird outfits coming out of the lab, but they didn't seem to notice me. Yeah, and I saw some thug at the entrance. I had to give him one artifact to get out of the lab, you know? Those thugs are fucking crazy!</text>
+		<text>Messer, phew! Yeah, I'm fine! I made it to the bar pretty good. I told people you're a good guy. Oh, by the way, I saw some dudes in weird outfits coming out of the lab, but they didn't seem to notice me. Yeah, and I saw some thug at the entrance. I had to give him one artifact to get out of the lab, you know? Those thugs are fucking crazy! (start here for your first session on 12/21/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="denb_head_3">
 		<text>Okay, you're welcome. The three guys in blue gear seem interesting.</text>
