@@ -418,10 +418,10 @@
 		<text>Hello. How's it going?</text>
 	</string>
 	<string id="denb_head_2">
-		<text>Messer, phew! Yeah, I'm fine! I made it to the bar pretty good. I told people you're a good guy. Oh, by the way, I saw some dudes in weird outfits coming out of the lab, but they didn't seem to notice me. Yeah, and I saw some thug at the entrance. I had to give him one artifact to get out of the lab, you know? Those thugs are fucking crazy! (start here for your first session on 12/21/25 and don't forget to remove this reminder when you start)</text>
+		<text>Messer, phew! Yeah, I'm fine! I made it to the bar pretty good. I told people you're a good guy. Oh, by the way, I saw some dudes in weird outfits coming out of the lab, but they didn't seem to notice me. Yeah, and I saw some thug at the entrance. I had to give him one artifact to get out of the lab, you know? Those thugs are fucking crazy!</text>
 	</string>
 	<string id="denb_head_3">
-		<text>Okay, you're welcome. The three guys in blue gear seem interesting.</text>
+		<text>Okay, you're welcome. The three guys in blue gear seem.. suspect. (start here for your second session on 12/22/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="denb_head_4">
 		<text>Thank you. Trust me, an honest stalker's reputation is worth more than his loot.</text>
