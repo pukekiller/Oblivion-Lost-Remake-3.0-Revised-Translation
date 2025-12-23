@@ -424,10 +424,10 @@
 		<text>Okay, you're welcome. The three guys in blue gear seem.. suspect.</text>
 	</string>
 	<string id="denb_head_4">
-		<text>Thank you. Trust me, an honest stalker's reputation is worth more than his loot. (start here for your second session on 12/23/25 and don't forget to remove this reminder when you start)</text>
+		<text>Thank you. Trust me, an honest stalker's reputation is worth more than his loot.</text>
 	</string>
 	<string id="den_head_1">
-		<text>Hey. I'm here to see you.</text>
+		<text>Hey. I'm here to see you. (start here for your first session on 12/23/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="den_head_2">
 		<text>What the hell? Stalker! Shit! I thought I was done for. I found the entrance to a tunnel at the Agroprom Research Institute. I walked for a long time, maybe a day or two, I don't remember. And somehow I came across a door. I thought I was saved, but it was nothing. I climbed in, the door closed from where I came, as if on purpose! And this room was sealed by random clutter. Where the hell are we?</text>
