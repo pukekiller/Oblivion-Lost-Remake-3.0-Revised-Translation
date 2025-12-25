@@ -436,10 +436,10 @@
 		<text>It doesn't matter. What matters is you need to get out of here as soon as possible if you want to live. The way out of the lab is upstairs. I've cleared the way up, the rubble's cleared, you're good to go.</text>
 	</string>
 	<string id="den_head_4">
-		<text>Yes... I'll never forget it, buddy. Thank you. I'm gonna head to the bar now. Go there if you need me. I'll tell everyone you helped me out.  (start here for your second session on 12/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>Yes... I'll never forget it, buddy. Thank you. I'm gonna head to the bar now. Go there if you need me. I'll tell everyone you helped me out.</text>
 	</string>
 	<string id="fuck_you_asshole_grehone">
-		<text>Fuck you!</text>
+		<text>Fuck you!  (start here for your first session on 12/25/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="blyaaa_head_1">
 		<text>Hey...</text>
