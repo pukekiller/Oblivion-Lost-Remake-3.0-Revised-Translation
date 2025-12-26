@@ -439,10 +439,10 @@
 		<text>Yes... I'll never forget it, buddy. Thank you. I'm gonna head to the bar now. Go there if you need me. I'll tell everyone you helped me out.</text>
 	</string>
 	<string id="fuck_you_asshole_grehone">
-		<text>Fuck you!  (start here for your first session on 12/25/25 and don't forget to remove this reminder when you start)</text>
+		<text>Fuck you!</text>
 	</string>
 	<string id="blyaaa_head_1">
-		<text>Hey...</text>
+		<text>Hey... (start here for your second session on 12/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="blyaaa_head_2">
 		<text>What, you're still here? What are you standing there for?</text>
