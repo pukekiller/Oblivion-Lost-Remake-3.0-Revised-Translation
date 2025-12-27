@@ -448,10 +448,10 @@
 		<text>What, you're still here? What are you standing there for?</text>
 	</string>
 	<string id="blyaaa_head_3">
-		<text>... (start here for your second session on 12/27/25 and don't forget to remove this reminder when you start)</text>
+		<text>...</text>
 	</string>
 	<string id="blyaaa_head_4">
-		<text>Where's my box? Hurry up!</text>
+		<text>Where's my box? Hurry up! (start here for your first session on 12/27/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="jaba_esli_alarm_0">
 		<text>Phew... I think I got it!</text>
