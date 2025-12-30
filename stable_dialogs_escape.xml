@@ -466,10 +466,10 @@
 		<text>Holy shit! You're going to get me in serious trouble! I told you to be quiet! You're gonna make up for the trouble you've caused! And don't talk back, there's no way out!</text>
 	</string>
 	<string id="jaba_esli_alarm_4">
-		<text>It's just something that happened, you know. (start here for your second session on 12/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>It's just something that happened, you know.</text>
 	</string>
 	<string id="jaba_esli_alarm_5">
-		<text>Shit. Looks like we're gonna have to shut this place down.</text>
+		<text>Shit. It looks like we're going to have to shut this place down. (start here for your first session on 12/30/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="huli_tebe">
 		<text>What do you want?</text>
