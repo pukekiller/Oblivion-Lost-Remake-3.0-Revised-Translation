@@ -469,10 +469,10 @@
 		<text>It's just something that happened, you know.</text>
 	</string>
 	<string id="jaba_esli_alarm_5">
-		<text>Shit. It looks like we're going to have to shut this place down. (start here for your first session on 12/30/25 and don't forget to remove this reminder when you start)</text>
+		<text>Shit. It looks like we're going to have to shut this place down.</text>
 	</string>
 	<string id="huli_tebe">
-		<text>What do you want?</text>
+		<text>What do you want? (start here for your second session on 12/31/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="hooo_zzz">
 		<text>Yes! That's it! Thank you, stalker. I'll finally be able to raid the research institute.</text>
