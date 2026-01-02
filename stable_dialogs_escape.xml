@@ -484,10 +484,10 @@
 		<text>No problem. I'm off.</text>
 	</string>
 	<string id="hooo_baby">
-		<text>Interesting. What do you want me to do? (start here for your second session on 1/2/26 and don't forget to remove this reminder when you start)</text>
+		<text>Interesting. What do you want me to do?</text>
 	</string>
 	<string id="hooo_baby_2">
-		<text>We need to take it away from him. I tried that myself when he was here. He says I'm not offering enough money, he's asking for more. I'd make some money, and there's artifacts here at the Garbage, but-- Look, why don't you go see him? He's hanging out at the Duty checkpoint north of the Garbage. Put some pressure on him, I think he'll be more cooperative with you.</text>
+		<text>We need to take it away from him. I tried that myself when he was here. He says I'm not offering enough money, he's asking for more. I'd make some money, and there's artifacts here at the Garbage, but- Look, why don't you go see him? He's hanging out at the Duty checkpoint north of the Garbage. Put some pressure on him, I think he'll be more cooperative with you. (start here for your first session on 1/2/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog9_0">
 		<text>Can you tell me where I can find some artifacts?</text>
