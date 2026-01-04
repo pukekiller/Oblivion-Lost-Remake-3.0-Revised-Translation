@@ -493,10 +493,10 @@
 		<text>Can you tell me where I can find some artifacts?</text>
 	</string>
 	<string id="sim_dialog9_1">
-		<text>Do you need house keys and bank account numbers? (start here for your first session on 1/3/26 and don't forget to remove this reminder when you start)</text>
+		<text>Do you need house keys and bank account numbers?</text>
 	</string>
 	<string id="sim_dialog9_2">
-		<text>That'd be nice.</text>
+		<text>That'd be nice. (start here for your second session on 1/4/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog9_3">
 		<text>You got a point? Go ahead, go ahead, go ahead. There aren't enough artifacts these days, not enough! I remember a month ago, when there was almost no one here, there were artifacts everywhere. And now there's a flood of greenbacks. And it's even cheaper!</text>
