@@ -505,10 +505,10 @@
 		<text>And if you think about it?</text>
 	</string>
 	<string id="sim_dialog9_5">
-		<text>Well, I've noticed a strange thing. They show up in secluded places where there are no people. Look around in nooks and crannies, houses, basements, and construction sites. (start here for your first session on 1/5/26 and don't forget to remove this reminder when you start)</text>
+		<text>Well, I've noticed a strange thing. They show up in secluded places where there are no people. Look around in nooks and crannies, houses, basements, and construction sites.</text>
 	</string>
 	<string id="sim_dialog9_6">
-		<text>Thank you.</text>
+		<text>Thank you. (start here for your second session on 1/6/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog8_0">
 		<text>Why so shocked?</text>
