@@ -517,10 +517,10 @@
 		<text>Ah? Uh, nothing, nothing.</text>
 	</string>
 	<string id="sim_dialog8_2">
-		<text>Come on, say it. (start here for your first session on 1/7/26 and don't forget to remove this reminder when you start)</text>
+		<text>Come on, say it.</text>
 	</string>
 	<string id="sim_dialog8_11">
-		<text>No, it's okay.</text>
+		<text>No, it's okay. (start here for your second session on 1/8/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog8_3">
 		<text>There's a story. I was talking to a guy, and he said: How can you not notice Elektra?</text>
