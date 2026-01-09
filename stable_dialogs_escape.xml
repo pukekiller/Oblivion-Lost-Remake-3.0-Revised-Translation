@@ -526,10 +526,10 @@
 		<text>Well.. there's a story. I was talking to a guy, and he said: How can you not notice the Electra?</text>
 	</string>
 	<string id="sim_dialog8_4">
-		<text>So? Really, how can you not notice?  (start here for your second session on 1/9/26 and don't forget to remove this reminder when you start)</text>
+		<text>So? Really, how can you not notice?</text>
 	</string>
 	<string id="sim_dialog8_5">
-		<text>So. We talked, I stayed where I was, and he went and hid behind a pile of garbage. A few seconds later I hear the sound of a discharge, I run up there, and there's only a charred corpse, and Elektra next to it.</text>
+		<text>We talked, I stayed where I was, and he went and hid behind a pile of garbage. A few seconds later I hear the sound of a discharge, I run up there, and there's only a charred corpse, and an Electra next to it.  (start here for your first session on 1/9/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog8_6">
 		<text>How did that happen?</text>
