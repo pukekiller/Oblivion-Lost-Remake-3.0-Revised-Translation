@@ -529,10 +529,10 @@
 		<text>So? Really, how can you not notice?</text>
 	</string>
 	<string id="sim_dialog8_5">
-		<text>We talked, I stayed where I was, and he went and hid behind a pile of garbage. A few seconds later I hear the sound of a discharge, I run up there, and there's only a charred corpse, and an Electra next to it.  (start here for your first session on 1/9/26 and don't forget to remove this reminder when you start)</text>
+		<text>We talked, I stayed where I was, and he went and hid behind a pile of garbage. A few seconds later I hear the sound of a discharge, I run up there, and there's only a charred corpse, and an Electra next to it.</text>
 	</string>
 	<string id="sim_dialog8_6">
-		<text>How did that happen?</text>
+		<text>How did that happen? (start here for your second session on 1/10/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog8_7">
 		<text>So that's what I'm getting at... The zone can do things like this sometimes, so don't be rude to it. After all, she can hear you, believe me.</text>
