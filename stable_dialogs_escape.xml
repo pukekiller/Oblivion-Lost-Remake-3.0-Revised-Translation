@@ -532,10 +532,10 @@
 		<text>We talked, I stayed where I was, and he went and hid behind a pile of garbage. A few seconds later I hear the sound of a discharge, I run up there, and there's only a charred corpse, and an Electra next to it.</text>
 	</string>
 	<string id="sim_dialog8_6">
-		<text>How did that happen? (start here for your second session on 1/10/26 and don't forget to remove this reminder when you start)</text>
+		<text>How did that happen?</text>
 	</string>
 	<string id="sim_dialog8_7">
-		<text>So that's what I'm getting at... The zone can do things like this sometimes, so don't be rude to it. After all, she can hear you, believe me.</text>
+		<text>That's what I'm getting at... The Zone can do things like this sometimes, so don't be rude to it. After all, she can hear you, believe me. (start here for your first session on 1/10/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog8_8">
 		<text>Then I take it back, if it ain't too late.</text>
