@@ -544,10 +544,10 @@
 		<text>It's just bad luck, that's all.</text>
 	</string>
 	<string id="sim_dialog7_0">
-		<text>What are you doing? (start here for your second session on 1/12/26 and don't forget to remove this reminder when you start)</text>
+		<text>What are you doing?</text>
 	</string>
 	<string id="sim_dialog7_1">
-		<text>Do you even care?</text>
+		<text>Do you even care? (start here for your first session on 1/12/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog7_2">
 		<text>I'm trying to make a living, like most people around here. What else can I do, look at nature, pick mushrooms?</text>
