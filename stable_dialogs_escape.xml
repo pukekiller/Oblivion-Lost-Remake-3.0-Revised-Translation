@@ -553,10 +553,10 @@
 		<text>I'm trying to make a living, like most people around here. What else can I do - look at nature, pick mushrooms?</text>
 	</string>
 	<string id="sim_dialog7_21">
-		<text>Why, boil them and they'll be fine, I guess. (start here for your first session on 1/14/26 and don't forget to remove this reminder when you start)</text>
+		<text>Why, boil them and they'll be fine, I guess.</text>
 	</string>
 	<string id="sim_dialog7_211">
-		<text>Yeah, and then suffer from ulcers. No.</text>
+		<text>Yeah, and then suffer from ulcers. No thank you. (start here for your second session on 1/14/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog7_2111">
 		<text>Well, I'll be off then.</text>
