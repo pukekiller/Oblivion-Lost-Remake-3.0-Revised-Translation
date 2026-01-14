@@ -556,10 +556,10 @@
 		<text>Why, boil them and they'll be fine, I guess.</text>
 	</string>
 	<string id="sim_dialog7_211">
-		<text>Yeah, and then suffer from ulcers. No thank you. (start here for your second session on 1/14/26 and don't forget to remove this reminder when you start)</text>
+		<text>Yeah, and then suffer from ulcers. No thank you.</text>
 	</string>
 	<string id="sim_dialog7_2111">
-		<text>Well, I'll be off then.</text>
+		<text>Well, I'll be off then. (start here for your first session on 1/14/26 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="sim_dialog7_11">
 		<text>You're a little rowdy, aren't you?</text>
