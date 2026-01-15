@@ -559,10 +559,10 @@
 		<text>Yeah, and then suffer from ulcers. No thank you.</text>
 	</string>
 	<string id="sim_dialog7_2111">
-		<text>Well, I'll be off then. (start here for your first session on 1/14/26 and don't forget to remove this reminder when you start)</text>
+		<text>Well, I'll be off then.</text>
 	</string>
 	<string id="sim_dialog7_11">
-		<text>You're a little rowdy, aren't you?</text>
+		<text>You're a little rowdy, aren't you? (start here for your second session on 1/15/26 and don't forget to remove this reminder)</text>
 	</string>
 	<string id="sim_dialog7_111">
 		<text>Back off, stalker!</text>
