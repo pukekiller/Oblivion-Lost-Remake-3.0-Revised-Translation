@@ -571,10 +571,10 @@
 		<text>Alright, I'm leaving.</text>
 	</string>
 	<string id="sim_dialog7_1112">
-		<text>I want to do it the hard way! (start here for your first session on 1/16/26 and don't forget to remove this when you start)</text>
+		<text>I want to do it the hard way!</text>
 	</string>
 	<string id="sim_dialog7_11121">
-		<text>That's it, I'm sick of you! I'm gonna roll you on the ground!</text>
+		<text>That's it, I'm sick of you! I'm going to drop you! (start here for your second session on 1/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog7_111211">
 		<text>I'm leaving, cool it!</text>
