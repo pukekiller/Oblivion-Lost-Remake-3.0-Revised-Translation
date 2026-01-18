@@ -577,10 +577,10 @@
 		<text>That's it, I'm sick of you! I'm going to drop you!</text>
 	</string>
 	<string id="sim_dialog7_111211">
-		<text>I'm leaving, cool it! (start here for your first session on 1/17/26 and don't forget to remove this when you start)</text>
+		<text>I'm leaving, cool it!</text>
 	</string>
 	<string id="sim_dialog7_111212">
-		<text>Try it!</text>
+		<text>Try it! (start here for your second session on 1/18/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog6_0">
 		<text>Why don't you tell me a story?</text>
