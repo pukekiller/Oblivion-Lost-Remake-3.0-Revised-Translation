@@ -589,10 +589,10 @@
 		<text>You've come to the right place. Have you ever seen a ghost?</text>
 	</string>
 	<string id="sim_dialog6_2">
-		<text>No. (start here for your first session on 1/19/26 and don't forget to remove this when you start)</text>
+		<text>No.</text>
 	</string>
 	<string id="sim_dialog6_666">
-		<text>Yes.</text>
+		<text>Yes. (start here for your second session on 1/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog6_6661">
 		<text>Wh-wh-what?</text>
