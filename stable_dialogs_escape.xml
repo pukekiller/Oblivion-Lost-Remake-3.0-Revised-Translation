@@ -610,10 +610,10 @@
 		<text>Wow! I wonder what kind of power or force that is.</text>
 	</string>
 	<string id="sim_dialog6_5">
-		<text>You're spinning a lot of yarn. (start here for your second session on 1/23/26 and don't forget to remove this when you start)</text>
+		<text>You're spinning a lot of yarn.</text>
 	</string>
 	<string id="sim_dialog5_0">
-		<text>Why are you so lethargic?</text>
+		<text>Why are you so lethargic? (start here for your first session on 1/23/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_1">
 		<text>Do you have a pill? My head hurts.</text>
