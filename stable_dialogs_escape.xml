@@ -613,10 +613,10 @@
 		<text>You're spinning a lot of yarn.</text>
 	</string>
 	<string id="sim_dialog5_0">
-		<text>Why are you so lethargic? (start here for your first session on 1/23/26 and don't forget to remove this when you start)</text>
+		<text>Why are you so lethargic?</text>
 	</string>
 	<string id="sim_dialog5_1">
-		<text>Do you have a pill? My head hurts.</text>
+		<text>Do you have a pill? My head hurts. (start here for your second session on 1/24/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_2">
 		<text>Yes, there should be. Here you go.</text>
