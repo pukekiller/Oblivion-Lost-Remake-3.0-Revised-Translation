@@ -619,10 +619,10 @@
 		<text>Do you have a pill? My head hurts.</text>
 	</string>
 	<string id="sim_dialog5_2">
-		<text>Yes, I've got some. Here you go. (start here for your first session on 1/24/26 and don't forget to remove this when you start)</text>
+		<text>Yes, I've got some. Here you go.</text>
 	</string>
 	<string id="sim_dialog5_10">
-		<text>I've got some, but I won't give it to you, you're in short supply.</text>
+		<text>I've got some, but I won't give any to you. I'm in short supply. (start here for your second session on 1/25/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_101">
 		<text>Stingy... But nothing, the Zone will remember everything!</text>
