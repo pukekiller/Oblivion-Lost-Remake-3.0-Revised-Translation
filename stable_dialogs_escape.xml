@@ -625,10 +625,10 @@
 		<text>I've got some, but I won't give any to you. I'm in short supply.</text>
 	</string>
 	<string id="sim_dialog5_101">
-		<text>Stingy... But don't forget, the Zone will remember everything! (start here for your first session on 1/25/26 and don't forget to remove this when you start)</text>
+		<text>Stingy... But don't forget, the Zone will remember everything!</text>
 	</string>
 	<string id="sim_dialog5_3">
-		<text>Thanks, stalker! No, just think about it! We were going on a raid with a friend, and we got hit right in our hideout. My friend got hit in the head, but he was lucky not to pass out, so he pretended to pass out, and I didn't have to pretend. They cleaned it all out, assholes! Now I don't know what to do. I spent the last hundred on food yesterday.</text>
+		<text>Thanks, stalker! What happened was that I going on a raid with a friend, but we got hit right in our hideout. My friend got hit in the head, but he was lucky not to pass out, so he pretended to pass out, and I didn't have to pretend. They cleaned everything out, assholes! Now I don't know what to do. I spent my last hundred on food yesterday. (start here for your second session on 1/26/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_31">
 		<text>Keep another hundred and you'll figure out how to make money.</text>
