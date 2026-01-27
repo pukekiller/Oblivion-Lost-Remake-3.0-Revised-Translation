@@ -631,10 +631,10 @@
 		<text>Thanks, stalker! What happened was that I going on a raid with a friend, but we got hit right in our hideout. My friend got hit in the head, but he was lucky not to pass out, so he pretended to pass out, and I didn't have to pretend. They cleaned everything out, assholes! Now I don't know what to do. I spent my last hundred on food yesterday.</text>
 	</string>
 	<string id="sim_dialog5_31">
-		<text>Keep another hundred and you'll figure out how to make money. (start here for your first session on 1/26/26 and don't forget to remove this when you start)</text>
+		<text>Keep another hundred and you'll figure out how to make money.</text>
 	</string>
 	<string id="sim_dialog5_4">
-		<text>Yeah, it's sad. Well, hang in there. Have a good haul, stalker.</text>
+		<text>Yeah, it's sad. Well, hang in there. Have a good haul, stalker. (start here for your second session on 1/27/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_311">
 		<text>Wow, thanks a lot. Man, you're awesome! Klondike and good luck, stalker!</text>
