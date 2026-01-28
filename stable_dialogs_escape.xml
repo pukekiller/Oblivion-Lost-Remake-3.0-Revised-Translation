@@ -637,10 +637,10 @@
 		<text>Yeah, it's sad. Well, hang in there. Have a good haul, stalker.</text>
 	</string>
 	<string id="sim_dialog5_311">
-		<text>Wow, thanks a lot. Man, you're awesome! I hope you find your Klondike and get blessed with good luck, stalker! (start here for your first session on 1/27/26 and don't forget to remove this when you start)</text>
+		<text>Wow, thanks a lot. Man, you're awesome! I hope you find your Klondike and get blessed with good luck, stalker!</text>
 	</string>
 	<string id="sim_dialog5_11">
-		<text>Sorry, I got nothing.</text>
+		<text>Sorry, I got nothing. (start here for your second session on 1/28/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog5_111">
 		<text>Oh, man. That sucks! Well, there's no judgment!</text>
