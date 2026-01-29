@@ -646,10 +646,10 @@
 		<text>Oh, man. That sucks! Well, there's no judgment!</text>
 	</string>
 	<string id="sim_dialog4_0">
-		<text>Hello. (start here for your second session on 1/29/26 and don't forget to remove this when you start)</text>
+		<text>Hello.</text>
 	</string>
 	<string id="sim_dialog4_1">
-		<text>Hello! What are we drinking to?</text>
+		<text>Hello! What are we drinking to? (start here for your first session on 1/29/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog4_2">
 		<text>Were we gonna drink?</text>
