@@ -643,10 +643,10 @@
 		<text>Sorry, I got nothing.</text>
 	</string>
 	<string id="sim_dialog5_111">
-		<text>Oh, man. That sucks! Well, there's no judgment! (start here for your first session on 1/28/26 and don't forget to remove this when you start)</text>
+		<text>Oh, man. That sucks! Well, there's no judgment!</text>
 	</string>
 	<string id="sim_dialog4_0">
-		<text>Hello.</text>
+		<text>Hello. (start here for your second session on 1/29/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog4_1">
 		<text>Hello! What are we drinking to?</text>
