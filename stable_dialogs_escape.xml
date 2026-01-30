@@ -649,10 +649,10 @@
 		<text>Hello.</text>
 	</string>
 	<string id="sim_dialog4_1">
-		<text>Hello! What are we drinking to? (start here for your first session on 1/29/26 and don't forget to remove this when you start)</text>
+		<text>Hello! What are we drinking to?</text>
 	</string>
 	<string id="sim_dialog4_2">
-		<text>Were we gonna drink?</text>
+		<text>We were going to drink? (start here for your second session on 1/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog4_3">
 		<text>Uh-uh-uh... no. Well, don't be shy, it's my treat! So what are we drinking to?</text>
