@@ -664,10 +664,10 @@
 		<text>You said it well, let's have a drink!</text>
 	</string>
 	<string id="sim_dialog4_6">
-		<text>Ah, that's good stuff! And look, do you know anything about bandits? Because one stalker told me about some dark ones, and I didn't believe him. I did want to see if there was some truth to his story, but I didn't feel like it... (start here for your second session on 2/1/26 and don't forget to remove this when you start)</text>
+		<text>Ah, that's good stuff! And look, do you know anything about bandits? Because one stalker told me about some dark ones, and I didn't believe him. I did want to see if there was some truth to his story, but I didn't feel like it...</text>
 	</string>
 	<string id="sim_dialog4_7">
-		<text>Well, you found someone to ask. You think I wanted to check, don't you?</text>
+		<text>Well, you found someone to ask. You think I wanted to check, didn't you? (start here for your first session on 2/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog4_8">
 		<text>No, I know what you mean. A guy I know told me they're assholes and they ain't even human. They're in the Garbage, so watch your step.</text>
