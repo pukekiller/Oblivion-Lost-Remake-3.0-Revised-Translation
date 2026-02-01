@@ -661,10 +661,10 @@
 		<text>We're drinking to success.. in our stalker endeavors.</text>
 	</string>
 	<string id="sim_dialog4_5">
-		<text>You said it well, let's have a drink! (start here for your first session on 1/31/26 and don't forget to remove this when you start)</text>
+		<text>You said it well, let's have a drink!</text>
 	</string>
 	<string id="sim_dialog4_6">
-		<text>That's good! And look, do you know anything about bandits? Because one stalker told me about some dark ones, so I didn't believe him, and to check, you know, I don't feel like it...</text>
+		<text>Ah, that's good stuff! And look, do you know anything about bandits? Because one stalker told me about some dark ones, and I didn't believe him. I did want to see if there was some truth to his story, but I didn't feel like it... (start here for your second session on 2/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog4_7">
 		<text>Well, you found someone to ask. You think I wanted to check, don't you?</text>
