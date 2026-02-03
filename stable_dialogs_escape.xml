@@ -673,10 +673,10 @@
 		<text>No, I know what you mean. A guy I know told me they're assholes and they aren't even human. They're in the Garbage, so watch your step.</text>
 	</string>
 	<string id="sim_dialog4_9">
-		<text>Okay, we'll figure it out. Thanks for the vodka, but I have to get going. Good luck. (start here for your first session on 2/2/26 and don't forget to remove this when you start)</text>
+		<text>Okay, we'll figure it out. Thanks for the vodka, but I have to get going. Good luck.</text>
 	</string>
 	<string id="sim_dialog3_0">
-		<text>Why are you so happy?</text>
+		<text>Why are you so happy? (start here for your second session on 2/3/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog3_1">
 		<text>I had a big fortune with the artifacts, stalker. Interesting?</text>
