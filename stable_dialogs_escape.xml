@@ -682,10 +682,10 @@
 		<text>I got a big fortune after lucking out with some artifacts, stalker. Interested?</text>
 	</string>
 	<string id="sim_dialog3_2">
-		<text>Well, in a way, yeah. (start here for your second session on 2/4/26 and don't forget to remove this when you start)</text>
+		<text>Well, in a way, yeah.</text>
 	</string>
 	<string id="sim_dialog3_3">
-		<text>And it wasn't a Klondike, it was an anomaly.</text>
+		<text>And it wasn't a Klondike, it was an anomaly. (start here for your first session on 2/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog3_4">
 		<text>What, what anomaly? Tell me more about that.</text>
