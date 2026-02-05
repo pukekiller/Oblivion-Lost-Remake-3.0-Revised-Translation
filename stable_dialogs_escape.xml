@@ -685,10 +685,10 @@
 		<text>Well, in a way, yeah.</text>
 	</string>
 	<string id="sim_dialog3_3">
-		<text>And it wasn't a Klondike, it was an anomaly. (start here for your first session on 2/4/26 and don't forget to remove this when you start)</text>
+		<text>And it wasn't a Klondike, it was an anomaly.</text>
 	</string>
 	<string id="sim_dialog3_4">
-		<text>What, what anomaly? Tell me more about that.</text>
+		<text>Wait, what anomaly? Tell me more about that. (start here for your second session on 2/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog3_5">
 		<text>It's just a gravity anomaly, like, I didn't check it out, you know. Anyway, I found it in the Garbage, near the road to the bar. I was walking along, and then I saw a pile of artifacts lying there, all glowing like a Christmas tree. So I collected them neatly and gave them to the Barkeep. A couple of hours later I decided to go check, and there are more artifacts! So I bought myself a normal suit. It's not comfortable to walk around the Zone in a tattered jacket.</text>
