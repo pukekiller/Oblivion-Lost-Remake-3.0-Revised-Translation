@@ -694,10 +694,10 @@
 		<text>It's just a gravity anomaly, although I didn't check it out. Anyway, I found it at the Garbage, near the road to the bar. I was walking along, and then I saw a pile of artifacts lying there, all glowing like a Christmas tree. So I collected them neatly and gave them to the Barkeep. A couple of hours later I decided to go check, and there are more artifacts! So I bought myself a normal suit. It's not comfortable to walk around the Zone in a tattered jacket.</text>
 	</string>
 	<string id="sim_dialog3_6">
-		<text>You're lying to me. (start here for your second session on 2/6/26 and don't forget to remove this when you start)</text>
+		<text>You're lying to me.</text>
 	</string>
 	<string id="sim_dialog3_7">
-		<text>I bet there's one in there.</text>
+		<text>I bet there's one in there. (start here for your first session on 2/6/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog3_8">
 		<text>Alright, let's see.</text>
