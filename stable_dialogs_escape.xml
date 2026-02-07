@@ -697,10 +697,10 @@
 		<text>You're lying to me.</text>
 	</string>
 	<string id="sim_dialog3_7">
-		<text>I bet there's one in there. (start here for your first session on 2/6/26 and don't forget to remove this when you start)</text>
+		<text>I bet there's one in there.</text>
 	</string>
 	<string id="sim_dialog3_8">
-		<text>Alright, let's see.</text>
+		<text>Alright, let's see. (start here for your second session on 2/7/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog2_0">
 		<text>Why are you so wrinkled?</text>
