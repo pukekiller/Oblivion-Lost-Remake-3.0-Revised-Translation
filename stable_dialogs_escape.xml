@@ -703,10 +703,10 @@
 		<text>Alright, let's see.</text>
 	</string>
 	<string id="sim_dialog2_0">
-		<text>Why are you so fuzzled? (start here for your first session on 2/7/26 and don't forget to remove this when you start)</text>
+		<text>Why are you so fuzzled?</text>
 	</string>
 	<string id="sim_dialog2_1">
-		<text>Shit. Stalker, go away. My head's already splitting.</text>
+		<text>Shit. Stalker, go away. My head's splitting. (start here for your second session on 2/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog2_2">
 		<text>Alright, I'll leave you alone.</text>
