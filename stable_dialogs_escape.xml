@@ -712,10 +712,10 @@
 		<text>Alright, I'll leave you alone.</text>
 	</string>
 	<string id="sim_dialog2_3">
-		<text>Hold on. Wait. Imagine, I was walking calmly through the Dark Valley, and then my eyes suddenly went black! When I woke up, I saw that I was already in a bar... what the hell is this, do you know? (start here for your first session on 2/8/26 and don't forget to remove this when you start)</text>
+		<text>Hold on. Wait. Imagine, I was walking calmly through the Dark Valley, and then my eyes suddenly went black! When I woke up, I saw that I was already in a bar... what the hell is this, do you know?</text>
 	</string>
 	<string id="sim_dialog2_4">
-		<text>Maybe I do, maybe I don't. I heard somewhere about controllers, that's what they can do. I can't think of anything else.</text>
+		<text>I might. I heard something about Controllers, they're capable of making you experience things like that. I can't think of anything else. (start here for your second session on 2/9/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog2_5">
 		<text>About the co-- co-what?</text>
