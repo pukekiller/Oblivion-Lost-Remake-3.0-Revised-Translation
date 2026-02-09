@@ -715,10 +715,10 @@
 		<text>Hold on. Wait. Imagine, I was walking calmly through the Dark Valley, and then my eyes suddenly went black! When I woke up, I saw that I was already in a bar... what the hell is this, do you know?</text>
 	</string>
 	<string id="sim_dialog2_4">
-		<text>I might. I heard something about Controllers, they're capable of making you experience things like that. I can't think of anything else. (start here for your second session on 2/9/26 and don't forget to remove this when you start)</text>
+		<text>I might. I heard something about Controllers, they're capable of making you experience things like that. I can't think of anything else.</text>
 	</string>
 	<string id="sim_dialog2_5">
-		<text>About the co-- co-what?</text>
+		<text>The co- co-what? (start here for your first session on 2/9/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog2_6">
 		<text>Controllers.</text>
