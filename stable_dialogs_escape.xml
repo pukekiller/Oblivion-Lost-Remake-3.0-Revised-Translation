@@ -718,10 +718,10 @@
 		<text>I might. I heard something about Controllers, they're capable of making you experience things like that. I can't think of anything else.</text>
 	</string>
 	<string id="sim_dialog2_5">
-		<text>The co- co-what? (start here for your first session on 2/9/26 and don't forget to remove this when you start)</text>
+		<text>The co- co-what?</text>
 	</string>
 	<string id="sim_dialog2_6">
-		<text>Controllers.</text>
+		<text>Controllers. (start here for your second session on 2/10/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog2_7">
 		<text>I'll have to ask the guys what kind of bastard they are.</text>
