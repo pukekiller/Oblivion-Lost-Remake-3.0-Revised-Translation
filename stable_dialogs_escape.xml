@@ -730,10 +730,10 @@
 		<text>Vodka won't help you, I guess. Or it might.. that's up to you to decide. Come on.</text>
 	</string>
 	<string id="sim_dialog1_0">
-		<text>What interesting stories? (start here for your first session on 2/11/26 and don't forget to remove this when you start)</text>
+		<text>What interesting stories?</text>
 	</string>
 	<string id="sim_dialog1_1">
-		<text>Stalker, have you heard anything about dwarfs?</text>
+		<text>Stalker, have you heard anything about dwarfs in the Zone? (start here for your second session on 2/12/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog1_2">
 		<text>I have. Sure I have.</text>
