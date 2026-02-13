@@ -739,10 +739,10 @@
 		<text>I have.</text>
 	</string>
 	<string id="sim_dialog1_3">
-		<text>A guy I know came back to me the other day. He says he tried to break into some abandoned lab on a raid with his squad. They got in through the ventilation shafts and almost immediately ran into these creatures. (start here for your second session on 2/13/26 and don't forget to remove this when you start)</text>
+		<text>A guy I know came back to me the other day. He says he tried to break into some abandoned lab on a raid with his squad. They got in through the ventilation shafts and almost immediately ran into these creatures.</text>
 	</string>
 	<string id="sim_dialog1_4">
-		<text>Why would they want to get into the lab?</text>
+		<text>Why would they want to get into the lab? (start here for your first session on 2/13/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog1_5">
 		<text>Well, I don't know, but that's not the point. They were wandering around, and they came upon a room. They look, and there is a pile of junk lying there, on top of which one of them is sitting, and others are stomping around, muttering.</text>
