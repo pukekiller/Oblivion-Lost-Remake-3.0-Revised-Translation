@@ -748,10 +748,10 @@
 		<text>Well, I don't know, but that's not the point. They were wandering around, and they came upon a room. They look around, and find that there's a pile of junk lying there - with one of the dwarfs sitting on the top of the pile, while others are stomping around, muttering.</text>
 	</string>
 	<string id="sim_dialog1_6">
-		<text>That's creepy.. wait, how did they get out of the lab unharmed? Did the mutants there did not smell them? (start here for your second session on 2/14/26 and don't forget to remove this when you start)</text>
+		<text>That's creepy.. wait, how did they get out of the lab unharmed? Did the mutants there did not smell them?</text>
 	</string>
 	<string id="sim_dialog1_7">
-		<text>Yes, they did! They just kicked back in, they don't remember how they got out!</text>
+		<text>The muants actually did detect them, the dwarfs just managed to outsmart them somehow. The mutants don't seem to remember how they got out if they get removed from where the dwarfs are. (start here for your first session on 2/15/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog1_8">
 		<text>Interesting.</text>
