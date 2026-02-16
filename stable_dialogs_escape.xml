@@ -754,10 +754,10 @@
 		<text>The muants actually did detect them, the dwarfs just managed to outsmart them somehow. The mutants don't seem to remember how they got out if they get removed from where the dwarfs are.</text>
 	</string>
 	<string id="sim_dialog1_8">
-		<text>Interesting. (start here for your first session on 2/15/26 and don't forget to remove this when you start)</text>
+		<text>Interesting.</text>
 	</string>
 	<string id="sim_dialog1_9">
-		<text>Why are you lying?</text>
+		<text>Why are you lying? (start here for your second session on 2/16/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="sim_dialog1_10">
 		<text>I'm not lying, stalker! Here's a cross for you!</text>
