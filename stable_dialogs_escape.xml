@@ -751,19 +751,19 @@
 		<text>That's creepy.. wait, how did they get out of the lab unharmed? Did the mutants there did not smell them?</text>
 	</string>
 	<string id="sim_dialog1_7">
-		<text>The muants actually did detect them, the dwarfs just managed to outsmart them somehow. The mutants don't seem to remember how they got out if they get removed from where the dwarfs are.</text>
+		<text>The mutants actually did detect them, the dwarfs just managed to outsmart them somehow. The mutants don't seem to remember how they got out if they get removed from where the dwarfs are.</text>
 	</string>
 	<string id="sim_dialog1_8">
 		<text>Interesting.</text>
 	</string>
 	<string id="sim_dialog1_9">
-		<text>Why are you lying? (start here for your second session on 2/16/26 and don't forget to remove this when you start)</text>
+		<text>Why are you lying?</text>
 	</string>
 	<string id="sim_dialog1_10">
-		<text>I'm not lying, stalker! Here's a cross for you!</text>
+		<text>I swear to God I'm not lying, stalker!</text>
 	</string>
 	<string id="sim_dialog1_11">
-		<text>I won't believe it until I see it for myself. So long.</text>
+		<text>I won't believe it until I see it for myself. So long. (start here for your second session on 2/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="derzzx_dialog_0">
 		<text>Last mission, you say? Well, I'm listening to you.</text>
