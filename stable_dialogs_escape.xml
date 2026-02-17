@@ -763,10 +763,10 @@
 		<text>I swear to God I'm not lying, stalker!</text>
 	</string>
 	<string id="sim_dialog1_11">
-		<text>I won't believe it until I see it for myself. So long. (start here for your second session on 2/17/26 and don't forget to remove this when you start)</text>
+		<text>I won't believe it until I see it for myself. So long.</text>
 	</string>
 	<string id="derzzx_dialog_0">
-		<text>Last mission, you say? Well, I'm listening to you.</text>
+		<text>Last mission, you say? Well, I'm listening to you. (start here for your first session on 2/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="derzzx_dialog_1">
 		<text>Last assignment. Map the anomalous zones in the area from the roadblock to the railroad and beyond. It's a simple building, you've already covered that area, there's only a small farm on the right of the highway, where you met Ferret.</text>
