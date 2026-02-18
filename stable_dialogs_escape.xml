@@ -769,10 +769,10 @@
 		<text>Last mission, you say? Well, I'm listening to you.</text>
 	</string>
 	<string id="derzzx_dialog_1">
-		<text>This is the last assignment. We need someon to map the anomalous zones in the area from the roadblock to the railroad and beyond. It's a simple building, you've already covered that area, there's only a small farm on the right of the highway, where you met Ferret. (start here for your second session on 2/18/26 and don't forget to remove this when you start)</text>
+		<text>This is the last assignment. We need someon to map the anomalous zones in the area from the roadblock to the railroad and beyond. It's a simple building, you've already covered that area, there's only a small farm on the right of the highway, where you met Ferret.</text>
 	</string>
 	<string id="derzzx_dialog_2">
-		<text>What's next?</text>
+		<text>What's next? (start here for your first session on 2/18/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="derzzx_dialog_3">
 		<text>There might be a patrol under the bridge, so I wouldn't go there. There's probably a sniper in the tower. You can imagine the risk of a conflict with the military.</text>
