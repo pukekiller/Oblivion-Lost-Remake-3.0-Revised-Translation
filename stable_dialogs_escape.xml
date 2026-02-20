@@ -778,10 +778,10 @@
 		<text>There might be a patrol under the bridge, so I wouldn't go there. There's probably a sniper in the tower. You can imagine the risk of a fight with the army - it'll be ugly if things go bad.</text>
 	</string>
 	<string id="derzzx_dialog_4">
-		<text>How do you take measurements? (start here for your first session on 2/19/26 and don't forget to remove this when you start)</text>
+		<text>How do you take measurements?</text>
 	</string>
 	<string id="derzzx_dialog_5">
-		<text>It's simple. Here, take this device. It measures the activity of anomalous fields. So you approach the anomaly, activate the device, wait a while, then get the results. You got it? Yes, you must only take the measurements in the order I tell you to. Otherwise you won't get anywhere. You'll only mess up the detector.</text>
+		<text>It's simple. Here, take this device. It measures the activity of anomalous fields. All you need to do approach the anomaly, activate the device, wait a while, and then you'll get the results. You got it? You must only take the measurements in the order I tell you to. Otherwise you won't get anywhere. You'll only mess up the detector. (start here for your second session on 2/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="derzzx_dialog_6">
 		<text>Alright.</text>
