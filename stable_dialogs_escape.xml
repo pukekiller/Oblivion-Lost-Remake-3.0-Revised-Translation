@@ -787,10 +787,10 @@
 		<text>Alright.</text>
 	</string>
 	<string id="derzzx_dialog_7">
-		<text>Get the results, and you'll get your reward. Go. (start here for your second session on 2/21/26 and don't forget to remove this when you start)</text>
+		<text>Get the results, and you'll get your reward. Go.</text>
 	</string>
 	<string id="olr_jaba_kill_contrlr">
-		<text>Kill the controller</text>
+		<text>Kill the controller (start here for your first session on 2/21/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="text_olr_jaba_kill_contrlr">
 		<text>Where do controllers come from? We'll find out someday, but first let's get rid of them. There's one in the factory. Can you handle it?</text>
