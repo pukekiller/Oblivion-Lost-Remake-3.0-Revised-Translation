@@ -799,10 +799,10 @@
 		<text>Toad wants the controller here killed.</text>
 	</string>
 	<string id="olr_jaba_one_monstr">
-		<text>Kill the bloodsucker (start here for your second session on 2/23/26 and don't forget to remove this when you start)</text>
+		<text>Kill the bloodsucker</text>
 	</string>
 	<string id="text_olr_jaba_one_monstr">
-		<text>There's a bloodsucker near the bridge. It's not afraid of anyone, it attacks everything, it's already torn many stalkers to shreds. Kill him sometime and we're even.</text>
+		<text>There's a bloodsucker near the bridge. It's not afraid of anyone, it attacks everything, and it has already torn many stalkers to shreds. Kill the bloodsucker and we're even. (start here for your first session on 2/23/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="desc_olr_jaba_one_monstr">
 		<text>Toad ordered the killing of a rabid bloodsucker.</text>
