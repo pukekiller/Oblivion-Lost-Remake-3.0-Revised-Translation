@@ -802,10 +802,10 @@
 		<text>Kill the bloodsucker</text>
 	</string>
 	<string id="text_olr_jaba_one_monstr">
-		<text>There's a bloodsucker near the bridge. It's not afraid of anyone, it attacks everything, and it has already torn many stalkers to shreds. Kill the bloodsucker and we're even. (start here for your first session on 2/23/26 and don't forget to remove this when you start)</text>
+		<text>There's a bloodsucker near the bridge. It's not afraid of anyone, it attacks everything, and it has already torn many stalkers to shreds. Kill the bloodsucker and we're even.</text>
 	</string>
 	<string id="desc_olr_jaba_one_monstr">
-		<text>Toad ordered the killing of a rabid bloodsucker.</text>
+		<text>Toad ordered the killing of a rabid bloodsucker. (start here for your second session on 2/24/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr99_0">
 		<text>So, how long you gonna be here?</text>
