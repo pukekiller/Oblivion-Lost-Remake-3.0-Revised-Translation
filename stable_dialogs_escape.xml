@@ -817,10 +817,10 @@
 		<text>There's a burer there? Good to know.</text>
 	</string>
 	<string id="esc_about_art_spiral_0">
-		<text>Who's the Jackal? I was trapped by something of his in the catacombs. (start here for your second session on 2/26/26 and don't forget to remove this when you start)</text>
+		<text>Who's the Jackal? I was trapped by something of his in the catacombs.</text>
 	</string>
 	<string id="esc_about_art_spiral_1">
-		<text>The Jackal? What's the matter? Well, there was this guy. Interested in going downtown, big guy. He was ex-military.</text>
+		<text>The Jackal? What's the matter with him. Well, there's this guy. Interested in going downtown, big guy. He was ex-military. (start here for your first session on 2/26/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_about_art_spiral_2">
 		<text>He's dead, and there were darkies waiting for me.</text>
