@@ -814,10 +814,10 @@
 		<text>I don't know. The military's right under my nose, it's kind of creepy. Maybe I'll go to the Garbage. By the way, I heard there's a special forces unit missing. Yeah! And you know, they saw a burer at the dump, sometimes he hangs around the hangars, they say he was juggling some corpses, you know? I heard they come from the catacombs in the Dark Valley. Our guys don't go there, they're afraid. I think there's some stalkers down there, but I don't know much about it.</text>
 	</string>
 	<string id="pr99_2">
-		<text>There's a burer there? Good to know. (start here for your first session on 2/25/26 and don't forget to remove this when you start)</text>
+		<text>There's a burer there? Good to know.</text>
 	</string>
 	<string id="esc_about_art_spiral_0">
-		<text>Who's the Jackal? I was trapped by his message in the catacombs.</text>
+		<text>Who's the Jackal? I was trapped by something of his in the catacombs. (start here for your second session on 2/26/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_about_art_spiral_1">
 		<text>The Jackal? What's the matter? Well, there was this guy. Interested in going downtown, big guy. He was ex-military.</text>
