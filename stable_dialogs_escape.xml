@@ -823,10 +823,10 @@
 		<text>The Jackal? What's the matter with him..? Well, there's this guy. Interested in going downtown, big guy. He was ex-military.</text>
 	</string>
 	<string id="esc_about_art_spiral_2">
-		<text>He's dead, and there were dark-looking stalkers waiting for me. (start here for your second session on 2/27/26 and don't forget to remove this when you start)</text>
+		<text>He's dead, and there were dark-looking stalkers waiting for me.</text>
 	</string>
 	<string id="esc_about_art_spiral_3">
-		<text>Dark stalkers? Already here? Shit, I can't believe they came through the catacombs to get here. You probably haven't heard, but the whole zone is covered by a post-demonic network of structures. No one's really explored them, and no one knows what's going on down there. I'll tell you, it sucks. Maybe they used him as bait to get to you. You didn't have a conversation last time. But why would they want you? Maybe they were interested in you in your previous life, so they're chasing you now. Yeah.</text>
+		<text>Dark stalkers? Already here? Shit, I can't believe they came through the catacombs to get here. You probably haven't heard, but the whole Zone is covered by a post-demonic network of structures. No one's really explored them, and no one knows what's going on down there. I'll tell you, it sucks. Maybe they used him as bait to get to you. You didn't have a conversation last time. But why would they want you? Maybe they were interested in you in your previous life, so they're chasing you now. Yeah. (start here for your first session on 2/27/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_about_art_spiral_4">
 		<text>Maybe we'll see each other again.</text>
