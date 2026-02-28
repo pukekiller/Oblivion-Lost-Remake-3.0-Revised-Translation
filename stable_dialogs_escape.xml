@@ -829,10 +829,10 @@
 		<text>Dark stalkers? Already here? Shit, I can't believe they came through the catacombs to get here. You probably haven't heard, but the whole Zone is covered by a post-demonic network of structures. No one's really explored them, and no one knows what's going on down there. I'll tell you, it sucks. Maybe they used him as bait to get to you. You didn't have a conversation last time. But why would they want you? Maybe they were interested in you in your previous life, so they're chasing you now. Yeah.</text>
 	</string>
 	<string id="esc_about_art_spiral_4">
-		<text>Maybe we'll see each other again. (start here for your second session on 2/28/26 and don't forget to remove this when you start)</text>
+		<text>Maybe we'll see each other again. (start here for your first session on 2/28/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_about_bar_0">
-		<text>Is there anything else you can tell me about Bar?</text>
+		<text>Is there anything else you can tell me about the Bar?</text>
 	</string>
 	<string id="esc_about_bar_1">
 		<text>You can't tell from the way they christened the place, can you? Well, I'll explain it for the special ones. Basically, Bar is the area near the Rostok factory, where the houses of the people who once worked there stand. Well, as you can imagine, they're not there now. In the houses is located the establishment itself, where many people can buy what they need, talk and drink. There's also a base for the Duty faction - strict guys.</text>
