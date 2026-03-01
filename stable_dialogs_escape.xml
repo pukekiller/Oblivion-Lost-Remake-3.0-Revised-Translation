@@ -835,10 +835,10 @@
 		<text>Is there anything else you can tell me about the Bar?</text>
 	</string>
 	<string id="esc_about_bar_1">
-		<text>You can't tell from the way they christened the place, can you? Well, I'll explain things for the.. slower ones. Basically, the Bar is in the area near the Rostok factory, where the houses of the people who once worked there stand. Well, as you can imagine, they're not there now. The Bar is located in the basement of the former store, where many people can buy what they need, talk and drink. There's also a base for the Duty faction - strict guys. (start here for your second session on 3/1/26 and don't forget to remove this when you start)</text>
+		<text>You can't tell from the way they christened the place, can you? Well, I'll explain things for the.. slower ones. Basically, the Bar is in the area near the Rostok factory, where the houses of the people who once worked there stand. Well, as you can imagine, they're not there now. The Bar is located in the basement of the former store, where many people can buy what they need, talk and drink. There's also a base for the Duty faction - strict guys.</text>
 	</string>
 	<string id="esc_about_bar_2">
-		<text>A drink, you say. That's fine, but I'm going there on business. Is there anything I can find out about who Gunslinger was?</text>
+		<text>A drink, you say? That's fine, but I'm going there on business. Is there anything that will give me information about who Gunslinger was?  (start here for your first on 3/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_about_bar_3">
 		<text>Gunslinger. hmm. He must have been there, who knows, maybe he had a base there. There's a lot of abandoned apartments, and not just apartments. Why don't you poke around, see what you can find?</text>
