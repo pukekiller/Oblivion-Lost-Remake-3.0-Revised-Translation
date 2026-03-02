@@ -841,10 +841,10 @@
 		<text>A drink, you say? That's fine, but I'm going there on business. Is there anything that will give me information about who Gunslinger was?</text>
 	</string>
 	<string id="esc_about_bar_3">
-		<text>Gunslinger? Hmm. He must have been somewhere around here, who knows, maybe he had a base here. There's a lot of abandoned apartments, and various other things as well. Why don't you poke around, see what you can find? (start here for your second session on 3/2/26 and don't forget to remove this when you start)</text>
+		<text>Gunslinger? Hmm. He must have been somewhere around here, who knows, maybe he had a base here. There's a lot of abandoned apartments, and various other things as well. Why don't you poke around, see what you can find?</text>
 	</string>
 	<string id="esc_about_bar_4">
-		<text>Alright.</text>
+		<text>Alright. (start here for your first session on 3/2/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr122_0">
 		<text>So, did you find out anything about those documents I found?</text>
