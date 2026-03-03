@@ -847,10 +847,10 @@
 		<text>Alright.</text>
 	</string>
 	<string id="pr122_0">
-		<text>So, did you find out anything about those documents I found? (start here for your second session on 3/3/26 and don't forget to remove this when you start)</text>
+		<text>So, did you find out anything about those documents I found?</text>
 	</string>
 	<string id="pr122_1">
-		<text>Yeah, it was a report from a group of military men fleeing the center. The thing is, after the first big explosion that started the whole damn thing, the military decided to launch a large-scale operation behind the power plant, to the north. The operation had over a thousand soldiers and several divisions of equipment. It says that after all this armada approached a certain area with unknown installations, there was a second explosion... The report contains a report that the remnants of this faction have settled all over the Zone. The documents also have a schedule of anomalous fields, this is very valuable information.</text>
+		<text>Yeah, it was a report from a group of military men fleeing the center. The thing is, after the first big explosion that started the Zone, the military decided to launch a large-scale operation behind the power plant, to the north. The operation had over a thousand soldiers and several divisions of equipment. It says that after the army approached a certain area with unknown installations, there was a second explosion... The report contains a report that the remnants of this faction have settled all over the Zone. The documents also have a schedule of anomalous fields, this is very valuable information. (start here for your first session on 3/3/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr122_2">
 		<text>Good.</text>
