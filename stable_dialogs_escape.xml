@@ -853,10 +853,10 @@
 		<text>Yeah, it was a report from a group of military men fleeing the center. The thing is, after the first big explosion that started the Zone, the military decided to launch a large-scale operation behind the power plant, to the north. The operation had over a thousand soldiers and several divisions of equipment. It says that after the army approached a certain area with unknown installations, there was a second explosion... The report contains a report that the remnants of this faction have settled all over the Zone. The documents also have a schedule of anomalous fields, this is very valuable information.</text>
 	</string>
 	<string id="pr122_2">
-		<text>Good. (start here for your second session on 3/4/26 and don't forget to remove this when you start)</text>
+		<text>Good.</text>
 	</string>
 	<string id="pr1_0">
-		<text>I found some interesting documents. Talked to Toad, he said I should come to you.</text>
+		<text>I found some interesting documents, and I talked to Toad. He said I should come to you. (start here for your first session on 3/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr1_1">
 		<text>So here we are. Wow! This information is very valuable. The information about the military breaking through to the power plant. Leave them with me, I'll show them to my snitch, he'll tell me what I can do with them.</text>
