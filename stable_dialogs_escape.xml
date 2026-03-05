@@ -859,10 +859,10 @@
 		<text>I found some interesting documents, and I talked to Toad. He said I should come to you.</text>
 	</string>
 	<string id="pr1_1">
-		<text>So here we are. Wow! This information is very valuable, there's details about what happened when military tried breaking through to the power plant. Leave the documents with me, I'll show them to my snitch, he'll tell me what I can do with them.  (start here for your second session on 3/5/26 and don't forget to remove this when you start)</text>
+		<text>So here we are. Wow! This information is very valuable, there's details about what happened when military tried breaking through to the power plant. Leave the documents with me, I'll show them to my snitch, he'll tell me what I can do with them.</text>
 	</string>
 	<string id="pr1_2">
-		<text>Here.</text>
+		<text>Here. (start here for your first session on 3/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr_0">
 		<text>Toad, I found some documents in that hangar at the Garbage. It says there's a large-scale military operation in the center of the Zone.</text>
