@@ -856,10 +856,10 @@
 		<text>Good.</text>
 	</string>
 	<string id="pr1_0">
-		<text>I found some interesting documents, and I talked to Toad. He said I should come to you. (start here for your first session on 3/4/26 and don't forget to remove this when you start)</text>
+		<text>I found some interesting documents, and I talked to Toad. He said I should come to you.</text>
 	</string>
 	<string id="pr1_1">
-		<text>So here we are. Wow! This information is very valuable. The information about the military breaking through to the power plant. Leave them with me, I'll show them to my snitch, he'll tell me what I can do with them.</text>
+		<text>So here we are. Wow! This information is very valuable, there's details about what happened when military tried breaking through to the power plant. Leave the documents with me, I'll show them to my snitch, he'll tell me what I can do with them.  (start here for your second session on 3/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr1_2">
 		<text>Here.</text>
