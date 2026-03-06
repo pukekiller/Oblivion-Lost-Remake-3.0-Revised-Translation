@@ -862,10 +862,10 @@
 		<text>So here we are. Wow! This information is very valuable, there's details about what happened when military tried breaking through to the power plant. Leave the documents with me, I'll show them to my snitch, he'll tell me what I can do with them.</text>
 	</string>
 	<string id="pr1_2">
-		<text>Here. (start here for your first session on 3/5/26 and don't forget to remove this when you start)</text>
+		<text>Here.</text>
 	</string>
 	<string id="pr_0">
-		<text>Toad, I found some documents in that hangar at the Garbage. It says there's a large-scale military operation in the center of the Zone.</text>
+		<text>Toad, I found some documents in that hangar at the Garbage. It says there was a large-scale military operation in the center of the Zone. (start here for your secod session on 3/6/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="pr_1">
 		<text>What?! No one's seen you?! Do you have them with you?  Hell, if the military finds out, you and I could be in trouble. Look, I don't need those documents, but the Barkeep at Stalker's might be interested. Talk to him when you get to the bar!</text>
