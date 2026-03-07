@@ -868,10 +868,10 @@
 		<text>Toad, I found some documents in that hangar at the Garbage. It says there was a large-scale military operation in the center of the Zone.</text>
 	</string>
 	<string id="pr_1">
-		<text>What?! No one's seen you?! Do you have them with you? Hell, if the military finds out, you and I could be in trouble. Look, I don't need those documents, but the Barkeep at Stalker's Bar might be interested. Talk to him when you get to the bar! (start here for your first session on 3/6/26 and don't forget to remove this when you start)</text>
+		<text>What?! No one's seen you?! Do you have them with you? Hell, if the military finds out, you and I could be in trouble. Look, I don't need those documents, but the Barkeep at Stalker's Bar might be interested. Talk to him when you get to the bar!</text>
 	</string>
 	<string id="pr_2">
-		<text>Alright, alright. I'll talk to him.</text>
+		<text>Alright, alright. I'll talk to him. (start here for your second session on 3/7/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="der_dialog_0">
 		<text>I found the artifact.</text>
