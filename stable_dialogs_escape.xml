@@ -877,10 +877,10 @@
 		<text>I found the artifact.</text>
 	</string>
 	<string id="der_dialog_1">
-		<text>Great, did you see anything else unusual? (start here for your second session on 3/8/26 and don't forget to remove this when you start)</text>
+		<text>Great, did you see anything else unusual?</text>
 	</string>
 	<string id="der_dialog_2">
-		<text>There were some military guys. Apparently, they were looking for something out there.</text>
+		<text>There were some military guys. Apparently, they were looking for something out there. (start here for your first session on 3/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="der_dialog_3">
 		<text>That's interesting. I heard that the military was making some kind of breakthrough to the center.</text>
