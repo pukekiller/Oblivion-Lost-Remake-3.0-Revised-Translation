@@ -883,10 +883,10 @@
 		<text>There were some military guys. Apparently, they were looking for something out there.</text>
 	</string>
 	<string id="der_dialog_3">
-		<text>That's interesting. I heard that the military was making some kind of breakthrough to the center of the Zone. (start here for your second session on 3/9/26 and don't forget to remove this when you start)</text>
+		<text>That's interesting. I heard that the military was making some kind of breakthrough to the center of the Zone.</text>
 	</string>
 	<string id="der_dialog_4">
-		<text>Can you elaborate on that?</text>
+		<text>Can you elaborate on that? (start here for your first session on 3/9/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="der_dialog_5">
 		<text>No, I don't know much about that. But I think they can tell you more about it in Bar.</text>
