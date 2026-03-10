@@ -889,10 +889,10 @@
 		<text>Can you elaborate on that?</text>
 	</string>
 	<string id="der_dialog_5">
-		<text>No, I don't know much about that. But I think they can tell you more about at the Bar. (start here for your second session on 3/10/26 and don't forget to remove this when you start)</text>
+		<text>No, I don't know much about that. But I think they can tell you more about at the Bar.</text>
 	</string>
 	<string id="der_dialog_6">
-		<text>We'll see. Here's the artifact.</text>
+		<text>We'll see. Here's the artifact. (start here for your first session on 3/10/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="der_dialog_7">
 		<text>Well done, Messer. Good job.</text>
