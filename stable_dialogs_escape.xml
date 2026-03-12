@@ -901,10 +901,10 @@
 		<text>What's wrong with me? My head is killing me. Where am I? What do I owe you?</text>
 	</string>
 	<string id="stader_dialog_1">
-		<text>What can I take from you? Besides, you don't remember a damn thing. You don't who you are, or where you are. And around you, my boy, is the Zone! (start here for your second session on 3/12/26 and don't forget to remove this when you start)</text>
+		<text>What can I take from you? Besides, you don't remember a damn thing. You don't who you are, or where you are. And around you, my boy, is the Zone!</text>
 	</string>
 	<string id="stader_dialog_2">
-		<text>I'm not a boy, and I'm not yours!</text>
+		<text>I'm not a boy, and I'm not yours! (start here for your first session on 3/12/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_3">
 		<text>Yes, you are! Until you've worked your ass off... and food and medicine, and you need to be armed... at least for starters.</text>
