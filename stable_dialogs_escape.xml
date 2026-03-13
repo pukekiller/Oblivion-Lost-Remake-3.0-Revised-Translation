@@ -907,10 +907,10 @@
 		<text>I'm not a boy, and I'm not yours!</text>
 	</string>
 	<string id="stader_dialog_3">
-		<text>Yes, you are! Until you've worked your ass off, you're in debt to me... you'll need food and medicine, and you need to be armed... at least for starters. (start here for your second session on 3/13/26 and don't forget to remove this when you start)</text>
+		<text>Yes, you are! Until you've worked your ass off, you're in debt to me... you'll need food and medicine, and you need to be armed... at least for starters.</text>
 	</string>
 	<string id="stader_dialog_4">
-		<text>What kind of weapons will you give me?</text>
+		<text>What kind of weapons will you give me? (start here for your first session on 3/13/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_5">
 		<text>Well, kid, at first you can get by with a knife. You've got a suit of some kind, it won't protect you from radiation, but it'll be useful against acid things and rat teeth... It's not a resort. And about you, boy - the Zone will judge! Although, if you're still alive... Does the nickname Gunslinger mean anything to you?</text>
