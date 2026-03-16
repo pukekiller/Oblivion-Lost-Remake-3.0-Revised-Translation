@@ -922,10 +922,10 @@
 		<text>Alright, then. First, why don't you head over to the roadblock? It's not far from here. Take the sealed metal box and leave it under the barbed wire, the place is marked on the map, and from there you'll take the other one, that metal box behind you is just a decoy... Don't bother the soldiers, shoot you down if they catch you.. Do you agree?</text>
 	</string>
 	<string id="stader_dialog_8">
-		<text>Do I have a choice? (start here for your first session on 3/15/26 and don't forget to remove this when you start)</text>
+		<text>Do I have a choice?</text>
 	</string>
 	<string id="stader_dialog_9">
-		<text>I guess not.</text>
+		<text>I guess not. (start here for your second session on 3/16/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_10">
 		<text>Then give me your box and let's get this therapy talk over with.</text>
