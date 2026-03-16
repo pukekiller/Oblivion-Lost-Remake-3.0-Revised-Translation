@@ -925,10 +925,10 @@
 		<text>Do I have a choice?</text>
 	</string>
 	<string id="stader_dialog_9">
-		<text>I guess not. (start here for your second session on 3/16/26 and don't forget to remove this when you start)</text>
+		<text>I guess not.</text>
 	</string>
 	<string id="stader_dialog_10">
-		<text>Then give me your box and let's get this therapy talk over with.</text>
+		<text>Then give me your box and let's get this therapy talk over with. (start here for your first session on 3/16/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_11">
 		<text>It's right behind you. I only have one question left.</text>
