@@ -928,10 +928,10 @@
 		<text>I guess not.</text>
 	</string>
 	<string id="stader_dialog_10">
-		<text>Then give me your box and let's get this therapy talk over with. (start here for your first session on 3/16/26 and don't forget to remove this when you start)</text>
+		<text>Then give me your box and let's get this therapy talk over with.</text>
 	</string>
 	<string id="stader_dialog_11">
-		<text>It's right behind you. I only have one question left.</text>
+		<text>Are you paying attention? I said it's right behind you... also, I have one more question for you. (start here for your second session on 3/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_12">
 		<text>Well?</text>
