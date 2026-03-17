@@ -931,10 +931,10 @@
 		<text>Then give me your box and let's get this therapy talk over with.</text>
 	</string>
 	<string id="stader_dialog_11">
-		<text>Are you paying attention? I said it's right behind you... also, I have one more question for you. (start here for your second session on 3/17/26 and don't forget to remove this when you start)</text>
+		<text>Are you paying attention? I said it's right behind you... also, I have one more question for you.</text>
 	</string>
 	<string id="stader_dialog_12">
-		<text>Well?</text>
+		<text>Well? (start here for your first session on 3/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_13">
 		<text>What should I call you, because there's a lot of stalkers.</text>
