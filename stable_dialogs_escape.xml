@@ -934,10 +934,10 @@
 		<text>Are you paying attention? I said it's right behind you... also, I have one more question for you.</text>
 	</string>
 	<string id="stader_dialog_12">
-		<text>Well? (start here for your first session on 3/17/26 and don't forget to remove this when you start)</text>
+		<text>Well?</text>
 	</string>
 	<string id="stader_dialog_13">
-		<text>What should I call you, because there's a lot of stalkers.</text>
+		<text>What should I call you? We should come up with a nickname for you, because there's a lot of stalkers here. (start here for your second session on 3/18/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_dialog_14">
 		<text>You can call me whatever you want, though. since you can't give me anything better than a knife, call me Messer.</text>
