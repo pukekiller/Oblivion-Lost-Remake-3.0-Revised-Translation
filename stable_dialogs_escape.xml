@@ -943,10 +943,10 @@
 		<text>You can call me whatever you want.. although, since you can't give me anything better than a knife, the nickname Messer works for me.</text>
 	</string>
 	<string id="stader_0">
-		<text>Here's your box. (start here for your second session on 3/19/26 and don't forget to remove this when you start)</text>
+		<text>Here's your box.</text>
 	</string>
 	<string id="stader_1">
-		<text>Well, you're a survivor, kid. Maybe the legends are true, and a three-time survivor of the Death Truck will change the world. We'll just have to wait and see. You didn't happen to look in it, did you?</text>
+		<text>Well, you're a survivor, kid. Maybe the legends are true, and a three-time survivor of the Death Truck might just change the world. We'll just have to wait and see. You didn't happen to look in it, did you?  (start here for your first session on 3/19/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_2">
 		<text>Should I have?</text>
