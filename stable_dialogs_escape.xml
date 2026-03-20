@@ -946,10 +946,10 @@
 		<text>Here's your box.</text>
 	</string>
 	<string id="stader_1">
-		<text>Well, you're a survivor, kid. Maybe the legends are true, and a three-time survivor of the Death Truck might just change the world. We'll just have to wait and see. You didn't happen to look in it, did you?  (start here for your first session on 3/19/26 and don't forget to remove this when you start)</text>
+		<text>Well, you're a survivor, kid. Maybe the legends are true, and a three-time survivor of the Death Truck might just change the world. We'll just have to wait and see. You didn't happen to look in it, did you?</text>
 	</string>
 	<string id="stader_2">
-		<text>Should I have?</text>
+		<text>Should I have? (start here for your second session on 3/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="stader_3">
 		<text>Okay, don't be mad. This is just the beginning, buddy.</text>
