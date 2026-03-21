@@ -955,10 +955,10 @@
 		<text>I wouldn't worry too much about that. Don't be mad. This is just the beginning, buddy.</text>
 	</string>
 	<string id="bar_ohran_propusk_0">
-		<text>Anything else? (start here for your second session on 3/21/26 and don't forget to remove this when you start)</text>
+		<text>Anything else?</text>
 	</string>
 	<string id="bar_ohran_propusk_1">
-		<text>Okay, you've done your first task, great. Now, the next one. There's a fun artifact that's been sitting on a tower on a railroad bridge for a while now. Stalkers do not want to go there - quite strong anomalous activities there, but I see that you're an experienced guy, so you will be able to do it...</text>
+		<text>Okay, you've done your first task, great. Now, the next one. There's an interesting artifact that's been sitting on a tower on a railroad bridge for a while now. Stalkers do not want to go there, the anomalous activity there makes that spot dangerous, but I see that you're an experienced guy, so you will be able to do it... (start here for your first session on 3/21/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="bar_ohran_propusk_2">
 		<text>So what do I have to do?</text>
