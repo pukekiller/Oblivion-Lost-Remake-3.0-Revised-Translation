@@ -961,10 +961,10 @@
 		<text>Okay, you've done your first task, great. Now, the next one. There's an interesting artifact that's been sitting on a tower on a railroad bridge for a while now. Stalkers do not want to go there, the anomalous activity there makes that spot dangerous, but I see that you're an experienced guy, so you will be able to do it...</text>
 	</string>
 	<string id="bar_ohran_propusk_2">
-		<text>What do I have to do? (start here for your second session on 3/22/26 and don't forget to remove this when you start)</text>
+		<text>What do I have to do?</text>
 	</string>
 	<string id="bar_ohran_propusk_3">
-		<text>Get me that artifact. Here, take some anti-rads, just in case. Oh, and I think you're gonna need a detector. It's a little low on juice. but it's good enough for one trip into an anomalous field. You should know that it only works on the belt. And it discharges, too. Alright, go on, don't bother your eyes.</text>
+		<text>What do you think? Get me that artifact. Here, take some anti-rads, just in case. Oh, and I think you're going to need a detector. It's a little low on power.,but it's good enough for one trip into an anomalous area. You should know that it only works if it's properly equipped on your belt. And it discharges, too. Alright, go on, stop wasting time. (start here for your first session on 3/22/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="bar_friend_propusk_0">
 		<text>I got the artifact.</text>
