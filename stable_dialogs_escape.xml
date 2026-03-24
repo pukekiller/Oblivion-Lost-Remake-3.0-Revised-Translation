@@ -970,10 +970,10 @@
 		<text>I got the artifact.</text>
 	</string>
 	<string id="bar_friend_propusk_1">
-		<text>Okay. You survived. You're definitely not new to the Zone, kid. (start here for your first session on 3/23/26 and don't forget to remove this when you start)</text>
+		<text>Okay. You survived. You're definitely not new to the Zone, kid.</text>
 	</string>
 	<string id="bar_friend_propusk_2">
-		<text>Maybe, but I don't remember anything.</text>
+		<text>Maybe, but I don't remember anything. (start here for your second session on 3/24/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="bar_friend_propusk_3">
 		<text>Alright, let's not get philosophical. Take what you deserve. Whoa. step aside. Hoplite came from the research institute.</text>
