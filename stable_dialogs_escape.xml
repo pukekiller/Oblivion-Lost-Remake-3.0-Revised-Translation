@@ -973,10 +973,10 @@
 		<text>Okay. You survived. You're definitely not new to the Zone, kid.</text>
 	</string>
 	<string id="bar_friend_propusk_2">
-		<text>Maybe, but I don't remember anything. (start here for your second session on 3/24/26 and don't forget to remove this when you start)</text>
+		<text>Maybe, but I don't remember anything.</text>
 	</string>
 	<string id="bar_friend_propusk_3">
-		<text>Alright, let's not get philosophical. Take what you deserve. Whoa. step aside. Hoplite came from the research institute.</text>
+		<text>Alright, let's not get too philosophical. Take what you deserve... whoa, step aside for a moment. Hoplite just came from the research institute. (start here for your first session on 3/24/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_3_0">
 		<text>I need a gun. What do you want for a real gun?</text>
