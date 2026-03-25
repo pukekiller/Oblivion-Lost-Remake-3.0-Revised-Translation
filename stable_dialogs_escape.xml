@@ -964,7 +964,7 @@
 		<text>What do I have to do?</text>
 	</string>
 	<string id="bar_ohran_propusk_3">
-		<text>What do you think? Get me that artifact. Here, take some anti-rads, just in case. Oh, and I think you're going to need a detector. It's a little low on power.,but it's good enough for one trip into an anomalous area. You should know that it only works if it's properly equipped on your belt. And it discharges, too. Alright, go on, stop wasting time.</text>
+		<text>What do you think? Get me that artifact. Here, take some anti-rads, just in case. Oh, and I think you're going to need a detector. It's a little low on power, but it's good enough for one trip into an anomalous area. You should know that it only works if it's properly equipped on your belt. And it discharges, too. Alright, go on, stop wasting time.</text>
 	</string>
 	<string id="bar_friend_propusk_0">
 		<text>I got the artifact.</text>
@@ -976,10 +976,10 @@
 		<text>Maybe, but I don't remember anything.</text>
 	</string>
 	<string id="bar_friend_propusk_3">
-		<text>Alright, let's not get too philosophical. Take what you deserve... whoa, step aside for a moment. Hoplite just came from the research institute. (start here for your first session on 3/24/26 and don't forget to remove this when you start)</text>
+		<text>Alright, let's not get too philosophical. Take what you deserve... whoa, step aside for a moment. Hoplite just came from the research institute.</text>
 	</string>
 	<string id="st_stader_kv_3_0">
-		<text>I need a gun. What do you want for a real gun?</text>
+		<text>I need a gun. What do you want for a real gun? (start here for your second session on 3/25/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_3_1">
 		<text>A gun? Huh. What, you're gonna shoot some of the local animals?</text>
