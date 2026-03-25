@@ -979,10 +979,10 @@
 		<text>Alright, let's not get too philosophical. Take what you deserve... whoa, step aside for a moment. Hoplite just came from the research institute.</text>
 	</string>
 	<string id="st_stader_kv_3_0">
-		<text>I need a gun. What do you want for a real gun? (start here for your second session on 3/25/26 and don't forget to remove this when you start)</text>
+		<text>I need a gun. What do you want for a real gun?</text>
 	</string>
 	<string id="st_stader_kv_3_1">
-		<text>A gun? Huh. What, you're gonna shoot some of the local animals?</text>
+		<text>A gun? Huh. What, you're gonna shoot some of the local wildlife? (start here for your first session on 3/25/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_3_2">
 		<text>Well, I think it's foolish to be out here with just a knife.</text>
