@@ -985,10 +985,10 @@
 		<text>A gun? Huh. What, you're gonna shoot some of the local wildlife?</text>
 	</string>
 	<string id="st_stader_kv_3_2">
-		<text>I think it's foolish to be out here with just a knife. (start here for your second session on 3/26/26 and don't forget to remove this when you start)</text>
+		<text>I think it's foolish to be out here with just a knife.</text>
 	</string>
 	<string id="st_stader_kv_3_3">
-		<text>What, you scared of dogs? Or crows?</text>
+		<text>What, are you scared of dogs? Or crows? (start here for your first session on 3/26/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_3_4">
 		<text>Look, let's cut to the chase. I'm not gonna listen to you lecture me, alright?</text>
