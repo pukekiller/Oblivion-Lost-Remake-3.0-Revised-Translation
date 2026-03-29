@@ -1003,10 +1003,10 @@
 		<text>Go on, run, smart ass.</text>
 	</string>
 	<string id="st_dialog_digger_olr_0">
-		<text>Toad sent me. He said you could help me learn how to shoot. (start here for your second session on 3/29/26 and don't forget to remove this when you start)</text>
+		<text>Toad sent me. He said you could help me learn how to shoot.</text>
 	</string>
 	<string id="st_dialog_digger_olr_1">
-		<text>Hey, let's say I can. Listen to me. There's a flesh on the factory floor. We sneak up on her quietly, and then we take her out, you understand?</text>
+		<text>Hey, let's say I can. Listen to me. There's a few fleshes at the factory floor. We'll sneak up on them quietly, and then we take them out. Do you understand? (start here for your first session on 3/29/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_digger_olr_2">
 		<text>Yes.</text>
