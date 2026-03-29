@@ -1000,10 +1000,10 @@
 		<text>I'm going to go to him.</text>
 	</string>
 	<string id="st_stader_kv_3_7">
-		<text>Go on, run, smart ass. (start here for your first session on 3/28/26 and don't forget to remove this when you start)</text>
+		<text>Go on, run, smart ass.</text>
 	</string>
 	<string id="st_dialog_digger_olr_0">
-		<text>I came from Toad. He said you could help me shoot.</text>
+		<text>Toad sent me. He said you could help me learn how to shoot. (start here for your second session on 3/29/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_digger_olr_1">
 		<text>Hey, let's say I can. Listen to me. There's a flesh on the factory floor. We sneak up on her quietly, and then we take her out, you understand?</text>
