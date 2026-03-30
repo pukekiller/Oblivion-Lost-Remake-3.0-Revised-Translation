@@ -1006,10 +1006,10 @@
 		<text>Toad sent me. He said you could help me learn how to shoot.</text>
 	</string>
 	<string id="st_dialog_digger_olr_1">
-		<text>Hey, let's say I can. Listen to me. There's a few fleshes at the factory floor. We'll sneak up on them quietly, and then we take them out. Do you understand? (start here for your first session on 3/29/26 and don't forget to remove this when you start)</text>
+		<text>Hey, let's say I can. Listen to me. There's a few fleshes at the factory floor. We'll sneak up on them quietly, and then we take them out. Do you understand?</text>
 	</string>
 	<string id="st_dialog_digger_olr_2">
-		<text>Yes.</text>
+		<text>Yes. (start here for your second session on 3/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_digger_olr_3">
 		<text>Just follow me, and when we get close to the mutant, shoot it.</text>
