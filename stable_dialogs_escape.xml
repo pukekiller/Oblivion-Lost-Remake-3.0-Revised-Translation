@@ -1009,10 +1009,10 @@
 		<text>Hey, let's say I can. Listen to me. There's a few fleshes at the factory floor. We'll sneak up on them quietly, and then we take them out. Do you understand?</text>
 	</string>
 	<string id="st_dialog_digger_olr_2">
-		<text>Yes. (start here for your second session on 3/30/26 and don't forget to remove this when you start)</text>
+		<text>Yes.</text>
 	</string>
 	<string id="st_dialog_digger_olr_3">
-		<text>Just follow me, and when we get close to the mutant, shoot it.</text>
+		<text>Just follow me, and when we get close to the mutant, shoot it. (start here for your first session on 3/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_3_digger_done_0">
 		<text>I met Digger. The factory had a flesh. That's where the gun came in handy.</text>
