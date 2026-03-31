@@ -1012,10 +1012,10 @@
 		<text>Yes.</text>
 	</string>
 	<string id="st_dialog_digger_olr_3">
-		<text>Just follow me, and when we get close to the mutant, shoot it. (start here for your first session on 3/30/26 and don't forget to remove this when you start)</text>
+		<text>Just follow me, and when we get close to the mutant, shoot it.</text>
 	</string>
 	<string id="st_dialog_3_digger_done_0">
-		<text>I met Digger. The factory had a flesh. That's where the gun came in handy.</text>
+		<text>I met Digger. The factory had a few mutants loitering around. That's where the gun came in handy. (start here for your second session on 3/31/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_3_digger_done_1">
 		<text>I know. Okay, so you can handle a gun. You said a flesh was there. hmm, strange. It's a pretty rare animal. They don't usually live here. I've heard of herds of them in a town up north, but here... Alright.</text>
