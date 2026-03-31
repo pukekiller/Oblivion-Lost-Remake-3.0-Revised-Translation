@@ -1015,10 +1015,10 @@
 		<text>Just follow me, and when we get close to the mutant, shoot it.</text>
 	</string>
 	<string id="st_dialog_3_digger_done_0">
-		<text>I met Digger. The factory had a few mutants loitering around. That's where the gun came in handy. (start here for your second session on 3/31/26 and don't forget to remove this when you start)</text>
+		<text>I met Digger. The factory had a few mutants loitering around. That's where the gun came in handy.</text>
 	</string>
 	<string id="st_dialog_3_digger_done_1">
-		<text>I know. Okay, so you can handle a gun. You said a flesh was there. hmm, strange. It's a pretty rare animal. They don't usually live here. I've heard of herds of them in a town up north, but here... Alright.</text>
+		<text>I know. Okay, so you can handle a gun. You said a flesh was there.. hmm, strange. That's a pretty rare mutant here, they don't usually live in this area. I've heard of herds of them in a town up north, but here... Alright.  (start here for your first session on 3/31/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_3_digger_done_2">
 		<text>A town? Here? Interesting. people live there?</text>
