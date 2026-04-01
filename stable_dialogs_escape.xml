@@ -1018,10 +1018,10 @@
 		<text>I met Digger. The factory had a few mutants loitering around. That's where the gun came in handy.</text>
 	</string>
 	<string id="st_dialog_3_digger_done_1">
-		<text>I know. Okay, so you can handle a gun. You said a flesh was there.. hmm, strange. That's a pretty rare mutant here, they don't usually live in this area. I've heard of herds of them in a town up north, but here... Alright.  (start here for your first session on 3/31/26 and don't forget to remove this when you start)</text>
+		<text>I know. Okay, so you can handle a gun. You said a flesh was there.. hmm, strange. That's a pretty rare mutant here, they don't usually live in this area. I've heard of herds of them in a town up north, but here... Alright.</text>
 	</string>
 	<string id="st_dialog_3_digger_done_2">
-		<text>A town? Here? Interesting. people live there?</text>
+		<text>A town? Here? Interesting. Do people live there?  (start here for your second session on 4/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_3_digger_done_3">
 		<text>Yeah, they do. not too lively. Yeah... By the way. I have a case.</text>
