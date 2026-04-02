@@ -1024,13 +1024,13 @@
 		<text>A town? Here? Interesting. Do people live there?</text>
 	</string>
 	<string id="st_dialog_3_digger_done_3">
-		<text>Yeah, they do. Things aren't too lively there. Yeah... By the way. I have a case.</text>
+		<text>Yeah, they do. Things aren't too lively there. Yeah... By the way. I have a case for you, your mission involves resolving it.</text>
 	</string>
 	<string id="st_stader_kv_4_0">
-		<text>What kind of case? (start here for your second session on 4/2/26 and don't forget to remove this when you start)</text>
+		<text>What kind of case</text>
 	</string>
 	<string id="st_stader_kv_4_1">
-		<text>There's a military raid going on, and the thing is, the last patrol went missing just a couple hours ago in the factory district. I'm getting a clear signal from one of the PDAs, which means someone's still alive out there.</text>
+		<text>There's a military raid going on, and the thing is, the last patrol went missing just a couple hours ago in the factory district. I'm getting a clear signal from one of the PDAs, which means someone's still alive out there. (start here for your second session on 4/2/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_4_2">
 		<text>You're not saying I have to go check it out, are you?</text>
