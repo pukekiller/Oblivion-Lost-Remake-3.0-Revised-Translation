@@ -1030,10 +1030,10 @@
 		<text>What kind of case</text>
 	</string>
 	<string id="st_stader_kv_4_1">
-		<text>There's a military raid going on, and the thing is, the last patrol went missing just a couple hours ago in the factory district. I'm getting a clear signal from one of the PDAs, which means someone's still alive out there. (start here for your second session on 4/2/26 and don't forget to remove this when you start)</text>
+		<text>There's a military raid going on, and the thing is, the last patrol went missing just a couple hours ago in the factory district. I'm getting a clear signal from one of the PDAs, which means someone's still alive out there.</text>
 	</string>
 	<string id="st_stader_kv_4_2">
-		<text>You're not saying I have to go check it out, are you?</text>
+		<text>You're not saying I have to go check it out, are you?  (start here for your first session on 4/3/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_4_3">
 		<text>You don't want to walk around the Zone naked, do you? I'm getting an SOS from their commander. Go and see what's going on out there.</text>
