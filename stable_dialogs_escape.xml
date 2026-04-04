@@ -1039,10 +1039,10 @@
 		<text>You don't want to walk around the Zone naked, do you? I'm getting an SOS from their commander. Go and see what's going on out there.</text>
 	</string>
 	<string id="st_stader_kv_4_4">
-		<text>Okay, what about weapons? You don't know what happened to that patrol, do you? (start here for your fist session on 4/4/26 and don't forget to remove this when you start)</text>
+		<text>Okay, what about weapons? You don't know what happened to that patrol, do you?</text>
 	</string>
 	<string id="st_stader_kv_4_5">
-		<text>Sorry, things are a little tight right now. Of course I don't know. I don't even leave my bunker. So, let's do it this way - keep a grenade just in case, I think you know how to use it - put it in your suit pocket so you don't have to go into the backpack, and a first aid kit, just in case... You know, there's been some zombies around the plant lately. They're probably being controlled by someone, so be careful out there.</text>
+		<text>Sorry, things are a little tight right now, and of course I don't know. I don't even leave my bunker. So, let's do it this way - keep a grenade just in case, I think you know how to use it - put it in your suit pocket so you don't have to go get it fromm your backpack, and a first aid kit, just in case... You know, there's been some zombies around the plant lately. They're probably being controlled by someone, so be careful out there. (start here for your second session on 4/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_4_6">
 		<text>Controlling them? What does that mean?</text>
