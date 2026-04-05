@@ -1045,10 +1045,10 @@
 		<text>Sorry, things are a little tight right now, and of course I don't know. I don't even leave my bunker. So, let's do it this way - keep a grenade just in case, I think you know how to use it - put it in your suit pocket so you don't have to go get it from your backpack, and a first aid kit, just in case... You know, there's been some zombies around the plant lately. They're probably being controlled by someone, so be careful out there.</text>
 	</string>
 	<string id="st_stader_kv_4_6">
-		<text>Controlling them? What does that mean? (start here for your second session on 4/5/26 and don't forget to remove this when you start)</text>
+		<text>Controlling them? What does that mean?</text>
 	</string>
 	<string id="st_stader_kv_4_7">
-		<text>Maybe! Listen, if you help me with this military thing, trust me, you can count on a bigger assortment from me. Alright, go.</text>
+		<text>Listen, if you help me with this military thing, you can count on a bigger assortment of gear from me. Trust me.. alright, go. (start here for your first session on 4/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_0">
 		<text>Are you the commander? What's up?</text>
