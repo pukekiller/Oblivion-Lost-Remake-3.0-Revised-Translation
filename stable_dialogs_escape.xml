@@ -1048,10 +1048,10 @@
 		<text>Controlling them? What does that mean?</text>
 	</string>
 	<string id="st_stader_kv_4_7">
-		<text>Listen, if you help me with this military thing, you can count on a bigger assortment of gear from me. Trust me.. alright, go. (start here for your first session on 4/5/26 and don't forget to remove this when you start)</text>
+		<text>Listen, if you help me with this military thing, you can count on a bigger assortment of gear from me. Trust me.. alright, go.</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_0">
-		<text>Are you the commander? What's up?</text>
+		<text>Are you the commander? What's up? What happened here? (start here for your second session on 4/6/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_1">
 		<text>Ahh... shit... stalker. how did he get here?</text>
