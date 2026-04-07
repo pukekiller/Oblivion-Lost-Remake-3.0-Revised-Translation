@@ -1054,10 +1054,10 @@
 		<text>Are you the commander? What's up? What happened here?</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_1">
-		<text>Ahh... shit... stalker. How did he get here? (start here for your first session on 4/6/26 and don't forget to remove this when you start)</text>
+		<text>Ahh... shit... stalker. How did he get here?</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_2">
-		<text>Who showed up?</text>
+		<text>Who showed up? (start here for your second session on 4/7/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_3">
 		<text>The Controller! He's here! He's up there! We need to see if our lieutenant's alive, he went up-- oh, shit.</text>
