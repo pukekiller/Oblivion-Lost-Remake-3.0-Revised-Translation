@@ -1060,10 +1060,10 @@
 		<text>Who showed up?</text>
 	</string>
 	<string id="st_dialog_4_comandir_talk_3">
-		<text>The Controller! He's here! He's up there! We need to see if our lieutenant's alive, he went up- oh, shit. (start here for your first session on 4/7/26 and don't forget to remove this when you start)</text>
+		<text>The Controller! He's here! He's up there! We need to see if our lieutenant's alive, he went up- oh, shit.</text>
 	</string>
 	<string id="st_dialog_4_done_0">
-		<text>I think their squad was attacked by a controller. That's what the commander told me.</text>
+		<text>I think their squad was attacked by a Controller. That's what the commander told me. (start here for your second session on 4/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_4_done_1">
 		<text>Yeah, I got confirmation on the radio. Thank you, Messer. A controller? How the hell would he be here? This is weird.</text>
