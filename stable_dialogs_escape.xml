@@ -1063,10 +1063,10 @@
 		<text>The Controller! He's here! He's up there! We need to see if our lieutenant's alive, he went up- oh, shit.</text>
 	</string>
 	<string id="st_dialog_4_done_0">
-		<text>I think their squad was attacked by a Controller. That's what the commander told me. (start here for your second session on 4/8/26 and don't forget to remove this when you start)</text>
+		<text>I think their squad was attacked by a Controller. That's what the commander told me.</text>
 	</string>
 	<string id="st_dialog_4_done_1">
-		<text>Yeah, I got confirmation on the radio. Thank you, Messer. A controller? How the hell would he be here? This is weird.</text>
+		<text>Yeah, I got confirmation on the radio. Thank you, Messer. A cCntroller? How the hell would one of those get here? This is weird. (start here for your first session on 4/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_4_done_2">
 		<text>Looks like he's been wounded. From the looks of him. Can you tell me what he's doing to my brain? Sometimes it's like I can't control my arms when I'm around him. Anyway, listen, you promised you'd share information.</text>
