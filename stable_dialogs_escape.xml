@@ -1081,10 +1081,10 @@
 		<text>Now you need to go to the bridge. There's a client there, Ferret. He's waiting for a delivery and he will pay on the spot. I think he's back from a raid, or maybe he just stole it from someone... Either way, he'll give the money. Don't flick your beak, Ferret is a clever guy, if you hesitate, he'll put you back in the truck where you were found... But this time, I don't think anyone's gonna be able to put you down. We need to give him ammo, and in return, we need to take what he gives us.</text>
 	</string>
 	<string id="st_dialog_5_start_2">
-		<text>Okay, I'll take care of it.  (start here for your second session on 4/11/26 and don't forget to remove this when you start)</text>
+		<text>Okay, I'll take care of it.</text>
 	</string>
 	<string id="st_dialog_5_start_3">
-		<text>He's in the single abandoned house near the bridge.</text>
+		<text>He's in the abandoned house near the bridge. (start here for your first session on 4/11/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_0">
 		<text>Toad sent me. Here's the ammo. Who's that military guy?</text>
