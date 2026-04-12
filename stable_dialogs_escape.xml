@@ -1084,10 +1084,10 @@
 		<text>Okay, I'll take care of it.</text>
 	</string>
 	<string id="st_dialog_5_start_3">
-		<text>He's in the abandoned house near the bridge. (start here for your first session on 4/11/26 and don't forget to remove this when you start)</text>
+		<text>He's in the abandoned house near the bridge.</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_0">
-		<text>Toad sent me. Here's the ammo. Who's that military guy?</text>
+		<text>Toad sent me. Here's the ammo. Who's that military guy? (start here for your second session on 4/12/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_1">
 		<text>He's from a patrol. He must have gotten away. They've been drinking so much stalker blood, bitches. Next time, they'll know how to organize punitive operations. By the way, is it true you're the only survivor of the death truck?</text>
