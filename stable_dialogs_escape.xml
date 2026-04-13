@@ -1090,10 +1090,10 @@
 		<text>Toad sent me. Here's the ammo. Who's that military guy?</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_1">
-		<text>He's from a patrol. He must have gotten away. They've been spilling so much stalker blood, bitches. Next time, they'll know how to organize punitive operations. By the way, is it true you're the only survivor of the death truck? (start here for your first session on 4/12/26 and don't forget to remove this when you start)</text>
+		<text>He's from a patrol. He must have gotten away. They've been spilling so much stalker blood, bitches. Next time, they'll know how to organize punitive operations. By the way, is it true you're the only survivor of the death truck?</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_2">
-		<text>That's a lie, I'm not really dead.</text>
+		<text>That's a lie, I didn't come from the death truck. (start here for your second session on 4/13/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_3">
 		<text>Relax, I don't want to hurt you. If I wanted to kill you, I could have done it back when you were playing the old Indian on the approach... Look around, you see the view and you can't see me. If you're so tough, you could have figured it out yourself. Is it true about the trucks?</text>
