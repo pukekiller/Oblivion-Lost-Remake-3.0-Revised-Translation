@@ -1099,10 +1099,10 @@
 		<text>Relax, I don't want to hurt you. If I wanted to kill you, I could have done it back when you were playing the old Indian on the approach... Look around, you can see the view, but you can't see me from afar. If you're so tough, you could have figured it out yourself. Is it true that you came from the death truck?</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_4">
-		<text>It's true. (start here for your second session on 4/14/26 and don't forget to remove this when you start)</text>
+		<text>It's true.</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_5">
-		<text>They say you wanted to kill Gunslinger?</text>
+		<text>That reminds me. People say you want to kill Gunslinger? (start here for your first session on 4/14/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_6">
 		<text>Did Toad put the word out?</text>
