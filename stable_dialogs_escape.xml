@@ -1102,10 +1102,10 @@
 		<text>It's true.</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_5">
-		<text>That reminds me. People say you want to kill Gunslinger? (start here for your first session on 4/14/26 and don't forget to remove this when you start)</text>
+		<text>That reminds me. People say you want to kill Gunslinger?</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_6">
-		<text>Did Toad put the word out?</text>
+		<text>Did Toad put the word out? (start here for your second session on 4/15/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_7">
 		<text>Just a rumor.</text>
