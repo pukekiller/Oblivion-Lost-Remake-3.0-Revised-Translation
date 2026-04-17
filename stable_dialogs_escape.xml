@@ -1114,10 +1114,10 @@
 		<text>I don't know anyone going by the name Gunslinger.</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_9">
-		<text>You're pretty banged up, kid. (start here for your first session on 4/16/26 and don't forget to remove this when you start)</text>
+		<text>You're pretty banged up, kid.</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_10">
-		<text>Who's Gunslinger?</text>
+		<text>Who's Gunslinger? (start here for your second session on 4/17/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_11">
 		<text>He used to be around here, but I haven't seen him in a while. Let's just cut to the chase. I've been here long enough as it is. You better stay put. I wouldn't last a day in the Zone if I wasn't alert every second. I'll leave the backpack, and we'll part ways peacefully. It's not worth it to me to slap you, but I'd like to see how this whole thing plays out. I don't care about Gunslinger, and I don't care about you. And tell Toad I said hello!</text>
