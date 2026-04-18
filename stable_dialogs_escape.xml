@@ -1078,7 +1078,7 @@
 		<text>Any other errands?</text>
 	</string>
 	<string id="st_dialog_5_start_1">
-		<text>Now you need to go to the bridge. There's a client there, Ferret. He's waiting for a delivery and he will pay on the spot. I think he's back from a raid, or maybe he just stole it from someone... Either way, he'll give the money. Don't flick your beak, Ferret is a clever guy, if you hesitate, he'll put you back in the truck where you were found... But this time, I don't think anyone's gonna be able to put you down. We need to give him ammo, and in return, we need to take what he gives us.</text>
+		<text>Now you need to go to the bridge. There's a client there, Ferret. He's waiting for a delivery and he will pay on the spot. I think he's back from a raid, or maybe he just stole it from someone... Either way, he'll give the money. Don't turn up your nose, Ferret is a clever guy, if you hesitate, he'll put you back in the truck where you were found... But this time, I don't think anyone's gonna be able to put you down. We need to give him ammo, and in return, we need to take what he gives us.</text>
 	</string>
 	<string id="st_dialog_5_start_2">
 		<text>Okay, I'll take care of it.</text>
@@ -1123,10 +1123,10 @@
 		<text>He used to be around here, but I haven't seen him in a while. Let's just cut to the chase. I've been here long enough as it is. You better stay put. I wouldn't last a day in the Zone if I wasn't alert every second. I'll leave the backpack, and we'll part ways peacefully. It's not worth it to me to put you down because I'd like to see how this whole thing plays out. I don't care about Gunslinger, and I don't care about you. And tell Toad I said hello!</text>
 	</string>
 	<string id="st_dialog_5_lis_talk_12">
-		<text>... (start here for your second session on 4/18/26 and don't forget to remove this when you start)</text>
+		<text>...</text>
 	</string>
 	<string id="st_dialog_5_done_0">
-		<text>I took the backpack from the stalker behind the bridge. Here it is.</text>
+		<text>I took the backpack from the stalker near the bridge. Here it is. (start here for your first session on 4/18/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_1">
 		<text>You didn't look in it either?</text>
