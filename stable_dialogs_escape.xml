@@ -1126,10 +1126,10 @@
 		<text>...</text>
 	</string>
 	<string id="st_dialog_5_done_0">
-		<text>I took the backpack from the stalker near the bridge. Here it is. (start here for your first session on 4/18/26 and don't forget to remove this when you start)</text>
+		<text>I took the backpack from the stalker near the bridge. Here it is.</text>
 	</string>
 	<string id="st_dialog_5_done_1">
-		<text>You didn't look in it either?</text>
+		<text>You didn't look in it either? (start here for your second session on 4/19/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_2">
 		<text>No.</text>
