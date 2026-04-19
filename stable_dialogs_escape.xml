@@ -1129,10 +1129,10 @@
 		<text>I took the backpack from the stalker near the bridge. Here it is.</text>
 	</string>
 	<string id="st_dialog_5_done_1">
-		<text>You didn't look in it either? (start here for your second session on 4/19/26 and don't forget to remove this when you start)</text>
+		<text>You didn't look in it either?</text>
 	</string>
 	<string id="st_dialog_5_done_2">
-		<text>No.</text>
+		<text>No. (start here for your first session on 4/19/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_3">
 		<text>Do you have any idea what's in there?</text>
