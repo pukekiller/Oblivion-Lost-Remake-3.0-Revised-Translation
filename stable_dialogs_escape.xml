@@ -1135,10 +1135,10 @@
 		<text>No.</text>
 	</string>
 	<string id="st_dialog_5_done_3">
-		<text>Do you have any idea what's in there? (start here for your second session on 4/20/26 and don't forget to remove this when you start)</text>
+		<text>Do you have any idea what's in there?</text>
 	</string>
 	<string id="st_dialog_5_done_4">
-		<text>It's artifacts.</text>
+		<text>I'm guessing it's artifacts.  (start here for your first session on 4/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_5">
 		<text>You still don't remember your name or who Gunslinger is?</text>
