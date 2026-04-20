@@ -1132,10 +1132,10 @@
 		<text>You didn't look in it either?</text>
 	</string>
 	<string id="st_dialog_5_done_2">
-		<text>No. (start here for your first session on 4/19/26 and don't forget to remove this when you start)</text>
+		<text>No.</text>
 	</string>
 	<string id="st_dialog_5_done_3">
-		<text>Do you have any idea what's in there?</text>
+		<text>Do you have any idea what's in there? (start here for your second session on 4/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_4">
 		<text>It's artifacts.</text>
