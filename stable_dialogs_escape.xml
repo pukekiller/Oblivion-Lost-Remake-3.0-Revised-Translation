@@ -1141,10 +1141,10 @@
 		<text>I'm guessing it's artifacts.</text>
 	</string>
 	<string id="st_dialog_5_done_5">
-		<text>You still don't remember your name or who Gunslinger is? (start here for your second session on 4/21/26 and don't forget to remove this when you start)</text>
+		<text>You still don't remember your name or who Gunslinger is?</text>
 	</string>
 	<string id="st_dialog_5_done_6">
-		<text>No.</text>
+		<text>No. (start here for your first session on 4/21/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_7">
 		<text>And how you got on the death truck?</text>
