@@ -1147,10 +1147,10 @@
 		<text>No.</text>
 	</string>
 	<string id="st_dialog_5_done_7">
-		<text>And how you got on the death truck? (start here for your second session on 4/22/26 and don't forget to remove this when you start)</text>
+		<text>And how you got on the death truck?</text>
 	</string>
 	<string id="st_dialog_5_done_8">
-		<text>No.</text>
+		<text>No. (start here for your first session on 4/22/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_9">
 		<text>Well, God be with you. I'll have one more mission for you, and you're free to go wherever you want.</text>
