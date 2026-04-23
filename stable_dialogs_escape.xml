@@ -1153,10 +1153,10 @@
 		<text>No.</text>
 	</string>
 	<string id="st_dialog_5_done_9">
-		<text>Well, God be with you. I have one more mission for you, and after you finish it, you're free to go wherever you want. (start here for your second session on 4/23/26 and don't forget to remove this when you start)</text>
+		<text>Well, God be with you. I have one more mission for you, and after you finish it, you're free to go wherever you want.</text>
 	</string>
 	<string id="st_dialog_5_done_10">
-		<text>Aren't you afraid I'll--</text>
+		<text>Aren't you afraid I'll- (start here for your first session on 4/23/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_dialog_5_done_11">
 		<text>I'm not afraid. You need me. Without me, you'll have no food, no ammo, no medicine. And if you're stupid enough to slap me, you'll be dead behind every bump, every tree.</text>
