@@ -1162,10 +1162,10 @@
 		<text>I'm not afraid. You need me. Without me, you'll have no food, no ammo, and no medicine. And if you're stupid enough to mess with me, death will await for you behind rock, every tree.</text>
 	</string>
 	<string id="st_stader_kv_6_0">
-		<text>What do you suggest? (start here for your first session on 4/24/26 and don't forget to remove this when you start)</text>
+		<text>What do you suggest?</text>
 	</string>
 	<string id="st_stader_kv_6_1">
-		<text>I got a tip that there are some documents on the Agroprom Research Institute that can help us get to the center of the Zone. It's a rough area. few people have been there since the big emission.</text>
+		<text>I got a tip that there are some documents on at the Agroprom Research Institute that can help us get to the center of the Zone. It's a rough area. Few people have been there since the big emission. (start here for your second session on 4/25/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_6_2">
 		<text>The center of the Zone?</text>
