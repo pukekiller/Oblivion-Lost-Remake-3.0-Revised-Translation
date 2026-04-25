@@ -1165,10 +1165,10 @@
 		<text>What do you suggest?</text>
 	</string>
 	<string id="st_stader_kv_6_1">
-		<text>I got a tip that there are some documents on at the Agroprom Research Institute that can help us get to the center of the Zone. It's a rough area. Few people have been there since the big emission. (start here for your second session on 4/25/26 and don't forget to remove this when you start)</text>
+		<text>I got a tip that there are some documents on at the Agroprom Research Institute that can help us get to the center of the Zone. It's a rough area. Few people have been there since the big emission.</text>
 	</string>
 	<string id="st_stader_kv_6_2">
-		<text>The center of the Zone?</text>
+		<text>The center of the Zone? (start here for your first session on 4/25/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_6_3">
 		<text>A legendary place. Rumored artifact troves and other wonders are all there. I can't leave it out, as you can imagine... There's even a legend of a wish granter, aka the Black Monolith. but that's more of a rumor. I don't really believe in that stuff. They say a certain Gunslinger managed to get into the center and disappeared. The same Gunslinger you're looking for, boy.</text>
