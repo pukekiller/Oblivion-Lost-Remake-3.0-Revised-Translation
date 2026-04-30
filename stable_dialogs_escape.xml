@@ -1192,10 +1192,10 @@
 		<text>Okay. That's the documents I wanted. You look like you've been- I don't know. Alright, I'm gonna need some time to go through these documents. Why don't you come back to my place in an hour and we'll figure out what to do next?</text>
 	</string>
 	<string id="st_stader_kv_6_have_2">
-		<text>Alright, but I'm a little rusty after that hike.  (start here for your first session on 4/29/26 and don't forget to remove this when you start)</text>
+		<text>Alright, but I'm a little rusty after that hike.</text>
 	</string>
 	<string id="st_stader_kv_6_have_3">
-		<text>Oh, yeah, here's yours. Now leave me alone with the paperwork. Come back in an hour. That's it.</text>
+		<text>Oh, yeah, here's your payment. Now leave me alone with the paperwork. Come back in an hour. That's all. (start here for your second session on 4/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_0">
 		<text>What is it?</text>
