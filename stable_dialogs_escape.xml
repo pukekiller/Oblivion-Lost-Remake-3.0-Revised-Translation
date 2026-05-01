@@ -1201,10 +1201,10 @@
 		<text>What's up?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_1">
-		<text>Okay, wait a minute. There's something I need to do. Remember those documents you brought me from the roof of the factory? (start here for your second session on 5/1/26 and don't forget to remove this when you start)</text>
+		<text>Okay, wait a minute. There's something I need to do. Remember those documents you brought me from the roof of the factory?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_2">
-		<text>I do.</text>
+		<text>I do. (start here for your first session on 5/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_3">
 		<text>Don't interrupt me. Anyway, it was about the underground utilities on the outskirts
