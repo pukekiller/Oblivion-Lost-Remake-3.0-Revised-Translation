@@ -1207,10 +1207,10 @@
 		<text>I do.</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_3">
-		<text>Don't interrupt me. Anyway, it was about the underground facilities on the outskirts of the Zone.. I mean, right here in the Cordon. I don't know what the hell they were built for. Maybe they were passages built for getting supplies into the Zone before things changed, or maybe they used them as a communication point... anyway, that's not the point. The point is that the documents show one of the entrances to these catacombs. (start here for your second session on 5/2/26 and don't forget to remove this when you start)</text>
+		<text>Don't interrupt me. Anyway, it was about the underground facilities on the outskirts of the Zone.. I mean, right here in the Cordon. I don't know what the hell they were built for. Maybe they were passages built for getting supplies into the Zone before things changed, or maybe they used them as a communication point... anyway, that's not the point. The point is that the documents show one of the entrances to these catacombs.</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_4">
-		<text>And you want me to go there?</text>
+		<text>And you want me to go there? (start here for your first session on 5/2/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_5">
 		<text>Don't interrupt me, Messer. I don't like being interrupted, or didn't you get it the first time?
