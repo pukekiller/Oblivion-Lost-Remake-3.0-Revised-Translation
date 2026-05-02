@@ -1204,13 +1204,10 @@
 		<text>Okay, wait a minute. There's something I need to do. Remember those documents you brought me from the roof of the factory?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_2">
-		<text>I do. (start here for your first session on 5/1/26 and don't forget to remove this when you start)</text>
+		<text>I do.</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_3">
-		<text>Don't interrupt me. Anyway, it was about the underground utilities on the outskirts
-of the Zone. I mean, right here on Cordon. I don't know what the hell they were built for,
-to get supplies into the Zone before the crash, or maybe they used them as a communication point. That's not
- the point. The point is that the documents show one of the entrances to these catacombs.</text>
+		<text>Don't interrupt me. Anyway, it was about the underground facilities on the outskirts of the Zone.. I mean, right here in the Cordon. I don't know what the hell they were built for. Maybe they were passages built for getting supplies into the Zone before things changed, or maybe they used them as a communication point... anyway, that's not the point. The point is that the documents show one of the entrances to these catacombs. (start here for your second session on 5/2/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_4">
 		<text>And you want me to go there?</text>
