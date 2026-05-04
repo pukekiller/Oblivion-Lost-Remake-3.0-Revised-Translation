@@ -1216,10 +1216,10 @@
 		<text>Don't interrupt me, Messer. I don't like being interrupted, or didn't you get that first time? Anyway, I sent a group of diggers down there while you were at Agroprom. Five of them. I sent them out three days ago, and they haven't checked in for a day. But, uh, they're green, and you're more experienced than those newbies. Why don't you go and see what's going on? Take anything of value you can find and bring it back here. I guarantee you a reward. The outfit's a gift. I'll deduct its value from the reward. As for weapons, you're welcome to use my selection. All at the lowest prices in the Zone. But, uh, you'll have to buy them. What are you looking at? It's not like I've got a charity here for everyone. Be thankful I don't deduct the price of the weapons from your fee, smart ass.</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_6">
-		<text>Where's the entrance to these facilities? (start here for your first session on 5/3/26 and don't forget to remove this when you start)</text>
+		<text>Where's the entrance to these facilities?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_7">
-		<text>There's a water tower west of the factory. They went in that direction. the entrance must be there somewhere. Why are you still here?</text>
+		<text>There's a water tower west of the factory. They went in that direction. The entrance must be there somewhere. Why are you still here? (start here for your second session on 5/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_8">
 		<text>I'm on my way out.</text>
