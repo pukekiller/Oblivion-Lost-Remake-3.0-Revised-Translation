@@ -1219,10 +1219,10 @@
 		<text>Where's the entrance to these facilities?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_7">
-		<text>There's a water tower west of the factory. They went in that direction. The entrance must be there somewhere. Why are you still here? (start here for your second session on 5/4/26 and don't forget to remove this when you start)</text>
+		<text>There's a water tower west of the factory. They went in that direction. The entrance must be there somewhere. Why are you still here?</text>
 	</string>
 	<string id="st_stader_kv_7_katakomby_start_8">
-		<text>I'm on my way out.</text>
+		<text>I'm on my way out. (start here for your first session on 5/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_start_0">
 		<text>I'll steal the crate.</text>
