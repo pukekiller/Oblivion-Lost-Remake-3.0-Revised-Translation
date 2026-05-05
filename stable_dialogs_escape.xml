@@ -1225,10 +1225,10 @@
 		<text>I'm on my way out.</text>
 	</string>
 	<string id="st_stader_kv_7_start_0">
-		<text>I'll steal the container. (start here for your second session on 5/5/26 and don't forget to remove this when you start)</text>
+		<text>I'll steal the container.</text>
 	</string>
 	<string id="st_stader_kv_7_start_1">
-		<text>Great. You need to steal another crate from the military here in Cordon. I recommend waiting till night, when the majority is fast asleep. The box itself should be in the commander's office. Yes, and a huge request, don't make any noise, do everything quietly, peacefully, and without noise. I could be in serious trouble if they get a wind of this. I suggest you act discretely, the soldiers are on patrol, but they are doing it for the hell of it. There hasn't been a shift change in a long time.</text>
+		<text>Great. You need to steal another container from the military here in the Cordon. I recommend waiting until night, when the majority is fast asleep. The container itself should be in the commander's office. Yes, this is huge request, but don't make any noise, do everything quietly, peacefully, and without any fuss. I could be in serious trouble if they get wind of this. I suggest you act discretely, the soldiers are on patrol, but they are doing it for the hell of it. There hasn't been a shift change in a long time.  (start here for your first session on 5/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_start_2">
 		<text>I understand.</text>
