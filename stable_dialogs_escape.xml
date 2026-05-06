@@ -1228,10 +1228,10 @@
 		<text>I'll steal the container.</text>
 	</string>
 	<string id="st_stader_kv_7_start_1">
-		<text>Great. You need to steal another container from the military here in the Cordon. I recommend waiting until night, when the majority is fast asleep. The container itself should be in the commander's office. Yes, this is huge request, but don't make any noise, do everything quietly, peacefully, and without any fuss. I could be in serious trouble if they get wind of this. I suggest you act discretely, the soldiers are on patrol, but they are doing it for the hell of it. There hasn't been a shift change in a long time.  (start here for your first session on 5/5/26 and don't forget to remove this when you start)</text>
+		<text>Great. You need to steal another container from the military here in the Cordon. I recommend waiting until night, when the majority is fast asleep. The container itself should be in the commander's office. Yes, this is huge request, but don't make any noise, do everything quietly, peacefully, and without any fuss. I could be in serious trouble if they get wind of this. I suggest you act discretely, the soldiers are on patrol, but they are doing it for the hell of it. There hasn't been a shift change in a long time.</text>
 	</string>
 	<string id="st_stader_kv_7_start_2">
-		<text>I understand.</text>
+		<text>I understand. (start here for your first session on 5/6/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_start_3">
 		<text>Oh, and look, only kill the military as a last resort, I don't want any more trouble with them! Understand?</text>
