@@ -1240,10 +1240,10 @@
 		<text>Here, take this container.</text>
 	</string>
 	<string id="st_stader_kv_7_have_1">
-		<text>Alright! Okay.. uh-huh.. I'm starting to get a clear picture of things now, the military are clearly looking for something in the center of the Zone... What the fuck do they want?! There's a lot of maps and scientific papers. You might want to show those papers to Barkeep. There's a stalker with him that goes by the name of Rat, he might know something that Barkeep doesn't if Barkeep can't provide a more complete picture. He should be in his office right now. (start here for your second session on 5/8/26 and don't forget to remove this when you start)</text>
+		<text>Alright! Okay.. uh-huh.. I'm starting to get a clear picture of things now, the military are clearly looking for something in the center of the Zone... What the fuck do they want?! There's a lot of maps and scientific papers. You might want to show those papers to Barkeep. There's a stalker with him that goes by the name of Rat, he might know something that Barkeep doesn't if Barkeep can't provide a more complete picture. He should be in his office right now.</text>
 	</string>
 	<string id="st_stader_kv_7_have_2">
-		<text>Barkeep? And where's he?</text>
+		<text>Barkeep? And where is he? (start here for your first session on 5/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_have_3">
 		<text>At the "Stalker" Bar to the north of Garbage. So go there and show him those papers, he'll have a better idea of what's going on. And I gotta say, you're a real natural. You have an ability to do things that others cannot.</text>
