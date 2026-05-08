@@ -1237,10 +1237,10 @@
 		<text>Oh, and look, only kill the soldiers as a last resort, I don't want any more trouble with them! Understand?</text>
 	</string>
 	<string id="st_stader_kv_7_have_0">
-		<text>Here, take this container. (start here for your first session on 5/7/26 and don't forget to remove this when you start)</text>
+		<text>Here, take this container.</text>
 	</string>
 	<string id="st_stader_kv_7_have_1">
-		<text>All right! Okay. Uh-huh. A picture is starting to emerge, the military are clearly looking for something in the center... What the fuck do they want?! There's a lot of maps and scientific papers. You might want to show those papers to Barkeep. That Rat should be in his office right now.</text>
+		<text>Alight! Okay.. uh-huh.. I'm starting to get a clear picture of things now, the military are clearly looking for something in the center of the Zone... What the fuck do they want?! There's a lot of maps and scientific papers. You might want to show those papers to Barkeep. There's a stalker with him that goes by the name of Rat, he might know something that Barkeep doesn't if Barkeep can't provide a more complete picture. He should be in his office right now. (start here for your second session on 5/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="st_stader_kv_7_have_2">
 		<text>Barkeep? And where's he?</text>
