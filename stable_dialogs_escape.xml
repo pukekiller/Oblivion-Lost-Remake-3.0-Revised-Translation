@@ -1249,10 +1249,10 @@
 		<text>At the "Stalker" Bar to the north of the Garbage. Go there and show him those papers, he'll have a better idea of what's going on. And I gotta say, you're a real natural. You have an ability to do things that others cannot.</text>
 	</string>
 	<string id="escape_talk_about_escape__00">
-		<text>Hi. (start here for your first session on 5/9/26 and don't forget to remove this when you start)</text>
+		<text>Hi.</text>
 	</string>
 	<string id="escape_talk_about_escape__0">
-		<text>Tell me about this place.</text>
+		<text>Tell me about this place. (start here for your second session on 5/10/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_talk_about_escape__10">
 		<text>It's the road to the Zone. You'll find a merchant in a cellar behind a village near an army roadblock. I don't advise you to go to the checkpoint and get caught by the soldiers, they have orders to shoot without warning... You can't kill soldiers, only as a last resort, for each killed merchant has to pay for it and he will not be happy with this arrangement. There are large packs of blind dogs on the plains, it's dangerous for rookies to go near them. Sometimes mutants come through here.</text>
