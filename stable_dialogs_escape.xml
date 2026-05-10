@@ -1252,10 +1252,10 @@
 		<text>Hi.</text>
 	</string>
 	<string id="escape_talk_about_escape__0">
-		<text>Tell me about this place. (start here for your second session on 5/10/26 and don't forget to remove this when you start)</text>
+		<text>Tell me about this place.</text>
 	</string>
 	<string id="escape_talk_about_escape__10">
-		<text>It's the road to the Zone. You'll find a merchant in a cellar behind a village near an army roadblock. I don't advise you to go to the checkpoint and get caught by the soldiers, they have orders to shoot without warning... You can't kill soldiers, only as a last resort, for each killed merchant has to pay for it and he will not be happy with this arrangement. There are large packs of blind dogs on the plains, it's dangerous for rookies to go near them. Sometimes mutants come through here.</text>
+		<text>It's the road to the Zone. You'll find a merchant in a cellar in the village that's near the army checkpoint here. I don't advise you to go to the checkpoint and get seen by the soldiers, they have orders to shoot without warning... You can't kill soldiers. You should only do so as a last resort, because for each one killed, the merchant has to pay for it and he will not be happy with this arrangement. There are large packs of blind dogs on the plains, it's dangerous for rookies to go near them. Sometimes mutants come through here.  (start here for your first session on 5/10/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_talk_about_escape__1">
 		<text>Thank you.</text>
