@@ -1264,10 +1264,10 @@
 		<text>What's further north on the road?</text>
 	</string>
 	<string id="escape_talk_about_escape__21">
-		<text>That's the Garbage. It's a grim place. Some of the trash makes it impossible to get through. (start here for your second session on 5/12/26 and don't forget to remove this when you start)</text>
+		<text>That's the Garbage. It's a grim place. Some of the trash makes it impossible to get through.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_11">
-		<text>What do you know about that place?</text>
+		<text>What do you know about that place? (start here for your first session on 5/12/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_12">
 		<text>You know, it's not good. I've been feeling it for a long time. Our guys may run the place, but they do some weird stuff, even for a place like this.</text>
