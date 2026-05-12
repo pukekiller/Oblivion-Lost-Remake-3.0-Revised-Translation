@@ -1261,10 +1261,10 @@
 		<text>Thank you.</text>
 	</string>
 	<string id="escape_talk_about_escape__2">
-		<text>What's further north on the road?  (start here for your first session on 5/11/26 and don't forget to remove this when you start)</text>
+		<text>What's further north on the road?</text>
 	</string>
 	<string id="escape_talk_about_escape__21">
-		<text>That's the Garbage. It's a grim place. Some of the trash makes it impossible to get through.</text>
+		<text>That's the Garbage. It's a grim place. Some of the trash makes it impossible to get through. (start here for your second session on 5/12/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_11">
 		<text>What do you know about that place?</text>
