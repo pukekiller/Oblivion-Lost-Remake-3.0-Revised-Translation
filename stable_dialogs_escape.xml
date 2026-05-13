@@ -1267,13 +1267,13 @@
 		<text>That's the Garbage. It's a grim place. Some of the trash makes it impossible to get through.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_11">
-		<text>What do you know about that place? (start here for your first session on 5/12/26 and don't forget to remove this when you start)</text>
+		<text>What do you know about that place?</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_12">
-		<text>You know, it's not good. I've been feeling it for a long time. Our guys may run the place, but they do some weird stuff, even for a place like this.</text>
+		<text>It's... not a good place. I've been feeling it for a long time. Our guys may run the place, but they do some weird stuff, even for a place like this.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_13">
-		<text>Uh, what are you talking about?</text>
+		<text>Uh, what are you talking about? (start here for your first session on 5/13/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_14">
 		<text>If you're gonna spend the night, it's better to stay at the bar or at our base. The Barkeep would tell stories that would make old men feel uncomfortable.</text>
