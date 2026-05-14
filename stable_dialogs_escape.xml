@@ -1273,10 +1273,10 @@
 		<text>It's... not a good place. I've been feeling it for a long time. Our guys may run the place, but they do some weird stuff, even for a place like this.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_13">
-		<text>Uh, what are you talking about? (start here for your first session on 5/13/26 and don't forget to remove this when you start)</text>
+		<text>Uh, what are you talking about?</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_14">
-		<text>If you're gonna spend the night, it's better to stay at the bar or at our base. The Barkeep would tell stories that would make old men feel uncomfortable.</text>
+		<text>If you're gonna spend the night, it's better to stay at the bar or at our base. The Barkeep would tell stories that would make old men feel uncomfortable. (start here for your second session on 5/14/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_15">
 		<text>They say it's not very safe out here at night.</text>
