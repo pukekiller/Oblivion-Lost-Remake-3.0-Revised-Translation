@@ -1285,10 +1285,10 @@
 		<text>What? Well, it's an area around here. People come and go. Our territory, you could say, is practically a safe passage to the northern territories. But... things do happen here.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_24">
-		<text>Like what? (start here for your second session on 5/16/26 and don't forget to remove this when you start)</text>
+		<text>Like what?</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_25">
-		<text>Well, I heard that not all the families that lived here evacuated after the accident. There were some fanatics or sectarians or something, you know, out of the world. They've been here since before the first stalkers showed up, they say some of them even had contact with them. I don't know how they lived all this time. Then one day, they disappeared, who knows where. Nobody ever saw them again. I'll tell you something. At night, it's better to be out here in the middle of nowhere. Don't sleep in apartments. A lot of them are boarded up, but some of them are still locked up, and who knows what's in them?</text>
+		<text>Well, I heard that not all the families that lived here evacuated after the accident. There were some fanatics or sectarians or something, you know, divorced from the rest the world. They've been here since before the first stalkers showed up, they say some of them even had contact with them. I don't know how they lived all this time. Then one day, they disappeared, who knows where. Nobody ever saw them again. I'll tell you something. At night, it's better to be out here in the middle of nowhere. Don't sleep in apartments. A lot of them are boarded up, but some of them are still locked up, and who knows what's in them? (start here for your first session on 5/16/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="barman_scary_drunk_article_tx">
 		<text>The Barkeep's Story</text>
