@@ -1294,10 +1294,10 @@
 		<text>The Barkeep's Story</text>
 	</string>
 	<string id="barman_scary_drunk_article_text">
-		<text>The bar patrons and Barkeep say it's best to sleep in crowded places at night, because the local apartments here can be dangerous. (start here for your first session on 5/17/26 and don't forget to remove this when you start)</text>
+		<text>The bar patrons and Barkeep say it's best to sleep in crowded places at night, because the local apartments here can be dangerous.</text>
 	</string>
 	<string id="esc_stalker_talk_level_0">
-		<text>Why don't you tell me about this place?</text>
+		<text>Why don't you tell me about this place? (start here for your second session on 5/18/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_stalker_talk_level_1">
 		<text>This is the way into the Zone. I don't advise you to go to the checkpoint and get caught by the soldiers: they have orders to shoot at our brother without warning. On the way to the north there will be a destroyed bridge, but there is also a stationary roadblock there. In the open there are dogs running in packs, it is dangerous for rookies to go there. Sometimes mutants wander in.</text>
