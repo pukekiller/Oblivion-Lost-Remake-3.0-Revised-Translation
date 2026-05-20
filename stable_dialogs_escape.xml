@@ -1309,12 +1309,10 @@
 		<text>It's a dump, that's what it is. It's a dark place. Some of it's impossible to walk through because of the garbage.</text>
 	</string>
 	<string id="astrozombies1">
-		<text>There's a house in the village beyond the bridge. They say it's very foul-smelling. There must be something there. Some kind of strong source of radiation. I just got a strong version of a highly effective anti-radiation pill. I think you can handle it. (start here for your first session on 5/19/26 and don't forget to remove this when you start)</text>
+		<text>There's a house in the village beyond the bridge. They say it's very foul-smelling. There must be something there. Some kind of strong source of radiation. I just got a better version of a storage capsule that can fully isolate radioactive objects. I think you can handle it.</text>
 	</string>
 	<string id="escape_lager_volk_in3fo_2141">
-		<text>Waste paper, you say. Well, well, well. Alright, since your memory's gone pretty bad, I'll tell you. The main value here in the zone is not loot, not transport, and not even artifacts. What would you think? That's right, information! 
-Seemingly ordinary, unremarkable documents, but they can be so much... look around, boy, what is going on here literally behind every bush. Anyway, if you find anything interesting in this field, don't sell it to anyone.
-you bring it straight to me, you understand? I'll pay you. I'll pay you good money. Other traders are interested too, but whatever you find, bring it to me.</text>
+		<text>Waste paper, you say? Well, well, well. Alright, since your memory's gone pretty bad, I'll tell you. The main value here in the Zone is not loot, not transport, and not even artifacts. What do you think it is? That's right, information! Seemingly ordinary, unremarkable documents, but they can be so much... look around, boy, what is going on here literally behind every bush. Anyway, if you find anything interesting out there, don't sell it to anyone. You bring it straight to me, you understand? I'll pay you. I'll pay you good money. Other traders are interested too, but whatever you find, bring it to me. (start here for your second session on 5/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111111111">
 		<text>If there's anything to sinter. You've been blownout. No one knows exactly what it is or where it's coming from, but they say it's coming from the center. A wave of psi radiation that kills everything in its path. Yeah... but good for you, you realized you had to hide if you're still standing here.</text>
