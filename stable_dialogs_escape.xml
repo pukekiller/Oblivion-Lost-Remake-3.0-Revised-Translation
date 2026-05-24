@@ -1336,10 +1336,10 @@
 		<text>No one knows for sure, but there's a story about him. I heard there was a stalker in the Zone who was under a curse or a fate. His partners were dying and death was following him. It was as if a curse, allegedly imposed by the Black Monolith came to them, and no one knows what horror finished them off. They have terrible nightmares, they go crazy. It's like that.</text>
 	</string>
 	<string id="escape_trader_start_dialog_2511">
-		<text>I don't have it. (start here for your second session on 5/24/26 and don't forget to remove this when you start)</text>
+		<text>I don't have it.</text>
 	</string>
 	<string id="esc_and_voyaks_article_tx">
-		<text>Trapped soldiers</text>
+		<text>Trapped soldiers (start here for your first session on 5/24/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="esc_and_voyaks_article_text">
 		<text>A group of military men are trapped at the end of a railroad tunnel. There's a lot of anomalies around. I don't know what's in store for them. Nevertheless, one of them, apparently the commander, asks me  to run to Toad, who's supposed to help them somehow.</text>
