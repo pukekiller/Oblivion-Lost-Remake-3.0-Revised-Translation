@@ -1345,10 +1345,10 @@
 		<text>A group of military men are trapped at the end of a railroad tunnel. There's a lot of anomalies around. I don't know what's in store for them. Nevertheless, one of them, apparently the commander, asks me to run to Toad, who's supposed to help them somehow.</text>
 	</string>
 	<string id="escape_trader_start_dialog_52111">
-		<text>The dead head artifact.. how about that, huh? If you don't know what kind of artifact it is and its properties, don't even bring it, because you're a thug, you'll kill people and bring me the heads of my honest customers! Yeah. if you don't have any money. I need this stuff badly, and you, if you've got nowhere else to go, you'll have to figure it out. Or money, of course. Keep in mind, I'll take a percentage for every man I kill. If you were in a group before you joined the killers, you'll be a neutral again after redemption, because you'll hardly be taken back after that.  (start here for your first session on 5/25/26 and don't forget to remove this when you start)</text>
+		<text>The dead head artifact.. how about that, huh? If you don't know what kind of artifact it is and its properties, don't even bring it, because you're a thug, you'll kill people and bring me the heads of my honest customers! Yeah. if you don't have any money. I need this stuff badly, and you, if you've got nowhere else to go, you'll have to figure it out. Or money, of course. Keep in mind, I'll take a percentage for every man I kill. If you were in a group before you joined the killers, you'll be a neutral again after redemption, because you'll hardly be taken back after that.</text>
 	</string>
 	<string id="about_anomalies_razradit_article_tx">
-		<text>Discharge the anomaly</text>
+		<text>Discharge the anomaly (start here for your first session on 5/26/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="about_anomalies_razradit_article_text">
 		<text>Toad asked me to defuse the anomaly in the tunnel. Said he'd pay for it. Well, that's what the discharger's for.</text>
