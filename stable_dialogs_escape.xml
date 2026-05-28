@@ -1354,10 +1354,10 @@
 		<text>Toad asked me to discharge the anomaly in the tunnel. Said he'd pay for it. Well, that's what the discharger's for.</text>
 	</string>
 	<string id="escape_trader_talk_info_0">
-		<text>I need some answers to some questions. (start here for your first session on 5/27/26 and don't forget to remove this when you start)</text>
+		<text>I need some answers to some questions.</text>
 	</string>
 	<string id="escape_trader_talk_info_1">
-		<text>Ask away, but I don't know everything. You know, I sit here all day, and life is all out there, in the Zone. I can tell you about the Zone in general, and a little I can tell you about the nearest neighborhoods, where I went myself.</text>
+		<text>Ask away, but I don't know everything. You know, I sit here all day, and everything is happening out there, in the Zone. I can tell you about the Zone in general, and a little I can tell you about the nearest neighborhoods, where I went myself. (start here for your second session on 5/28/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_100">
 		<text>Tell me in general about the Zone.</text>
