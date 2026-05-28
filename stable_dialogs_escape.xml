@@ -1357,10 +1357,10 @@
 		<text>I need some answers to some questions.</text>
 	</string>
 	<string id="escape_trader_talk_info_1">
-		<text>Ask away, but I don't know everything. You know, I sit here all day, and everything is happening out there, in the Zone. I can tell you about the Zone in general, and a little I can tell you about the nearest neighborhoods, where I went myself. (start here for your second session on 5/28/26 and don't forget to remove this when you start)</text>
+		<text>Ask away, but I don't know everything. You know, I sit here all day, and everything is happening out there, in the Zone. I can tell you about the Zone in general, and a little I can tell you about the nearest neighborhoods, where I went myself.</text>
 	</string>
 	<string id="escape_trader_talk_info_100">
-		<text>Tell me in general about the Zone.</text>
+		<text>Tell me about the Zone in general. (start here for your first session on 5/28/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_101">
 		<text>Ask me.</text>
