@@ -1372,10 +1372,10 @@
 		<text>Guarding, what else! Whether it's the Zone itself or the rest of the world from it, it's unclear. Sometimes whole expeditions come through here, looking for something...  But I'll tell you something. The military doesn't respect the Zone, so it doesn't like them either. They're always being taken out of the Zone in coffins. Well, what can I say? They look down on everyone, like they're gods. Stalker's laws are not honored, they will never come to help, even if you die in front of their eyes. They can shoot you, yes, easily, but they're not punished for it... But I've found some common ground with some of them. People need to get vodka and magazines somewhere, don't they? You know what I mean. But don't piss them off for nothing. They'll brush it off and never notice.</text>
 	</string>
 	<string id="escape_trader_talk_info_3">
-		<text>Tell me about the Zone. (start here for your first session on 5/30/26 and don't forget to remove this when you start)</text>
+		<text>Tell me about the Zone.</text>
 	</string>
 	<string id="escape_trader_talk_info_31">
-		<text>The Zone. It's not just a circle of kilometers in diameter centered on a nuclear power plant. It's something strange. Very strange. You know, I don't think anyone in our world can answer that question. I don't think the Zone is part of it at all. It's a world in its own right, dangerous, strange. and bloody fascinating. And you know why? Because everyone here, if they're lucky, can get rich quick. And the closer you get to the center of the Zone, the faster you can get rich.</text>
+		<text>The Zone? It's not just a radius of some cordoned off area that's several kilometers in diameter, centered on a nuclear power plant. It's something strange. Very strange. You know, I don't think anyone in our world can answer that question. I don't think the Zone is part of it at all. It's a world in its own right, dangerous, strange. and bloody fascinating. And you know why? Because everyone here, if they're lucky, can get rich quick. And the closer you get to the center of the Zone, the faster you can get rich. (start here for your second session on 5/31/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_311">
 		<text>What's the danger of this particular world?</text>
