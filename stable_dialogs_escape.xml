@@ -1375,10 +1375,10 @@
 		<text>Tell me about the Zone.</text>
 	</string>
 	<string id="escape_trader_talk_info_31">
-		<text>The Zone? It's not just a radius of some cordoned off area that's several kilometers in diameter, centered on a nuclear power plant. It's something strange. Very strange. You know, I don't think anyone in our world can answer that question. I don't think the Zone is part of it at all. It's a world in its own right, dangerous, strange. and bloody fascinating. And you know why? Because everyone here, if they're lucky, can get rich quick. And the closer you get to the center of the Zone, the faster you can get rich. (start here for your second session on 5/31/26 and don't forget to remove this when you start)</text>
+		<text>The Zone? It's not just a radius of some cordoned off area that's several kilometers in diameter, centered on a nuclear power plant. It's something strange. Very strange. You know, I don't think anyone in our world can answer that question. I don't think the Zone is part of it at all. It's a world in its own right, dangerous, strange. and bloody fascinating. And you know why? Because everyone here, if they're lucky, can get rich quick. And the closer you get to the center of the Zone, the faster you can get rich.</text>
 	</string>
 	<string id="escape_trader_talk_info_311">
-		<text>What's the danger of this particular world?</text>
+		<text>What's the danger of this particular world? (start here for your first session on 5/31/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_3111">
 		<text>Ahem. Yes, in general, nothing - but you can die here at every step. And not only from a bullet, although... death from a bullet - it is, in fact, the most pleasant death in the Zone. But anomalies are, you know... that kind of death is, yeah, it's scary. Even mutants avoid them. Speaking of mutants: they are also rare trash, children of the Zone, so it is better not to go here without weapons. In general, no one can tell you about all sorts of dangers better than other stalkers.</text>
