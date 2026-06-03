@@ -1390,10 +1390,10 @@
 		<text>Well, my friend, you've been hit pretty hard! Did you forget?!\nArtifacts are the basis of everything.. for all sorts of obscure toys from the Zone, many from the Big Land are ready to give a fortune. Artifacts are more valuable than gold, diamonds and pure plutonium. Why? Because no other jewelry in the world has supernatural abilities and shares them with its owner. Just imagine: when you hang a piece of jewelry on your belt, bullets start to avoid you! What else? Well, you can often find small things even here, right next door. But you only go for the valuable stuff closer to the center.</text>
 	</string>
 	<string id="escape_trader_talk_info_313">
-		<text>Does anyone know what goes on in the center of the Zone? (start here for your first session on 6/2/26 and don't forget to remove this when you start)</text>
+		<text>Does anyone know what goes on in the center of the Zone?</text>
 	</string>
 	<string id="escape_trader_talk_info_3131">
-		<text>They talk about all sorts of things. They'll tell you all kinds of stuff later. but I don't believe in any of that otherworldly crap. What I do believe in is that the center of the Zone is full of valuable artifacts. But I've never met anyone who could come back from it.</text>
+		<text>Stalkers talk about all sorts of things. They'll tell you all kinds of stuff, but I don't believe in any of that otherworldly crap. What I do believe in is that the center of the Zone is full of valuable artifacts. But I've never met anyone who could come back from it. (start here for your second session on 6/3/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_4">
 		<text>Do you know what happened to me?</text>
