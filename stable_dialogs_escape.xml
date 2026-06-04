@@ -1396,10 +1396,10 @@
 		<text>Stalkers talk about all sorts of things. They'll tell you all kinds of stuff, but I don't believe in any of that otherworldly crap. What I do believe in is that the center of the Zone is full of valuable artifacts. But I've never met anyone who could come back from it.</text>
 	</string>
 	<string id="escape_trader_talk_info_4">
-		<text>Do you know what happened to me? (start here for your first session on 6/3/26 and don't forget to remove this when you start)</text>
+		<text>Do you know what happened to me?</text>
 	</string>
 	<string id="escape_trader_talk_info_41">
-		<text>Well, brother, since you asked! It's a dark matter, you know...\nThey found you in a death truck. Corpse trucks? From time to time they come from the center of the Zone, loaded with bodies... Nobody really knows where they're going. So one truck crashed, and they found you next to it. And that's the most surprising fact of all. They've found wrecked trucks before, but never a live one. I'm sorry, I can't help you any further. You're gonna have to figure this out on your own.</text>
+		<text>Well, brother, since you asked.. it's a dark matter, you know...\nThey found you in a death truck. Corpse trucks? From time to time they come from the center of the Zone, loaded with bodies... Nobody really knows where they're going. So one truck crashed, and they found you next to it. And that's the most surprising fact of all. They've found wrecked trucks before, but never any with someone still living. I'm sorry, I can't help you any further. You're gonna have to figure this out on your own.  (start here for your second session on 6/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_5">
 		<text>Who's Gunslinger?</text>
