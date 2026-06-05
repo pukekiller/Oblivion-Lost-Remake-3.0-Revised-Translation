@@ -1405,10 +1405,10 @@
 		<text>Who's Gunslinger?</text>
 	</string>
 	<string id="escape_trader_talk_info_51">
-		<text>He's a stalker. Rumor has it he's one of the few who went to the center of the Zone and came back. Although there's plenty of legends about hero stalkers around here, so I can't guarantee anything. In any case, personally, I have not done business with him - apparently, he has his own channels for sales... In general, ask the people in the Zone, maybe someone will give you a clue. (start here for your second session on 6/5/26 and don't forget to remove this when you start)</text>
+		<text>He's a stalker. Rumor has it he's one of the few who went to the center of the Zone and came back. Although there's plenty of legends about hero stalkers around here, so I can't guarantee anything. In any case, personally, I have not done business with him - apparently, he has his own channels for sales... In general, ask the people in the Zone, maybe someone will give you a clue.</text>
 	</string>
 	<string id="escape_trader_talk_info_6">
-		<text>What kind of stalker is called a ghost?</text>
+		<text>What stalker goes by the name Ghost? (start here for your first session on 6/5/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_61">
 		<text>Oh, that's another legendary man.  I haven't heard from him in a while. Probably disappeared somewhere in the depths of the Zone.</text>
