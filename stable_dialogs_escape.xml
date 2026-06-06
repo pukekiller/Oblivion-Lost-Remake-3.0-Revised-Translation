@@ -1411,10 +1411,10 @@
 		<text>What stalker goes by the name Ghost?</text>
 	</string>
 	<string id="escape_trader_talk_info_61">
-		<text>Oh, that's another legendary stalker. I haven't heard from him in a while. He probably disappeared somewhere in the depths of the Zone. (start here for your second session on 6/6/26 and don't forget to remove this when you start)</text>
+		<text>Oh, that's another legendary stalker. I haven't heard from him in a while. He probably disappeared somewhere in the depths of the Zone.</text>
 	</string>
 	<string id="escape_trader_talk_info_99">
-		<text>What's going on around here?</text>
+		<text>What's going on around here? (start here for your first session on 6/6/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_999">
 		<text>Ah! Well, this is the antechamber of the Zone. Army cordon. It's relatively quiet, except for the military sometimes having fun, making a mess. Experienced stalkers are rare here, only rookies linger, and who even stay forever, yeah... There's a rookie camp nestled right next door, on a farm. Look, they know how to pull the trigger, too, so don't get cocky.  What else? Well, there's no good loot to be found here. There's an abandoned factory across the road. To the north, behind the railroad embankment, is the remains of a village, and to the south is a roadblock. By the way, there are mines planted somewhere, so be careful. There was also a bridge in the center, but it fell down. That's about it.</text>
