@@ -1420,10 +1420,10 @@
 		<text>Ah! Well, this is the antechamber of the Zone. The army cordon. It's relatively quiet, except for the military sometimes having fun, making a mess. Experienced stalkers are rare here, only rookies linger around, and who even stay forever, yeah... There's a rookie camp nestled right next door, on a farm. Look, they know how to pull the trigger, too, so don't get cocky.  What else? Well, there's no good loot to be found here. There's an abandoned factory across the road. To the north, behind the railroad embankment, is the remains of a village, and to the south is a roadblock. By the way, there are mines planted somewhere, so be careful. There was also a bridge in the center, but it fell down. That's about it.</text>
 	</string>
 	<string id="escape_trader_talk_info_9991">
-		<text>Tell me more about the blockpost. (start here for your first session on 6/7/26 and don't forget to remove this when you start)</text>
+		<text>Tell me more about the blockpost.</text>
 	</string>
 	<string id="escape_trader_talk_info_99911">
-		<text>There's a few soldiers with orders to shoot without warning, so you'd better stay away from it. If you offend them, they can call in the SWAT team from the outer cordon. They'll make such a mess upstairs that I won't have any clients for a month... I don't know the commander of the soldiers much: he likes to lay low. He's the reason I'm still here.</text>
+		<text>There's a few soldiers with orders to shoot without warning, so you'd better stay away from it. If you offend them, they can call in an special forces team from the outer cordon. They'll make such a mess upstairs that I won't have any clients for a month... I don't know the commander of the soldiers much: he likes to lay low. He's the reason I'm still here. (start here for your second session on 6/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_9992">
 		<text>Tell me more about the bridge.</text>
