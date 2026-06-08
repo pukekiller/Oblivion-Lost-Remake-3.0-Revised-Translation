@@ -1423,10 +1423,10 @@
 		<text>Tell me more about the blockpost.</text>
 	</string>
 	<string id="escape_trader_talk_info_99911">
-		<text>There's a few soldiers with orders to shoot without warning, so you'd better stay away from it. If you offend them, they can call in an special forces team from the outer cordon. They'll make such a mess upstairs that I won't have any clients for a month... I don't know the commander of the soldiers much: he likes to lay low. He's the reason I'm still here. (start here for your second session on 6/8/26 and don't forget to remove this when you start)</text>
+		<text>There's a few soldiers with orders to shoot without warning, so you'd better stay away from it. If you offend them, they can call in an special forces team from the outer cordon. They'll make such a mess upstairs that I won't have any clients for a month... I don't know the commander of the soldiers much: he likes to lay low. He's the reason I'm still here.</text>
 	</string>
 	<string id="escape_trader_talk_info_9992">
-		<text>Tell me more about the bridge.</text>
+		<text>Tell me more about the bridge. (start here for your first session on 6/8/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_99922">
 		<text>It's two steps north, you'll see it right away. I don't know for sure, but I've noticed some of the older stalkers sometimes walk along the railroad tracks. Maybe it's a trail.</text>
