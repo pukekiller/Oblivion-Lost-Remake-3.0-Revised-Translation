@@ -1438,7 +1438,7 @@
 		<text>When you cross the road, you'll see it right there. It's a brick building. What they could steal from there was stolen long ago, just empty crates and junk left. It's a favorite place for bandits. I don't know if they're there now, but be careful. You've got nothing to be robbed from yet. but what do you want with all this trouble?</text>
 	</string>
 	<string id="escape_trader_talk_info_9994">
-		<text>Tell me about the village.</text>
+		<text>Tell me about the village. (start here for your first session on 6/10/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_info_99944">
 		<text>You're so tedious! Well, the village is just like a village! The previous inhabitants were dead before the Perestroika.</text>
