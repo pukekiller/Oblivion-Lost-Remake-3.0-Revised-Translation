@@ -1453,10 +1453,10 @@
 		<text>Tell me about this place.</text>
 	</string>
 	<string id="escape_trader_talk_level_1">
-		<text>Ah! Well, it's the antechamber of the Zone. This is the army cordon. It's relatively quiet, except for the occasional military raid. Experienced stalkers are rare here, only rookies linger around here, and some of them stay.. forever. There's a rookie camp nestled right next door, on a farm. Look, they know how to pull the trigger, too, so don't get cocky. What else? Well, there's no good loot to be found here. There's an abandoned factory across the road. To the north, behind the railroad embankment, is the remains of another farm, and to the south is a roadblock. By the way, there are mines planted by the soldiers, so be careful. There was also a bridge in the center, but it fell down. I think that's about it. (start here for your second session on 6/13/26 and don't forget to remove this when you start)</text>
+		<text>Ah! Well, it's the antechamber of the Zone. This is the army cordon. It's relatively quiet, except for the occasional military raid. Experienced stalkers are rare here, only rookies linger around here, and some of them stay.. forever. There's a rookie camp nestled right next door, on a farm. Look, they know how to pull the trigger, too, so don't get cocky. What else? Well, there's no good loot to be found here. There's an abandoned factory across the road. To the north, behind the railroad embankment, is the remains of another farm, and to the south is a roadblock. By the way, there are mines planted by the soldiers, so be careful. There was also a bridge in the center, but it fell down. I think that's about it.</text>
 	</string>
 	<string id="escape_trader_talk_level_10">
-		<text>Okay, thanks.</text>
+		<text>Okay, thanks. (start here for your first session on 6/13/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_level_2">
 		<text>Tell me more about the roadblock.</text>
