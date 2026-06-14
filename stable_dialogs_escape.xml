@@ -1456,10 +1456,10 @@
 		<text>Ah! Well, it's the antechamber of the Zone. This is the army cordon. It's relatively quiet, except for the occasional military raid. Experienced stalkers are rare here, only rookies linger around here, and some of them stay.. forever. There's a rookie camp nestled right next door, on a farm. Look, they know how to pull the trigger, too, so don't get cocky. What else? Well, there's no good loot to be found here. There's an abandoned factory across the road. To the north, behind the railroad embankment, is the remains of another farm, and to the south is a roadblock. By the way, there are mines planted by the soldiers, so be careful. There was also a bridge in the center, but it fell down. I think that's about it.</text>
 	</string>
 	<string id="escape_trader_talk_level_10">
-		<text>Okay, thanks. (start here for your first session on 6/13/26 and don't forget to remove this when you start)</text>
+		<text>Okay, thanks.</text>
 	</string>
 	<string id="escape_trader_talk_level_2">
-		<text>Tell me more about the roadblock.</text>
+		<text>Tell me more about the roadblock. (start here for your second session on 6/14/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_level_21">
 		<text>There's a few soldiers with orders to shoot on sight, so it's best to avoid it. If you offend them, they can call in the SWAT team from the outer cordon. They'll make such a mess upstairs that I won't have any clients for a month... I don't know the commander of the soldiers much: he likes to lay low. He's the reason I'm still here.</text>
