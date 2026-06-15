@@ -1462,10 +1462,10 @@
 		<text>Tell me more about the roadblock.</text>
 	</string>
 	<string id="escape_trader_talk_level_21">
-		<text>There's a few soldiers with orders to shoot on sight, so it's best to avoid it. If you offend them, they can call in the special forces team from the outer cordon. They'll make such a mess that I won't have any clients for a month... I don't know the commander of the soldiers that much: he likes to lay low. He's the reason I'm still here.  (start here for your first session on 6/14/26 and don't forget to remove this when you start)</text>
+		<text>There's a few soldiers with orders to shoot on sight, so it's best to avoid it. If you offend them, they can call in the special forces team from the outer cordon. They'll make such a mess that I won't have any clients for a month... I don't know the commander of the soldiers that much: he likes to lay low. He's the reason I'm still here.</text>
 	</string>
 	<string id="escape_trader_talk_level_3">
-		<text>Tell me more about the fallen bridge.</text>
+		<text>Tell me more about the fallen bridge. (start here for your second session on 6/15/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_level_31">
 		<text>It's just two steps north of here, you'll see it right away. There used to be a bridge over the road, and then it fell down during one of the blowouts. The military's got a post there and they don't let anyone in. but if you grease up, they'll let you in. In general, it's better not to shine there, unless you're heavily loaded or wounded.</text>
