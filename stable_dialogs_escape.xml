@@ -1468,10 +1468,10 @@
 		<text>Tell me more about the fallen bridge.</text>
 	</string>
 	<string id="escape_trader_talk_level_31">
-		<text>It's just two steps north of here, you'll see it right away. There used to be a bridge over the road, but it fell down during one of the blowouts. The military's got a post there and they don't let anyone in. But if you grease the commander's palm, he'll let you in. In general, it's better not to cause trouble there, unless you're heavily loaded or wounded. (start here for your first session on 6/15/26 and don't forget to remove this when you start)</text>
+		<text>It's just two steps north of here, you'll see it right away. There used to be a bridge over the road, but it fell down during one of the blowouts. The military's got a post there and they don't let anyone in. But if you grease the commander's palm, he'll let you in. In general, it's better not to cause trouble there, unless you're heavily loaded or wounded.</text>
 	</string>
 	<string id="escape_trader_talk_level_4">
-		<text>Can you tell me more about the factory?</text>
+		<text>Can you tell me more about the factory? (start here for your second session on 6/16/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="escape_trader_talk_level_41">
 		<text>When you cross the road, you'll see it right there. It's a brick building. What they could steal from there, they stole long ago, only one box left. It's a favorite place for bandits. I don't know if they're there now, but be careful. You ain't got nothing to be robbed from yet. but what do you want with all this trouble?</text>
