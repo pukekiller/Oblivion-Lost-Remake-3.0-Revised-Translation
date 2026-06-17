@@ -1477,9 +1477,9 @@
 		<text>When you cross the road, you'll see it right there. It's a brick building. What they could steal from there, they stole long ago - there's only one box left. It's a favorite place for bandits. I don't know if they're there now, but be careful. You've got nothing to be robbed of yet.. but what do you want with all this trouble?</text>
 	</string>
 	<string id="escape_trader_talk_level_5">
-		<text>Tell me about the farm. (start here for your second session on 6/17/26 and don't forget to remove this when you start)</text>
+		<text>Tell me about the farm.</text>
 	</string>
 	<string id="escape_trader_talk_level_51">
-		<text>You're so tedious! Well, it's just a farm. The pigs were dead there before the Perestroika.</text>
+		<text>You're so tedious! Well, it's just a farm. The pigs were dead there before Perestroika. There's not much there now.</text>
 	</string>
 </string_table>
