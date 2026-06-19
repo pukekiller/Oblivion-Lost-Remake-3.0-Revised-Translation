@@ -14,12 +14,12 @@
 
 
  <string id="zagony_text"> 
- <text>According to Snitch, there's a prison in the general vicinity near the Bar on a site behind the Rostok factory, the entrance to which must be found. That's where one of his men disappeared with the information Snitch needs. (start here for your first session on 6/18/26 and don't forget to remove this when you start)</text> 
+ <text>According to Snitch, there's a prison in the general vicinity near the Bar, located on a site behind the Rostok factory. The entrance to this prison must be found. That's where one of his men disappeared with the information Snitch needs.</text> 
  </string> 
 
 
 <string id="mil2_freedom_commander_common2_0">
-		<text>Hi. I'm back.</text>
+		<text>Hi. I'm back. (start here for your second session on 6/19/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_1">
 		<text>Hey, stalker. What's the situation there?</text>
