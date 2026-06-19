@@ -19,10 +19,10 @@
 
 
 <string id="mil2_freedom_commander_common2_0">
-		<text>Hi. I'm back. (start here for your second session on 6/19/26 and don't forget to remove this when you start)</text>
+		<text>Hi. I'm back.</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_1">
-		<text>Hey, stalker. What's the situation there?</text>
+		<text>Hey, stalker. What's the situation there? (start here for your first session on 6/19/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_2">
 		<text>There's a couple zombies and some rats. Seems pretty calm.</text>
