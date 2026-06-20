@@ -22,10 +22,10 @@
 		<text>Hi. I'm back.</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_1">
-		<text>Hey, stalker. What's the situation there? (start here for your first session on 6/19/26 and don't forget to remove this when you start)</text>
+		<text>Hey, stalker. What's the situation there?</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_2">
-		<text>There's a couple zombies and some rats. Seems pretty calm.</text>
+		<text>There's a couple zombies and some rats. Seems pretty calm. (start here for your second session on 6/20/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_3">
 		<text>You sure? In that case, it might not be a good idea to bring something heavier. just in case. Me and a buddy of mine have something stashed here that'll knock out a helicopter. Alright, what else you see out there?</text>
