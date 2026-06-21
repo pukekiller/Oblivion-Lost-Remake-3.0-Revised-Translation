@@ -28,10 +28,10 @@
 		<text>There's a couple zombies and some rats. Seems pretty calm.</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_3">
-		<text>You sure? In that case, it might be a good idea to bring something heavier, just in case. Me and a buddy of mine have something stashed here that'll knock out a helicopter. Alright, what else you see out there? (start here for your first session on 6/20/26 and don't forget to remove this when you start)</text>
+		<text>You sure? In that case, it might be a good idea to bring something heavier, just in case. Me and a buddy of mine have something stashed here that'll knock out a helicopter. Alright, what else you see out there?</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_4">
-		<text>As I was approaching the Rostok exit, a bloodsucker showed up. I think it was following me.</text>
+		<text>Well... as I was approaching the Rostok exit, a bloodsucker showed up. I think it was following me. (start here for your second session on 6/21/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil2_freedom_commander_common2_5">
 		<text>Okay. Well, if that's the case, I think we can make it to the factory.</text>
