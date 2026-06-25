@@ -57,11 +57,11 @@
  </string> 
 
  <string id="carbar_moskvi"> 
- <text>I'll take the Moskvich. (start here for your first session on 6/24/26 and don't forget to remove this when you start)</text> 
+ <text>I'll take the Moskvich.</text> 
  </string>
 
   <string id="carbar_lada"> 
- <text>I'll take the Lada.</text> 
+ <text>I'll take the Lada. (start here for your second session on 6/25/26 and don't forget to remove this when you start)</text> 
  </string>
 
   <string id="carbar_rafik"> 
