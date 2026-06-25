@@ -61,11 +61,11 @@
  </string>
 
   <string id="carbar_lada"> 
- <text>I'll take the Lada. (start here for your second session on 6/25/26 and don't forget to remove this when you start)</text> 
+ <text>I'll take the Lada.</text> 
  </string>
 
   <string id="carbar_rafik"> 
- <text>I'll take the RAF.</text> 
+ <text>I'll take the RAF. (start here for your first session on 6/25/26 and don't forget to remove this when you start)</text> 
  </string>
 
   <string id="carbar_kamaz"> 
