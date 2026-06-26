@@ -69,12 +69,12 @@
  </string>
 
   <string id="carbar_kamaz"> 
- <text>I think I'll buy the Kamaz. (start here for your second session on 6/26/26 and don't forget to remove this when you start)</text> 
+ <text>I think I'll buy the Kamaz.</text> 
  </string>
 
 
   <string id="carbar_btr"> 
- <text>I'll take the APC.</text> 
+ <text>I'll take the BTR. (start here for your first session on 6/26/26 and don't forget to remove this when you start)</text> 
  </string>
 
 
