@@ -65,11 +65,11 @@
  </string>
 
   <string id="carbar_rafik"> 
- <text>I'll take the RAF. (start here for your first session on 6/25/26 and don't forget to remove this when you start)</text> 
+ <text>I'll take the RAF.</text> 
  </string>
 
   <string id="carbar_kamaz"> 
- <text>I think the Kamaz will be fine for me.</text> 
+ <text>I think I'll buy the Kamaz. (start here for your second session on 6/26/26 and don't forget to remove this when you start)</text> 
  </string>
 
 
