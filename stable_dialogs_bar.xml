@@ -74,12 +74,12 @@
 
 
   <string id="carbar_btr"> 
- <text>I'll take the BTR. (start here for your first session on 6/26/26 and don't forget to remove this when you start)</text> 
+ <text>I'll take the BTR.</text> 
  </string>
 
 
  <string id="carbar_3"> 
- <text>I changed my mind. Next time.</text> 
+ <text>I changed my mind. Maybe next time. (start here for your second session on 6/27/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
