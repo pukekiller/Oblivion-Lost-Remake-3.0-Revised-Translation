@@ -93,12 +93,12 @@
 
 
 	<string id="descr_bar_x16_documents">
-		<text>Barkeep: We need to get into the laboratory in the Dark Valley and get the necessary documents from there. Information related to the entrance of the lab can be procured by one of the stalker groups there. (start here for your second session on 6/28/26 and don't forget to remove this when you start)</text>
+		<text>Barkeep: We need to get into the laboratory in the Dark Valley and get the necessary documents from there. Information related to the entrance of the lab can be procured by one of the stalker groups there.</text>
 	</string>
 
 
 	<string id="mil_freedom_commander_common2_0">
-		<text>Hi. From what group are you?</text>
+		<text>Hi. What group are you with? (start here for your first session on 6/28/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil_freedom_commander_common2_1">
 		<text>Hey, stalker. Listen, lone stalkers disappear without a trace inside the Rostok plant. The plant's been abandoned for years, veterans avoid Rostok, and the place is getting a bad reputation. A week ago, a group of three veteran stalkers disappeared inside. After that, several stalkers noticed a strange creature near one of the entrances to the factory.</text>
