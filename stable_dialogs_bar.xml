@@ -98,10 +98,10 @@
 
 
 	<string id="mil_freedom_commander_common2_0">
-		<text>Hi. What group are you with? (start here for your first session on 6/28/26 and don't forget to remove this when you start)</text>
+		<text>Hi. What group are you with?</text>
 	</string>
 	<string id="mil_freedom_commander_common2_1">
-		<text>Hey, stalker. Listen, lone stalkers disappear without a trace inside the Rostok plant. The plant's been abandoned for years, veterans avoid Rostok, and the place is getting a bad reputation. A week ago, a group of three veteran stalkers disappeared inside. After that, several stalkers noticed a strange creature near one of the entrances to the factory.</text>
+		<text>Hey, stalker. Listen, lone stalkers disappear without a trace inside the Rostok plant. The plant's been abandoned for years, veterans avoid Rostok for good reason: the place is getting a bad reputation. A week ago, a group of three veteran stalkers disappeared inside. After that, several stalkers noticed a strange creature near one of the entrances to the factory.  (start here for your second session on 6/29/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil_freedom_commander_common2_2">
 		<text>Continue...</text>
