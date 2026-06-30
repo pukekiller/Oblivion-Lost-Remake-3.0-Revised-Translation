@@ -107,10 +107,10 @@
 		<text>Continue...</text>
 	</string>
 	<string id="mil_freedom_commander_common2_3">
-		<text>We're a group that's been wanting to sneak inside for a while now and find out what's going on. (start here for your second session on 6/30/26 and don't forget to remove this when you start)</text>
+		<text>We're a group that's been wanting to sneak inside for a while now and find out what's going on.</text>
 	</string>
 	<string id="mil_freedom_commander_common2_4">
-		<text>Why would you do that?</text>
+		<text>Why would you do that?  (start here for your first session on 6/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil_freedom_commander_common2_5">
 		<text>The Barkeep's interested. Rumor has it there's a lot of interesting stuff inside the plant.</text>
