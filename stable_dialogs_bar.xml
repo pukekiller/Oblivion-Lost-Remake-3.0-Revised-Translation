@@ -104,10 +104,10 @@
 		<text>Hey, stalker. Listen, lone stalkers disappear without a trace inside the Rostok plant. The plant's been abandoned for years, veterans avoid Rostok for good reason: the place is getting a bad reputation. A week ago, a group of three veteran stalkers disappeared inside. After that, several stalkers noticed a strange creature near one of the entrances to the factory.</text>
 	</string>
 	<string id="mil_freedom_commander_common2_2">
-		<text>Continue... (start here for your first session on 6/29/26 and don't forget to remove this when you start)</text>
+		<text>Continue...</text>
 	</string>
 	<string id="mil_freedom_commander_common2_3">
-		<text>We're a group that's been wanting to sneak inside for a while now and find out what's going on.</text>
+		<text>We're a group that's been wanting to sneak inside for a while now and find out what's going on. (start here for your second session on 6/30/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil_freedom_commander_common2_4">
 		<text>Why would you do that?</text>
