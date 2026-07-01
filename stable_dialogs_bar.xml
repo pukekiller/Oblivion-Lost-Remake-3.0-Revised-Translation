@@ -113,10 +113,10 @@
 		<text>Why would you do that?</text>
 	</string>
 	<string id="mil_freedom_commander_common2_5">
-		<text>The Barkeep's interested. Rumor has it there's a lot of interesting stuff inside the plant. (start here for your second session on 7/1/26 and don't forget to remove this when you start)</text>
+		<text>The Barkeep's interested. Rumor has it there's a lot of interesting stuff inside the plant.</text>
 	</string>
 	<string id="mil_freedom_commander_common2_6">
-		<text>Can I help you?</text>
+		<text>Can I help you? (start here for your first session on 7/1/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="mil_freedom_commander_common2_7">
 		<text>Well, basically, yes. You need to sneak into Rostok and see what's going on there. But not to the factory site itself, but to the site behind it, here in Bar.</text>
