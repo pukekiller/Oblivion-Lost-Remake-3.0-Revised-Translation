@@ -119,14 +119,14 @@
 		<text>Can I help you?</text>
 	</string>
 	<string id="mil_freedom_commander_common2_7">
-		<text>Well, basically, yes. You need to sneak into Rostok and see what's going on there.. but not to the factory site itself, but to the site behind it, here, near the Bar. (start here for your second session on 7/2/26 and don't forget to remove this when you start)</text>
+		<text>Well, basically, yes. You need to sneak into Rostok and see what's going on there.. but not to the factory site itself, but to the site behind it, here, near the Bar.</text>
 	</string>
 
 
 
 
  <string id="bar_bar_osvedomitel_start_11">
-        <text>Oh, hello... what do you want?</text>
+        <text>Oh, hello... what do you want? (start here for your first session on 7/2/26 and don't forget to remove this when you start)</text>
     </string>
 
  <string id="bar_dolg_petrenko_start_11">
