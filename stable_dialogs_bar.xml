@@ -126,11 +126,11 @@
 
 
  <string id="bar_bar_osvedomitel_start_11">
-        <text>Oh, hello... what do you want? (start here for your first session on 7/2/26 and don't forget to remove this when you start)</text>
+        <text>Oh, hello... what do you want?</text>
     </string>
 
  <string id="bar_dolg_petrenko_start_11">
-        <text>Hello... what do you want?</text>
+        <text>Hello... what do you want? (start here for your second session on 7/3/26 and don't forget to remove this when you start)</text>
     </string>
 
 
