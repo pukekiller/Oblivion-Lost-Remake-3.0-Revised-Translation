@@ -179,11 +179,11 @@
     </string>
 
  	<string id="bar_pdarstalker_story"> 
- 	<text>Oh, that's respect for the old man. Now, listen to me. I told you I've been a lot of places, and believe it or not, I've been to the power plant too. It's dead quiet. Not a single soul there. Only occasionally in the distance I heard the howling of the zombies. I approached the power plant itself, and I saw the Dark One - he was standing on the roof of the sarcophagus, looking into the distant glow... And then a flash. And that was it. I woke up at Freedom's base, I don't even know how I got there. But I was there, all the regulars will tell you! In general, Hmyr in the bar can still tell you something about the northern territories, ask him... (start here for your first session on 7/8/26 and don't forget to remove this when you start)</text> 
+ 	<text>Oh, that's respect for the old man. Now, listen to me. I told you I've been a lot of places, and believe it or not, I've been to the power plant too. It's dead quiet. Not a single soul there. Only occasionally in the distance I heard the howling of the zombies. I approached the power plant itself, and I saw the Dark One - he was standing on the roof of the sarcophagus, looking into the distant glow... And then a flash. And that was it. I woke up at Freedom's base, I don't even know how I got there. But I was there, all the regulars will tell you! In general, Hmyr in the bar can still tell you something about the northern territories, ask him...</text> 
  	</string> 
 
  <string id="magnet_five_final_done_0">
-        <text>I think I've fired a few hundred rounds.</text>
+        <text>I think I've fired a few hundred rounds. (start here for your second session on 7/9/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_five_final_done_1">
         <text>Well, uh-- Yeah. Hmm, and there's hardly any fouling. Interesting. Well, I guess that pretty much sums up our mission here in the zone. Mostly thanks to you, of course, stalker. </text>
