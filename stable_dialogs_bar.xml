@@ -189,10 +189,10 @@
         <text>Well, uh- Yeah. Hmm, there's hardly any fouling. Interesting. Well, I guess that pretty much sums up our mission here in the Zone. Mostly thanks to you, of course, stalker.</text>
     </string>
     <string id="magnet_five_final_done_2">
-        <text>You're leaving the Zone? (start here for your second session on 7/10/26 and don't forget to remove this when you start)</text>
+        <text>You're leaving the Zone?</text>
     </string>
     <string id="magnet_five_final_done_3">
-        <text>Yeah, we've already got a transport helicopter from the Big Land following us. I hear there's something strange going on in the cities. Rumor has it that zombies have been seen near the big cities. It's weird. Still, I'm glad we're finally getting out of this barracks.  </text>
+        <text>Yeah, we've already got a transport helicopter from the Big Land following us. I hear there's something strange going on in the cities. Rumor has it that zombies have been seen near the big cities. It's weird. Still, I'm glad we're finally getting out of this barracks.  (start here for your first session on 7/10/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_five_final_done_4">
         <text>What about my reward?</text>
