@@ -195,10 +195,10 @@
         <text>Yeah, we've already got a transport helicopter from the Big Land following us. I hear there's something strange going on in the cities. Rumor has it that zombies have been seen near the big cities. It's weird. Still, I'm glad we're finally getting out of this barracks.</text>
     </string>
     <string id="magnet_five_final_done_4">
-        <text>What about my reward? (start here for your second session on 7/11/26 and don't forget to remove this when you start)</text>
+        <text>What about my reward?</text>
     </string>
     <string id="magnet_five_final_done_5">
-        <text>I have something for you. An extremely rare item. Our research institute has been allocated one for the entire group. It's a professional anomaly detector. Luckily we didn't have to use it, so I'm giving it to you in good conscience. You're unlikely to find one like it anywhere else.</text>
+        <text>I have something for you. An extremely rare item. Our research institute has been allocated one for the entire group. It's a professional anomaly detector. Luckily we didn't have to use it, so I'm giving it to you in good conscience. You're unlikely to find one like it anywhere else. (start here for your first session on 7/11/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_five_final_done_6">
         <text>Thank you.</text>
