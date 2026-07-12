@@ -198,10 +198,10 @@
         <text>What about my reward?</text>
     </string>
     <string id="magnet_five_final_done_5">
-        <text>I have something for you. An extremely rare item. Our research institute has been allocated one for the entire group. It's a professional anomaly detector. Luckily we didn't have to use it, so I'm giving it to you in good conscience. You're unlikely to find one like it anywhere else. (start here for your first session on 7/11/26 and don't forget to remove this when you start)</text>
+        <text>I have something for you. An extremely rare item. Our research institute has been allocated one for the entire group. It's a professional anomaly detector. Luckily we didn't have to use it, so I'm giving it to you in good conscience. You're unlikely to find one like it anywhere else.</text>
     </string>
     <string id="magnet_five_final_done_6">
-        <text>Thank you.</text>
+        <text>Thank you. (start here for your second session on 7/12/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_five_final_done_7">
         <text>Well. This concludes our cooperation with you. All the best to you, stalker. Don't take any unnecessary risks. </text>
