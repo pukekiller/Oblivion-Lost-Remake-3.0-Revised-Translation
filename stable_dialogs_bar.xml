@@ -204,12 +204,12 @@
         <text>Thank you.</text>
     </string>
     <string id="magnet_five_final_done_7">
-        <text>Well.. this concludes our cooperation with you. All the best to you, stalker. Don't take any unnecessary risks. (start here for your first session on 7/12/26 and don't forget to remove this when you start)</text>
+        <text>Well.. this concludes our cooperation with you. All the best to you, stalker. Don't take any unnecessary risks.</text>
     </string>
 
 
  <string id="bar_pre_doks_talkerd_article_tx"> 
- <text>Stalker's Bar</text> 
+ <text>Stalker's Bar (start here for your second session on 7/13/26 and don't forget to remove this when you start)</text> 
  </string> 
 
  <string id="bar_pre_doks_talkerd_article_text"> 
