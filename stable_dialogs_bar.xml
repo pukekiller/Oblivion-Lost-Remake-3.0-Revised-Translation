@@ -221,10 +221,10 @@
 
 
     <string id="magnet_start_q_five_0">
-        <text>I brought the rifle.  (start here for your second session on 7/14/26 and don't forget to remove this when you start)</text>
+        <text>I brought the rifle. </text>
     </string>
     <string id="magnet_start_q_five_1">
-        <text>Great news! Perhaps I should bring you up to speed. As I was saying, our research is almost at an end, but we've received another important order from the military.</text>
+        <text>Great news! Perhaps I should bring you up to speed. As I was saying, our research is almost at an end, but we've received another important order from the military. (start here for your first session on 7/14/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_five_10">
         <text>Good.</text>
