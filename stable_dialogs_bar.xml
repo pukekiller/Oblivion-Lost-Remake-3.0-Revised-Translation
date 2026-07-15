@@ -227,10 +227,10 @@
         <text>Great news! Perhaps I should bring you up to speed. As I was saying, our research is almost at an end, but we've received another important order from the military.</text>
     </string>
     <string id="magnet_start_q_five_10">
-        <text>Good. (start here for your second session on 7/15/26 and don't forget to remove this when you start)</text>
+        <text>Good.</text>
     </string>
     <string id="magnet_start_q_five_2">
-        <text>Is it related to this weapon?</text>
+        <text>Is it related to this weapon? (start here for your first session on 7/15/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_five_3">
         <text>Get to the bottom of it! Now, why we need a rifle from you is for collateral. I'm sure you know it's a rare item. A fellow stalker of yours has already brought one, and we've made a prototype for you to test. </text>
