@@ -233,10 +233,10 @@
         <text>Is it related to this weapon?</text>
     </string>
     <string id="magnet_start_q_five_3">
-        <text>Get to the bottom of it! Now, the reason why we need a rifle from you is for collateral. I'm sure you know it's a rare item. A fellow stalker of yours has already brought one, and we've made a prototype for you to test. (start here for your second session on 7/16/26 and don't forget to remove this when you start)</text>
+        <text>Get to the bottom of it! Now, the reason why we need a rifle from you is for collateral. I'm sure you know it's a rare item. A fellow stalker of yours has already brought one, and we've made a prototype for you to test.</text>
     </string>
     <string id="magnet_start_q_five_4">
-        <text>What's the specialty of your design?</text>
+        <text>What's the specialty of your design? (start here for your first session on 7/16/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_five_5">
         <text>Well, I will not reveal all the cards... I will say, it is some modification of the barrel with the properties of the Magnet. First of all, in theory, it should increase the killing power. Second, the bullet should have more momentum. However, there are concerns about the velocity of the bullet, which may be slightly reduced...</text>
