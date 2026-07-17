@@ -239,10 +239,10 @@
         <text>What's the specialty of your design?</text>
     </string>
     <string id="magnet_start_q_five_5">
-        <text>Well, I won't reveal all my cards... I will say, though, it's a modification of the barrel. What's changed? The properties of the Magnet artifact are added to it. First of all, in theory, it should increase how deadly the weapon is. Second, the bullet should have more impact. However, there are concerns about the velocity of the bullet, which may be slightly reduced... (start here for your second session on 7/17/26 and don't forget to remove this when you start)</text>
+        <text>Well, I won't reveal all my cards... I will say, though, it's a modification of the barrel. What's changed? The properties of the Magnet artifact are added to it. First of all, in theory, it should increase how deadly the weapon is. Second, the bullet should have more impact. However, there are concerns about the velocity of the bullet, which may be slightly reduced...</text>
     </string>
     <string id="magnet_start_q_five_6">
-        <text>So what's required of me?</text>
+        <text>So what's required of me? (start here for your first session on 7/17/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_five_7">
         <text>Well, let's just say to perform some tests on this weapon. Stress test it, and most importantly, fire a few hundred rounds with it. That's the main task. </text>
