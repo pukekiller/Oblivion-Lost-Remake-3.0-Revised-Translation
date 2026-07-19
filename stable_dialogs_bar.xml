@@ -251,7 +251,7 @@
         <text>Okay, I'll do it.</text>
     </string>
     <string id="magnet_start_q_five_9">
-        <text>Alright, great. Now, give me your rifle, it'll be collateral for us if anything happens to you, or whatever. Yeah. Anyway, when you're done with the test, come back. (start here for your second session on 7/19/26 and don't forget to remove this when you start)</text>
+        <text>Alright, great. Now, give me your rifle, it'll be collateral for us if anything happens to you, or whatever. Yeah. Anyway, when you're done with the test, come back.</text>
     </string>
 
 
@@ -259,7 +259,7 @@
 
 
     <string id="magnet_start_q_four_done_0">
-        <text>Hello. Here, I think this is what you asked for.</text>
+        <text>Hello. Here, I think this is what you asked for. (start here for your first session on 7/19/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_four_done_1">
         <text>Wait a second. Yes, this is indeed the battery. Where did you manage to get it? Would you care to share that information? </text>
