@@ -248,10 +248,10 @@
         <text>Well, let's just say you need to perform some tests on this weapon. Stress test it, and most importantly, fire a few hundred rounds with it. That's the main task.</text>
     </string>
     <string id="magnet_start_q_five_8">
-        <text>Okay, I'll do it. (start here for your first session on 7/18/26 and don't forget to remove this when you start)</text>
+        <text>Okay, I'll do it.</text>
     </string>
     <string id="magnet_start_q_five_9">
-        <text>Alright, great. Now, give me your rifle, it'll be collateral for us if anything happens to you, or whatever. Yeah. Anyway, when you're done with the test, come back.</text>
+        <text>Alright, great. Now, give me your rifle, it'll be collateral for us if anything happens to you, or whatever. Yeah. Anyway, when you're done with the test, come back. (start here for your second session on 7/19/26 and don't forget to remove this when you start)</text>
     </string>
 
 
