@@ -262,10 +262,10 @@
         <text>Hello. Here, I think this is what you asked for.</text>
     </string>
     <string id="magnet_start_q_four_done_1">
-        <text>Wait a second... Yes, this is indeed the battery. Where did you manage to get it? Would you care to share that information? (start here for your second session on 7/20/26 and don't forget to remove this when you start)</text>
+        <text>Wait a second... Yes, this is indeed the battery. Where did you manage to get it? Would you care to share that information?</text>
     </string>
     <string id="magnet_start_q_four_done_2">
-        <text>I don't think you need to worry about that. My mission was to find this ammunition, mission accomplished.</text>
+        <text>I don't think you need to worry about that. My mission was to find this ammunition, and the mission is accomplished. (start here for your first session on 7/20/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_four_done_3">
         <text>Alright, well, what about the artifact? Did you get it?</text>
