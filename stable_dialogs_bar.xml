@@ -268,10 +268,10 @@
         <text>I don't think you need to worry about that. My mission was to find this ammunition, and the mission is accomplished.</text>
     </string>
     <string id="magnet_start_q_four_done_3">
-        <text>Alright, well.. what about the artifact? Did you get it?  (start here for your second session on 7/21/26 and don't forget to remove this when you start)</text>
+        <text>Alright, well.. what about the artifact? Did you get it?</text>
     </string>
     <string id="magnet_start_q_four_done_4">
-        <text>Yes, I got it. </text>
+        <text>Yes, I got it. (start here for your first session on 7/21/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_four_done_5">
         <text>Alright, then. Come on, this way. You are a very, very capable young man. People like you are worth their weight in gold around here. I predict a great future for you.</text>
