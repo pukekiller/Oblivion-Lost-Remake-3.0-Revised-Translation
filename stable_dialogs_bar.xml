@@ -271,10 +271,10 @@
         <text>Alright, well.. what about the artifact? Did you get it?</text>
     </string>
     <string id="magnet_start_q_four_done_4">
-        <text>Yes, I got it. (start here for your first session on 7/21/26 and don't forget to remove this when you start)</text>
+        <text>Yes, I got it.</text>
     </string>
     <string id="magnet_start_q_four_done_5">
-        <text>Alright, then. Come on, this way. You are a very, very capable young man. People like you are worth their weight in gold around here. I predict a great future for you.</text>
+        <text>Alright, then. Come on.. this way. You are a very, very capable young man. People like you are worth their weight in gold around here. I predict a great future for you. (start here for your second session on 7/22/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_four_done_6">
         <text>Thank you. What about payment?</text>
