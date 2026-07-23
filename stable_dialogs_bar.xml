@@ -277,10 +277,10 @@
         <text>Alright, then. Come on.. this way. You are a very, very capable young man. People like you are worth their weight in gold around here. I predict a great future for you.</text>
     </string>
     <string id="magnet_start_q_four_done_6">
-        <text>Thank you. What about payment? (start here for your first session on 7/22/26 and don't forget to remove this when you start)</text>
+        <text>Thank you. What about payment?</text>
     </string>
     <string id="magnet_start_q_four_done_7">
-        <text>Uh, yes. Payment! Our friends in the military presented us with something. We don't need that pipe at all. But for you. who knows, it might come in handy. Or at the very least, I'm sure a dutyer will offer you good money for it.</text>
+        <text>Uh.. yes. Payment! Our friends in the military presented us with something. We don't need this weapon at all. But for you.. who knows, it might come in handy. Or at the very least, I'm sure a Dutyer will offer you good money for it. (start here for your second session on 7/23/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_four_done_8">
         <text>Thank you. What about your next assignment?</text>
