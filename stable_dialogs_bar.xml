@@ -286,7 +286,7 @@
         <text>Thank you. What about your next assignment?</text>
     </string>
     <string id="magnet_start_q_four_done_9">
-        <text>Oh, it's a beauty. Your efficiency is to be envied. So.. I'd say our task is almost complete, and quite successfully. Much to your credit, of course. However, there is one last favor to ask of you. I won't go into details, I'll just inform you that you'd be kind enough to bring a VSS rifle.. a Vintorez, to our next meeting. I think our last collaboration will leave you with good memories of our work together.   (start here for your second session on 7/24/26 and don't forget to remove this when you start)</text>
+        <text>Oh, it's a beauty. Your efficiency is to be envied. So.. I'd say our task is almost complete, and quite successfully. Much to your credit, of course. However, there is one last favor to ask of you. I won't go into details, I'll just inform you that you'd be kind enough to bring a VSS rifle.. a Vintorez, to our next meeting. I think our last collaboration will leave you with good memories of our work together.</text>
     </string>
 
 
@@ -296,7 +296,7 @@
 
 
     <string id="magnet_start_q_tri_done_0">
-        <text>So what about my special award?</text>
+        <text>So what about my special award? (start here for your first session on 7/24/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_tri_done_1">
         <text>Yeah, yeah, hi. All in all, it's going pretty well. Thanks to you, we've almost managed to bring our main experiment to its final stage.</text>
