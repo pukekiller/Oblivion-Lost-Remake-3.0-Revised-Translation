@@ -311,10 +311,10 @@
         <text>I understand, let's get down to business.</text>
     </string>
     <string id="magnet_start_q_tri_done_5">
-        <text>I like your approach, you're to the point. Anyway.. our institute received an order from an overseas company to develop high-capacity rechargeable batteries. Perhaps you've heard of zombified stalker fanatics? Or maybe you've come face-to-face with them? It doesn't matter. The point is that they are rumored to have some kind of weapon that uses high-capacity batteries as a combat charge. Sort of like a Gauss weapon. (start here for your second session on 7/27/26 and don't forget to remove this when you start)</text>
+        <text>I like your approach, you're to the point. Anyway.. our institute received an order from an overseas company to develop high-capacity rechargeable batteries. Perhaps you've heard of zombified stalker fanatics? Or maybe you've come face-to-face with them? It doesn't matter. The point is that they are rumored to have some kind of weapon that uses high-capacity batteries as a combat charge. Sort of like a Gauss weapon.</text>
     </string>
     <string id="magnet_start_q_tri_done_6">
-        <text>Is that the kind of weapon you want to get your hands on?</text>
+        <text>Is that the kind of weapon you want to get your hands on? (start here for your first session on 7/27/26 and don't forget to remove this when you start)</text>
     </string>
     <string id="magnet_start_q_tri_done_7">
         <text>No. Not exactly a weapon. It's the charges that we're interested in. Using our research in magnetic properties, we could create something more effective. In theory, of course. We need one sample of the Magnet artifact, as usual, plus one sample of this Gauss weapon battery. It doesn't have to be fully charged, just get us that battery. </text>
