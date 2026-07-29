@@ -317,10 +317,10 @@
         <text>Is that the kind of weapon you want to get your hands on?</text>
     </string>
     <string id="magnet_start_q_tri_done_7">
-        <text>No. Not exactly a weapon. It's the batteries that we're interested in. Using our research in magnetic properties, we could create something more effective.. in theory, of course. We need one sample of the Magnet artifact, as usual, plus one sample of an Gauss weapon battery. It doesn't have to be fully charged, just get us that battery. (start here for your second session on 7/28/26 and don't forget to remove this when you start)</text>
+        <text>No. Not exactly a weapon. It's the batteries that we're interested in. Using our research in magnetic properties, we could create something more effective.. in theory, of course. We need one sample of the Magnet artifact, as usual, plus one sample of an Gauss weapon battery. It doesn't have to be fully charged, just get us that battery.</text>
     </string>
     <string id="magnet_start_q_tri_done_8">
-        <text>Alright, I'll try.</text>
+        <text>Alright, I'll try. (start here for your first session on 7/29/26 and don't forget to remove this when you start)</text>
     </string>
 
 
