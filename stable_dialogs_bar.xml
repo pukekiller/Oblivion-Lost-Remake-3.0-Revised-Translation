@@ -353,10 +353,10 @@
  <text>So you came after all. Good. We need serious fighters like you. Between you and me, our fighters are in bad shape right now, and having a new comrade like you would be great for us.</text> 
  </string> 
  <string id="deathcomesrippingbarzom_2"> 
- <text>Shit, there's a wave of zombies coming out of Rostok. Where the fuck are they coming from? Where? You, this is a good time for me to tell you. We've got a machine gun nest set up, I'll get it loaded with ammo and you can go. (start here for your second session on 8/1/26 and don't forget to remove this when you start)</text> 
+ <text>Shit, there's a wave of zombies coming out of Rostok. Where the fuck are they coming from? Where? You, this is a good time for me to tell you. We've got a machine gun nest set up, I'll get it loaded with ammo and you can go.</text> 
  </string> 
  <string id="deathcomesrippingbarzom_3"> 
- <text>Okay, machine gun. Got it.</text> 
+ <text>Okay, machine gun. Got it. (start here for your first session on 8/1/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
