@@ -361,13 +361,13 @@
 
 
  <string id="aafde423"> 
- <text>Actually, you know, it's not exactly safe out there. Stalkers are out there, some of them are not exactly alive in the same way we are, and they're not exactly friendly. I don't remember anyone coming back from there alive lately. (start here for your second session on 8/2/26 and don't forget to remove this when you start)</text> 
+ <text>Actually, you know, it's not exactly safe out there. Stalkers are out there, some of them are not exactly alive in the same way we are, and they're not exactly friendly. I don't remember anyone coming back from there alive lately.</text> 
  </string> 
 
 
 
  <string id="gravartsmnb2_0"> 
- <text>I need a strong gravitational artifact.</text> 
+ <text>I need a strong gravitational artifact. (start here for your first session on 8/2/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="gravartsmnb2_1"> 
  <text>Alright, give me the artifact crossbreeder device and the money. five grand. So, uh. you got everything?</text> 
