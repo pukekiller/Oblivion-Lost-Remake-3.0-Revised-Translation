@@ -356,12 +356,12 @@
  <text>Shit, there's a wave of zombies coming out of Rostok. Where the fuck are they coming from? Where? You, this is a good time for me to tell you. We've got a machine gun nest set up, I'll get it loaded with ammo and you can go.</text> 
  </string> 
  <string id="deathcomesrippingbarzom_3"> 
- <text>Okay, machine gun. Got it. (start here for your first session on 8/1/26 and don't forget to remove this when you start)</text> 
+ <text>Okay, machine gun. Got it.</text> 
  </string> 
 
 
  <string id="aafde423"> 
- <text>Actually, you know, it's not all that fatal out there. Stalkers are out there, some of them are not exactly alive, and they're not exactly friendly. Still, I don't remember anyone coming back from there alive lately.</text> 
+ <text>Actually, you know, it's not exactly safe out there. Stalkers are out there, some of them are not exactly alive in the same way we are, and they're not exactly friendly. I don't remember anyone coming back from there alive lately. (start here for your second session on 8/2/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
