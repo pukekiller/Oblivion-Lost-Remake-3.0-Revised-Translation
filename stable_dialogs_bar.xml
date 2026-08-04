@@ -376,14 +376,14 @@
  <text>Yeah, I got it all, here you go.</text> 
  </string> 
  <string id="gravartsmnb2_3"> 
- <text>Here you go, the process was a success. If you need more, I'm here for you. (start here for your second session on 8/4/26 and don't forget to remove this when you start)</text> 
+ <text>Here you go, the process was a success. If you need more, I'm here for you.</text> 
  </string> 
 
 
 
 
  <string id="gravartsmnb_0"> 
- <text>What kind of artifacts do you have here?</text> 
+ <text>What kind of artifacts do you have here? (start here for your first session on 8/4/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="gravartsmnb_1"> 
  <text>Uh, yeah, I had a device. Artifact crossbreeder. Now all I have in my PDA is the recipe for the Strong gravitational artifact from it. If you have the device, I can do the transmutation. The ingredients for the transmutation will be mine, all you need is the device and 5,000 rubles.</text> 
