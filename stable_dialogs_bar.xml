@@ -373,10 +373,10 @@
  <text>Alright, give me the artifact crossbreeder device and the money, five grand.. so, uh, you got everything?</text> 
  </string> 
  <string id="gravartsmnb2_2"> 
- <text>Yeah, I got it all, here you go. (start here for your first session on 8/3/26 and don't forget to remove this when you start)</text> 
+ <text>Yeah, I got it all, here you go.</text> 
  </string> 
  <string id="gravartsmnb2_3"> 
- <text>Here you go, the process was a success. If you need more, I'm here for you.</text> 
+ <text>Here you go, the process was a success. If you need more, I'm here for you. (start here for your second session on 8/4/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
