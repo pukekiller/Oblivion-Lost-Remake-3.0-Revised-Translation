@@ -386,10 +386,10 @@
  <text>What kind of artifacts do you have here?</text> 
  </string> 
  <string id="gravartsmnb_1"> 
- <text>Uh, yeah, I had a device. Artifact crossbreeder. Now all I have in my PDA is the recipe for the strong gravitational artifact on it. If you have the device, I can do the transmutation. The ingredients for the transmutation is what I'll need, all you need is the device and 5,000 rubles. (start here for your second session on 8/5/26 and don't forget to remove this when you start)</text> 
+ <text>Uh, yeah, I had a device. Artifact crossbreeder. Now all I have in my PDA is the recipe for the strong gravitational artifact on it. If you have the device, I can do the transmutation. The ingredients for the transmutation is what I'll need, all you need is the device and 5,000 rubles.</text> 
  </string> 
  <string id="gravartsmnb_2"> 
- <text>Okay, I'll keep that in mind.</text> 
+ <text>Okay, I'll keep that in mind. (start here for your first session on 8/5/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="gravartsmnb_3"> 
  <text>Yeah. It's a good thing, this artifact. Helps you carry a few pounds of more stuff, as I recall.</text> 
