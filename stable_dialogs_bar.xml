@@ -403,10 +403,10 @@
 
 
  <string id="stgraugdhs_0"> 
- <text>I need something. (start here for your first session on 8/6/26 and don't forget to remove this when you start)</text> 
+ <text>I need something.</text> 
  </string> 
  <string id="stgraugdhs_1"> 
- <text>You? What's that?</text> 
+ <text>You need something? What? (start here for your second session on 8/7/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="stgraugdhs_2"> 
  <text>A gravity shotgun. I think you're the only one who can make one.</text> 
