@@ -412,14 +412,14 @@
  <text>A gravity shotgun. I think you're the only one who can make one.</text> 
  </string> 
  <string id="stgraugdhs_3"> 
- <text>Yeah, okay. But I need artifacts. A strong gravitational artifact. Two of them. You get it, we'll talk. (start here for your second session on 8/8/26 and don't forget to remove this when you start)</text> 
+ <text>Yeah, okay. But I need artifacts. A strong gravitational artifact. Two of them. You get it, we'll talk.</text> 
  </string> 
 
 
 
 
  <string id="ribkaprstugdhs_0"> 
- <text>Got artifacts.</text> 
+ <text>I got some artifacts. (start here for your first session on 8/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="ribkaprstugdhs_1"> 
  <text>For a shotgun? Alright, give it to me.</text> 
