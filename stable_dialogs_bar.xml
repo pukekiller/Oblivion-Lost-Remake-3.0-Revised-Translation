@@ -434,10 +434,10 @@
 
 
  <string id="grartgraugdhs_0"> 
- <text>I need something. A gravity glove. (start here for your first session on 8/10/26 and don't forget to remove this when you start)</text> 
+ <text>I need something. A gravity glove.</text> 
  </string> 
  <string id="grartgraugdhs_1"> 
- <text>We have it, we can give it to you. But not for nothing. We found a lot of things like that in this place...</text> 
+ <text>We have one of those, we can give it to you. But not for nothing. We found a lot of things like that in this place... (start here for your second session on 8/11/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="grartgraugdhs_2"> 
  <text>What do you want?</text> 
