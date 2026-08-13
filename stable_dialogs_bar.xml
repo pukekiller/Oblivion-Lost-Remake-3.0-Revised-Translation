@@ -451,10 +451,10 @@
  <text>Hey, I've got the gravity glove.</text> 
  </string> 
  <string id="ribk22prstugdhs_1"> 
- <text>You got it? Okay, give it to me. (start here for your second session on 8/13/26 and don't forget to remove this when you start)</text> 
+ <text>You got it? Okay, give it to me.</text> 
  </string> 
  <string id="ribk22prstugdhs_2"> 
- <text>...</text> 
+ <text>... (start here for your first session on 8/13/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="ribk22prstugdhs_3"> 
  <text>Take it.</text> 
