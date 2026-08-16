@@ -474,10 +474,10 @@
 
 
  <string id="zzzzsnikz_0"> 
- <text>Hello. (start here for your first session on 8/15/26 and don't forget to remove this when you start)</text> 
+ <text>Hello.</text> 
  </string> 
  <string id="zzzzsnikz_1"> 
- <text>Hello. Have you been able to find out anything about the missing group?</text> 
+ <text>Hello. Have you been able to find out anything about the missing group? (start here for your second session on 8/16/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zzzzsnikz_2"> 
  <text>The group was captured by Sin, as you suspected. I managed to rescue them.</text> 
