@@ -493,10 +493,10 @@
  <text>I found what you asked for.</text> 
  </string> 
  <string id="prstugdhs_1"> 
- <text>Really? They're lucky you walked by. (start here for your second session on 8/18/26 and don't forget to remove this when you start)</text> 
+ <text>Really? They're lucky you walked by.</text> 
  </string> 
  <string id="prstugdhs_2"> 
- <text>Can they be free now?</text> 
+ <text>Can they be free now? (start here for your first session on 8/18/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="prstugdhs_3"> 
  <text>Yes, we'll let them go after a while... There's something we need to do with them before we let them go. Go, we'll keep our word.</text> 
