@@ -499,14 +499,14 @@
  <text>Can they be free now?</text> 
  </string> 
  <string id="prstugdhs_3"> 
- <text>Yes, we'll let them go after a while... There's something we need to do with them before we let them go. Go, we'll keep our word. (start here for your second session on 8/19/26 and don't forget to remove this when you start)</text> 
+ <text>Yes, we'll let them go after a while... There's something we need to do with them before we let them go. Go, we'll keep our word.</text> 
  </string> 
 
 
 
 
  <string id="stugdhs_0"> 
- <text>Who's in the next room?</text> 
+ <text>Who's in the next room? (start here for your first session on 8/19/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="stugdhs_1"> 
  <text>Do you care? A group of scientists. Went to the wrong place at the wrong time. Just in time for our ritual to begin. Their heads will come in handy.</text> 
