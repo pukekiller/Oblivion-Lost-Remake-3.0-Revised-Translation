@@ -506,10 +506,10 @@
 
 
  <string id="stugdhs_0"> 
- <text>Who's in the next room? (start here for your first session on 8/19/26 and don't forget to remove this when you start)</text> 
+ <text>Who's in the next room?</text> 
  </string> 
  <string id="stugdhs_1"> 
- <text>Do you care? A group of scientists. Went to the wrong place at the wrong time. Just in time for our ritual to begin. Their heads will come in handy.</text> 
+ <text>Why do you care? There's a group of scientists in there. They went to the wrong place at the wrong time.. just in time for our ritual. Their heads will come in handy. (start here for your second session on 8/20/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="stugdhs_2"> 
  <text>Wait, you want their heads? No, that's no good. I want to buy them back from you.</text> 
