@@ -509,10 +509,10 @@
  <text>Who's in the next room?</text> 
  </string> 
  <string id="stugdhs_1"> 
- <text>Why do you care? There's a group of scientists in there. They went to the wrong place at the wrong time.. just in time for our ritual. Their heads will come in handy. (start here for your second session on 8/20/26 and don't forget to remove this when you start)</text> 
+ <text>Why do you care? There's a group of scientists in there. They went to the wrong place at the wrong time.. just in time for our ritual. Their heads will come in handy.</text> 
  </string> 
  <string id="stugdhs_2"> 
- <text>Wait, you want their heads? No, that's no good. I want to buy them back from you.</text> 
+ <text>Wait, you want their heads? No, that's no good. I want to buy them back from you. (start here for your first session on 8/20/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="stugdhs_3"> 
  <text>Buy them back?! You can't help us with money. Although, if you need it that badly. Bring three dead heads and they'll be free.</text> 
