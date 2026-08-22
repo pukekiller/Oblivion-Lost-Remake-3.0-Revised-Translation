@@ -525,10 +525,10 @@
  <text>Are there any tasks for payment?</text> 
  </string> 
  <string id="hhhnikz_1"> 
- <text>Uh... Yeah. About a month ago, we sent four teams to different parts of the Zone to investigate things. The first one died at the Cordon, near the tower. The second was the one you found in the City. One disappeared here, at the lake, but the fourth, we don't know the fate that befell it yet... (start here for your second session on 8/22/26 and don't forget to remove this when you start)</text> 
+ <text>Uh... Yeah. About a month ago, we sent four teams to different parts of the Zone to investigate things. The first one died at the Cordon, near the tower. The second was the one you found in the City. One disappeared here, at the lake, but the fourth, we don't know the fate that befell it yet...</text> 
  </string> 
  <string id="hhhnikz_2"> 
- <text>Go on.</text> 
+ <text>Go on. (start here for your first session on 8/22/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="hhhnikz_01"> 
  <text>All I know is that they disappeared in the Silent Hills. You know who's running the place, don't you? Those lunatics, the Sinners? I suppose it's possible they're at their base and may still be alive. If you're there, try to help our group. They're the only personnel we have left. Help us, and you'll get a special reward.</text> 
