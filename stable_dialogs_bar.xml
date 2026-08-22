@@ -522,10 +522,10 @@
 
 
  <string id="hhhnikz_0"> 
- <text>Are there any tasks for payment? (start here for your first session on 8/21/26 and don't forget to remove this when you start)</text> 
+ <text>Are there any tasks for payment?</text> 
  </string> 
  <string id="hhhnikz_1"> 
- <text>Uh... Yeah. Within a month, we sent four teams to different parts of the Zone to investigate. The first one died on Cordon, near the tower. The second was the one you found in the City. One disappeared here, at the lake, but the fourth, we don't know its fate yet...</text> 
+ <text>Uh... Yeah. About a month ago, we sent four teams to different parts of the Zone to investigate things. The first one died at the Cordon, near the tower. The second was the one you found in the City. One disappeared here, at the lake, but the fourth, we don't know the fate that befell it yet... (start here for your second session on 8/22/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="hhhnikz_2"> 
  <text>Go on.</text> 
