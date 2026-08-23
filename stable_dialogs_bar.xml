@@ -531,7 +531,7 @@
  <text>Go on.</text> 
  </string> 
  <string id="hhhnikz_01"> 
- <text>All I know is that they disappeared in the Silent Hills. You know who's running the place, don't you? Those lunatics, the Sinners? I suppose it's possible they're at their base and may still be alive. If you're there, try to help our group. They're the only personnel we have left. Help us, and you'll get a special reward.  (start here for your second session on 8/23/26 and don't forget to remove this when you start)</text> 
+ <text>All I know is that they disappeared in the Silent Hills. You know who's running the place, don't you? Those lunatics, the Sinners? I suppose it's possible they're at their base and may still be alive. If you're there, try to help our group. They're the only personnel we have left. Help us, and you'll get a special reward.</text> 
  </string> 
 
 
@@ -540,7 +540,7 @@
 
 
  <string id="silgrav_0"> 
- <text>I guess now we can talk about why I'm here.</text> 
+ <text>I guess now we can talk about why I'm here. (start here for your first session on 8/23/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="silgrav_1"> 
  <text>Messer, you are certainly a very valuable specimen. You've certainly done a very good job for us, but listen. In order for us to make business contact with you regarding your case, get me two strong gravitational artifacts. After that, we can talk.</text> 
