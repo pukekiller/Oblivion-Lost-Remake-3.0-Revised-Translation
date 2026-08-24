@@ -540,10 +540,10 @@
 
 
  <string id="silgrav_0"> 
- <text>I guess now we can talk about why I'm here. (start here for your first session on 8/23/26 and don't forget to remove this when you start)</text> 
+ <text>I guess now we can talk about why I'm here.</text> 
  </string> 
  <string id="silgrav_1"> 
- <text>Messer, you are certainly a very valuable specimen. You've certainly done a very good job for us, but listen. In order for us to make business contact with you regarding your case, get me two strong gravitational artifacts. After that, we can talk.</text> 
+ <text>Messer, you are certainly a very valuable specimen. You've certainly done a very good job for us, but listen. In order for us to make business contact with you regarding your case, get me two strong gravitational artifacts. After that, we can talk. (start here for your second session on 8/24/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="silgrav_2"> 
  <text>I'll try. But where do I find them?</text> 
