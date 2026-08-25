@@ -546,10 +546,10 @@
  <text>Messer, you are certainly a very valuable specimen. You've certainly done a very good job for us, but listen. In order for us to make business contact with you regarding your case, get me two strong gravitational artifacts. After that, we can talk.</text> 
  </string> 
  <string id="silgrav_2"> 
- <text>I'll try. But where do I find them? (start here for your first session on 8/24/26 and don't forget to remove this when you start)</text> 
+ <text>I'll try. But where do I find them?</text> 
  </string> 
  <string id="silgrav_01"> 
- <text>At the gravitational anomalies. You're not new to the Zone! Or you could generate one yourself. You know, there are these things that synthesize artifacts from several others. Keep in mind that the artifacts need to be identified by an expert, or else I won't accept them from you. Alright, you find the artifacts, then we'll talk about the rest.</text> 
+ <text>At the gravitational anomalies. You're not new to the Zone! Or you could make one yourself. You know, there are these things that synthesize artifacts, allowing you to mix certain artifacts together to make specific ones. Keep in mind that the artifacts need to be identified by an expert, or else I won't accept them from you. Alright, you find the artifacts, then we'll talk about the rest. (start here for your second session on 8/25/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
