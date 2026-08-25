@@ -549,13 +549,13 @@
  <text>I'll try. But where do I find them?</text> 
  </string> 
  <string id="silgrav_01"> 
- <text>At the gravitational anomalies. You're not new to the Zone! Or you could make one yourself. You know, there are these things that synthesize artifacts, allowing you to mix certain artifacts together to make specific ones. Keep in mind that the artifacts need to be identified by an expert, or else I won't accept them from you. Alright, you find the artifacts, then we'll talk about the rest. (start here for your second session on 8/25/26 and don't forget to remove this when you start)</text> 
+ <text>At the gravitational anomalies. You're not new to the Zone! Or you could make one yourself. You know, there are these things that synthesize artifacts, allowing you to mix certain artifacts together to make specific ones. Keep in mind that the artifacts need to be identified by an expert, or else I won't accept them from you. Alright, you find the artifacts, then we'll talk about the rest.</text> 
  </string> 
 
 
 
  <string id="psilgrav_0"> 
- <text>Here's your artifacts. I hope I can talk to you now.</text> 
+ <text>Here's your artifacts. I hope I can talk to you now. (start here for your first session on 8/25/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="psilgrav_1"> 
  <text>Well done, stalker. I think we're gonna get along just fine. I understand you and the Barkeep are having a conversation about those papers you found in the lab under the Dark Valley. I don't mind discussing those findings, but my time is valuable. So you're gonna have to do a little more work for us. You're all for it, aren't you?</text> 
