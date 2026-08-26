@@ -558,10 +558,10 @@
  <text>Here's your artifacts. I hope I can talk to you now.</text> 
  </string> 
  <string id="psilgrav_1"> 
- <text>Well done, stalker. I think we're going to get along just fine. I understand you and Barkeep are having a conversation about those papers you found in the lab under the Dark Valley. I don't mind discussing those findings, but my time is valuable. So you're going to have to do a little more work for us. You're all for it, aren't you? (start here for your second session on 8/26/26 and don't forget to remove this when you start)</text> 
+ <text>Well done, stalker. I think we're going to get along just fine. I understand you and Barkeep are having a conversation about those papers you found in the lab under the Dark Valley. I don't mind discussing those findings, but my time is valuable. So you're going to have to do a little more work for us. You're all for it, aren't you?</text> 
  </string> 
  <string id="psilgrav_2"> 
- <text>What do you mean?</text> 
+ <text>What do you mean? (start here for your first session on 8/26/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="psilgrav_01"> 
  <text>The usual stalker routine. You're a good fighter, a natural. I think I've even seen you before. but where-- But that's not important. Let's get to work.</text> 
