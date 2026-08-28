@@ -573,10 +573,10 @@
  <text>Got another job?</text> 
  </string> 
  <string id="yaabneayb_1"> 
- <text>You ever heard of the Sinners? They're nothing but trouble. Rumor has it they're holed up in the Hills somewhere near Radar. The leader's not even human. He was one of the first stalkers in the Zone. In short, it's one of the oldest groups in the Zone, they've been here since before all this happened. So, I know that at their base, there on the Hills, there is a building with various documents. Anyway, there's something I need. One folder of documents. Maybe you can get it? (start here for your second session on 8/28/26 and don't forget to remove this when you start)</text> 
+ <text>You ever heard of the Sinners? They're nothing but trouble. Rumor has it they're holed up in the Hills somewhere near Radar. The leader's not even human. He was one of the first stalkers in the Zone. In short, it's one of the oldest groups in the Zone, they've been here since before all this happened. So, I know that at their base, there on the Hills, there is a building with various documents. Anyway, there's something I need. One folder of documents. Maybe you can get it?</text> 
  </string> 
  <string id="yaabneayb_2"> 
- <text>I'll try, but no promises.</text> 
+ <text>I'll try, but no promises. (start here for your first session on 8/28/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="yaabneayb_01"> 
  <text>Thank you! If you can get it, be careful with it.</text> 
