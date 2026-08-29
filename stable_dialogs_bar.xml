@@ -576,7 +576,7 @@
  <text>You ever heard of the Sinners? They're nothing but trouble. Rumor has it they're holed up in the Hills somewhere near Radar. The leader's not even human. He was one of the first stalkers in the Zone. In short, it's one of the oldest groups in the Zone, they've been here since before all this happened. So, I know that at their base, there on the Hills, there is a building with various documents. Anyway, there's something I need. One folder of documents. Maybe you can get it?</text> 
  </string> 
  <string id="yaabneayb_2"> 
- <text>I'll try, but no promises. (start here for your first session on 8/28/26 and don't forget to remove this when you start)</text> 
+ <text>I'll try, but no promises.</text> 
  </string> 
  <string id="yaabneayb_01"> 
  <text>Thank you! If you can get it, be careful with it.</text> 
@@ -585,7 +585,7 @@
 
 
  <string id="mnb_0"> 
- <text>Here, take a look at this folder.</text> 
+ <text>Here, take a look at this folder. (start here for your first session on 8/29/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="mnb_1"> 
  <text>So... You were able to steal it from the base? Well done, stalker. This is going to help us a lot with our, uh, exploration of the Zone. I heard there was a bit of a commotion at their base. You don't know about it?</text> 
