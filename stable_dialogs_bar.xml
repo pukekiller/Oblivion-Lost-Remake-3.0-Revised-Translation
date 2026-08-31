@@ -594,7 +594,7 @@
  <text>I've had one.. not so pleasant experience with these people. What about payment?</text> 
  </string> 
  <string id="mnb_01"> 
- <text>Uh, yeah, sure. Thanks again for your help. (start here for your second session on 8/31/26 and don't forget to remove this when you start)</text> 
+ <text>Uh, yeah, sure. Thanks again for your help.</text> 
  </string> 
 
 
@@ -602,7 +602,7 @@
 
 
  <string id="ggzxroz_0"> 
- <text>Look, there's something. Are you interested in a false eye?</text> 
+ <text>Look, I've got something. Are you interested in a false eye? (start here for your first session on 8/31/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="ggzxroz_1"> 
  <text>Hmm. It's rare! In the Zone, if anyone needs it... Anyway, come on, 500 rubles.</text> 
