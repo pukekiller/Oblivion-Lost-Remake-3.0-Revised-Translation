@@ -591,10 +591,10 @@
  <text>So... You were able to steal it from the base? Well done, stalker. This is going to help us a lot with our, uh, exploration of the Zone. I heard there was a bit of a commotion at their base. You don't know about it? </text> 
  </string> 
  <string id="mnb_2"> 
- <text>I've had one.. not so pleasant experience with these people. What about payment? (start here for your first session on 8/30/26 and don't forget to remove this when you start)</text> 
+ <text>I've had one.. not so pleasant experience with these people. What about payment?</text> 
  </string> 
  <string id="mnb_01"> 
- <text>Uh, yeah, sure. Thanks again for your help.</text> 
+ <text>Uh, yeah, sure. Thanks again for your help. (start here for your second session on 8/31/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
