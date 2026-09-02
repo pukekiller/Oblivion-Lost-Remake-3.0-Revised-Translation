@@ -608,10 +608,10 @@
  <text>Hmm. Something like this is rare in the Zone! If you need one here, you won't be able to come across it easily. Anyway, I'll part with it for 500 rubles.</text> 
  </string> 
  <string id="ggzxroz_2"> 
- <text>Here. (start here for your first session on 9/1/26 and don't forget to remove this when you start)</text> 
+ <text>Here.</text> 
  </string> 
  <string id="ggzxroz_01"> 
- <text>Interesting thing. You'll need it. Come over sometime, we'll play pool with you. You're running around the Zone like a madman.</text> 
+ <text>Interesting thing. You'll need it. Come over sometime, we'll play pool with you. You're running around the Zone like a madman. (start here for your second session on 9/2/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
