@@ -621,10 +621,10 @@
  <text>I got some bad news for you.</text> 
  </string> 
  <string id="zxrpozsskayb_1"> 
- <text>What? What do you mean? (start here for your second session on 9/3/26 and don't forget to remove this when you start)</text> 
+ <text>What? What do you mean?</text> 
  </string> 
  <string id="zxrpozsskayb_2"> 
- <text>I found your brother. He's dead. He's in a lab under the Dark Valley.</text> 
+ <text>I found your brother. He's dead. He's in a lab under the Dark Valley. (start here for your first session on 9/3/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zxrpozsskayb_01"> 
  <text>Stalker. Thank you. I... I don't know how. Just leave me now.</text> 
