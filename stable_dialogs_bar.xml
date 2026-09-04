@@ -627,14 +627,14 @@
  <text>I found your brother. He's dead. He's in a lab under the Dark Valley.</text> 
  </string> 
  <string id="zxrpozsskayb_01"> 
- <text>Stalker. Thank you. I.. I don't know how. Just leave me now. (start here for your second session on 9/4/26 and don't forget to remove this when you start)</text> 
+ <text>Stalker. Thank you. I.. I don't know how. Just leave me now.</text> 
  </string> 
 
 
 
 
  <string id="nzombar_koshak_start_0"> 
- <text>I think I found it.</text> 
+ <text>I think I found it. (start here for your first session on 9/4/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="nzombar_koshak_start_1"> 
  <text>Sta-a-alke-el, you-you-you. Thank you.</text> 
