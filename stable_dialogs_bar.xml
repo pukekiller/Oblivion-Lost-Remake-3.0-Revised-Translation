@@ -643,13 +643,13 @@
  <text>No problem, buddy.</text> 
  </string> 
  <string id="nzombar_koshak_start_01"> 
- <text>T-t-t-t-t-t-t-t-too do-mi-k-a. (start here for your second session on 9/6/26 and don't forget to remove this when you start)</text> 
+ <text>T-t-t-t-t-t-t-t-too do-mi-k-a.</text> 
  </string> 
 
 
 
  <string id="zombar_koshak_start_0"> 
- <text>Zombie? Human? Can you hear me?</text> 
+ <text>Are you a zombie? Or human? Can you hear me?  (start here for your first session on 9/6/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zombar_koshak_start_1"> 
  <text>Sta-alke-er, help me! Please!</text> 
