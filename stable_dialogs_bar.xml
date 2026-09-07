@@ -649,10 +649,10 @@
 
 
  <string id="zombar_koshak_start_0"> 
- <text>Are you a zombie? Or human? Can you hear me?  (start here for your first session on 9/6/26 and don't forget to remove this when you start)</text> 
+ <text>Are you a zombie? Or human? Can you hear me?</text> 
  </string> 
  <string id="zombar_koshak_start_1"> 
- <text>Sta-alke-er, help me! Please!</text> 
+ <text>Sta-alke-er, help me! Please!  (start here for your second session on 9/7/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zombar_koshak_start_2"> 
  <text>What do you want?</text> 
