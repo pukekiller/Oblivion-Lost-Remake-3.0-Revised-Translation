@@ -658,7 +658,7 @@
  <text>What do you want?</text> 
  </string> 
  <string id="zombar_koshak_start_01"> 
- <text>I had a cat, a big cat. She was always helpful. But she got lost! Find her! (start here for your second session on 9/8/26 and don't forget to remove this when you start)</text> 
+ <text>I had a cat, a big cat. She was always helpful. But she got lost! Find her!</text> 
  </string> 
 
 
@@ -667,7 +667,7 @@
 
 
  <string id="svdodddkz_0"> 
- <text>The Professor sent you, didn't he?</text> 
+ <text>The Professor sent you, didn't he? (start here for your first session on 9/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="svdodddkz_1"> 
  <text>Yes. And I'm interested in something.</text> 
