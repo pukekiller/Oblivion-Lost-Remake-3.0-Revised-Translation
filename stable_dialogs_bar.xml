@@ -684,10 +684,10 @@
 
 
  <string id="dodddkz_0"> 
- <text>Doctor? (start here for your first session on 9/10/26 and don't forget to remove this when you start)</text> 
+ <text>Doctor?</text> 
  </string> 
  <string id="dodddkz_1"> 
- <text>Yeah. I knew you'd come.</text> 
+ <text>Yeah. I knew you'd come. (start here for your second session on 9/11/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="dodddkz_2"> 
  <text>I have a few questions.</text> 
