@@ -687,10 +687,10 @@
  <text>Doctor?</text> 
  </string> 
  <string id="dodddkz_1"> 
- <text>Yeah. I knew you'd come. (start here for your second session on 9/11/26 and don't forget to remove this when you start)</text> 
+ <text>Yeah. I knew you'd come.</text> 
  </string> 
  <string id="dodddkz_2"> 
- <text>I have a few questions.</text> 
+ <text>I have a few questions. (start here for your first session on 9/11/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="dodddkz_01"> 
  <text>Not all at once. I need your help. Afterwards, I'll help you with your questions. Listen up! A stalker wandered into the swamps here. He's been lying by the fisherman's cabin to the east for half a day. Bring him here. But don't take him inside, let him sit on the porch.</text> 
