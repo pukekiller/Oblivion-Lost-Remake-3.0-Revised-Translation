@@ -693,13 +693,13 @@
  <text>I have a few questions.</text> 
  </string> 
  <string id="dodddkz_01"> 
- <text>Not all at once. I need your help. Afterwards, I'll help you with your questions. Listen up! A stalker wandered into the swamps here. He's been lying by the fisherman's cabin to the east for about half a day. Bring him here. But don't take him inside, let him rest on the porch. (start here for your first session on 9/11/26 and don't forget to remove this when you start)</text> 
+ <text>Not all at once. I need your help. Afterwards, I'll help you with your questions. Listen up! A stalker wandered into the swamps here. He's been lying by the fisherman's cabin to the east for about half a day. Bring him here. But don't take him inside, let him rest on the porch.</text> 
  </string> 
 
 
 
  <string id="mzdodddkz_0"> 
- <text>Hey, you okay?</text> 
+ <text>Hey, you okay? (start here for your first session on 9/12/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="mzdodddkz_1"> 
  <text>Ah? Who's there? Stalker! Shit, help! I came from Radar. There, there's, uh, radiation!</text> 
