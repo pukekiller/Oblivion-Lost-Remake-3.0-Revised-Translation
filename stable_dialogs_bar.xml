@@ -717,10 +717,10 @@
  <text>Doctor, I brought him. He says he's come from Radar.</text> 
  </string> 
  <string id="pdodddkz_1"> 
- <text>I'll keep him outside for a while. Go and find out where he's from and who he is, and check his things. (start here for your second session on 9/15/26 and don't forget to remove this when you start)</text> 
+ <text>I'll keep him outside for a while. Go and find out where he's from and who he is, and check his things.</text> 
  </string> 
  <string id="pdodddkz_2"> 
- <text>Okay, got it.</text> 
+ <text>Okay, got it. (start here for your first session on 9/15/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="pdodddkz_01"> 
  <text>Wait, there's more! After you talk to that stalker, go to the trader. His name is Toad. Maybe you already know him. He's a rookie to the Hills. You need to pick up a strange-looking container and bring it to me. If you do, you'll get a free treatment from me.</text> 
