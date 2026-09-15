@@ -714,10 +714,10 @@
 
 
  <string id="pdodddkz_0"> 
- <text>Doctor, I brought him. He says he's come from Radar.  (start here for your first session on 9/14/26 and don't forget to remove this when you start)</text> 
+ <text>Doctor, I brought him. He says he's come from Radar.</text> 
  </string> 
  <string id="pdodddkz_1"> 
- <text>I'll keep him outside for a while. Go and find out where he's from and who he is, and check his things.</text> 
+ <text>I'll keep him outside for a while. Go and find out where he's from and who he is, and check his things. (start here for your second session on 9/15/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="pdodddkz_2"> 
  <text>Okay, got it.</text> 
