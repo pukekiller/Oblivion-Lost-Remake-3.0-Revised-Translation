@@ -723,12 +723,12 @@
  <text>Okay, got it.</text> 
  </string> 
  <string id="pdodddkz_01"> 
- <text>Wait, there's more! After you talk to that stalker, go to the trader. His name is Toad. Maybe you already know him. He's a rookie to the Hills. You need to pick up a strange-looking container and bring it to me. If you do, you'll get a free treatment from me. (start here for your second session on 9/16/26 and don't forget to remove this when you start)</text> 
+ <text>Wait, there's more! After you talk to that stalker, go to the trader. His name is Toad. Maybe you already know him. He's a rookie to the Hills. You need to pick up a strange-looking container and bring it to me. If you do, you'll get a free treatment from me.</text> 
  </string> 
 
 
  <string id="dopdodddkz_0"> 
- <text>First things first. Who are you and where are you from?</text> 
+ <text>First things first. Who are you and where are you from? (start here for your first session on 9/16/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="dopdodddkz_1"> 
  <text>Ah? I'm Bullfrog. Me and a group from Shining Path went out toward Radar through the warehouses. But there, it's literally mind-blowing. I don't know how I got out in the dark and came here. I crossed a broken bridge, had to swim across the river.</text> 
