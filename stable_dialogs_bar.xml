@@ -734,7 +734,7 @@
  <text>Eh? I'm Bullfrog. Me and a group from Shining Path went out toward Radar through the warehouses. But there, it's literally mind-blowing. I don't know how I got out in the dark and came here. I crossed a broken bridge, had to swim across the river.</text> 
  </string> 
  <string id="dopdodddkz_2"> 
- <text>So, I see you don't have anything special. You've got a gun and a handheld radio. Right. The Doctor needs something to take you in. I'll bring him this stuff after the Doctor sees you. (start here for your first session on 9/17/26 and don't forget to remove this when you start)</text> 
+ <text>So, I see you don't have anything special. You've got a gun and a handheld radio. Right. The Doctor needs something to take you in. I'll bring him this stuff after the Doctor sees you.</text> 
  </string> 
  <string id="dopdodddkz_01"> 
  <text>Yeah, okay. Thank you.</text> 
@@ -743,7 +743,7 @@
 
 
  <string id="jopdodddkz_0"> 
- <text>Toad, hello. Doctor sent me.</text> 
+ <text>Toad, hello. Doctor sent me. (start here for your first session on 9/18/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="jopdodddkz_1"> 
  <text>Come from the swamps, have you? You're a real piece of work, lad. I thought you wouldn't last a couple of days in the Zone, and here you are! Alright, take it, the Doctor's reported you.</text> 
