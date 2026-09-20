@@ -752,14 +752,14 @@
  <text>Shit. How much does this weigh?</text> 
  </string> 
  <string id="jopdodddkz_01"> 
- <text>You thought it would be a bit lighter, huh? If it doesn't fit, put your stuff in the bedside table here, you can take it back later. It's not going anywhere. I guess. (start here for your second session on 9/20/26 and don't forget to remove this when you start)</text> 
+ <text>You thought it would be a bit lighter, huh? If it doesn't fit, put your stuff in the bedside table here, you can take it back later. It's not going anywhere. I guess.</text> 
  </string> 
 
 
 
 
  <string id="hjopdodddkz_0"> 
- <text>Doctor, I've got what you asked for.</text> 
+ <text>Doctor, I've got what you asked for. (start here for your first session on 9/20/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="hjopdodddkz_1"> 
  <text>Good. Well, one more errand, then I'll answer your questions.</text> 
