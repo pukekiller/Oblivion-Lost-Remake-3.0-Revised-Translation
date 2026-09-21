@@ -759,10 +759,10 @@
 
 
  <string id="hjopdodddkz_0"> 
- <text>Doctor, I've got what you asked for. (start here for your first session on 9/20/26 and don't forget to remove this when you start)</text> 
+ <text>Doctor, I've got what you asked for.</text> 
  </string> 
  <string id="hjopdodddkz_1"> 
- <text>Good. Well, one more errand, then I'll answer your questions.</text> 
+ <text>Good. Well, one more errand, then I'll answer your questions. (start here for your second session on 9/21/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="hjopdodddkz_2"> 
  <text>Good.</text> 
