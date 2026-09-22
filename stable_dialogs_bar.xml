@@ -768,13 +768,13 @@
  <text>Good.</text> 
  </string> 
  <string id="hjopdodddkz_01"> 
- <text>The stalker you recovered seems to be getting better. He said he was traveling with a group from the city. Maybe he's a member of some kind of group. Go down to the city and ask around about him. (start here for your second session on 9/22/26 and don't forget to remove this when you start)</text> 
+ <text>The stalker you recovered seems to be getting better. He said he was traveling with a group from the city. Maybe he's a member of some kind of group. Go down to the city and ask around about him.</text> 
  </string> 
 
 
 
  <string id="zzhjopdodddkz_0"> 
- <text>Hey, you know Bullfrog?</text> 
+ <text>Hey, you know Bullfrog? (start here for your first session on 9/22/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zzhjopdodddkz_1"> 
  <text>What? I know him, yeah. He disappeared on Radar a while back with a group. We used to send units up north at one time, one of them was rumored to have even gotten into the power plant. They found some documents, but they were lost there.</text> 
