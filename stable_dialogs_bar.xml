@@ -783,7 +783,7 @@
  <text>The Doctor's got him at the swamp. He's alive.</text> 
  </string> 
  <string id="zzhjopdodddkz_01"> 
- <text>Oh dear. We'd already said goodbye to him, and then.. Ah, this is great news! Well, give the Doctor our thanks. I think what he learned there will be useful to us. We'll have to get in touch with him, have him send him back to us when he's back on his feet. (start here for your second session on 9/24/26 and don't forget to remove this when you start)</text> 
+ <text>Oh dear. We'd already said goodbye to him, and then.. Ah, this is great news! Well, give the Doctor our thanks. I think what he learned there will be useful to us. We'll have to get in touch with him, have him send him back to us when he's back on his feet.</text> 
  </string> 
 
 
@@ -792,7 +792,7 @@
 
 
  <string id="nnnnnikz_0"> 
- <text>I think it's this knife.</text> 
+ <text>I think it's this knife. (start here for your first session on 9/24/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="nnnnnikz_1"> 
  <text>Yeah, that's the one. Good job. You've been a great help to me on this case. Why don't you have a drink? It's on me. It's a good occasion. I've been wanting this thing for a long time. I've got a collection of knives.</text> 
