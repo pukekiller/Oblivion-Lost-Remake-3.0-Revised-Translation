@@ -814,10 +814,10 @@
  <text>Is there any other work?</text> 
  </string> 
  <string id="nloudmoth_1"> 
- <text>For you, I'll always find an job that needs to be done. Yeah. You need to find a knife in the basement of the Rostok factory, which was lost by a stalker, one of my so-called regulars.. Now there are stalkers cleaning out those cellars after you killed that bloodsucker, and this guy I know is with them. I think he lost it in one of the catacomb rooms. He was drinking himself into a stupor last night when he noticed he'd lost it. (start here for your first session on 9/27/26 and don't forget to remove this when you start)</text> 
+ <text>For you, I'll always find an job that needs to be done. Yeah. You need to find a knife in the basement of the Rostok factory, which was lost by a stalker, one of my so-called regulars.. Now there are stalkers cleaning out those cellars after you killed that bloodsucker, and this guy I know is with them. I think he lost it in one of the catacomb rooms. He was drinking himself into a stupor last night when he noticed he'd lost it.</text> 
  </string> 
  <string id="nloudmoth_2"> 
- <text>I'll look for it. What about payment?</text> 
+ <text>I'll look for it. What about payment? (start here for your second session on 9/28/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="nloudmoth_01"> 
  <text>I hear you're looking for someone. I think you'll find this information useful. Bring the knife and we'll talk.</text> 
