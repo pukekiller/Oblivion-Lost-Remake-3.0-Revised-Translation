@@ -820,13 +820,13 @@
  <text>I'll look for it. What about payment?</text> 
  </string> 
  <string id="nloudmoth_01"> 
- <text>I hear you're looking for someone. I think you'll find this information useful. Bring the knife and we'll talk. (start here for your first session on 9/28/26 and don't forget to remove this when you start)</text> 
+ <text>I hear you're looking for someone. I think you'll find this information useful. Bring the knife and we'll talk.</text> 
  </string> 
 
 
 
  <string id="loudmoth_0"> 
- <text>You okay, stalker? Did you send the SOS?</text> 
+ <text>You okay, stalker? Did you send the SOS?  (start here for your second session on 9/29/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="loudmoth_1"> 
  <text>Yes... Help me, damn it. I ran away from that military base, I don't think it was the military at all! I don't think they were even human!</text> 
