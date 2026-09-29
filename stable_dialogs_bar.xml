@@ -826,10 +826,10 @@
 
 
  <string id="loudmoth_0"> 
- <text>You okay, stalker? Did you send the SOS?  (start here for your second session on 9/29/26 and don't forget to remove this when you start)</text> 
+ <text>You okay, stalker? Did you send the SOS?</text> 
  </string> 
  <string id="loudmoth_1"> 
- <text>Yes... Help me, damn it. I ran away from that military base, I don't think it was the military at all! I don't think they were even human!</text> 
+ <text>Yes.. Help me, damn it. I ran away from that military base, I don't think it was the military at all! I don't think they were even human! (start here for your first session on 9/29/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="loudmoth_2"> 
  <text>What are you talking about?</text> 
