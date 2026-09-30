@@ -829,10 +829,10 @@
  <text>You okay, stalker? Did you send the SOS?</text> 
  </string> 
  <string id="loudmoth_1"> 
- <text>Yes.. Help me, damn it. I ran away from that military base, I don't think it was the military at all! I don't think they were even human! (start here for your first session on 9/29/26 and don't forget to remove this when you start)</text> 
+ <text>Yes.. Help me, damn it. I ran away from that military base, I don't think it was the military at all! I don't think they were even human!</text> 
  </string> 
  <string id="loudmoth_2"> 
- <text>What are you talking about?</text> 
+ <text>What are you talking about? (start here for your second session on 9/30/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="loudmoth_01"> 
  <text>We were coming from Bar. They were following us. They took us to their base. They put Sergei on a pole. One of them was doing some kind of ritual. Shit, after that, I think my brains went to shit! Ahh.</text> 
