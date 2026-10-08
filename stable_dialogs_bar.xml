@@ -893,10 +893,10 @@
 
 
  <string id="pomosnikz_0"> 
- <text>Hello. (start here for your second session on 10/8/26 and don't forget to remove this when you start)</text> 
+ <text>Hello.</text> 
  </string> 
  <string id="pomosnikz_1"> 
- <text>Ah? What do you want? The professor's not in today. You can turn around and get out of here!</text> 
+ <text>Ah? What do you want? The professor's not in today. You can turn around and get out of here! (start here for your first session on 10/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="pomosnikz_2"> 
  <text>Take it easy. I have an assignment from the Barkeep. Why are you so nervous?</text> 
