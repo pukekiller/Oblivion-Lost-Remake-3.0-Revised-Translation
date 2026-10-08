@@ -886,14 +886,14 @@
  <text>Someone gave it to me. Anyway, it doesn't matter, just take it. I know that it's important to you.</text> 
  </string> 
  <string id="dpomosnikz_01"> 
- <text>Stalker, I don't know what to say to you! Thank you. I'll tell the Professor to let you into the bunker. Here. take this, I'm really grateful for what you did. (start here for your first session on 10/7/26 and don't forget to remove this when you start)</text> 
+ <text>Stalker, I don't know what to say to you! Thank you. I'll tell the Professor to let you into the bunker. Here. take this, I'm really grateful for what you did.</text> 
  </string> 
 
 
 
 
  <string id="pomosnikz_0"> 
- <text>Hello.</text> 
+ <text>Hello. (start here for your second session on 10/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="pomosnikz_1"> 
  <text>Ah? What do you want? The professor's not in today. You can turn around and get out of here!</text> 
