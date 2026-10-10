@@ -905,14 +905,14 @@
  <text>What?! No reason.. She's gone, you know? She's gone. She's missing, in that damn lab under the Dark Valley! I wish I could find the pendant I gave her. The silver one.</text> 
  </string> 
  <string id="pomosnikz_4"> 
- <text>... (start here for your second session on 10/10/26 and don't forget to remove this when you start)</text> 
+ <text>...</text> 
  </string> 
 
 
 
 
  <string id="prpozsskayb_0"> 
- <text>Well, I think we're here.</text> 
+ <text>Well, I think we're here. (start here for your first session on 10/10/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="prpozsskayb_1"> 
  <text>Yeah. Thanks for your help, Messer. Here's your spacesuit, you earned it.</text> 
