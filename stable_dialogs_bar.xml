@@ -929,10 +929,10 @@
 
 
  <string id="pozsskayb_0"> 
- <text>Zyablikov? What's up? (start here for your first session on 10/1/26 and don't forget to remove this when you start)</text> 
+ <text>Zyablikov? What's up?</text> 
  </string> 
  <string id="pozsskayb_1"> 
- <text>Hello again. Hey, Messer, can you walk me back to camp? I know the way. The road here is not very quiet, I'm afraid I can't make it alone... We'll go together, and you can find out where our habitat is.</text> 
+ <text>Hello again, Messer. Can you walk me back to camp? I know the way. The road here is not very quiet, I'm afraid I can't make it alone.. We'll go together, and you can find out where our habitat is. (start here for your second session on 10/3/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="pozsskayb_2"> 
  <text>Okay, let's go.</text> 
