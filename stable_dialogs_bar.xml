@@ -938,14 +938,14 @@
  <text>Okay, let's go.</text> 
  </string> 
  <string id="pozsskayb_01"> 
- <text>Great! When we get there, I'll give you one of our suits, as promised. (start here for your second session on 10/14/26 and don't forget to remove this when you start)</text> 
+ <text>Great! When we get there, I'll give you one of our suits, as promised.</text> 
  </string> 
 
 
 
 
  <string id="zsskayb_0"> 
- <text>Here's the paperwork.</text> 
+ <text>Here's the paperwork. (start here for your first session on 10/14/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="zsskayb_1"> 
  <text>Well, well, well. I don't get it! What's the lab? Is he alive? Why haven't we been informed? What's going on?</text> 
