@@ -973,7 +973,7 @@
  <text>I used to have a brother who worked at the factory, Vanya, or rather Ivan Ivanovich. I had a big fight with him once, over nothing, I went away for a long time. When I came back, I found out that everyone had been evacuated from the plant, but Vanya had not returned. The administration somehow tried to talk themselves out of it, saying that he had either run away or died in the factory. The family burned out all their nerves. Later I received a letter from the Research Institute, an invitation to participate in an expedition in the Zone, or rather, in its protection. I thought to refuse, but I remembered that the plant is also in the Zone, and I had nothing to lose. In short, if you go to Rostok and find documents that may say something about my brother, or my brother himself, or his personal belongings, I'll give you a suit for your trouble. Alright?</text> 
  </string>
  <string id="zcddaqiyorbar_4"> 
- <text>Alright. I'll see what I can find out. (start here for first session on 10/18/26 and don't forget to remove this when you start)</text> 
+ <text>Alright. I'll see what I can find out.</text> 
  </string>
 
 
@@ -981,7 +981,7 @@
 
 
  <string id="cddaqiyorbar_0"> 
- <text>No work?</text> 
+ <text>No work? (start here for your second session on 10/19/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="cddaqiyorbar_1"> 
  <text>There's a site on Bar, behind the factory, near the dam. There's a curious Kamaz there. We should bring it here, but nobody wants to do it. Two have already tried, but disappeared... Still, Rostok's not far away, and it's not a pleasant place.</text> 
