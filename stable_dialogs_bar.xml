@@ -981,10 +981,10 @@
 
 
  <string id="cddaqiyorbar_0"> 
- <text>No work? (start here for your second session on 10/19/26 and don't forget to remove this when you start)</text> 
+ <text>No work?</text> 
  </string> 
  <string id="cddaqiyorbar_1"> 
- <text>There's a site on Bar, behind the factory, near the dam. There's a curious Kamaz there. We should bring it here, but nobody wants to do it. Two have already tried, but disappeared... Still, Rostok's not far away, and it's not a pleasant place.</text> 
+ <text>There's a site on at the Bar, behind the factory, near the dam. There's a curious Kamaz there. We should bring it here, but nobody wants to do it. Two have already tried to do so, but disappeared.. Still, Rostok's not far away, but it's not a pleasant place. (start here for your first session on 10/19/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="cddaqiyorbar_2"> 
  <text>I can try it.</text> 
