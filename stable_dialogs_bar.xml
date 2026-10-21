@@ -993,13 +993,13 @@
  <text>You're a brave fellow I see. Go on, then. It's parked over there by the factory, bring it over here to the bar. Don't worry about paying for it.</text> 
  </string>
  <string id="cddaqiyorbar_4"> 
- <text>Alright. (start here for your second session on 10/21/26 and don't forget to remove this when you start)</text> 
+ <text>Alright.</text> 
  </string>
 
 
 
  <string id="casskayb_0"> 
- <text>The Kamaz is here at the bar.</text> 
+ <text>The Kamaz is here at the bar. (start here for your first session on 10/21/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="casskayb_1"> 
  <text>Good boy, keep your-- Anything suspicious? Maybe some cargo? Or anything else?</text> 
