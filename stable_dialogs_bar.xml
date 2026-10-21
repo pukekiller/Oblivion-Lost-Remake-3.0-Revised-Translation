@@ -990,10 +990,10 @@
  <text>I can try it.</text> 
  </string> 
  <string id="cddaqiyorbar_3"> 
- <text>You're a brave fellow I see. Go on, then. It's parked over there by the factory, bring it over here to the bar. Don't worry about paying for it. (start here for your first session on 10/20/26 and don't forget to remove this when you start)</text> 
+ <text>You're a brave fellow I see. Go on, then. It's parked over there by the factory, bring it over here to the bar. Don't worry about paying for it.</text> 
  </string>
  <string id="cddaqiyorbar_4"> 
- <text>Alright.</text> 
+ <text>Alright. (start here for your second session on 10/21/26 and don't forget to remove this when you start)</text> 
  </string>
 
 
