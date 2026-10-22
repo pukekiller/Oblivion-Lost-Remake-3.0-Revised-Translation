@@ -999,10 +999,10 @@
 
 
  <string id="casskayb_0"> 
- <text>The Kamaz is here at the bar. (start here for your first session on 10/21/26 and don't forget to remove this when you start)</text> 
+ <text>The Kamaz is here at the bar.</text> 
  </string> 
  <string id="casskayb_1"> 
- <text>Good boy, keep your-- Anything suspicious? Maybe some cargo? Or anything else?</text> 
+ <text>Good boy, keep your- Wait, anything suspicious? Maybe some cargo? Or anything else? (start here for your second session on 10/22/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="casskayb_2"> 
  <text>Not that I saw. Just a bloodsucker. Maybe from Rostok.</text> 
