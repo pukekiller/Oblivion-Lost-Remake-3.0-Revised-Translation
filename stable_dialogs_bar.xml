@@ -1005,10 +1005,10 @@
  <text>Good boy, keep your- Wait, anything suspicious? Maybe some cargo? Or anything else?</text> 
  </string> 
  <string id="casskayb_2"> 
- <text>Not that I saw. Just a bloodsucker. Maybe from Rostok. (start here for your first session on 10/22/26 and don't forget to remove this when you start)</text> 
+ <text>Not that I saw. Just a bloodsucker. Maybe from Rostok.</text> 
  </string> 
  <string id="casskayb_01"> 
- <text>Alright, then. It's not news. We'll take the car to the parking lot. You're free to go.</text> 
+ <text>Alright, then. Seems like there's nothing major. We'll take the truck to the parking lot. You're free to go. (start here for your first session on 10/23/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
