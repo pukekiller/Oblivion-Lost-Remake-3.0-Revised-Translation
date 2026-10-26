@@ -1034,10 +1034,10 @@
 
 
  <string id="sskayb_0"> 
- <text>Listen, I need some of your irradiated bolts. Can you spare some? (start here for your second session on 10/26/26 and don't forget to remove this when you start)</text> 
+ <text>Listen, I need some of your irradiated bolts. Can you spare some?</text> 
  </string> 
  <string id="sskayb_1"> 
- <text>You know. I could, why not? You owe me one thousand rubles for eight pieces.</text> 
+ <text>You know, I could. Why not? You owe me one thousand rubles for eight pieces. (start here for your first session on 10/26/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="sskayb_2"> 
  <text>Come on, it's a deal.</text> 
