@@ -1040,10 +1040,10 @@
  <text>You know, I could. Why not? You owe me one thousand rubles for eight pieces.</text> 
  </string> 
  <string id="sskayb_2"> 
- <text>It's a deal. (start here for your second session on 10/27/26 and don't forget to remove this when you start)</text> 
+ <text>It's a deal.</text> 
  </string> 
  <string id="sskayb_01"> 
- <text>Come on, for that kind of money!</text> 
+ <text>For that kind of money? No way. (start here for your first session on 10/27/26 and don't forget to remove this when you start)</text> 
  </string> 
 
 
