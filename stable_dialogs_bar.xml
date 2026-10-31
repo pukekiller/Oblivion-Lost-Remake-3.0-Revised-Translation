@@ -1075,10 +1075,10 @@
 
 
  <string id="aqiyorbar_0"> 
- <text>Your guest is in a bad way. (start here for your first session on 10/30/26 and don't forget to remove this when you start)</text> 
+ <text>Your guest is in a bad way.</text> 
  </string> 
  <string id="aqiyorbar_1"> 
- <text>Shit. So what's he saying anyway?</text> 
+ <text>Shit.. what's he saying? (start here for your second session on 10/31/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="aqiyorbar_2"> 
  <text>I think the radiation's giving him brain damage. Do you at least have a first aid kit for him?</text> 
