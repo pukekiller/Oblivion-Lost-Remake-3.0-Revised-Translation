@@ -1081,10 +1081,10 @@
  <text>Shit.. what's he saying?</text> 
  </string> 
  <string id="aqiyorbar_2"> 
- <text>I think the radiation has given him brain damage. Do you at least have a first aid kit for him? (start here for your first session on 10/31/26 and don't forget to remove this when you start)</text> 
+ <text>I think the radiation has given him brain damage. Do you at least have a first aid kit for him?</text> 
  </string> 
  <string id="aqiyorbar_3"> 
- <text>Here you go. See if you can get him to talk.</text> 
+ <text>Here you go. See if you can get him to talk. (start here for your second session on 11/1/26 and don't forget to remove this when you start)</text> 
  </string>
  <string id="aqiyorbar_4"> 
  <text>I will.</text> 
