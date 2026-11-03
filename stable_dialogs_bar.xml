@@ -1096,10 +1096,10 @@
 		<text>Meeting with Psycho</text>
 	</string>
 	<string id="bar_ryaboy_job_0">
-		<text>Get information about Radar from the zombie. (start here for your first session on 11/2/26 and don't forget to remove this when you start)</text>
+		<text>Get information about Radar from the zombie.</text>
 	</string>
 	<string id="bar_ryaboy_medik_job">
-		<text>Get the first aid kit.</text>
+		<text>Get the first aid kit. (start here for your second session on 11/3/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="bar_ryaboy_medik_job_0">
 		<text>Get the first aid kit from the Barkeep</text>
