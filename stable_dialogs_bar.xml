@@ -1102,10 +1102,10 @@
 		<text>Get the first aid kit.</text>
 	</string>
 	<string id="bar_ryaboy_medik_job_0">
-		<text>Get the first aid kit from the Barkeep (start here for your first session on 11/3/26 and don't forget to remove this when you start)</text>
+		<text>Get the first aid kit from the Barkeep</text>
 	</string>
 	<string id="bar_ryaboy_medik_job_1">
-		<text>Give the first aid kit to the zombie.</text>
+		<text>Give the first aid kit to the zombie. (start here for your second session on 11/4/26 and don't forget to remove this when you start)</text>
 	</string>
 	<string id="bar_ryaboy_lisiy_talk">
 		<text>Talk to the stalker with the rifle</text>
