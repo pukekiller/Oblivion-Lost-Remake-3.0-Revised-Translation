@@ -1111,10 +1111,10 @@
 		<text>Talk to the stalker with the rifle</text>
 	</string>
 	<string id="bar_ryaboy_lisiy_talk_0">
-		<text>Ask the stalker about the zombie (start here for your second session on 11/5/26 and don't forget to remove this when you start)</text>
+		<text>Ask the stalker about the zombie</text>
 	</string>
 	<string id="bar_ryaboy_lisiy_talk_1">
-		<text>Talk to the zombie.</text>
+		<text>Talk to the zombie. (start here for your first session on 11/5/26 and don't forget to remove this when you start)</text>
 	</string>
 
 
