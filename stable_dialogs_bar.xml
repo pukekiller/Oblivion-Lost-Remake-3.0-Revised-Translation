@@ -1120,10 +1120,10 @@
 
 
  <string id="bopb_0"> 
- <text>Hey, Barkeep. Here, look. (start here for your second session on 11/6/26 and don't forget to remove this when you start)</text> 
+ <text>Hey, Barkeep. Here, look.</text> 
  </string> 
  <string id="bopb_1"> 
- <text>What are you doing? Hide it! You can't do this in front of everyone!</text> 
+ <text>What are you doing? Hide that! You can't show this in front of everyone! (start here for your first session on 11/6/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="bopb_2"> 
  <text>Listen, there's someone here to see me.</text> 
