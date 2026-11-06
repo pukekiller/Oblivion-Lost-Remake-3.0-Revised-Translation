@@ -1114,13 +1114,13 @@
 		<text>Ask the stalker about the zombie</text>
 	</string>
 	<string id="bar_ryaboy_lisiy_talk_1">
-		<text>Talk to the zombie. (start here for your first session on 11/5/26 and don't forget to remove this when you start)</text>
+		<text>Talk to the zombie.</text>
 	</string>
 
 
 
  <string id="bopb_0"> 
- <text>Hey, Barkeep. Here, look.</text> 
+ <text>Hey, Barkeep. Here, look. (start here for your second session on 11/6/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="bopb_1"> 
  <text>What are you doing? Hide it! You can't do this in front of everyone!</text> 
