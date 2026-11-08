@@ -1129,7 +1129,7 @@
  <text>Listen, there's someone here to see me.</text> 
  </string> 
  <string id="bopb_3"> 
- <text>Let's go to my office and we'll talk. (start here for your first session on 11/7/26 and don't forget to remove this when you start)</text> 
+ <text>Let's go to my office and we'll talk.</text> 
  </string>
  <string id="bopb_4"> 
  <text>Alright.</text> 
@@ -1139,7 +1139,7 @@
 
 
       <string id="qiyorbar_0"> 
- <text>Your man is dead.</text> 
+ <text>Your man is dead. (start here for your second session on 11/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="qiyorbar_1"> 
  <text>Shit. Was there something else out there?</text> 
