@@ -1139,10 +1139,10 @@
 
 
       <string id="qiyorbar_0"> 
- <text>Your man is dead. (start here for your second session on 11/8/26 and don't forget to remove this when you start)</text> 
+ <text>Your man is dead.</text> 
  </string> 
  <string id="qiyorbar_1"> 
- <text>Shit. Was there something else out there?</text> 
+ <text>Shit. Was there something else out there?  (start here for your first session on 11/8/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="qiyorbar_2"> 
  <text>Several Freedom stalkers, also dead. There was a controller on the roof. He must have killed them, and I think he was following me.</text> 
