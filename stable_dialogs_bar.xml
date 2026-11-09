@@ -1142,10 +1142,10 @@
  <text>Your man is dead.</text> 
  </string> 
  <string id="qiyorbar_1"> 
- <text>Shit. Was there something else out there?  (start here for your first session on 11/8/26 and don't forget to remove this when you start)</text> 
+ <text>Shit. Was there something else out there?</text> 
  </string> 
  <string id="qiyorbar_2"> 
- <text>Several Freedom stalkers, also dead. There was a controller on the roof. He must have killed them, and I think he was following me.</text> 
+ <text>Several Freedom stalkers were there. They're also dead. There was a controller on the roof. He must have killed them, and I think he was following me. (start here for your second session on 11/9/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="qiyorbar_3"> 
  <text>Okay, well, then we'll just have to do this on our own. So the Freedom people gave us some information on the suspected location of the warehouse. It's right here in the bar. There's two places we need to check. We're moving right now.</text> 
