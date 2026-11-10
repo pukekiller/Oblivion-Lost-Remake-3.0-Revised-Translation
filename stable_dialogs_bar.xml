@@ -1151,14 +1151,14 @@
  <text>Okay, well, then we'll just have to do this on our own. Freedom gave us some information on the suspected location of the warehouse. It's right here in the bar. There's two places we need to check. We're moving right now.</text> 
  </string>
  <string id="qiyorbar_4"> 
- <text>Alright. (cell phone rings)  (start here for your second session on 11/10/26 and don't forget to remove this when you start)</text> 
+ <text>Alright. (cell phone rings)</text> 
  </string>
 
 
 
 
       <string id="iyorbar_0"> 
- <text>Hey. What'd you call me for?</text> 
+ <text>Hey. What'd you call me for? (start here for your first session on 11/10/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="iyorbar_1"> 
  <text>Stalker! Alive! I don't know how, but you did it. How are your brains still in place?</text> 
