@@ -1148,10 +1148,10 @@
  <text>Several Freedom stalkers were there. They're also dead. There was a controller on the roof. He must have killed them, and I think he was following me.</text> 
  </string> 
  <string id="qiyorbar_3"> 
- <text>Okay, well, then we'll just have to do this on our own. Freedom gave us some information on the suspected location of the warehouse. It's right here in the bar. There's two places we need to check. We're moving right now. (start here for your first session on 11/9/26 and don't forget to remove this when you start)</text> 
+ <text>Okay, well, then we'll just have to do this on our own. Freedom gave us some information on the suspected location of the warehouse. It's right here in the bar. There's two places we need to check. We're moving right now.</text> 
  </string>
  <string id="qiyorbar_4"> 
- <text>Alright. [Cell phone rings]</text> 
+ <text>Alright. (cell phone rings)  (start here for your second session on 11/10/26 and don't forget to remove this when you start)</text> 
  </string>
 
 
