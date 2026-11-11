@@ -1158,10 +1158,10 @@
 
 
       <string id="iyorbar_0"> 
- <text>Hey. What'd you call me for? (start here for your first session on 11/10/26 and don't forget to remove this when you start)</text> 
+ <text>Hey. What'd you call me for?</text> 
  </string> 
  <string id="iyorbar_1"> 
- <text>Stalker! Alive! I don't know how, but you did it. How are your brains still in place?</text> 
+ <text>Stalker! You're alive! I don't know how, but you did it. How are your brains still in place? (start here for your second session on 11/11/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="iyorbar_2"> 
  <text>As you can see, I'm alive.</text> 
