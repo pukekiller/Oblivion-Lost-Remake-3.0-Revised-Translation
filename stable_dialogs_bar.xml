@@ -1170,7 +1170,7 @@
  <text>That's great! Let's get right down to business. Duty has a piece of equipment that's of interest to another faction. It's rare, and the only one in the Zone: an Igla MANPADS. Have you heard of such a toy? Anyway, go to Rostok, there's a warehouse on top of a roof. You can get there by climbing a wooden ladder on the alley filled with chemical anomalies. Our man from Duty should meet you there. You meet him, we'll decide on the spot. It's simple. The reward will be more than worth it, believe me.</text> 
  </string>
  <string id="iyorbar_4"> 
- <text>You're not an easy stalker to work, Witcher. Hmm. Alright, then. (start here for your first session on 11/12/26 and don't forget to remove this when you start)</text> 
+ <text>You're not an easy stalker to work, Witcher. Hmm. Alright, then.</text> 
  </string>
 
 
@@ -1179,7 +1179,7 @@
 
 
       <string id="vibebar_0"> 
- <text>Are you ready to move to the site?</text> 
+ <text>Are you ready to move to the site? (start here for your second session on 11/13/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="vibebar_1"> 
  <text>Yeah, I notified the Barkeep that we're going to the site behind Rostok. He said it's kind of quiet out there by the site. Still, it's all set. I think we can handle it. We're gonna be on the highway, so bring some anti-rads. It's pretty smoky out there.</text> 
