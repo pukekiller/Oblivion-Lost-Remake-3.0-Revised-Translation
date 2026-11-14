@@ -1185,14 +1185,14 @@
  <text>Yeah, I notified Barkeep that we're going to the site behind Rostok. He said it's kind of quiet out there by the site. Still, it's all set. I think we can handle it. We're gonna be on the highway, so bring some anti-rads. It's pretty hot out there.</text> 
  </string> 
  <string id="vibebar_2"> 
- <text>Alright, let's go. (start here for your second session on 11/14/26 and don't forget to remove this when you start)</text> 
+ <text>Alright, let's go.</text> 
  </string> 
  <string id="vibebar_3"> 
  <text>Let's go.</text> 
  </string>
 
         <string id="olr_barman_bar_monsters_tree">
-            <text>Destroy the bloodsucker camp</text>
+            <text>Destroy the bloodsucker camp  (start here for your first session on 11/14/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="text_olr_barman_bar_monsters_tree">
             <text>Hey, we got some bloodsuckers out behind the Rostok plant. I don't think they're coming in here with humans, but I don't know. You want to take a shot?</text>
