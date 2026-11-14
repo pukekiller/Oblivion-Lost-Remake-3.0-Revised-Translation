@@ -1182,10 +1182,10 @@
  <text>Are you ready to move to the site?</text> 
  </string> 
  <string id="vibebar_1"> 
- <text>Yeah, I notified Barkeep that we're going to the site behind Rostok. He said it's kind of quiet out there by the site. Still, it's all set. I think we can handle it. We're gonna be on the highway, so bring some anti-rads. It's pretty hot out there.  (start here for your first session on 11/13/26 and don't forget to remove this when you start)</text> 
+ <text>Yeah, I notified Barkeep that we're going to the site behind Rostok. He said it's kind of quiet out there by the site. Still, it's all set. I think we can handle it. We're gonna be on the highway, so bring some anti-rads. It's pretty hot out there.</text> 
  </string> 
  <string id="vibebar_2"> 
- <text>Alright, let's go.</text> 
+ <text>Alright, let's go. (start here for your second session on 11/14/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="vibebar_3"> 
  <text>Let's go.</text> 
