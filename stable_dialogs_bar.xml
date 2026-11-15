@@ -1195,7 +1195,7 @@
             <text>Destroy the bloodsucker camp</text>
         </string>
         <string id="text_olr_barman_bar_monsters_tree">
-            <text>Hey, we got some bloodsuckers out behind the Rostok plant. I don't think they're hunting any  stalkers, but I don't know. You want to take a shot? (start here for your second session on 11/15/26 and don't forget to remove this when you start)</text>
+            <text>Hey, we got some bloodsuckers out behind the Rostok plant. I don't think they're hunting any  stalkers, but I don't know. You want to take a shot?</text>
         </string>
         <string id="desc_olr_barman_bar_monsters_tree">
             <text>Destroy the bloodsucker camp</text>
@@ -1203,7 +1203,7 @@
 
 
         <string id="olr_barman_bar_monsters_tvo">
-            <text>Destroy the dog pack</text>
+            <text>Destroy the dog pack (start here for your first session on 11/15/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="text_olr_barman_bar_monsters_tvo">
             <text>Listen, there's a bunch of dogs in the parking lot. I don't think they come in here with people, but I don't know. You want to shoot it?</text>
