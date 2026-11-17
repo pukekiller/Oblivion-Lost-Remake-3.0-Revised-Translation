@@ -1214,10 +1214,10 @@
 
 
         <string id="olr_barman_bar_monsters_one">
-            <text>Destroy the boar camp (start here for your first session on 11/16/26 and don't forget to remove this when you start)</text>
+            <text>Destroy the boar camp</text>
         </string>
         <string id="text_olr_barman_bar_monsters_one">
-            <text>Listen, we got a herd of boars up on the hill. They don't seem to come up here with people, but I don't know. You want to shoot them?</text>
+            <text>Listen, we got a herd of boars up on the hill. I don't think they're hunting any stalkers, but I don't know. You want to take a shot? (start here for your second session on 11/17/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="desc_olr_barman_bar_monsters_one">
             <text>Destroy the boar camp</text>
