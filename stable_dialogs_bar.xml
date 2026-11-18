@@ -1229,10 +1229,10 @@
  <text>Can you tell me where I can make some money around here?</text> 
  </string> 
  <string id="vibbar_1"> 
- <text>Where? Well, that's a good question. Stalkers usually post jobs on the bulletin board out front. You can see any potential jobs there. (start here for your second session on 11/18/26 and don't forget to remove this when you start)</text> 
+ <text>Where? Well, that's a good question. Stalkers usually post jobs on the bulletin board out front. You can see any potential jobs there.</text> 
  </string> 
  <string id="vibbar_2"> 
- <text>Okay, I'll see.</text> 
+ <text>Okay, I'll go look. (start here for your first session on 11/18/26 and don't forget to remove this when you start)</text> 
  </string> 
  <string id="vibbar_3"> 
  <text>I think the science guys have a board, too. and I think Toad had one.</text> 
