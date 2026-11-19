@@ -1235,12 +1235,12 @@
  <text>Okay, I'll go look.</text> 
  </string> 
  <string id="vibbar_3"> 
- <text>I think the science guys have a board too, and I think Toad had one. (start here for your second session on 11/19/26 and don't forget to remove this when you start)</text> 
+ <text>I think the science guys have a board too, and I think Toad had one.</text> 
  </string>
 
 
         <string id="olr_find_art_drunk_gun">
-            <text>Find an LR-300 for Duty Guy.</text>
+            <text>Find an LR-300 for the Dutyer (start here for your first session on 11/19/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="text_olr_find_art_drunk_gun">
             <text>Hey, can you get me a barrel? Some NATO barrel, like an LR-300. We've got a shipment of underbarrels and sights in stock.</text>
