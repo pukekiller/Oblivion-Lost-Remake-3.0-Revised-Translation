@@ -1251,10 +1251,10 @@
 
 
         <string id="olr_find_art_osved_rour">
-            <text>Find the Disintegrator artifact. (start here for your first session on 11/20/26 and don't forget to remove this when you start)</text>
+            <text>Find the Disintegrator artifact.</text>
         </string>
         <string id="text_olr_find_art_osved_rour">
-            <text>There was an order from one of the scientific groups for an artifact Disintegrator. Its properties are strange, that's why the price is small at traders, but scientists are hunting for them. I pay well.</text>
+            <text>There was an order from one of the scientific groups for an Disintegrator artifact. Its properties are strange, that's why the price is small at traders, but scientists are looking for them. They'll pay well. (start here for your first session on 11/21/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="desc_olr_find_art_osved_rour">
             <text>Find a Disintegrator artifact for the Snitch.</text>
