@@ -1265,10 +1265,10 @@
             <text>Find the Mercury Ball artifact.</text>
         </string>
         <string id="text_olr_find_art_drunk_dvaa">
-            <text>I'm thinking of raiding the Garbage. It's not far. And as you probably know, there's a lot of bandits there, but not too much. I don't want to waste anti-radiation drugs there, an artifact that protects you against it would work better! Bring me a Mercury Ball, for example. I won't hurt you! (start here for your second session on 11/23/26 and don't forget to remove this when you start)</text>
+            <text>I'm thinking of raiding the Garbage. It's not far. And as you probably know, there's a lot of bandits there, but not too much. I don't want to waste anti-radiation drugs there, an artifact that protects you against it would work better! Bring me a Mercury Ball, for example. I won't hurt you!</text>
         </string>
         <string id="desc_olr_find_art_drunk_dvaa">
-            <text>Find the Mercury Ball artifact for Dutyowitz.</text>
+            <text>Find the Mercury Ball artifact for Dutyer (start here for your first session on 11/23/26 and don't forget to remove this when you start)</text>
         </string>
 
 
