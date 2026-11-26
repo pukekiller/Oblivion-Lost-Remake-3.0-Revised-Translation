@@ -1284,10 +1284,10 @@
 
 
         <string id="olr_petr_tree_vert">
-            <text>Find a Colt 1911 pistol. (start here for your first session on 11/25/26 and don't forget to remove this when you start)</text>
+            <text>Find a Colt 1911 pistol.</text>
         </string>
         <string id="text_olr_petr_tree_vert">
-            <text>Listen, I got an order from one of our veterans for a Colt 1911 .45 caliber. Can you get it?</text>
+            <text>Listen, I got an order from one of our veterans for an Colt 1911. Can you get it? (start here for your second session on 11/26/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="desc_olr_petr_tree_vert">
             <text>Find a Colt 1911 for a Duty dealer.</text>
