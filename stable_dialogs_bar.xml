@@ -1295,10 +1295,10 @@
 
 
         <string id="olr_petr_two_vert">
-            <text>Find a Desert Eagle pistol.  (start here for your second session on 11/27/26 and don't forget to remove this when you start)</text>
+            <text>Find a Desert Eagle pistol.</text>
         </string>
         <string id="text_olr_petr_two_vert">
-            <text>Listen, I got an order from one of our veterans for a Desert Eagle, the .45 caliber. Can you get it?</text>
+            <text>Listen, I got an order from one of our veterans for an Desert Eagle. Can you get it? (start here for your first session on 11/27/26 and don't forget to remove this when you start)</text>
         </string>
         <string id="desc_olr_petr_two_vert">
             <text>Find a Desert Eagle pistol for a Duty dealer.</text>
