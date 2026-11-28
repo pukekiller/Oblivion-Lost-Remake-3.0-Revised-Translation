@@ -1298,10 +1298,10 @@
             <text>Find a Desert Eagle pistol.</text>
         </string>
         <string id="text_olr_petr_two_vert">
-            <text>Listen, I got an order from one of our veterans for an Desert Eagle. Can you get it? (start here for your first session on 11/27/26 and don't forget to remove this when you start)</text>
+            <text>Listen, I got an order from one of our veterans for an Desert Eagle. Can you get it?</text>
         </string>
         <string id="desc_olr_petr_two_vert">
-            <text>Find a Desert Eagle pistol for a Duty dealer.</text>
+            <text>Find a Desert Eagle for a Duty dealer. (start here for your second session on 11/28/26 and don't forget to remove this when you start)</text>
         </string>
 
 
